@@ -1,10 +1,10 @@
 # Sanctions Exposure Index
 
-[![Pages](https://github.com/MonarchCastleTech/sanctions-exposure-index/actions/workflows/pipeline.yml/badge.svg)](https://github.com/MonarchCastleTech/sanctions-exposure-index/actions/workflows/pipeline.yml)
+[![Pages](https://github.com/SDCofA/sanctions-exposure-index/actions/workflows/pipeline.yml/badge.svg)](https://github.com/SDCofA/sanctions-exposure-index/actions/workflows/pipeline.yml)
 
 Entity and network signals for sanctions exposure monitoring.
 
-**Live dashboard:** https://monarchcastletech.github.io/sanctions-exposure-index/
+**Live dashboard:** https://sdcofa.github.io/sanctions-exposure-index/
 
 ## Run locally
 
@@ -26,4 +26,4 @@ Source availability varies. The dashboard identifies its generation time and ope
 
 ## Brand
 
-Part of Monarch Castle Technologies. See [BRAND.md](BRAND.md) for approved asset use.
+Published by SDCofA, the endorsed analytical unit of Monarch Castle Technologies. See [BRAND.md](BRAND.md) for approved asset use.

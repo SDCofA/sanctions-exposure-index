@@ -5,3 +5,6 @@
 Palette: deep navy `#040d15`, navy `#071522`, ivory `#f3efe4`, gold `#d7b46a`. Product acronym badges are interface labels, not replacements for the mastermark.
 
 Do not stretch, recolor, rotate, crop, or add effects to the mastermark. Preserve clear space of at least one quarter of its displayed width.
+
+
+ssets/sdcofa-wordmark.png is the approved SDCofA endorsement wordmark used without alteration. SDCofA is the endorsed analytical unit of Monarch Castle Technologies.
