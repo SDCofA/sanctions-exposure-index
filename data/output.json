@@ -1,439 +1,490 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-08-22T15:03:09.279885+00:00",
+    "generated": "2026-08-22T16:37:13.826913+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
-      "countries",
       "exchange_rates"
     ],
-    "version": "1.0.0"
+    "source_notes": [
+      "GDELT unavailable; headlines sourced via Google News RSS fallback."
+    ],
+    "version": "1.1.0"
   },
   "stats": [
     {
-      "label": "Listed Entities",
-      "value": "78,432",
+      "label": "Articles Tracked",
+      "value": "50",
       "delta": "live"
     },
     {
-      "label": "New (7d)",
-      "value": "+234",
-      "delta": "live"
+      "label": "News Domains",
+      "value": "32",
+      "delta": "deduplicated"
     },
     {
-      "label": "Relationships",
-      "value": "2.1M",
-      "delta": "live"
+      "label": "Tone Index",
+      "value": "50/100 (neutral)",
+      "delta": "GDELT scale"
     },
     {
-      "label": "Jurisdictions",
-      "value": "42",
-      "delta": "live"
+      "label": "Geo Points",
+      "value": "0",
+      "delta": "geolocated"
     }
   ],
   "live_data": {
-    "gdelt_articles": [],
-    "countries": [
+    "gdelt_articles": [
       {
-        "id": "ABW",
-        "name": "Aruba",
-        "region": "Latin America & Caribbean ",
-        "capitalCity": "Oranjestad",
-        "longitude": "-70.0167",
-        "latitude": "12.5167"
+        "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak5FU3lnQ0FsZU5vbjdlazdtTUhDZUpVX3hiWm1tWng5RjUxM2RYOFhTcEdfUVE1WDl3QkFCcXVxNHczbmNocnA5UG85cTFPWnFYQ0lQRENHeEd3dUNRVUdhbk1mbFc2OExVM3VjTWNONm1yRWNQY0FtU21CcnlIS1JTUzBlRzJmLUFtVHZYTEdIa3BLWUpVc1BR0gGfAUFVX3lxTE5MUUhtTlBzNDdFX1Y4eDc4OEVkLTIxUW1ycDlBNzE2ZmkzN3dUZm80S3RlZ1FiVEZrRkFISVkxNXZBUjZxQ2lMMmdhc1VOYW5LRTY1elVSVDNGM1QtdEFCMklqSWxJUWR6YTNhLXY5X1YzMnQ3WVhCZmtRWXprN1NNdHJmcFpTOENNNGZNcTZoUEhFZzd2NXFyN2hGem5mRQ?oc=5",
+        "domain": "cnbc",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T102147Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "AFE",
-        "name": "Africa Eastern and Southern",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "Iran says new US sanctions violate sovereignty of other states",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN0k0UU1CRG5RVTV1RjA1OEhtQkhSX1lveGIxSXd1bkZ0NlFJbWdGaXVJQmU3QmNRTExOazRldWE2ajN6LTVMdi1vR1dWZGo2T29LWGxhM2VtTV9xTVBrMmpBSWVzaTJRSHlFM0FuYjBrdi1zUkVLRHpRLWd3U3FLTlR4RmtTaVpvX2VDMmNERVN4ZjdHRjFCRkpHZXJ2X25ZVlpVZW130gGrAUFVX3lxTFAzTGVvcXk5U2tyZFhHNFQwMG1pcUFybDREQkFCakdRaHJJc1ZXS0RtT3E1WWx5Wm5lVDBydzJQNHZteGYtMmVSUkFMZHpveVZXSzh0Q2xGVzdZVmhjOHJaQ21sRlI4NnJ3MUczeEtuVHNhRWxIcVpDcGdQbVM4TzF2dGtpVmVpaFlpOUMweUZMaktsZmFJT2dnRmJTNGZyb3Y2WXEyOW82M21Dbw?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T091911Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "AFG",
-        "name": "Afghanistan",
-        "region": "Middle East, North Africa, Afghanistan & Pakistan",
-        "capitalCity": "Kabul",
-        "longitude": "69.1761",
-        "latitude": "34.5228"
+        "title": "FIFA sanctions Argentina and several players for World Cup final scuffle",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnRzYlktczItVFhRMlQ2d080YnBTTXFZZ0Jfcld4M3VxUWlRSXRhQ2FnYk1qdGNicWlFMEpKLVEtMG1rZzhiemxLUjRXd1A4bnNPaGRnaVVuY181cUJUZDlsUmw2QlUydEpZNm82U2FCekpjRjd0RHRHYW0zWW52eUxhaUhQYk5RZFVWSUV3eE9jQnJFMEgzWVo0cjfSAaIBQVVfeXFMTzdKZnVnR3NFTjlmQXMxZnMtbktHTU9ZVzVXT0FDVU90VWdvamVXV3gzX3pDZFVSU0ZQZDFTbEE0Qi1pa2tQUVpsNVZWeVZzWEJFYV9PekJGaGdKUWtVZzdkeDNfa0FmMW9obEVXOUZZQ2Z6QXZFWnY0OXp4cUVKaHJqWWcxT1JpRGpBN2E4SnA5b2Y2c2hRWVRpQUFhM05UUV93?oc=5",
+        "domain": "abc7losangeles",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T002202Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "AFR",
-        "name": "Africa",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "Iran says ‘world approved our victory’ over the US",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYXVTcW1JYm9CY3A1QzRfM1l3b0J4VGRGbW1vdnpIU0JvVDcxVEtzRWR0LWlTZko0a3M0akx6bTFranBrTk1tUU5LLXpWSnVlbEh1Vm1qUTdlUGFWX0lOU1gxc3VISXBSSzZEWTVXZUVWSjZKNmk2c010NHRZb0lxdnRDWkhyVDZ5RFNEY0IyMWNZWGVVVXlyZUp30gGfAUFVX3lxTE9ENlljU1pfMkVJb1NhWWJIbmhSMEhOSG0zRHhVcTBMNVVaVWRxWnM0N2JSNERqcGV6cjBwNm9sMlBJUkxTdEdqOEp6TXd6Q3E3VllyNzhFUWU3NGZydnpXUE0zMFZyWEpZUmFYRXdzVVNxbW1MaFhlUHBWc0tDbTA3VWVHUWNtbnRnNVQ2MzBnR0s0X1VsYlJhZlpKRV9CNA?oc=5",
+        "domain": "thehill",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T142500Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "AFW",
-        "name": "Africa Western and Central",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "US, Iran keep up hostile rhetoric ahead of new sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T010500Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "AGO",
-        "name": "Angola",
-        "region": "Sub-Saharan Africa ",
-        "capitalCity": "Luanda",
-        "longitude": "13.242",
-        "latitude": "-8.81155"
+        "title": "The ICC strongly rejects new US sanctions designations",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRy15alFQTmhUXzZ0aHRxSDdqdTVwZDBlVURTNjc2cEV2VnBEamkyQzJNM0tRYm5VbTdJSnMyUTBDLWRDdUROcmpTeXBxems4RHRlUUpVOGs2cVpQMURKRF9zaU1kcEN1TWJsQklfYlc3U2xrMXljSEluLTJHaGJVSWYtTjN5Zw?oc=5",
+        "domain": "internationalcriminalcourt",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260819T080410Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "ALB",
-        "name": "Albania",
-        "region": "Europe & Central Asia",
-        "capitalCity": "Tirane",
-        "longitude": "19.8172",
-        "latitude": "41.3317"
+        "title": "After five theft convictions, nursing home worker faces licensing sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYk1VU2xhdlNuTVlkZ01zODhINGJ4eUlxMExDOUI1MTV2ZURDdTBsbUVJTElqRHluNE1vRWxfekFyZWwwRGJHWFllMFlTMy1GV2l1S2xPSXZIWDV4YS10NkVjdjFSclVtblRvMWJEZDFnWHN5Mk5aUk1nd3V3V1ltNEdyd0hQUHAyOFZoeHNWOHlNdUk0UTFWa2hZeV9OclA5YnFBWFk3NkZEQ2hua2tFcU5kQjdxM2prU3c?oc=5",
+        "domain": "iowacapitaldispatch",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T212346Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "AND",
-        "name": "Andorra",
-        "region": "Europe & Central Asia",
-        "capitalCity": "Andorra la Vella",
-        "longitude": "1.5218",
-        "latitude": "42.5075"
+        "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEpoQTB6TlFFcU42Z2lLV3VhMVJhSS1fTVJTZGxZb0dWLVNSRWR0Mkhmc21CclNXaVpfdW1QQ081Q2xhQkx6NnVLT2dMelZHV0s4MUhzRTV1R1FWc2dCTzFORWdkeFUxOVg0MWZzdTFYcDJDTEJyQ0drdTJQN3A1U3dZNjdlSjF0WjRPQTlxNjZtVzR0S2p0MkxB?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T104411Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "ARB",
-        "name": "Arab World",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "Iran condemns new US sanctions; Donald Trump warns countries against providing lifeline",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Jdm1oVjRNTW5WdFhkR3A0MGxad3lCN1NpZl9fSVRWZWlPNHdlNDA4OV9oYjUtVzktbURWWW5zM1lvalpGRXhjRFdwVW0xZTk0VTZXelpTZkEwZWxKMFF6N0hqeWZTVWFoS2c?oc=5",
+        "domain": "thejerusalempost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T162113Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "ARE",
-        "name": "United Arab Emirates",
-        "region": "Middle East, North Africa, Afghanistan & Pakistan",
-        "capitalCity": "Abu Dhabi",
-        "longitude": "54.3705",
-        "latitude": "24.4764"
+        "title": "Torts: Malicious Prosecution-Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjRBN3hvRGl5REk3WTJCWHhXTmVWTlpHSlZaY255MkI5WnJ1cGdZUXBfVExxeWttaTAtcVplaGJqc2U5TnJwb1hZRjEtMnUxWUNLV05Nc3VNZENDXzRVdlRVSkl5MW1HQVR1X1dUeWF0U3N2cmZzcE5PNEJ5RzVsVFpn?oc=5",
+        "domain": "missourilawyersmedia",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T160350Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "ARG",
-        "name": "Argentina",
-        "region": "Latin America & Caribbean ",
-        "capitalCity": "Buenos Aires",
-        "longitude": "-58.4173",
-        "latitude": "-34.6118"
+        "title": "International Criminal Court: New US sanctions ‘a flagrant attack’ against its independence",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EOVkwS3F1TU1TaXBlZnNWb0Z1a0JnbDZFQVBfZTZYajlteDBXalNHY3MxSWw1aThnY1k0Y2F2RjRFQU1DMFhQdWFURUFiTGZSU1lNRGRUbw?oc=5",
+        "domain": "unnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260819T192131Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "ARM",
-        "name": "Armenia",
-        "region": "Europe & Central Asia",
-        "capitalCity": "Yerevan",
-        "longitude": "44.509",
-        "latitude": "40.1596"
+        "title": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjQxWmNvcnlhTmt3ZWV1d3h3cl81U2xNR3ByaUZ2dFhPLTNoUnZ2Z2VhYjdVREFNa1E5V0QyekxxR1lkNHJtV19mN3o1dmM2MGNva1hEZ0ZVTlFqdjJuc0dBeDc1b0JEM0NDR0FBQ1JLWDdYLTZ5UXpRR1VSX1J4dzY2RVh0akw5UkY4Y2xR0gGOAUFVX3lxTE05MWE0X0V2UDdvZFF0NmMxWnBpN3hPLWV3SnBRZVI5alg4NXBrcVJwa3pSdGRzT2lGVzV3QWZraVEzNWpvelphOFBxT2F1Q3VYcHJyUDFERExndzZfWkRFNXplT1ZWNklJQk1GTkhkUUNNbTQ1bk0xd3NVM09WYXh2b1p0dXpLMlhzaW1sd2c?oc=5",
+        "domain": "dw.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T085150Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "ASM",
-        "name": "American Samoa",
-        "region": "East Asia & Pacific",
-        "capitalCity": "Pago Pago",
-        "longitude": "-170.691",
-        "latitude": "-14.2846"
+        "title": "Iowa attorney faces sanctions for Medicaid scheme involving his Rolls Royce",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOal9ObUpINm45Y3ZsbXZHU3lIX0lsNUpRcG1NV2h0SzRCcHJMdU1YbDRKVjVsWE9ubVhMMzJNWTlEbUk1TThIaExLS0Y2UzNXN0ZjUVRNSDBHalNWcl9XaVBGOW9tZVhfNGt0SUJsbXZUODhKT2Zua1h6VzljdzYzMlh2b2xIVUp6QlFOX2g5aVl3TTd2ajZFNXlqMlhuWjNxVm90cWgwODVuVG84Umw5dE1mdVEwWkNkSDRJ?oc=5",
+        "domain": "iowacapitaldispatch",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260819T214347Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "ATG",
-        "name": "Antigua and Barbuda",
-        "region": "Latin America & Caribbean ",
-        "capitalCity": "Saint John's",
-        "longitude": "-61.8456",
-        "latitude": "17.1175"
+        "title": "Iran labels new US sanctions ‘unjust’",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0trMzJucHp4dklaWHFpU2s2aHkwZmtuUVRsY3hQTHhjZmlDMW1GWHF2a1VmaGJuUWI3TEpZc3VTVmI1U2RkSXBON1BaN19CckpkRTRVVUk0engxSG50Q19NeGE3c0s3Y0Zpay1rbF9GRDlUUUVubGNSam93TXlvb19mX1R6Szlub1U4V09UR05nMFVPWXhuYjNrOUh1ZlRubFlJ0gGoAUFVX3lxTE1CVW5CeEo1T3JfSHJFbGg0RXd1bXZxNXVFaVFxc1FlRFpON2RTd1NYQ01xdldFYTlPUmlpb0JReW5RSmNPSUZMSUVjSUpPWmphMGQ5VDJEVjRLbENBYk1yb21PQWR1MjA0d3pMeG1rT1VXcTZzR2g5S09rV2tselNsZXJnZnBpUTR3TkJfTEhBM2ZqR2tGRk1zbjZZcDlwU01fdWFxRnFlaw?oc=5",
+        "domain": "thehill",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T123800Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "AUS",
-        "name": "Australia",
-        "region": "East Asia & Pacific",
-        "capitalCity": "Canberra",
-        "longitude": "149.129",
-        "latitude": "-35.282"
+        "title": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T182015Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "AUT",
-        "name": "Austria",
-        "region": "Europe & Central Asia",
-        "capitalCity": "Vienna",
-        "longitude": "16.3798",
-        "latitude": "48.2201"
+        "title": "Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T231432Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "AZE",
-        "name": "Azerbaijan",
-        "region": "Europe & Central Asia",
-        "capitalCity": "Baku",
-        "longitude": "49.8932",
-        "latitude": "40.3834"
+        "title": "Cuba says US sanctions are blocking its efforts to open the economy to private investment",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ250NWFMUGRrRjdVeUgxS19IcUo3OHBuMG5LSHNFS3VXZnExT2h2d2pjY21FUUV0X1p0X3hQTkxwd1JraEk2empldzZHYlJyMVdPMU1ObktnN2JvWUY4ZHhuTlNMUlFYRnZSMjJOOTc2eTd1VEZKV05UR2djdGc5ZkUwNlJjMG9GTjdPZEF0cDM3X3ZIVGwzR1luN0RmS1o2cU03amhR?oc=5",
+        "domain": "apnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T103500Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BDI",
-        "name": "Burundi",
-        "region": "Sub-Saharan Africa ",
-        "capitalCity": "Bujumbura",
-        "longitude": "29.3639",
-        "latitude": "-3.3784"
+        "title": "Iran threatens military response to US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T235900Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BEA",
-        "name": "East Asia & Pacific (IBRD-only countries)",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "U.S. and Iran keep up hostile rhetoric ahead of new sanctions",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmZrNDVaSVJfVFJCMk5fMGEtaEMzNXl6WEJQSGo1dWx6RnBFNk9mSnJiWEJZcEJ3MmIwMVJmSkdtRWExRnl2RjRScnRHZHYxWlo3VC1zOEFpR3p1cTdqbEVGdGtmM1dCQ1hVQW5hMlgzVC1sTU1rMkdxYTRfY285ZEI2RVRvY1c4aV8yRVBXTUhaZnlMajNVdTBDM2NERjBD?oc=5",
+        "domain": "thejapantimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T045700Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BEC",
-        "name": "Europe & Central Asia (IBRD-only countries)",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "US, Iran trade threats as Washington prepares new sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT3RYMTRnT0pocGVXZndIVWFmX0JjWXZQY0xKWjVmNzhFakdaN2haNGgwVTRVRVJMa0l5WGZrVnB0a1FnOXJKTDdldDJaWGRtZXdZMVlmaEQ3TDhyX1N4TG4ySFRUQzRFeGkta0V5TkZaNDd4TUpmaG9QWUk2RkNscWVWdlR0eHl4OUVFTHBHVmc3bFBLZnhtWXRidjVsN3FjbGc?oc=5",
+        "domain": "dailysabah",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T091700Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BEL",
-        "name": "Belgium",
-        "region": "Europe & Central Asia",
-        "capitalCity": "Brussels",
-        "longitude": "4.36761",
-        "latitude": "50.8371"
+        "title": "US pummels Cuban economy with new sanctions on mining, construction",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3BVWlU4dEdtVGN3aFhxaW96OHhTUW4yRDhZVjcyV1dCSVdPTlg1ZWcwUjR4dERzOVh6dDFnUlhxdG9PRUxmZFI5d2paU3p0azFFVkNaN0dSWi1wZ1hJQ19QTXRDWXlhVm1zM2ttYTZLejNXQmFXeTlfNC13Z0szZ1VMcUNoQ3EyVlVtYndid19qaGdnb2xvbnp5UHBSS1ltMnhWSFZKMUdZb3fSAbABQVVfeXFMTVVJTUY2cU1ncC1KZ1diaE1IRWVtOFpvekFjRmlxM0JkT1pGdXE2TXpVUm1TbmEyWXduczRPdGo0bFZCdzdUbG5taDFoMlNrUEVHY29vZ0NuSk04b1lFLURRX3ljNFVIcExDZXZmcnNxNGVVa2VhclhpY2VyRXJaZGRTei1TM3JIQklIMFh5cWp0Mm4wZ0pkMkx6SU5rSUFyV1FOT3ZwQ3ZKb3E3QllSOVc?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T204121Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BEN",
-        "name": "Benin",
-        "region": "Sub-Saharan Africa ",
-        "capitalCity": "Porto-Novo",
-        "longitude": "2.6323",
-        "latitude": "6.4779"
+        "title": "Trump Officials Impose More Sanctions to Pressure Cuba",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52cmt0ekJaNUJLbTU4bDZSVjhlQzl0cmhaSmp3LWxFcE5nc1lHSjZ2OXJ4Zm1USjZrdkE1allpcWI4SlNBUXFiUHBNeFNJcWFUaTdsLTNfcHZrbnJSNXF6bWltb1dyWlRrdWlaQ3VTZEd2M2xBUFNfVjhIUjY?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T220933Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BFA",
-        "name": "Burkina Faso",
-        "region": "Sub-Saharan Africa ",
-        "capitalCity": "Ouagadougou",
-        "longitude": "-1.53395",
-        "latitude": "12.3605"
+        "title": "U.S., Iran trade warnings before new sanctions as Hormuz traffic remains stalled",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQazl1ZlVlb09fRlNHS2YwQ1pja0Z2WEc3QmtVV1p5SDYwQ29kSHhXTndRc19KNjJ1Vy1tZkk4NDRvbnZtS1dNNF9vNl9XSW44a0pUcFdHM2Z6QkxENWIwdzlER0VhM00yMWJJZ0pBT1lYMndETTRaUUVKWFRyZVBhNVdhTG9fOWtyNHkxbFVIZWVDSkVYUElyemZPS0lKSjNLYlM3WE51VklvTGhSQ2plbmM3Q2wydExKWmt0SEwxUkp4aWpsbUsxSUNEODVIUVl2TGlhVmlZN1FvSUM1czhFVHBNaDZ3a1J2cmRoVEM0R29icE9RMmZwQzk2ZTJFZThPVHpnYTFQbXhuOHpWMXozaQ?oc=5",
+        "domain": "haaretz",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T160400Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BGD",
-        "name": "Bangladesh",
-        "region": "South Asia",
-        "capitalCity": "Dhaka",
-        "longitude": "90.4113",
-        "latitude": "23.7055"
+        "title": "U.S. Sanctions ICC Officials Over Abuses of Power",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNXlwV1N1bVA5a19TYUZoY0F1cnVYOE56OEpGXzFqTk8wZ3dBWDhyWGhUenBicGVpX2xFR21EcGhoRExZM3JpbUE2ZmRQcHpEU1ZyYW52bjRCNVV2ejUwdEJnLV92akxWd0RKdWlRVWR2NVBEU1dWRGwwTm54aVBCSTBJUlJuR3ZrT2kzZldUQW8tOWVLR3FhOHdZOWdDOTBD?oc=5",
+        "domain": "thepresidentialprayerteam",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T083000Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BGR",
-        "name": "Bulgaria",
-        "region": "Europe & Central Asia",
-        "capitalCity": "Sofia",
-        "longitude": "23.3238",
-        "latitude": "42.7105"
+        "title": "US imposes more sanctions on Cuba, including mining sector",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTBXOUxEdGNvYndTMlBGZHRFQk1wNU8tZk5DV29LdHNJMVlEcU5LcHNxTHJKTlMzWFJNZ0ZWelJ2Vl9GaXl4cklaVDcwd2dld2YyeDRicXVxQWhIcWpSTEY4emRvc3JEd3FrUmRnUU80UFdLdDNRN0IxYW5wVkV5NDBlc0VNanFV?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T212905Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BHI",
-        "name": "IBRD countries classified as high income",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONVZNUGFHY20tdjBNYWZPTHJiQ0RVRXUxajZOQ1pVZWpNRXVxb1BsSlJBYXZmUTdqdVk2cl9LOEdSRUJva2s5dTltQWpsd0oxU1RDcjlGNzhBT0hGWld5VmhMeTRPVTJ6WElCWVB2UkcwWHNJZEt1QXlOblpRU3hod252ZEZwbzdwZk9kWHdpRG44akJoS3dIVEVwS3DSAaIBQVVfeXFMUE1LY3dCUDRESjBWNjY3SnRFVk1zSXdiUlZYczBILVJZSmpIWUZxTzZmT0tLRDhfelk4c19iOWRxNUYtbjBoSHd4WDJodVZ4dk85Nzg2ZjFZNTN5aENIWHU1OGlpZGVmdjNtWGJOV2tjUWNqTGJYakF2OW5XS0NJVFlTb3pTZ3c2a1dSd2RadTdRUVBHVjFHWjlpQ2Y0WjVNeS1R?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T164826Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BHR",
-        "name": "Bahrain",
-        "region": "Middle East, North Africa, Afghanistan & Pakistan",
-        "capitalCity": "Manama",
-        "longitude": "50.5354",
-        "latitude": "26.1921"
+        "title": "Trump scales up Cuban sanctions targeting state-run companies",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwb0FJUS1NTGkwTmtyQW01cFBpR2V4cms4TWNIV1V2TnJHZlhQRnZKMmVDMk42TWp1TnJWSnhxdW9rR2wyZE1MMVdqWnBDeFlUTVhVVHFIRzFEdw?oc=5",
+        "domain": "bbc",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T020628Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BHS",
-        "name": "Bahamas, The",
-        "region": "Latin America & Caribbean ",
-        "capitalCity": "Nassau",
-        "longitude": "-77.339",
-        "latitude": "25.0661"
+        "title": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1k1ZnYtdXFiVWJvUVdmQlJLR1hWN1czeTU1Vkt5VFEyWkNISDhnUHVBY1hLb1JMdnp1dmRxU3Z6WG9wNlZRUmVZaUZxeVJVOERnX0QzeEVuU1FPbzByQ29EQXBvMzJrSkZWOWdkV0pHYUlfYkNTcFZDaTc3cUdLMzdmemlmV2hhUlYzdDFwUHpMcE9oSVZCbXlGYzM2LW9DcEFBdl9kSHRwOF9PdUtUMjdaWUZ5Rm90aFh4blpzaXhXUkZSU0ZPNzRvRQ?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T151819Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BIH",
-        "name": "Bosnia and Herzegovina",
-        "region": "Europe & Central Asia",
-        "capitalCity": "Sarajevo",
-        "longitude": "18.4214",
-        "latitude": "43.8607"
+        "title": "Iran says new US sanctions violate sovereignty of other states",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX2o0MTdaSEZiSVdxUE5mb1hNLV85ZWlrVlkzS1FNVmEza2h2NngwX3oyeXRReThhN05XN1V6OGVDdThLRWUyU1FVMXluWWtzVV8xZ25aMG1xNThQLXdnMUozbFJPakpUeXhYdVVYNXhDTnNvZzAyNVhjamRvOXlibXdDNVR3cWZiSDRTLXZhN1RKREpsZnhnekhleG90dHc1M2Q3RkRPZXAwUdIBrwFBVV95cUxQb01LS21vc3RzdjEzYkphVDRUd3E5aVRLazZzdHRkc0l5b3FUcWF2OFRHYkxMNWxMWE9ldS0tY2lJdGlqTmlpRWljdG1LNG9UWWd1V094OTdsOWNwU0w0SUJKWGNUX0JWUzEwR19iY0xlMkJEakZweVhUUlZCWU5YTjlDOUxuRExwQUF0SFRuQ3ZlYVFKMWFtWFlwOWhVcWxjYTZlY0w0MjhKWVJDQ1Jj?oc=5",
+        "domain": "middleeastmonitor",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T102300Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BLA",
-        "name": "Latin America & the Caribbean (IBRD-only countries)",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "US will impose 'toughest sanctions in history' on Iran, Bessent says",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T022900Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BLR",
-        "name": "Belarus",
-        "region": "Europe & Central Asia",
-        "capitalCity": "Minsk",
-        "longitude": "27.5766",
-        "latitude": "53.9678"
+        "title": "Trump warns of ‘economic D-Day’ against Iran, but Tehran is well acquainted with sanctions",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDJaQjg5RDQ1MWozcDVVamNqS1ZEeDd1X3J1YzZ5YzNyWUgxa29fYVotWDN1SHN3Y3ZqVm44YlVtOVR6SzNXam5zVzNqM1hwUG8tbjRVQU5iVmpzSVd1UnJZMGVLcWE3a0h1OGFNM1k5MWg2WFZYRGhDLUNtZmg0T3F4V3dLN2JfdFZoSTBSVlRScy1tT2l0WE9KSlJ4TXZBNGtqSQ?oc=5",
+        "domain": "apnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T162200Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BLZ",
-        "name": "Belize",
-        "region": "Latin America & Caribbean ",
-        "capitalCity": "Belmopan",
-        "longitude": "-88.7713",
-        "latitude": "17.2534"
+        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UXzE5YWdPVk5wS3RnR0tpbm9KSHBBMUZ0WVFmN2hPQ29zcVB3MnZrdm1MYnJhS2FySERBMzhmV3JEamRWQ2QxT2RMT3JLVXBpR0xIa3hnRDdiUQ?oc=5",
+        "domain": "bbc",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T231645Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BMN",
-        "name": "Middle East, North Africa, Afghanistan & Pakistan (IBRD only)",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "US Forces Redirect 68 Vessels Enforcing Iran Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU09ITFUtN0R1bzN0WEFzeHd5TDRoc09ST0d2aFljNzRtZFhOczVFYV9uSDZicFluaGtna0ZKTEIzenFpa3J4a2pVMl8tbkJpMXR3QnNXQ2NIU19qNnQ2OG4wVlhnSk1lLV9ESEE5NEF6c214TVJWMURUa0FPS2Z5bjA1RlBBQnlwLTNzUWZhNGt4ZGE3RC1EOHQxNUdlWTA?oc=5",
+        "domain": "kurdistan24",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T111219Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BMU",
-        "name": "Bermuda",
-        "region": "North America",
-        "capitalCity": "Hamilton",
-        "longitude": "-64.706",
-        "latitude": "32.3293"
+        "title": "Trump administration announces new sanctions on Cuba, escalating economic pressure",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42a1pyT05ob1RsOGU1a051TkRWMm83MHBiNkJ1QzhGQW03YVdpc0NlTVQ2OEdvVFVaUEdHRjR2dUZTUG5XUmJyQlFtOTdQNUNaRGU0Y3FEdGtpWGg5aEJ6V3NHdW9CRGNNZGQycUZXVzFNRFlQVVpNNllB0gF_QVVfeXFMTUZkT1VyQTM0bVJfbUlJOHJEd1RVQVdmVUd5NTZRSTJjNHRTVm5PMkFWMEotX2RkNGw5cWtNa2hxUDl3U01peEdRejE4WGRJcnpzcFVqSmFXUGVCNG9MTHdQZFNvOUxiME5fN1dVUnFzX2FnaXZtYm56TWcxRmFTQQ?oc=5",
+        "domain": "thehill",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260820T193800Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BOL",
-        "name": "Bolivia",
-        "region": "Latin America & Caribbean ",
-        "capitalCity": "La Paz",
-        "longitude": "-66.1936",
-        "latitude": "-13.9908"
+        "title": "US, Iran escalate rhetoric as Washington prepares ‘harshest’ sanctions announcement",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGlhSkFkNTdVTmhPb0hvRndUczlvZUV5Y0hsdlpnOEc4ckNSTjhOVG1uYmF0X3dkUmhpd1VNa19GVzlNaWphZlJDRHR3Wjdua2dvTVRMQXFZY3liaVVtblFINWVCMFM2RUdsQTRlU0pQREVFalFiZGsyYXlhYUZYVDNwSVFLTUdWSDB1V0IxZUo4cFUxSWNNWDdEVGtXOE4xdHRLY3hncmNUdTRFSFdVWkpUbHZsWWZLLThUSTEwOEE?oc=5",
+        "domain": "dailynewsegypt",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T160526Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BRA",
-        "name": "Brazil",
-        "region": "Latin America & Caribbean ",
-        "capitalCity": "Brasilia",
-        "longitude": "-47.9292",
-        "latitude": "-15.7801"
+        "title": "Iran Condemns U.S. Secondary Sanctions as Extraterritorial Sovereignty Attack: 28 outlets compared",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdkxlWUcyMjBQNVdMb1dYOG5qMmxkcHdsN2VucWFBMVBfQ1lhd1BzcVA2NzIwRmE4THlwVXpENVdaYVNEZGstOG01MngzUzBwSm5pN3Z5MWIyNXdDSm53dE9sbzJQR1hZaFptdFpQc0RfOUlDc09lSzRMUGg1NWpXY0traEtiNUF4WFViNFY4RWE3SnFkbUw0bU50NHlMQ1hDTW1INkpIQ3Y1ckJmTkZjMU1TblpPR2xPTHRzZUFBXzRZbGZZemxsRV91aVpmWVBQMzdwemtUYnJzZjBTdU1ZdmcxXzhnTWNiV2c?oc=5",
+        "domain": "newscord",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T122715Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BRB",
-        "name": "Barbados",
-        "region": "Latin America & Caribbean ",
-        "capitalCity": "Bridgetown",
-        "longitude": "-59.6105",
-        "latitude": "13.0935"
+        "title": "Iran says Trump’s latest threatened economic sanctions are ‘bound to fail’",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2RTVnE2alQ3RVQwLUdlMmVmMXlKci1BQ2w4amRXUHdwSUtUZjR2Wmp6VEdPT0trb19GaHJWUU83NGxheDMwclB2U0Q5VmVpb25KTThvX0ZsZXBRRWttdWhlXy1CY2hIeUJqU21sMjN1a09ndUN4cktSd3B6Q0RETmxoSDZZSHNBLXpQUXBCbF93cXJqZzJNUm1UbmVNaTl3bmhEaW93dWlnNkZJTjR6WUNkWXRtOHRvUmc?oc=5",
+        "domain": "anadoluajans",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T224700Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BRN",
-        "name": "Brunei Darussalam",
-        "region": "East Asia & Pacific",
-        "capitalCity": "Bandar Seri Begawan",
-        "longitude": "114.946",
-        "latitude": "4.94199"
+        "title": "FIFA sanctions Argentina over brawl at World Cup final game",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkNTY1g0ajhNVUhFSDdTSzIwdXlKN1ZITEt6bjlBWEFkbEFya0h3bXdRYXlUTGRTT0g3QmZpSzhxVW5zYVduUG15bFFXaGhNbTM4N3lWQVpIMnVHRktTeGNoN0JHUFlCY3BZZkZtVkdqVUJsa1cxSG82RlNhOE5pZE8yYVJBVy04QU9ZZlNRekc?oc=5",
+        "domain": "france24",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T095841Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BSS",
-        "name": "Sub-Saharan Africa (IBRD-only countries)",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "Report: Britain Weighs Sanctions Regime Banning Trade With Israeli Settlements",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPSWE1cmJ6VnJaSWpNUGdzN0lCeGpNaVBVMElCU1NaOGdNTHhPdE5BZE43aGlaMm5tN01uYVRiTFhxd2VKelVpakFKd1N3MGpqbVd5WEJCTTVMa2FOS1N6MXZFUDZsMFBQeklDMmQ5aWI0dkVjR09XeEhSS0FRS2d5UmY4M2NjRTQ5Mzl0TFExVHMzNHZJYm44NzdDZVF4amhzVWk0dkt2TzVjWWF0Mm1BU0FHVk5iMUxvbmp4bk5lZEJtTHA1QXRXdlBZVmxTZ2g3bzJfWXZaS0pHNmFMbGdSSWtaU1N4OGEwQ2JnQmlKcTQwWko3MENMOUNVMzRUREZubVp0UG4zNVc2eTluTHNaenpIcjlIdw?oc=5",
+        "domain": "haaretz",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T121900Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BTN",
-        "name": "Bhutan",
-        "region": "South Asia",
-        "capitalCity": "Thimphu",
-        "longitude": "89.6177",
-        "latitude": "27.5768"
+        "title": "US Treasury sanctions Ecuador-to-US cocaine trafficking network",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUtmcWpFVUllT3ktbEJfaklndGtweHM1b1dkdUlUaDNoY1ZHTWxrckx1OEV1WUdDb1JUNDZYYnFUVHlhN2l0b1l3NHZjVEg3ZUpMM0hCejVUOXBhaEMyWmwxU3VYYUhhSnhaZDVXRFZPOUxGTVFfVWp4STN0c2wzQl9tT1lnRkdMMUJnb0FoVjJJSTNmMG5WY0V1dklNWXdrN1pVZll0LTlZcFByY2YyY254OUbSAboBQVVfeXFMTXBibGw1U2g0eFA5UGV5azNxM3B1clY1U3J4dXBScDFOQ1g0QWYzV3VORi1DNHBVRjZETl8yNTctdW10Vmh4cldCamUxd09nNGFUY29ZTm04bmpfS0s5cGh6Mlp1ejBlalZPMU9xQTFsVnNwVjdwOWE0VXVuc19aRnVJNUZMZEt3Q2NnZVE0R3gwSTVwZjZyTE5YZV83M3E5TkJRSlNzNVNrOHo1NkhadlhmTTVGam1SWHJB?oc=5",
+        "domain": "abcnews-breakingnewslatestnewsandvideos",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T030307Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "BWA",
-        "name": "Botswana",
-        "region": "Sub-Saharan Africa ",
-        "capitalCity": "Gaborone",
-        "longitude": "25.9201",
-        "latitude": "-24.6544"
+        "title": "US sanctions International Criminal Court president and trial lawyer",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0J0QllDM0VrXzNZQk1KbHJ2MkJja3N6NVdjS29xUkplRk9PZEFDNXF0b09uOHZHaW82T1BydjJjaTQ1RkswUm9FQVlhaV9IZkhxOXRKcDVZMkVHWktuNkV3Z1VLU3RXMFVaZGc5MVUxTl91WHp6X2ZRa1F3XzIwSjdDVHpfeGY3d2VST2VPM2tiNkpiTW9VcG9BUHBoSHJzMGExR21seDB5NXhFYnfSAbMBQVVfeXFMTlNtZnMzdWZHN29kTTg1QVQyOHVEWURacjJkc1hMM1F4UkVPZUFBalhEM01GanRfN2JuWDNGMTVyZTV4cGtQQXRGemtRUGpQUG0yaEhnWFJvY1ZrbmNrLTUwZk5QWkhGbl9FaWJ3UWtlaGJCdno3a0dIdWFQdUVROUlzQnlmY2FzVEFlMzlzUmgwNjNiOUtkRGdoeVVEY3pjUFpjYndYZXg5WE5CYllBODhkS2c?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260818T201127Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "CAA",
-        "name": "Sub-Saharan Africa (IFC classification)",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "US sanctions international criminal court president and prosecutor",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8ta3BGYjBWMWNDejNhZnpDWDRjZF92VVFFOWYtUk5oam1iaENPeUdxc1duYzdDekxiOU55MXNIVkQza0Vxb0ExT0otNmJDQVljdVhLU2NJWkRReG9tU0h3Y0lkSGZWekg2SmZOeFF4cE11Zw?oc=5",
+        "domain": "theguardian",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260818T175000Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "CAF",
-        "name": "Central African Republic",
-        "region": "Sub-Saharan Africa ",
-        "capitalCity": "Bangui",
-        "longitude": "21.6407",
-        "latitude": "5.63056"
+        "title": "Bessent to Unveil “Toughest Sanctions in History’ on Iran",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZllKZ3EyaHhNZHpteThLU3FXTDF6eDRMclphRzVlNjVKNDMxVjdwTktPZzJOdGZqVEFkX1FBNjlZR0FtT2hfVlAwcHNfRkd0b3NjVWFRVmE0eVNuTl9keW5NX3JUTFU5eVpTdjBYRl81QTMyb1h2QmM5cWZGckhkTlFOcTF4dkhPLXZqaHBKa1lHV2NzZXVBMHdqVWdWUE1nelBfMldB?oc=5",
+        "domain": "lavocedinewyork",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T155400Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "CAN",
-        "name": "Canada",
-        "region": "North America",
-        "capitalCity": "Ottawa",
-        "longitude": "-75.6919",
-        "latitude": "45.4215"
+        "title": "US hits ICC president and senior prosecutor with sanctions in another move against the court",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZkZLX1YyWEUtTGlwUE9BQXRVNjRfZFlDMEZQNVZFRkY4c2o3bGdmX3BlUkpJR2VmUFVkc2FIS1JDX0tjdHR6dzF6Um1nRHFSYWxILWFBRUxzUTdicTB0SDJYNHRXWVlVMmd1TkhCWUhpc2ZzbW14NDI2NUlKYk4zZklxb3Zram4tb08wZTd6c1kySWZvU1B6ZFowek5hbzhBcldEQkktbkg1LWJxVVFPMA?oc=5",
+        "domain": "apnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260818T212400Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "CEA",
-        "name": "East Asia and the Pacific (IFC classification)",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "Slowed vessel traffic and new sanctions on Iran raise oil prices",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOME9kYkxnN0tpc3Z0VVRCWjFOalU1Q2l2bUctZE1YZVJ6SDNZaFlXakM1UzNSOUprc1Y4UjRfVDRJWklzb1g4VmtwX2RvbnUxNUxiV0RGVGo2b2VaYldudlpFSExzNkhUMkZmMXY1RU1mUzVDeXhReFlMVXU4eEI1TUpOQm0yenhDcVMwRGlHT3JSNUhwUm1SRHVvdGdfanhma0o4eTVPMk1SZExOaERmNy1BSVFGQW1TdllhQWQydU9oSVRYVGNVZ2xHSnVpQQ?oc=5",
+        "domain": "oilgasjournal",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T221449Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "CEB",
-        "name": "Central Europe and the Baltics",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "Sanctions in a Snap: Developments in Sanctions July 2026",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb2I5NzdGWWljZV9QaDh0YnYtWC1sOUlFMWJHdTNWRWdIbDNHSkJTNVVxbWJfdVBYREF3dHowSHRGTTAwQy1EdW5TbU9rNEpmS1d5MDhIYzE3UkZSUFdvLVczVkVZb0Rib05YcWVjRThXT0YzdVV1LXN5emVmaGVoX3FwQzg?oc=5",
+        "domain": "jdsupra",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260821T180009Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "CEU",
-        "name": "Europe and Central Asia (IFC classification)",
-        "region": "Aggregates",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "‘A Flagrant Attack’: International Criminal Court Slams Trump Administration Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ3Z3Yk5XU1ZRWVR0RDZSNzMwaEtNcWExcF9xLXFYLTNqU0V3TkZIZWg2dGRNQTAwak8zaGNQOVNpQ2MwQUhMT0ZvbktqUXFCejJrbWQ2NTctZGdRWUp0Rk8yaEVCXy1VVTlBNVpDN19ZTnQzRzJTNDVtUHVFLVdoWkM3NHRLY0RXNFhtV1p4eU0xSFNsY2QyVFN3M1JUaERFNExsUWNR?oc=5",
+        "domain": "timemagazine",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260819T160250Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "CHE",
-        "name": "Switzerland",
-        "region": "Europe & Central Asia",
-        "capitalCity": "Bern",
-        "longitude": "7.44821",
-        "latitude": "46.948"
+        "title": "U.S. Secondary Sanctions Violate the National Sovereignty of States",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaDRDZ29vT25CT21abkRUUWdsQVNXUmM3dkFJTjY1dXNBVDBfRkpIRGRTM2ItSFB1VmgtTHFiaVFaQUc1d3FCODRkTUg3Vm1FR0RqVm1kYjRqYWVDNWZMckg5ZUFvTEViUm5oX1lJZ0E0M2hKYmdjSDhnRGkyb2JCUkdEMzh1RDNwTlpjeXZPSQ?oc=5",
+        "domain": "wananewsagency",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T070309Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "CHI",
-        "name": "Channel Islands",
-        "region": "Europe & Central Asia",
-        "capitalCity": "",
-        "longitude": "",
-        "latitude": ""
+        "title": "US announces new sanctions on ICC president and top lawyer",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zR0dSMUU5SVZiVWNmWDJaREk1WWd0dFllcktwY0JFQjc1cWlTd1kzYnd2RGhpUE5tNXNGNWlqamxTbEtxZWdQMXhvLTByMjBUT0lBWVNma3dXZw?oc=5",
+        "domain": "bbc",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260818T202149Z",
+        "source": "GoogleNews"
       },
       {
-        "id": "CHL",
-        "name": "Chile",
-        "region": "Latin America & Caribbean ",
-        "capitalCity": "Santiago",
-        "longitude": "-70.6475",
-        "latitude": "-33.475"
+        "title": "Watch Sanctions Target Iran’s Weakened Regional Network",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOGpudG5tYmNYN2RwUGdqdWdVSGtwbFc2cXgyUUNsM1Q2RGdOdllGWXc0SFlYRXhMXzlEMFIwNFBWUFJkcExIUzQxVnZYcmZ4Nl9hT3dHZUF0Z1pBTm0zQk1CdGFXOXdzRFl6akh1cG5aVE9CNzc2VjBCSlFYbklrdzMtcTBTLXBjOGs1bmtJU3oyTHYzZGQ1Z0tDRHFYaGxoeHVPZjlfMA?oc=5",
+        "domain": "bloomberg.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T000000Z",
+        "source": "GoogleNews"
       }
     ],
     "exchange_rates": [
@@ -520,7 +571,143 @@
     ]
   },
   "entities": [],
-  "events": [],
+  "events": [
+    {
+      "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak5FU3lnQ0FsZU5vbjdlazdtTUhDZUpVX3hiWm1tWng5RjUxM2RYOFhTcEdfUVE1WDl3QkFCcXVxNHczbmNocnA5UG85cTFPWnFYQ0lQRENHeEd3dUNRVUdhbk1mbFc2OExVM3VjTWNONm1yRWNQY0FtU21CcnlIS1JTUzBlRzJmLUFtVHZYTEdIa3BLWUpVc1BR0gGfAUFVX3lxTE5MUUhtTlBzNDdFX1Y4eDc4OEVkLTIxUW1ycDlBNzE2ZmkzN3dUZm80S3RlZ1FiVEZrRkFISVkxNXZBUjZxQ2lMMmdhc1VOYW5LRTY1elVSVDNGM1QtdEFCMklqSWxJUWR6YTNhLXY5X1YzMnQ3WVhCZmtRWXprN1NNdHJmcFpTOENNNGZNcTZoUEhFZzd2NXFyN2hGem5mRQ?oc=5",
+      "domain": "cnbc",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260822T102147Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Iran says new US sanctions violate sovereignty of other states",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN0k0UU1CRG5RVTV1RjA1OEhtQkhSX1lveGIxSXd1bkZ0NlFJbWdGaXVJQmU3QmNRTExOazRldWE2ajN6LTVMdi1vR1dWZGo2T29LWGxhM2VtTV9xTVBrMmpBSWVzaTJRSHlFM0FuYjBrdi1zUkVLRHpRLWd3U3FLTlR4RmtTaVpvX2VDMmNERVN4ZjdHRjFCRkpHZXJ2X25ZVlpVZW130gGrAUFVX3lxTFAzTGVvcXk5U2tyZFhHNFQwMG1pcUFybDREQkFCakdRaHJJc1ZXS0RtT3E1WWx5Wm5lVDBydzJQNHZteGYtMmVSUkFMZHpveVZXSzh0Q2xGVzdZVmhjOHJaQ21sRlI4NnJ3MUczeEtuVHNhRWxIcVpDcGdQbVM4TzF2dGtpVmVpaFlpOUMweUZMaktsZmFJT2dnRmJTNGZyb3Y2WXEyOW82M21Dbw?oc=5",
+      "domain": "aljazeera",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260822T091911Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "FIFA sanctions Argentina and several players for World Cup final scuffle",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnRzYlktczItVFhRMlQ2d080YnBTTXFZZ0Jfcld4M3VxUWlRSXRhQ2FnYk1qdGNicWlFMEpKLVEtMG1rZzhiemxLUjRXd1A4bnNPaGRnaVVuY181cUJUZDlsUmw2QlUydEpZNm82U2FCekpjRjd0RHRHYW0zWW52eUxhaUhQYk5RZFVWSUV3eE9jQnJFMEgzWVo0cjfSAaIBQVVfeXFMTzdKZnVnR3NFTjlmQXMxZnMtbktHTU9ZVzVXT0FDVU90VWdvamVXV3gzX3pDZFVSU0ZQZDFTbEE0Qi1pa2tQUVpsNVZWeVZzWEJFYV9PekJGaGdKUWtVZzdkeDNfa0FmMW9obEVXOUZZQ2Z6QXZFWnY0OXp4cUVKaHJqWWcxT1JpRGpBN2E4SnA5b2Y2c2hRWVRpQUFhM05UUV93?oc=5",
+      "domain": "abc7losangeles",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260822T002202Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Iran says ‘world approved our victory’ over the US",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYXVTcW1JYm9CY3A1QzRfM1l3b0J4VGRGbW1vdnpIU0JvVDcxVEtzRWR0LWlTZko0a3M0akx6bTFranBrTk1tUU5LLXpWSnVlbEh1Vm1qUTdlUGFWX0lOU1gxc3VISXBSSzZEWTVXZUVWSjZKNmk2c010NHRZb0lxdnRDWkhyVDZ5RFNEY0IyMWNZWGVVVXlyZUp30gGfAUFVX3lxTE9ENlljU1pfMkVJb1NhWWJIbmhSMEhOSG0zRHhVcTBMNVVaVWRxWnM0N2JSNERqcGV6cjBwNm9sMlBJUkxTdEdqOEp6TXd6Q3E3VllyNzhFUWU3NGZydnpXUE0zMFZyWEpZUmFYRXdzVVNxbW1MaFhlUHBWc0tDbTA3VWVHUWNtbnRnNVQ2MzBnR0s0X1VsYlJhZlpKRV9CNA?oc=5",
+      "domain": "thehill",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260822T142500Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US, Iran keep up hostile rhetoric ahead of new sanctions",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+      "domain": "reuters",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260822T010500Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "The ICC strongly rejects new US sanctions designations",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRy15alFQTmhUXzZ0aHRxSDdqdTVwZDBlVURTNjc2cEV2VnBEamkyQzJNM0tRYm5VbTdJSnMyUTBDLWRDdUROcmpTeXBxems4RHRlUUpVOGs2cVpQMURKRF9zaU1kcEN1TWJsQklfYlc3U2xrMXljSEluLTJHaGJVSWYtTjN5Zw?oc=5",
+      "domain": "internationalcriminalcourt",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260819T080410Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "After five theft convictions, nursing home worker faces licensing sanctions",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYk1VU2xhdlNuTVlkZ01zODhINGJ4eUlxMExDOUI1MTV2ZURDdTBsbUVJTElqRHluNE1vRWxfekFyZWwwRGJHWFllMFlTMy1GV2l1S2xPSXZIWDV4YS10NkVjdjFSclVtblRvMWJEZDFnWHN5Mk5aUk1nd3V3V1ltNEdyd0hQUHAyOFZoeHNWOHlNdUk0UTFWa2hZeV9OclA5YnFBWFk3NkZEQ2hua2tFcU5kQjdxM2prU3c?oc=5",
+      "domain": "iowacapitaldispatch",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260821T212346Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEpoQTB6TlFFcU42Z2lLV3VhMVJhSS1fTVJTZGxZb0dWLVNSRWR0Mkhmc21CclNXaVpfdW1QQ081Q2xhQkx6NnVLT2dMelZHV0s4MUhzRTV1R1FWc2dCTzFORWdkeFUxOVg0MWZzdTFYcDJDTEJyQ0drdTJQN3A1U3dZNjdlSjF0WjRPQTlxNjZtVzR0S2p0MkxB?oc=5",
+      "domain": "thenewyorktimes",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260821T104411Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Iran condemns new US sanctions; Donald Trump warns countries against providing lifeline",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Jdm1oVjRNTW5WdFhkR3A0MGxad3lCN1NpZl9fSVRWZWlPNHdlNDA4OV9oYjUtVzktbURWWW5zM1lvalpGRXhjRFdwVW0xZTk0VTZXelpTZkEwZWxKMFF6N0hqeWZTVWFoS2c?oc=5",
+      "domain": "thejerusalempost",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260822T162113Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Torts: Malicious Prosecution-Sanctions",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjRBN3hvRGl5REk3WTJCWHhXTmVWTlpHSlZaY255MkI5WnJ1cGdZUXBfVExxeWttaTAtcVplaGJqc2U5TnJwb1hZRjEtMnUxWUNLV05Nc3VNZENDXzRVdlRVSkl5MW1HQVR1X1dUeWF0U3N2cmZzcE5PNEJ5RzVsVFpn?oc=5",
+      "domain": "missourilawyersmedia",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260822T160350Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "International Criminal Court: New US sanctions ‘a flagrant attack’ against its independence",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EOVkwS3F1TU1TaXBlZnNWb0Z1a0JnbDZFQVBfZTZYajlteDBXalNHY3MxSWw1aThnY1k0Y2F2RjRFQU1DMFhQdWFURUFiTGZSU1lNRGRUbw?oc=5",
+      "domain": "unnews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260819T192131Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjQxWmNvcnlhTmt3ZWV1d3h3cl81U2xNR3ByaUZ2dFhPLTNoUnZ2Z2VhYjdVREFNa1E5V0QyekxxR1lkNHJtV19mN3o1dmM2MGNva1hEZ0ZVTlFqdjJuc0dBeDc1b0JEM0NDR0FBQ1JLWDdYLTZ5UXpRR1VSX1J4dzY2RVh0akw5UkY4Y2xR0gGOAUFVX3lxTE05MWE0X0V2UDdvZFF0NmMxWnBpN3hPLWV3SnBRZVI5alg4NXBrcVJwa3pSdGRzT2lGVzV3QWZraVEzNWpvelphOFBxT2F1Q3VYcHJyUDFERExndzZfWkRFNXplT1ZWNklJQk1GTkhkUUNNbTQ1bk0xd3NVM09WYXh2b1p0dXpLMlhzaW1sd2c?oc=5",
+      "domain": "dw.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260822T085150Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Iowa attorney faces sanctions for Medicaid scheme involving his Rolls Royce",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOal9ObUpINm45Y3ZsbXZHU3lIX0lsNUpRcG1NV2h0SzRCcHJMdU1YbDRKVjVsWE9ubVhMMzJNWTlEbUk1TThIaExLS0Y2UzNXN0ZjUVRNSDBHalNWcl9XaVBGOW9tZVhfNGt0SUJsbXZUODhKT2Zua1h6VzljdzYzMlh2b2xIVUp6QlFOX2g5aVl3TTd2ajZFNXlqMlhuWjNxVm90cWgwODVuVG84Umw5dE1mdVEwWkNkSDRJ?oc=5",
+      "domain": "iowacapitaldispatch",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260819T214347Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Iran labels new US sanctions ‘unjust’",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0trMzJucHp4dklaWHFpU2s2aHkwZmtuUVRsY3hQTHhjZmlDMW1GWHF2a1VmaGJuUWI3TEpZc3VTVmI1U2RkSXBON1BaN19CckpkRTRVVUk0engxSG50Q19NeGE3c0s3Y0Zpay1rbF9GRDlUUUVubGNSam93TXlvb19mX1R6Szlub1U4V09UR05nMFVPWXhuYjNrOUh1ZlRubFlJ0gGoAUFVX3lxTE1CVW5CeEo1T3JfSHJFbGg0RXd1bXZxNXVFaVFxc1FlRFpON2RTd1NYQ01xdldFYTlPUmlpb0JReW5RSmNPSUZMSUVjSUpPWmphMGQ5VDJEVjRLbENBYk1yb21PQWR1MjA0d3pMeG1rT1VXcTZzR2g5S09rV2tselNsZXJnZnBpUTR3TkJfTEhBM2ZqR2tGRk1zbjZZcDlwU01fdWFxRnFlaw?oc=5",
+      "domain": "thehill",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260821T123800Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5",
+      "domain": "reuters",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260820T182015Z",
+      "source": "GoogleNews"
+    }
+  ],
   "timeseries": [],
   "llm_summary": ""
 }
