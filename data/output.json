@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-08-22T18:44:08.380933+00:00",
+    "generated": "2026-08-23T01:56:15.495028+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "48",
+      "value": "44",
       "delta": "deduplicated"
     },
     {
@@ -35,48 +35,39 @@
   "live_data": {
     "gdelt_articles": [
       {
-        "title": "US Extends Lukoil Deadline , Affecting Bulgarian Oil Assets - Novinite . com",
-        "url": "https://www.novinite.com/view_news.php?id=240218",
-        "domain": "novinite.com",
+        "title": "Trump wants more economic pressure on Iran . What are his options ? ",
+        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/22/explainer-trump-wants-more-economic-pressure-on-iran-what-are-his-options",
+        "domain": "internazionale.it",
         "language": "English",
         "tone": 0,
-        "seendate": "20260821T231500Z",
+        "seendate": "20260822T193000Z",
         "source": "GDELT"
       },
       {
-        "title": "Саудовская Аравия стала крупнейшим покупателем российского мазута в июле",
-        "url": "https://korrespondent.net/business/4905189-saudovskaia-aravyia-stala-krupneishym-pokupatelem-rossyiskoho-mazuta-v-yuile",
-        "domain": "korrespondent.net",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T004500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Hezbollah slams US over re - designation linked to Iran IRGC - Quds Force , rejects Washington claims",
-        "url": "https://news.webindia123.com/news/Articles/World/20260821/4489488.html",
-        "domain": "news.webindia123.com",
+        "title": "Trump wants more economic pressure on Iran . What are his options ? ",
+        "url": "https://www.al-monitor.com/originals/2026/08/trump-wants-more-economic-pressure-iran-what-are-his-options",
+        "domain": "al-monitor.com",
         "language": "English",
         "tone": 0,
-        "seendate": "20260821T184500Z",
+        "seendate": "20260822T220000Z",
         "source": "GDELT"
       },
       {
-        "title": "Estados Unidos sanciona a personas y empresas de Ecuador a las que acusa de tráfico de cocaína para cárteles mexicanos",
-        "url": "https://diariosanrafael.com.ar/estados-unidos-sanciona-a-personas-y-empresas-de-ecuador-a-las-que-acusa-de-trafico-de-cocaina-para-carteles-mexicanos/",
-        "domain": "diariosanrafael.com.ar",
-        "language": "Spanish",
+        "title": "General Licence 61 Eases Venezuela Telecom Rules",
+        "url": "https://www.riotimesonline.com/us-eases-venezuela-telecom-sanctions-with-general-licence-61/",
+        "domain": "riotimesonline.com",
+        "language": "English",
         "tone": 0,
-        "seendate": "20260821T231500Z",
+        "seendate": "20260822T220000Z",
         "source": "GDELT"
       },
       {
-        "title": "EE . UU . autorizó operaciones con Conatel y Cantv bajo nuevas reglas de OFAC",
-        "url": "https://noticierodigital.com/2026/08/ee-uu-autorizo-operaciones-con-conatel-y-cantv-bajo-nuevas-reglas-de-ofac/",
-        "domain": "noticierodigital.com",
-        "language": "Spanish",
+        "title": "World News : Trump wants more economic pressure : What are his options ? ",
+        "url": "https://www.gdnonline.com:443/Details/1404196/Trump-wants-more-economic-pressure-What-are-his-options",
+        "domain": "gdnonline.com",
+        "language": "English",
         "tone": 0,
-        "seendate": "20260821T233000Z",
+        "seendate": "20260823T010000Z",
         "source": "GDELT"
       },
       {
@@ -89,24 +80,6 @@
         "source": "GDELT"
       },
       {
-        "title": "La nueva licencia de EEUU que cambia el escenario para las telecomunicaciones en Venezuela",
-        "url": "https://lapatilla.com/2026/08/21/la-nueva-licencia-de-eeuu-que-cambia-el-escenario-para-las-telecomunicaciones-en-venezuela/",
-        "domain": "lapatilla.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260821T210000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "EE . UU . flexibiliza sanciones para telecomunicaciones venezolanas",
-        "url": "https://finanzasdigital.com/eeuu-flexibiliza-sanciones-para-el-sector-telecomunicaciones-en-venezuela/",
-        "domain": "finanzasdigital.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260821T224500Z",
-        "source": "GDELT"
-      },
-      {
         "title": "伊朗 ： 若爆发新冲突 ， 将投入使用更为先进武器装备 ， 武装部队为导弹安装的新弹头破坏性将远超以往",
         "url": "https://baijiahao.baidu.com/s?id=1874183440954322027",
         "domain": "baijiahao.baidu.com",
@@ -116,21 +89,21 @@
         "source": "GDELT"
       },
       {
-        "title": "EE . UU . autoriza provisión de servicios y tecnología de telecomunicaciones para Venezuela",
-        "url": "https://www.globovision.com/sociedad/60655/ee-uu-autoriza-provision-de-servicios-y-tecnologia-de-telecomunicaciones-para-venezuela",
-        "domain": "globovision.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260822T003000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Children are dying ! ",
         "url": "https://kaieteurnewsonline.com/2026/08/22/children-are-dying/",
         "domain": "kaieteurnewsonline.com",
         "language": "English",
         "tone": 0,
         "seendate": "20260822T143000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "重启军演 、 开放中国援建基地 ， 美国 ， 柬埔寨为何突然走近 ? 时坛昨天还有爱党爱国人士一厢情愿的意淫 ， 东盟倒向中国 。。。 - amico发表于 时事述评 - 论坛",
+        "url": "https://bbs.wenxuecity.com/currentevent/4055508.html",
+        "domain": "bbs.wenxuecity.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260822T183000Z",
         "source": "GDELT"
       },
       {
@@ -152,39 +125,12 @@
         "source": "GDELT"
       },
       {
-        "title": "Cuba Says US Sanctions Are Blocking Its Efforts To Open The Economy To Private Investment",
-        "url": "https://www.theyeshivaworld.com/news/general/2588510/cuba-says-us-sanctions-are-blocking-its-efforts-to-open-the-economy-to-private-investment.html",
-        "domain": "theyeshivaworld.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T191500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "",
-        "url": "https://primicia.com.ve/economia/ofac-emite-licencia-que-autoriza-servicios-de-telecomunicaciones-a-cantv-y-conatel/",
-        "domain": "primicia.com.ve",
+        "title": "EE . UU . señala a Ecuador como el principal punto de partida de la cocaína en Sudamérica",
+        "url": "https://www.telesurtv.net/senala-ecuador-principal-cocaina-sudamerica/",
+        "domain": "telesurtv.net",
         "language": "Spanish",
         "tone": 0,
-        "seendate": "20260821T233000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Cuba says US sanctions are blocking its efforts to open the economy to private investment",
-        "url": "https://www.bostonherald.com/2026/08/21/cuba-united-states/",
-        "domain": "bostonherald.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T210000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "David Tennant reacts to Doctor Who surprising Fourteenth Doctor  embargo  he never knew existed",
-        "url": "https://winteriscoming.net/david-tennant-doctor-who-fourteenth-doctor-embargo",
-        "domain": "winteriscoming.net",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T000000Z",
+        "seendate": "20260822T213000Z",
         "source": "GDELT"
       },
       {
@@ -215,30 +161,12 @@
         "source": "GDELT"
       },
       {
-        "title": "Крупнейший экспортер нефти стал главным покупателем российского мазута",
-        "url": "https://haqqin.az/newsarchive/391425",
-        "domain": "haqqin.az",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260821T213000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Inicio | Periódico CiudadCCS",
         "url": "http://www.ciudadccs.info/publicacion/48958-eeuu-senala-a-ecuador-como-principal-salida-de-cocaina-en-suramerica",
         "domain": "ciudadccs.info",
         "language": "Spanish",
         "tone": 0,
         "seendate": "20260822T163000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "OFAC autoriza licencias para inversión y servicios de telecomunicaciones en Venezuela",
-        "url": "https://rnv.gob.ve/ofac-autoriza-licencias-para-inversion-y-servicios-de-telecomunicaciones-en-venezuela/",
-        "domain": "rnv.gob.ve",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260821T233000Z",
         "source": "GDELT"
       },
       {
@@ -278,15 +206,6 @@
         "source": "GDELT"
       },
       {
-        "title": "The Dog Stars : What Do You Miss After It Ends Clip Released",
-        "url": "https://bleedingcool.com/movies/the-dog-stars-what-do-you-miss-after-it-ends-clip-released/",
-        "domain": "bleedingcool.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T000000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "En değerlisi Batrakov",
         "url": "https://www.posta.com.tr/spor/en-degerlisi-batrakov-3030046",
         "domain": "posta.com.tr",
@@ -302,15 +221,6 @@
         "language": "Greek",
         "tone": 0,
         "seendate": "20260822T131500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "EE UU flexibiliza sanciones y autoriza operaciones de telecomunicaciones en Venezuela",
-        "url": "https://bitlysdowssl-aws.com/2026/08/ee-uu-flexibiliza-sanciones-y-autoriza-operaciones-de-telecomunicaciones-en-venezuela/",
-        "domain": "bitlysdowssl-aws.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260822T003000Z",
         "source": "GDELT"
       },
       {
@@ -449,15 +359,6 @@
         "source": "GDELT"
       },
       {
-        "title": "İran Dışişleri Bakanı Erakçi Trump  ın yaptırım kararına resti çekti : Geçmişteki gibi yine başarısız olacak",
-        "url": "https://www.yenisafak.com/dunya/iran-disisleri-bakani-erakci-trumpin-yaptirim-kararina-resti-cekti-gecmisteki-gibi-yine-basarisiz-olacak-4849977",
-        "domain": "yenisafak.com",
-        "language": "Turkish",
-        "tone": 0,
-        "seendate": "20260821T194500Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Buntut Kericuhan di Final Piala Dunia 2026 , FIFA Sanksi Berat Argentina – Olahraga",
         "url": "https://olahraga.batampos.co.id/buntut-kericuhan-di-final-piala-dunia-2026-fifa-sanksi-berat-argentina/",
         "domain": "olahraga.batampos.co.id",
@@ -483,6 +384,105 @@
         "tone": 0,
         "seendate": "20260822T163000Z",
         "source": "GDELT"
+      },
+      {
+        "title": "İrandan ABD yaptırımlarına sert tepki : ömürgecilik  uyarısı",
+        "url": "https://www.haberler.com/yerel/iran-dan-trump-in-kapsamli-ekonomik-yaptirim-20166047-haberi/",
+        "domain": "haberler.com",
+        "language": "Turkish",
+        "tone": 0,
+        "seendate": "20260822T023000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ekonomik savaşa karşı Tahranda hazırlık",
+        "url": "https://www.birgun.net/haber/ekonomik-savasa-karsi-tahran-da-hazirlik-730528%20class=slide-legend-link%20target=_blank",
+        "domain": "birgun.net",
+        "language": "Turkish",
+        "tone": 0,
+        "seendate": "20260822T060000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ekonomik savaşa karşı Tahranda hazırlık",
+        "url": "https://www.birgun.net/haber/ekonomik-savasa-karsi-tahran-da-hazirlik-730528%20target=_blank%20class=stretched-link",
+        "domain": "birgun.net",
+        "language": "Turkish",
+        "tone": 0,
+        "seendate": "20260822T030000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ekonomik savaşa karşı Tahranda hazırlık",
+        "url": "https://www.birgun.net/haber/ekonomik-savasa-karsi-tahran-da-hazirlik-730528%20target=_blank",
+        "domain": "birgun.net",
+        "language": "Turkish",
+        "tone": 0,
+        "seendate": "20260822T060000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ekonomik savaşa karşı Tahranda hazırlık",
+        "url": "https://www.birgun.net/haber/ekonomik-savasa-karsi-tahran-da-hazirlik-730528%20class=slide-link%20target=_blank",
+        "domain": "birgun.net",
+        "language": "Turkish",
+        "tone": 0,
+        "seendate": "20260822T060000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran sebut sanksi ekonomi baru AS pasti gagal",
+        "url": "https://www.antaranews.com/berita/5706385/iran-sebut-sanksi-ekonomi-baru-as-pasti-gagal",
+        "domain": "antaranews.com",
+        "language": "Indonesian",
+        "tone": 0,
+        "seendate": "20260822T054500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美伊进入经济战 中东局势何去何从 经济制裁成博弈主线 _ 新闻频道 _ 中华网",
+        "url": "https://news.china.com/socialgd/10000169/20260822/49692525.html",
+        "domain": "news.china.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260822T163000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Медведев : успехи России в условиях санкций нужно закрепить",
+        "url": "https://russian.rt.com/world/news/1672915-uspehi-rossii-sankcii",
+        "domain": "russian.rt.com",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260822T143000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Медведев отметил успехи России в период санкций",
+        "url": "https://ura.news/news/1053120584",
+        "domain": "ura.news",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260822T160000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran odbacio nove američke sankcije : Osuđene na propast i pokušaj nametanja autoriteta SAD - Povezane vesti",
+        "url": "https://naslovi.net/tema/2557706",
+        "domain": "naslovi.net",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260822T163000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "İran , ABDyi açık açık tehdit etti : Onları g diliyle zorlayacağız",
+        "url": "https://www.f5haber.com/dunya/iran-abdyi-acik-acik-tehdit-etti-onlari-guc-diliyle-zorlayacagiz-6964757",
+        "domain": "f5haber.com",
+        "language": "Turkish",
+        "tone": 0,
+        "seendate": "20260822T123000Z",
+        "source": "GDELT"
       }
     ],
     "exchange_rates": [
@@ -496,15 +496,15 @@
       },
       {
         "currency": "AFN",
-        "rate": 74.77
+        "rate": 64.54
       },
       {
         "currency": "ALL",
-        "rate": 87.5
+        "rate": 79.12
       },
       {
         "currency": "AMD",
-        "rate": 356.51
+        "rate": 361.76
       },
       {
         "currency": "ANG",
@@ -512,7 +512,7 @@
       },
       {
         "currency": "AOA",
-        "rate": 934.92
+        "rate": 916.63
       },
       {
         "currency": "ARS",
@@ -528,7 +528,7 @@
       },
       {
         "currency": "AZN",
-        "rate": 1.59
+        "rate": 1.69
       },
       {
         "currency": "BAM",
@@ -540,7 +540,7 @@
       },
       {
         "currency": "BDT",
-        "rate": 121.86
+        "rate": 121.6
       },
       {
         "currency": "BGN",
@@ -552,7 +552,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2665.4
+        "rate": 2966.62
       },
       {
         "currency": "BMD",
@@ -564,55 +564,46 @@
       },
       {
         "currency": "BOB",
-        "rate": 7.01
+        "rate": 11.44
       }
     ]
   },
   "entities": [],
   "events": [
     {
-      "title": "US Extends Lukoil Deadline , Affecting Bulgarian Oil Assets - Novinite . com",
-      "url": "https://www.novinite.com/view_news.php?id=240218",
-      "domain": "novinite.com",
+      "title": "Trump wants more economic pressure on Iran . What are his options ? ",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/22/explainer-trump-wants-more-economic-pressure-on-iran-what-are-his-options",
+      "domain": "internazionale.it",
       "language": "English",
       "tone": 0,
-      "seendate": "20260821T231500Z",
+      "seendate": "20260822T193000Z",
       "source": "GDELT"
     },
     {
-      "title": "Саудовская Аравия стала крупнейшим покупателем российского мазута в июле",
-      "url": "https://korrespondent.net/business/4905189-saudovskaia-aravyia-stala-krupneishym-pokupatelem-rossyiskoho-mazuta-v-yuile",
-      "domain": "korrespondent.net",
-      "language": "Russian",
-      "tone": 0,
-      "seendate": "20260822T004500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Hezbollah slams US over re - designation linked to Iran IRGC - Quds Force , rejects Washington claims",
-      "url": "https://news.webindia123.com/news/Articles/World/20260821/4489488.html",
-      "domain": "news.webindia123.com",
+      "title": "Trump wants more economic pressure on Iran . What are his options ? ",
+      "url": "https://www.al-monitor.com/originals/2026/08/trump-wants-more-economic-pressure-iran-what-are-his-options",
+      "domain": "al-monitor.com",
       "language": "English",
       "tone": 0,
-      "seendate": "20260821T184500Z",
+      "seendate": "20260822T220000Z",
       "source": "GDELT"
     },
     {
-      "title": "Estados Unidos sanciona a personas y empresas de Ecuador a las que acusa de tráfico de cocaína para cárteles mexicanos",
-      "url": "https://diariosanrafael.com.ar/estados-unidos-sanciona-a-personas-y-empresas-de-ecuador-a-las-que-acusa-de-trafico-de-cocaina-para-carteles-mexicanos/",
-      "domain": "diariosanrafael.com.ar",
-      "language": "Spanish",
+      "title": "General Licence 61 Eases Venezuela Telecom Rules",
+      "url": "https://www.riotimesonline.com/us-eases-venezuela-telecom-sanctions-with-general-licence-61/",
+      "domain": "riotimesonline.com",
+      "language": "English",
       "tone": 0,
-      "seendate": "20260821T231500Z",
+      "seendate": "20260822T220000Z",
       "source": "GDELT"
     },
     {
-      "title": "EE . UU . autorizó operaciones con Conatel y Cantv bajo nuevas reglas de OFAC",
-      "url": "https://noticierodigital.com/2026/08/ee-uu-autorizo-operaciones-con-conatel-y-cantv-bajo-nuevas-reglas-de-ofac/",
-      "domain": "noticierodigital.com",
-      "language": "Spanish",
+      "title": "World News : Trump wants more economic pressure : What are his options ? ",
+      "url": "https://www.gdnonline.com:443/Details/1404196/Trump-wants-more-economic-pressure-What-are-his-options",
+      "domain": "gdnonline.com",
+      "language": "English",
       "tone": 0,
-      "seendate": "20260821T233000Z",
+      "seendate": "20260823T010000Z",
       "source": "GDELT"
     },
     {
@@ -625,24 +616,6 @@
       "source": "GDELT"
     },
     {
-      "title": "La nueva licencia de EEUU que cambia el escenario para las telecomunicaciones en Venezuela",
-      "url": "https://lapatilla.com/2026/08/21/la-nueva-licencia-de-eeuu-que-cambia-el-escenario-para-las-telecomunicaciones-en-venezuela/",
-      "domain": "lapatilla.com",
-      "language": "Spanish",
-      "tone": 0,
-      "seendate": "20260821T210000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "EE . UU . flexibiliza sanciones para telecomunicaciones venezolanas",
-      "url": "https://finanzasdigital.com/eeuu-flexibiliza-sanciones-para-el-sector-telecomunicaciones-en-venezuela/",
-      "domain": "finanzasdigital.com",
-      "language": "Spanish",
-      "tone": 0,
-      "seendate": "20260821T224500Z",
-      "source": "GDELT"
-    },
-    {
       "title": "伊朗 ： 若爆发新冲突 ， 将投入使用更为先进武器装备 ， 武装部队为导弹安装的新弹头破坏性将远超以往",
       "url": "https://baijiahao.baidu.com/s?id=1874183440954322027",
       "domain": "baijiahao.baidu.com",
@@ -652,21 +625,21 @@
       "source": "GDELT"
     },
     {
-      "title": "EE . UU . autoriza provisión de servicios y tecnología de telecomunicaciones para Venezuela",
-      "url": "https://www.globovision.com/sociedad/60655/ee-uu-autoriza-provision-de-servicios-y-tecnologia-de-telecomunicaciones-para-venezuela",
-      "domain": "globovision.com",
-      "language": "Spanish",
-      "tone": 0,
-      "seendate": "20260822T003000Z",
-      "source": "GDELT"
-    },
-    {
       "title": "Children are dying ! ",
       "url": "https://kaieteurnewsonline.com/2026/08/22/children-are-dying/",
       "domain": "kaieteurnewsonline.com",
       "language": "English",
       "tone": 0,
       "seendate": "20260822T143000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "重启军演 、 开放中国援建基地 ， 美国 ， 柬埔寨为何突然走近 ? 时坛昨天还有爱党爱国人士一厢情愿的意淫 ， 东盟倒向中国 。。。 - amico发表于 时事述评 - 论坛",
+      "url": "https://bbs.wenxuecity.com/currentevent/4055508.html",
+      "domain": "bbs.wenxuecity.com",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260822T183000Z",
       "source": "GDELT"
     },
     {
@@ -688,21 +661,48 @@
       "source": "GDELT"
     },
     {
-      "title": "Cuba Says US Sanctions Are Blocking Its Efforts To Open The Economy To Private Investment",
-      "url": "https://www.theyeshivaworld.com/news/general/2588510/cuba-says-us-sanctions-are-blocking-its-efforts-to-open-the-economy-to-private-investment.html",
-      "domain": "theyeshivaworld.com",
-      "language": "English",
+      "title": "EE . UU . señala a Ecuador como el principal punto de partida de la cocaína en Sudamérica",
+      "url": "https://www.telesurtv.net/senala-ecuador-principal-cocaina-sudamerica/",
+      "domain": "telesurtv.net",
+      "language": "Spanish",
       "tone": 0,
-      "seendate": "20260821T191500Z",
+      "seendate": "20260822T213000Z",
       "source": "GDELT"
     },
     {
-      "title": "",
-      "url": "https://primicia.com.ve/economia/ofac-emite-licencia-que-autoriza-servicios-de-telecomunicaciones-a-cantv-y-conatel/",
-      "domain": "primicia.com.ve",
+      "title": "Cướp biển Somalia chiếm giữ tàu dầu ngoài khơi Yemen",
+      "url": "https://thanhnien.vn/cuop-bien-somalia-chiem-giu-tau-dau-ngoai-khoi-yemen-185260822195811154.htm",
+      "domain": "thanhnien.vn",
+      "language": "Vietnamese",
+      "tone": 0,
+      "seendate": "20260822T143000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Iran dọa đáp trả biện pháp cấm vận của Mỹ bằng quân sự",
+      "url": "https://thanhnien.vn/iran-doa-dap-tra-bien-phap-cam-van-cua-my-bang-quan-su-185260822081242347.htm",
+      "domain": "thanhnien.vn",
+      "language": "Vietnamese",
+      "tone": 0,
+      "seendate": "20260822T031500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Иран частично открыл Ормузский пролив",
+      "url": "https://aif.ru/politics/iran-chastichno-otkryl-ormuzskiy-proliv",
+      "domain": "aif.ru",
+      "language": "Russian",
+      "tone": 0,
+      "seendate": "20260822T121500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Inicio | Periódico CiudadCCS",
+      "url": "http://www.ciudadccs.info/publicacion/48958-eeuu-senala-a-ecuador-como-principal-salida-de-cocaina-en-suramerica",
+      "domain": "ciudadccs.info",
       "language": "Spanish",
       "tone": 0,
-      "seendate": "20260821T233000Z",
+      "seendate": "20260822T163000Z",
       "source": "GDELT"
     }
   ],
