@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-08-23T01:56:15.495028+00:00",
+    "generated": "2026-08-23T06:57:03.637429+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "44",
+      "value": "45",
       "delta": "deduplicated"
     },
     {
@@ -53,15 +53,6 @@
         "source": "GDELT"
       },
       {
-        "title": "General Licence 61 Eases Venezuela Telecom Rules",
-        "url": "https://www.riotimesonline.com/us-eases-venezuela-telecom-sanctions-with-general-licence-61/",
-        "domain": "riotimesonline.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T220000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "World News : Trump wants more economic pressure : What are his options ? ",
         "url": "https://www.gdnonline.com:443/Details/1404196/Trump-wants-more-economic-pressure-What-are-his-options",
         "domain": "gdnonline.com",
@@ -71,21 +62,21 @@
         "source": "GDELT"
       },
       {
+        "title": "General Licence 61 Eases Venezuela Telecom Rules",
+        "url": "https://www.riotimesonline.com/us-eases-venezuela-telecom-sanctions-with-general-licence-61/",
+        "domain": "riotimesonline.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T220000Z",
+        "source": "GDELT"
+      },
+      {
         "title": "Iran defiant over US economic sanctions",
         "url": "http://europe.chinadaily.com.cn/a/202608/22/WS6a88e023a3106bc57421cd7a.html",
         "domain": "europe.chinadaily.com.cn",
         "language": "English",
         "tone": 0,
         "seendate": "20260822T084500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "伊朗 ： 若爆发新冲突 ， 将投入使用更为先进武器装备 ， 武装部队为导弹安装的新弹头破坏性将远超以往",
-        "url": "https://baijiahao.baidu.com/s?id=1874183440954322027",
-        "domain": "baijiahao.baidu.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260822T064500Z",
         "source": "GDELT"
       },
       {
@@ -104,15 +95,6 @@
         "language": "Chinese",
         "tone": 0,
         "seendate": "20260822T183000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Експорт мазуту з Росії у липні - падіння через удари по НПЗ та ринки збуту",
-        "url": "https://zn.ua/ukr/WORLD/u-lipni-saudivska-aravija-stala-holovnim-pokuptsem-mazutu-z-rf-reuters.html",
-        "domain": "zn.ua",
-        "language": "Ukrainian",
-        "tone": 0,
-        "seendate": "20260822T040000Z",
         "source": "GDELT"
       },
       {
@@ -140,15 +122,6 @@
         "language": "Vietnamese",
         "tone": 0,
         "seendate": "20260822T143000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran dọa đáp trả biện pháp cấm vận của Mỹ bằng quân sự",
-        "url": "https://thanhnien.vn/iran-doa-dap-tra-bien-phap-cam-van-cua-my-bang-quan-su-185260822081242347.htm",
-        "domain": "thanhnien.vn",
-        "language": "Vietnamese",
-        "tone": 0,
-        "seendate": "20260822T031500Z",
         "source": "GDELT"
       },
       {
@@ -188,30 +161,21 @@
         "source": "GDELT"
       },
       {
-        "title": "Iran nói về ố phận  đòn trừng phạt kinh tế mới nhất mà ông Trump đe dọa áp đặt",
-        "url": "https://baomoi.com/iran-noi-ve-so-phan-don-trung-phat-kinh-te-moi-nhat-ma-ong-trump-de-doa-ap-dat-c55886824.epi",
-        "domain": "baomoi.com",
+        "title": "EE UU autoriza licencia para servicios e inversión en telecomunicaciones venezolanas – Correo del Caroní",
+        "url": "https://correodelcaroni.com/laboral-economia/ee-uu-autoriza-licencia-para-servicios-e-inversion-en-telecomunicaciones-venezolanas/",
+        "domain": "correodelcaroni.com",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260823T014500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Mỹ - Iran khẩu chiến trước thềm cấm vận",
+        "url": "https://thanhnien.vn/my-iran-khau-chien-truoc-them-cam-van-185260822215140955.htm",
+        "domain": "thanhnien.vn",
         "language": "Vietnamese",
         "tone": 0,
-        "seendate": "20260822T041500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "ప్రముఖ నటి షావుకారు జానకి కన్నుమూత | Veteran Actress Sowcar Janaki Passes Away at 94 After 75 Years in Cinema",
-        "url": "https://www.andhrajyothy.com/2026/national/veteran-actress-sowcar-janaki-passes-away-at-94-after-75-years-in-cinema-1551729.html",
-        "domain": "andhrajyothy.com",
-        "language": "Telugu",
-        "tone": 0,
-        "seendate": "20260822T041500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "En değerlisi Batrakov",
-        "url": "https://www.posta.com.tr/spor/en-degerlisi-batrakov-3030046",
-        "domain": "posta.com.tr",
-        "language": "Turkish",
-        "tone": 0,
-        "seendate": "20260822T044500Z",
+        "seendate": "20260823T004500Z",
         "source": "GDELT"
       },
       {
@@ -230,15 +194,6 @@
         "language": "Serbian",
         "tone": 0,
         "seendate": "20260822T163000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Petro sale de Colombia : Este será su primer viaje como expresidente ¿ a dónde va y por qué ? ",
-        "url": "https://www.publimetro.co/noticias/2026/08/22/petro-sale-de-colombia-este-sera-su-primer-viaje-como-expresidente-a-donde-va-y-por-que/",
-        "domain": "publimetro.co",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260822T053000Z",
         "source": "GDELT"
       },
       {
@@ -269,12 +224,21 @@
         "source": "GDELT"
       },
       {
-        "title": "Manajemen Sriwijaya FC Terus Berupaya Selesaikan Sanksi FIFA , Target Rampung Sebelum Liga 3 Dimulai",
-        "url": "https://palembang.tribunnews.com/superball/1326466/manajemen-sriwijaya-fc-terus-berupaya-selesaikan-sanksi-fifa-target-rampung-sebelum-liga-3-dimulai",
-        "domain": "palembang.tribunnews.com",
-        "language": "Indonesian",
+        "title": "Iran tuyên bố sẽ coi các nước tham gia cấm vận cùng Mỹ là kẻ thù",
+        "url": "https://thanhnien.vn/iran-tuyen-bo-se-coi-cac-nuoc-tham-gia-cam-van-cung-my-la-ke-thu-185260823071321081.htm",
+        "domain": "thanhnien.vn",
+        "language": "Vietnamese",
         "tone": 0,
-        "seendate": "20260822T031500Z",
+        "seendate": "20260823T004500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Cuba was never  next : The United States is betting on a slow suffocation of the Castro regime by 2029 | International",
+        "url": "https://english.elpais.com/international/2026-08-23/cuba-was-never-next-the-united-states-is-betting-on-a-slow-suffocation-of-the-castro-regime-by-2029.html",
+        "domain": "english.elpais.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T063000Z",
         "source": "GDELT"
       },
       {
@@ -296,21 +260,12 @@
         "source": "GDELT"
       },
       {
-        "title": "Iran Naik Pitam , Sebut Sanksi Baru AS Deklarasi Perang untuk Dunia",
-        "url": "https://www.kompas.com/global/read/2026/08/22/113500970/iran-naik-pitam-sebut-sanksi-baru-as-deklarasi-perang-untuk-dunia",
-        "domain": "kompas.com",
-        "language": "Indonesian",
+        "title": "허프포스트코리아",
+        "url": "https://www.huffingtonpost.kr:443/article/259772",
+        "domain": "huffingtonpost.kr",
+        "language": "Korean",
         "tone": 0,
-        "seendate": "20260822T051500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": " 【 伊朗危機 】 制裁伊朗川普要全世界選邊站 中國說不 貝森特這麼回",
-        "url": "https://n.yam.com/Article/20260822264646",
-        "domain": "n.yam.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260822T033000Z",
+        "seendate": "20260823T044500Z",
         "source": "GDELT"
       },
       {
@@ -329,33 +284,6 @@
         "language": "English",
         "tone": 0,
         "seendate": "20260822T110000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Антибаллистические санкции против России – Украина и ее партнеры ограничат производство ракет",
-        "url": "https://24tv.ua/ru/antiballisticheskie-sankcii-protiv-rossii-ukraina-ee-partnery_n3127917",
-        "domain": "24tv.ua",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T051500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "US - Iran Tensions Escalate as Trump Calls Strait of Hormuz  American Territory  and Warns Tehran on Nuclear Weapons",
-        "url": "https://gulfnews.com/world/mena/us-iran-tensions-trump-calls-hormuz-american-territory-warns-iran-on-nuclear-weapons-1.500648582",
-        "domain": "gulfnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T041500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Trump  ı açık açık tehdit ettiler : G kullanarak zorlayacağız",
-        "url": "https://www.bursadabugun.com/haber/trump-i-acik-acik-tehdit-ettiler-guc-kullanarak-zorlayacagiz-1943636.html",
-        "domain": "bursadabugun.com",
-        "language": "Turkish",
-        "tone": 0,
-        "seendate": "20260822T053000Z",
         "source": "GDELT"
       },
       {
@@ -383,60 +311,6 @@
         "language": "Chinese",
         "tone": 0,
         "seendate": "20260822T163000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "İrandan ABD yaptırımlarına sert tepki : ömürgecilik  uyarısı",
-        "url": "https://www.haberler.com/yerel/iran-dan-trump-in-kapsamli-ekonomik-yaptirim-20166047-haberi/",
-        "domain": "haberler.com",
-        "language": "Turkish",
-        "tone": 0,
-        "seendate": "20260822T023000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Ekonomik savaşa karşı Tahranda hazırlık",
-        "url": "https://www.birgun.net/haber/ekonomik-savasa-karsi-tahran-da-hazirlik-730528%20class=slide-legend-link%20target=_blank",
-        "domain": "birgun.net",
-        "language": "Turkish",
-        "tone": 0,
-        "seendate": "20260822T060000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Ekonomik savaşa karşı Tahranda hazırlık",
-        "url": "https://www.birgun.net/haber/ekonomik-savasa-karsi-tahran-da-hazirlik-730528%20target=_blank%20class=stretched-link",
-        "domain": "birgun.net",
-        "language": "Turkish",
-        "tone": 0,
-        "seendate": "20260822T030000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Ekonomik savaşa karşı Tahranda hazırlık",
-        "url": "https://www.birgun.net/haber/ekonomik-savasa-karsi-tahran-da-hazirlik-730528%20target=_blank",
-        "domain": "birgun.net",
-        "language": "Turkish",
-        "tone": 0,
-        "seendate": "20260822T060000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Ekonomik savaşa karşı Tahranda hazırlık",
-        "url": "https://www.birgun.net/haber/ekonomik-savasa-karsi-tahran-da-hazirlik-730528%20class=slide-link%20target=_blank",
-        "domain": "birgun.net",
-        "language": "Turkish",
-        "tone": 0,
-        "seendate": "20260822T060000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran sebut sanksi ekonomi baru AS pasti gagal",
-        "url": "https://www.antaranews.com/berita/5706385/iran-sebut-sanksi-ekonomi-baru-as-pasti-gagal",
-        "domain": "antaranews.com",
-        "language": "Indonesian",
-        "tone": 0,
-        "seendate": "20260822T054500Z",
         "source": "GDELT"
       },
       {
@@ -476,12 +350,138 @@
         "source": "GDELT"
       },
       {
+        "title": "Замысел Каллас против России вызвал возмущение в Финляндии",
+        "url": "https://ria.ru/20260823/kallas-2112599003.html",
+        "domain": "ria.ru",
+        "language": "Russian",
+        "tone": 0,
+        "seendate": "20260823T063000Z",
+        "source": "GDELT"
+      },
+      {
         "title": "İran , ABDyi açık açık tehdit etti : Onları g diliyle zorlayacağız",
         "url": "https://www.f5haber.com/dunya/iran-abdyi-acik-acik-tehdit-etti-onlari-guc-diliyle-zorlayacagiz-6964757",
         "domain": "f5haber.com",
         "language": "Turkish",
         "tone": 0,
         "seendate": "20260822T123000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Belum Selesaikan Pajak Kendaraan ? Manfaatkan Pembebasan Sanksi Sebelum 31 Agustus 2026",
+        "url": "https://www.liputan6.com/news/read/8266230/belum-selesaikan-pajak-kendaraan-manfaatkan-pembebasan-sanksi-sebelum-31-agustus-2026",
+        "domain": "liputan6.com",
+        "language": "Indonesian",
+        "tone": 0,
+        "seendate": "20260823T033000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran odbacio nove američke sankcije : Osuđene na propast i pokušaj nametanja autoriteta SAD",
+        "url": "https://naslovi.net/2026-08-22/insajder/iran-odbacio-nove-americke-sankcije-osudjene-na-propast-i-pokusaj-nametanja-autoriteta-sad/42255156",
+        "domain": "naslovi.net",
+        "language": "Bosnian",
+        "tone": 0,
+        "seendate": "20260822T163000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "China Pasang Badan untuk Iran ! Tolak Ancaman Sanksi Trump , Dorong Diplomasi",
+        "url": "https://www.tribunnews.com/internasional/7872387/china-pasang-badan-untuk-iran-tolak-ancaman-sanksi-trump-dorong-diplomasi",
+        "domain": "tribunnews.com",
+        "language": "Indonesian",
+        "tone": 0,
+        "seendate": "20260823T050000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Трамп прогласио Ормуз новом америчком територијом ; Техеран оштро реаговао на најаву нових санкција САД",
+        "url": "https://www.rts.rs/vesti/svet/6025022/tramp-proglasio-ormuz-novom-americkom-teritorijom-teheran-ostro-reagovao-na-najavu-novih-sankcija-sad.html",
+        "domain": "rts.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260823T063000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "All Anti - Iranian US Sanctions Failed - Iran Foreign Minister",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260821-sputnik01.htm",
+        "domain": "globalsecurity.org",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T154500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "ABD Başkanı Donald Trump : İran Uygun Anlaşmaya Hazır Değil",
+        "url": "https://sana.sy/tr/international/2318324/",
+        "domain": "sana.sy",
+        "language": "Turkish",
+        "tone": 0,
+        "seendate": "20260822T103000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran condemns US plans to announce new sanctions",
+        "url": "https://www.thenews.com.pk/latest/1413225-iran-condemns-us-plans-to-announce-new-sanctions",
+        "domain": "thenews.com.pk",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T163000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美伊制裁戰升溫 華府鎖定中共施壓德黑蘭 | 川普 | 伊朗 | 經濟制裁",
+        "url": "https://www.ntdtv.com/b5/2026/08/22/a104126377.html",
+        "domain": "ntdtv.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260822T193000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "華府祭新制裁前夕 美伊互相放話 | 國際 | 三立新聞網 SETN . COM",
+        "url": "https://www.setn.com/news/1893605",
+        "domain": "setn.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260822T084500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran Kecam Sanksi Ekonomi dari AS , Sebut Rusak Tatanan Global",
+        "url": "https://www.cnnindonesia.com/ekonomi/20260822150810-532-1395309/iran-kecam-sanksi-ekonomi-dari-as-sebut-rusak-tatanan-global",
+        "domain": "cnnindonesia.com",
+        "language": "Indonesian",
+        "tone": 0,
+        "seendate": "20260822T230000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "白俄羅斯記者遭捷克制裁 法院裁定曾效力俄情報局 | 國際",
+        "url": "https://www.cna.com.tw:443/news/aopl/202608220224.aspx",
+        "domain": "cna.com.tw",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260822T154500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "美促配合制裁伊朗 環時 ： 中國不會陪美國 「 胡鬧 」 | 國際 | 三立新聞網 SETN . COM",
+        "url": "https://www.setn.com/news/1893610",
+        "domain": "setn.com",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260822T163000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Trump warns of  economic D - Day  against Iran , but Tehran is well acquainted with sanctions",
+        "url": "https://www.latimes.com/world-nation/story/2026-08-21/trump-warns-of-economic-d-day-against-iran-but-tehran-is-well-acquainted-with-sanctions",
+        "domain": "latimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T180000Z",
         "source": "GDELT"
       }
     ],
@@ -589,15 +589,6 @@
       "source": "GDELT"
     },
     {
-      "title": "General Licence 61 Eases Venezuela Telecom Rules",
-      "url": "https://www.riotimesonline.com/us-eases-venezuela-telecom-sanctions-with-general-licence-61/",
-      "domain": "riotimesonline.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260822T220000Z",
-      "source": "GDELT"
-    },
-    {
       "title": "World News : Trump wants more economic pressure : What are his options ? ",
       "url": "https://www.gdnonline.com:443/Details/1404196/Trump-wants-more-economic-pressure-What-are-his-options",
       "domain": "gdnonline.com",
@@ -607,21 +598,21 @@
       "source": "GDELT"
     },
     {
+      "title": "General Licence 61 Eases Venezuela Telecom Rules",
+      "url": "https://www.riotimesonline.com/us-eases-venezuela-telecom-sanctions-with-general-licence-61/",
+      "domain": "riotimesonline.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260822T220000Z",
+      "source": "GDELT"
+    },
+    {
       "title": "Iran defiant over US economic sanctions",
       "url": "http://europe.chinadaily.com.cn/a/202608/22/WS6a88e023a3106bc57421cd7a.html",
       "domain": "europe.chinadaily.com.cn",
       "language": "English",
       "tone": 0,
       "seendate": "20260822T084500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "伊朗 ： 若爆发新冲突 ， 将投入使用更为先进武器装备 ， 武装部队为导弹安装的新弹头破坏性将远超以往",
-      "url": "https://baijiahao.baidu.com/s?id=1874183440954322027",
-      "domain": "baijiahao.baidu.com",
-      "language": "Chinese",
-      "tone": 0,
-      "seendate": "20260822T064500Z",
       "source": "GDELT"
     },
     {
@@ -640,15 +631,6 @@
       "language": "Chinese",
       "tone": 0,
       "seendate": "20260822T183000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Експорт мазуту з Росії у липні - падіння через удари по НПЗ та ринки збуту",
-      "url": "https://zn.ua/ukr/WORLD/u-lipni-saudivska-aravija-stala-holovnim-pokuptsem-mazutu-z-rf-reuters.html",
-      "domain": "zn.ua",
-      "language": "Ukrainian",
-      "tone": 0,
-      "seendate": "20260822T040000Z",
       "source": "GDELT"
     },
     {
@@ -679,15 +661,6 @@
       "source": "GDELT"
     },
     {
-      "title": "Iran dọa đáp trả biện pháp cấm vận của Mỹ bằng quân sự",
-      "url": "https://thanhnien.vn/iran-doa-dap-tra-bien-phap-cam-van-cua-my-bang-quan-su-185260822081242347.htm",
-      "domain": "thanhnien.vn",
-      "language": "Vietnamese",
-      "tone": 0,
-      "seendate": "20260822T031500Z",
-      "source": "GDELT"
-    },
-    {
       "title": "Иран частично открыл Ормузский пролив",
       "url": "https://aif.ru/politics/iran-chastichno-otkryl-ormuzskiy-proliv",
       "domain": "aif.ru",
@@ -703,6 +676,33 @@
       "language": "Spanish",
       "tone": 0,
       "seendate": "20260822T163000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": " 【 2026行李箱尺寸攻略 】 登機口免被罰 $800 ！ 13間航空公司手提 / 寄艙限制 ： 拆解全新 「 橫式量度架 」 避雷指南",
+      "url": "https://www.elle.com.hk/fashion/to-choose-the-best-luggage-2026-august",
+      "domain": "elle.com.hk",
+      "language": "Chinese",
+      "tone": 0,
+      "seendate": "20260822T121500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Nigeria : Ibrahim Puri rejoint le Conseil dadministration de UBA",
+      "url": "https://www.financialafrik.com/2026/08/22/nigeria-ibrahim-puri-rejoint-le-conseil-dadministration-de-uba/",
+      "domain": "financialafrik.com",
+      "language": "French",
+      "tone": 0,
+      "seendate": "20260822T161500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "EE UU autoriza licencia para servicios e inversión en telecomunicaciones venezolanas – Correo del Caroní",
+      "url": "https://correodelcaroni.com/laboral-economia/ee-uu-autoriza-licencia-para-servicios-e-inversion-en-telecomunicaciones-venezolanas/",
+      "domain": "correodelcaroni.com",
+      "language": "Spanish",
+      "tone": 0,
+      "seendate": "20260823T014500Z",
       "source": "GDELT"
     }
   ],
