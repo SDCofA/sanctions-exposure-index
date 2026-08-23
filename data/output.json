@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-08-23T12:59:14.789114+00:00",
+    "generated": "2026-08-23T18:43:19.848044+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "45",
+      "value": "48",
       "delta": "deduplicated"
     },
     {
@@ -53,6 +53,15 @@
         "source": "GDELT"
       },
       {
+        "title": "Trump options as he prepares to increase economic pressure on Iran",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-906334",
+        "domain": "jpost.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T181500Z",
+        "source": "GDELT"
+      },
+      {
         "title": "Trump wants more economic pressure on Iran . What are his options ? ",
         "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/22/explainer-trump-wants-more-economic-pressure-on-iran-what-are-his-options",
         "domain": "internazionale.it",
@@ -77,6 +86,15 @@
         "language": "English",
         "tone": 0,
         "seendate": "20260822T220000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Jenec : the limits of automatic de - risking in EU banking law",
+        "url": "https://cyprus-mail.com/2026/08/23/jenec-the-limits-of-automatic-de-risking-in-eu-banking-law",
+        "domain": "cyprus-mail.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T144500Z",
         "source": "GDELT"
       },
       {
@@ -107,24 +125,6 @@
         "source": "GDELT"
       },
       {
-        "title": "Children are dying ! ",
-        "url": "https://kaieteurnewsonline.com/2026/08/22/children-are-dying/",
-        "domain": "kaieteurnewsonline.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T143000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "重启军演 、 开放中国援建基地 ， 美国 ， 柬埔寨为何突然走近 ? 时坛昨天还有爱党爱国人士一厢情愿的意淫 ， 东盟倒向中国 。。。 - amico发表于 时事述评 - 论坛",
-        "url": "https://bbs.wenxuecity.com/currentevent/4055508.html",
-        "domain": "bbs.wenxuecity.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260822T183000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Trumptan İrana Amerikan klasiği : Petrolü kes , parayı dondur , sonucu bekle - Son Dakika Dünya Haberleri",
         "url": "https://www.haberturk.com/dunya/trumptan-irana-amerikan-klasigi-petrolu-kes-parayi-dondur-sonucu-bekle-3907464",
         "domain": "haberturk.com",
@@ -134,12 +134,12 @@
         "source": "GDELT"
       },
       {
-        "title": "EE . UU . señala a Ecuador como el principal punto de partida de la cocaína en Sudamérica",
-        "url": "https://www.telesurtv.net/senala-ecuador-principal-cocaina-sudamerica/",
-        "domain": "telesurtv.net",
-        "language": "Spanish",
+        "title": "Πόλεμος στο Ιράν : Η « κίνηση - ματ » του Τραμπ , το μεγάλο ερώτημα για την Κίνα και ο κίνδυνος για την Ελλάδα",
+        "url": "https://www.tanea.gr/print/2026/08/23/world/polemos-sto-iran-i-kinisi-mat-tou-tramp-to-megalo-erotima-gia-tin-kina-kai-o-kindynos-gia-tin-ellada/",
+        "domain": "tanea.gr",
+        "language": "Greek",
         "tone": 0,
-        "seendate": "20260822T213000Z",
+        "seendate": "20260823T134500Z",
         "source": "GDELT"
       },
       {
@@ -152,12 +152,21 @@
         "source": "GDELT"
       },
       {
-        "title": "Cướp biển Somalia chiếm giữ tàu dầu ngoài khơi Yemen",
-        "url": "https://thanhnien.vn/cuop-bien-somalia-chiem-giu-tau-dau-ngoai-khoi-yemen-185260822195811154.htm",
-        "domain": "thanhnien.vn",
-        "language": "Vietnamese",
+        "title": "EE . UU . señala a Ecuador como el principal punto de partida de la cocaína en Sudamérica",
+        "url": "https://www.telesurtv.net/senala-ecuador-principal-cocaina-sudamerica/",
+        "domain": "telesurtv.net",
+        "language": "Spanish",
         "tone": 0,
-        "seendate": "20260822T143000Z",
+        "seendate": "20260822T213000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "KKTC İnsan Hakları Derneğinden Cumhurbaşkanı ve Hükümete çağrı - Kıbrıs Gazetesi - Kıbrıs Haber , KKTC Son Dakika ve Gündem Haberleri",
+        "url": "https://kibrisgazetesi.com/kktc-insan-haklari-derneginden-cumhurbaskani-ve-hukumete-cagri/",
+        "domain": "kibrisgazetesi.com",
+        "language": "Turkish",
+        "tone": 0,
+        "seendate": "20260823T173000Z",
         "source": "GDELT"
       },
       {
@@ -170,21 +179,12 @@
         "source": "GDELT"
       },
       {
-        "title": "Inicio | Periódico CiudadCCS",
-        "url": "http://www.ciudadccs.info/publicacion/48958-eeuu-senala-a-ecuador-como-principal-salida-de-cocaina-en-suramerica",
-        "domain": "ciudadccs.info",
-        "language": "Spanish",
+        "title": "పెళ్లికి తొలగిన అడ్డంకులు ! భారత్‌కు 150 మంది పాకిస్థానీ సింధీ యువతులు | pakistani sindhi women arrive india visas marriages operation sindoor pcs",
+        "url": "https://www.andhrajyothy.com/2026/international/pakistani-sindhi-women-arrive-india-visas-marriages-operation-sindoor-pcs-1552120.html",
+        "domain": "andhrajyothy.com",
+        "language": "Telugu",
         "tone": 0,
-        "seendate": "20260822T163000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Nigeria : Ibrahim Puri rejoint le Conseil dadministration de UBA",
-        "url": "https://www.financialafrik.com/2026/08/22/nigeria-ibrahim-puri-rejoint-le-conseil-dadministration-de-uba/",
-        "domain": "financialafrik.com",
-        "language": "French",
-        "tone": 0,
-        "seendate": "20260822T161500Z",
+        "seendate": "20260823T181500Z",
         "source": "GDELT"
       },
       {
@@ -206,84 +206,12 @@
         "source": "GDELT"
       },
       {
-        "title": "Ολοκληρώθηκε η Μπριγάδα Αλληλεγγύης της ΚΝΕ στην Κούβα",
-        "url": "https://www.902.gr/eidisi/neolaia-paideia/427042/oloklirothike-i-mprigada-allileggyis-tis-kne-stin-koyva",
-        "domain": "902.gr",
-        "language": "Greek",
-        "tone": 0,
-        "seendate": "20260822T131500Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Mỹ - Iran khẩu chiến trước thềm cấm vận",
         "url": "https://thanhnien.vn/my-iran-khau-chien-truoc-them-cam-van-185260822215140955.htm",
         "domain": "thanhnien.vn",
         "language": "Vietnamese",
         "tone": 0,
         "seendate": "20260823T004500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Арагчи и Багеи оштро о америчким санкцијама против Ирана",
-        "url": "https://www.politika.rs/scc/clanak/780251/aragci-i-bagei-ostro-o-americkim-sankcijama-protiv-irana",
-        "domain": "politika.rs",
-        "language": "Serbian",
-        "tone": 0,
-        "seendate": "20260822T163000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "허프포스트코리아",
-        "url": "https://www.huffingtonpost.kr:443/article/259772",
-        "domain": "huffingtonpost.kr",
-        "language": "Korean",
-        "tone": 0,
-        "seendate": "20260823T044500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Швейцария присоединилась к новому пакету санкций ЕС против России",
-        "url": "https://pronedra.ru/shvejczariya-prisoedinilas-k-novomu-paketu-sankczij-es-protiv-rossii-energetika-finansy-i-torgovlya-pod-ogranicheniyami-829447.html",
-        "domain": "pronedra.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T131500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "이란 , 美  역사상 최대 규모 경제 고립  예고에  불법 경제전쟁  반발",
-        "url": "https://www.fnnews.com/news/202608222029241754",
-        "domain": "fnnews.com",
-        "language": "Korean",
-        "tone": 0,
-        "seendate": "20260822T133000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Медведев рассказал об успехах России , достигнутых в условиях санкций",
-        "url": "https://russian.rt.com/world/news/1672913-medvedev-uspehi-rossii",
-        "domain": "russian.rt.com",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T143000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Teherani kundërshton sanksionet e propozuara nga SHBA - ja",
-        "url": "https://zeri.info/bota/634515/teherani-kundershton-sanksionet-e-propozuara-nga-shba-ja/",
-        "domain": "zeri.info",
-        "language": "Albanian",
-        "tone": 0,
-        "seendate": "20260822T143000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Cuba was never  next : The United States is betting on a slow suffocation of the Castro regime by 2029 | International",
-        "url": "https://english.elpais.com/international/2026-08-23/cuba-was-never-next-the-united-states-is-betting-on-a-slow-suffocation-of-the-castro-regime-by-2029.html",
-        "domain": "english.elpais.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260823T063000Z",
         "source": "GDELT"
       },
       {
@@ -296,30 +224,39 @@
         "source": "GDELT"
       },
       {
+        "title": "허프포스트코리아",
+        "url": "https://www.huffingtonpost.kr:443/article/259772",
+        "domain": "huffingtonpost.kr",
+        "language": "Korean",
+        "tone": 0,
+        "seendate": "20260823T044500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Cuba was never  next : The United States is betting on a slow suffocation of the Castro regime by 2029 | International",
+        "url": "https://english.elpais.com/international/2026-08-23/cuba-was-never-next-the-united-states-is-betting-on-a-slow-suffocation-of-the-castro-regime-by-2029.html",
+        "domain": "english.elpais.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T063000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Iran tuyên bố xem các nước hỗ trợ cấm vận cùng Mỹ là  kẻ thù  ",
+        "url": "https://baomoi.com/iran-tuyen-bo-xem-cac-nuoc-ho-tro-cam-van-cung-my-la-ke-thu-c55894420.epi",
+        "domain": "baomoi.com",
+        "language": "Vietnamese",
+        "tone": 0,
+        "seendate": "20260823T070000Z",
+        "source": "GDELT"
+      },
+      {
         "title": "川普擬加大對伊朗經濟壓力 專家分析可行選項一次看 | 國際",
         "url": "https://www.cna.com.tw:443/news/aopl/202608230176.aspx",
         "domain": "cna.com.tw",
         "language": "Chinese",
         "tone": 0,
         "seendate": "20260823T120000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Медведев о противостоянии РФ санкциям : эти достижения нужно закрепить",
-        "url": "https://www.vesti.ru/ns/medvedev-o-protivostoyanii-rf-sankciyam-ehti-dostizheniya-nuzhno-zakrepit",
-        "domain": "vesti.ru",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T144500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "赤根智子被美俄制裁日本反应为何不同 双标态度引争议 _ 军事频道 _ 中华网",
-        "url": "https://military.china.com/news/13004177/20260822/49692503.html",
-        "domain": "military.china.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260822T163000Z",
         "source": "GDELT"
       },
       {
@@ -341,48 +278,12 @@
         "source": "GDELT"
       },
       {
-        "title": "美伊进入经济战 中东局势何去何从 经济制裁成博弈主线 _ 新闻频道 _ 中华网",
-        "url": "https://news.china.com/socialgd/10000169/20260822/49692525.html",
-        "domain": "news.china.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260822T163000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Belum Selesaikan Pajak Kendaraan ? Manfaatkan Pembebasan Sanksi Sebelum 31 Agustus 2026",
         "url": "https://www.liputan6.com/news/read/8266230/belum-selesaikan-pajak-kendaraan-manfaatkan-pembebasan-sanksi-sebelum-31-agustus-2026",
         "domain": "liputan6.com",
         "language": "Indonesian",
         "tone": 0,
         "seendate": "20260823T033000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Медведев : успехи России в условиях санкций нужно закрепить",
-        "url": "https://russian.rt.com/world/news/1672915-uspehi-rossii-sankcii",
-        "domain": "russian.rt.com",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T143000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Медведев отметил успехи России в период санкций",
-        "url": "https://ura.news/news/1053120584",
-        "domain": "ura.news",
-        "language": "Russian",
-        "tone": 0,
-        "seendate": "20260822T160000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "China Pasang Badan untuk Iran ! Tolak Ancaman Sanksi Trump , Dorong Diplomasi",
-        "url": "https://www.tribunnews.com/internasional/7872387/china-pasang-badan-untuk-iran-tolak-ancaman-sanksi-trump-dorong-diplomasi",
-        "domain": "tribunnews.com",
-        "language": "Indonesian",
-        "tone": 0,
-        "seendate": "20260823T050000Z",
         "source": "GDELT"
       },
       {
@@ -395,12 +296,12 @@
         "source": "GDELT"
       },
       {
-        "title": "Iran odbacio nove američke sankcije : Osuđene na propast i pokušaj nametanja autoriteta SAD - Povezane vesti",
-        "url": "https://naslovi.net/tema/2557706",
-        "domain": "naslovi.net",
-        "language": "Serbian",
+        "title": "China Pasang Badan untuk Iran ! Tolak Ancaman Sanksi Trump , Dorong Diplomasi",
+        "url": "https://www.tribunnews.com/internasional/7872387/china-pasang-badan-untuk-iran-tolak-ancaman-sanksi-trump-dorong-diplomasi",
+        "domain": "tribunnews.com",
+        "language": "Indonesian",
         "tone": 0,
-        "seendate": "20260822T163000Z",
+        "seendate": "20260823T050000Z",
         "source": "GDELT"
       },
       {
@@ -413,51 +314,6 @@
         "source": "GDELT"
       },
       {
-        "title": "Iran odbacio nove američke sankcije : Osuđene na propast i pokušaj nametanja autoriteta SAD",
-        "url": "https://naslovi.net/2026-08-22/insajder/iran-odbacio-nove-americke-sankcije-osudjene-na-propast-i-pokusaj-nametanja-autoriteta-sad/42255156",
-        "domain": "naslovi.net",
-        "language": "Bosnian",
-        "tone": 0,
-        "seendate": "20260822T163000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran tuyên bố xem các nước hỗ trợ cấm vận cùng Mỹ là  kẻ thù  ",
-        "url": "https://baomoi.com/iran-tuyen-bo-xem-cac-nuoc-ho-tro-cam-van-cung-my-la-ke-thu-c55894420.epi",
-        "domain": "baomoi.com",
-        "language": "Vietnamese",
-        "tone": 0,
-        "seendate": "20260823T070000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "İrandan ABDye yaptırım tepkisi : Bu filmi daha önce gördük",
-        "url": "https://www.sabah.com.tr/dunya/irandan-abdye-yaptirim-tepkisi-bu-filmi-daha-once-gorduk-7646463",
-        "domain": "sabah.com.tr",
-        "language": "Turkish",
-        "tone": 0,
-        "seendate": "20260823T050000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "All Anti - Iranian US Sanctions Failed - Iran Foreign Minister",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260821-sputnik01.htm",
-        "domain": "globalsecurity.org",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T154500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Iran condemns US plans to announce new sanctions",
-        "url": "https://www.thenews.com.pk/latest/1413225-iran-condemns-us-plans-to-announce-new-sanctions",
-        "domain": "thenews.com.pk",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T163000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "美伊制裁戰升溫 華府鎖定中共施壓德黑蘭 | 川普 | 伊朗 | 經濟制裁",
         "url": "https://www.ntdtv.com/b5/2026/08/22/a104126377.html",
         "domain": "ntdtv.com",
@@ -467,21 +323,165 @@
         "source": "GDELT"
       },
       {
-        "title": "Iran Kecam Sanksi Ekonomi dari AS , Sebut Rusak Tatanan Global",
-        "url": "https://www.cnnindonesia.com/ekonomi/20260822150810-532-1395309/iran-kecam-sanksi-ekonomi-dari-as-sebut-rusak-tatanan-global",
-        "domain": "cnnindonesia.com",
-        "language": "Indonesian",
+        "title": "美國祭制裁措施 伊朗外長譏黔驢技窮 - 國際 - 自由時報電子報",
+        "url": "https://news.ltn.com.tw/news/world/breakingnews/5549815",
+        "domain": "news.ltn.com.tw",
+        "language": "Chinese",
         "tone": 0,
-        "seendate": "20260822T230000Z",
+        "seendate": "20260823T150000Z",
         "source": "GDELT"
       },
       {
-        "title": "Vi phạm về bảo vệ dữ liệu cá nhân bị phạt tới 70 triệu đồng",
-        "url": "https://www.tinnhanhchungkhoan.vn/vi-pham-ve-bao-ve-du-lieu-ca-nhan-bi-phat-toi-70-trieu-dong-post396353.html",
-        "domain": "tinnhanhchungkhoan.vn",
-        "language": "Vietnamese",
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://wilm.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "wilm.iheart.com",
+        "language": "English",
         "tone": 0,
-        "seendate": "20260823T063000Z",
+        "seendate": "20260823T171500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://newsradio540.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "newsradio540.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T171500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://wiod.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "wiod.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T171500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://945wpti.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "945wpti.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T171500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran | Talk Radio 105 . 9",
+        "url": "https://knrs.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "knrs.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T174500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://whnz.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "whnz.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T174500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://720thevoice.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "720thevoice.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T174500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://wsfcam.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "wsfcam.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T171500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://newsradio710.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "newsradio710.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T171500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://55krc.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "55krc.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T171500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://whyn.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "whyn.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://wtkg.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "wtkg.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://wsyr.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "wsyr.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://943wsc.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "943wsc.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://kste.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "kste.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran",
+        "url": "https://knst.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "knst.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T181500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "U . S . To Impose Tough New Economic Sanctions On Iran | Newsradio 970 KFBX - AM",
+        "url": "https://970kfbx.iheart.com/content/2026-08-23-us-to-impose-tough-new-economic-sanctions-on-iran/",
+        "domain": "970kfbx.iheart.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260823T181500Z",
         "source": "GDELT"
       }
     ],
@@ -589,6 +589,15 @@
       "source": "GDELT"
     },
     {
+      "title": "Trump options as he prepares to increase economic pressure on Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-906334",
+      "domain": "jpost.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260823T181500Z",
+      "source": "GDELT"
+    },
+    {
       "title": "Trump wants more economic pressure on Iran . What are his options ? ",
       "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/22/explainer-trump-wants-more-economic-pressure-on-iran-what-are-his-options",
       "domain": "internazionale.it",
@@ -613,6 +622,15 @@
       "language": "English",
       "tone": 0,
       "seendate": "20260822T220000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Jenec : the limits of automatic de - risking in EU banking law",
+      "url": "https://cyprus-mail.com/2026/08/23/jenec-the-limits-of-automatic-de-risking-in-eu-banking-law",
+      "domain": "cyprus-mail.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260823T144500Z",
       "source": "GDELT"
     },
     {
@@ -643,24 +661,6 @@
       "source": "GDELT"
     },
     {
-      "title": "Children are dying ! ",
-      "url": "https://kaieteurnewsonline.com/2026/08/22/children-are-dying/",
-      "domain": "kaieteurnewsonline.com",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260822T143000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "重启军演 、 开放中国援建基地 ， 美国 ， 柬埔寨为何突然走近 ? 时坛昨天还有爱党爱国人士一厢情愿的意淫 ， 东盟倒向中国 。。。 - amico发表于 时事述评 - 论坛",
-      "url": "https://bbs.wenxuecity.com/currentevent/4055508.html",
-      "domain": "bbs.wenxuecity.com",
-      "language": "Chinese",
-      "tone": 0,
-      "seendate": "20260822T183000Z",
-      "source": "GDELT"
-    },
-    {
       "title": "Trumptan İrana Amerikan klasiği : Petrolü kes , parayı dondur , sonucu bekle - Son Dakika Dünya Haberleri",
       "url": "https://www.haberturk.com/dunya/trumptan-irana-amerikan-klasigi-petrolu-kes-parayi-dondur-sonucu-bekle-3907464",
       "domain": "haberturk.com",
@@ -670,12 +670,12 @@
       "source": "GDELT"
     },
     {
-      "title": "EE . UU . señala a Ecuador como el principal punto de partida de la cocaína en Sudamérica",
-      "url": "https://www.telesurtv.net/senala-ecuador-principal-cocaina-sudamerica/",
-      "domain": "telesurtv.net",
-      "language": "Spanish",
+      "title": "Πόλεμος στο Ιράν : Η « κίνηση - ματ » του Τραμπ , το μεγάλο ερώτημα για την Κίνα και ο κίνδυνος για την Ελλάδα",
+      "url": "https://www.tanea.gr/print/2026/08/23/world/polemos-sto-iran-i-kinisi-mat-tou-tramp-to-megalo-erotima-gia-tin-kina-kai-o-kindynos-gia-tin-ellada/",
+      "domain": "tanea.gr",
+      "language": "Greek",
       "tone": 0,
-      "seendate": "20260822T213000Z",
+      "seendate": "20260823T134500Z",
       "source": "GDELT"
     },
     {
@@ -688,21 +688,21 @@
       "source": "GDELT"
     },
     {
-      "title": "Cướp biển Somalia chiếm giữ tàu dầu ngoài khơi Yemen",
-      "url": "https://thanhnien.vn/cuop-bien-somalia-chiem-giu-tau-dau-ngoai-khoi-yemen-185260822195811154.htm",
-      "domain": "thanhnien.vn",
-      "language": "Vietnamese",
+      "title": "EE . UU . señala a Ecuador como el principal punto de partida de la cocaína en Sudamérica",
+      "url": "https://www.telesurtv.net/senala-ecuador-principal-cocaina-sudamerica/",
+      "domain": "telesurtv.net",
+      "language": "Spanish",
       "tone": 0,
-      "seendate": "20260822T143000Z",
+      "seendate": "20260822T213000Z",
       "source": "GDELT"
     },
     {
-      "title": "EE UU autoriza licencia para servicios e inversión en telecomunicaciones venezolanas – Correo del Caroní",
-      "url": "https://correodelcaroni.com/laboral-economia/ee-uu-autoriza-licencia-para-servicios-e-inversion-en-telecomunicaciones-venezolanas/",
-      "domain": "correodelcaroni.com",
-      "language": "Spanish",
+      "title": "KKTC İnsan Hakları Derneğinden Cumhurbaşkanı ve Hükümete çağrı - Kıbrıs Gazetesi - Kıbrıs Haber , KKTC Son Dakika ve Gündem Haberleri",
+      "url": "https://kibrisgazetesi.com/kktc-insan-haklari-derneginden-cumhurbaskani-ve-hukumete-cagri/",
+      "domain": "kibrisgazetesi.com",
+      "language": "Turkish",
       "tone": 0,
-      "seendate": "20260823T014500Z",
+      "seendate": "20260823T173000Z",
       "source": "GDELT"
     }
   ],
