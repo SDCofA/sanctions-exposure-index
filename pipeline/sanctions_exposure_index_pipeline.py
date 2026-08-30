@@ -52,7 +52,7 @@ def extract_live_data(config):
 def retain_previous(live, previous):
     notes = []
     previous_live = previous.get("live_data") or {}
-    for key in ("news_articles"):
+    for key in ("news_articles",):
         if not live.get("news_articles") and previous_live.get(key):
             live["news_articles"] = previous_live[key][:SNAPSHOT_SIZE]
             notes.append("News feed unavailable; retained last validated snapshot.")
