@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-08-31T05:21:25.861767+00:00",
+    "generated": "2026-08-31T13:33:04.601748+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "28",
+      "value": "38",
       "delta": "deduplicated"
     },
     {
@@ -44,21 +44,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Opinion | Trump’s New Iran Sanctions Put China on Notice",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenZaZ0ktV3IxSWFQRXhUOHpvb3gtVmZHcTJ6TTdaMnNJcU5VRnFVWWUxWDRjYlpWOE9Tek9OOF96VE5lR3NNS1BsWVQ2bGNPQUJVTXpTc1NtRmpqbWEzblI1MVFGbktxZFRrMm80Zmxza2M2UlM4WVVFUGl0bG95VUVVdzVNMXdad2c?oc=5",
-        "domain": "wsj",
+        "title": "Iran’s economy in crisis as US launches new sanctions campaign",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXBZc1p2Yk1MYWRkNVlnbU5PTUlPWHFxSVptMEp5V3dBVk4wWm9VMmY4R2M3c1NuMzB4eko2SW11cmtrNF9VRkduWExoQ2x4VnVIZEhWeXQwXzNYQWwzanU0UWVWY0FDS0g0TVBPbkpvVTVpM0RlaW1YWHZHRUFMWUhBMjB1WjF0UmRxSTlIUy1CeEpHOU1NSDJVbDl2TEYzMWNVXy1uTQ?oc=5",
+        "domain": "theguardian",
         "language": "",
         "tone": 0,
-        "seendate": "20260830T163100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Sen. Blumenthal urges House to pass Russia sanctions bill amid a \"moment of extreme urgency\" in Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkpFRnhMc0VpNl9mWXlfT2JWczJ5TF80dnNrd3lSY2YxaHBfNU4zcGxKaDZ6dlpYVkNkU3YxZTlqMUdvazZaLVYwb2JwREc0QXBBdkU2b0JlU2NOeGZIQmxpSGdLNE1DckI5TGZwTnlfYkJGbGtjWXAyQnhvdzdRaTEyVm5wRGxZNW03SmhBS2swbl92cEVQenV3aVBuV0U?oc=5",
-        "domain": "cbsnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260830T171717Z",
+        "seendate": "20260831T130100Z",
         "source": "GoogleNews"
       },
       {
@@ -71,84 +62,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Iran Sanctions: Operation Economic Outcast Auctions Dollar Access",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHFpRzVXakR1MHotRWxnZU95azhldGZmZGxSOFlaU0Jzc1pXekxVSDFhV181SnctbXFiSE91dzhoNFZPNmVYeGUtZ05zNDJuWGRUM0JmYkM4bnRzbFBlY0RVcWJYdW9Hb0l0aW9KTXN4WV9PRXZOQWV2WE1kbzJqVmVHY0h6UC1FYmswX3UyUVZNeHBMcjFKRDFxblBEUFhNdng4WmNWc1Z3R1FoWEE5NTVWSGxraVVl?oc=5",
-        "domain": "forbes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260830T222042Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Banque Misr, Egypt’s second-largest bank, hit by US sanctions: What to know",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVpaa01NWVFQODM2OUxJVE5tSnJSUlhmekJCMDhtTDBxSm9MTmZlV2RDU2w1N2VOaG9id0hrRDFWV2NWR1RnckFuRHZKbkJBMGN5clMwd2l1MnAzVEpEZU45MXZiNGppc1lzTV82bEhJQ0QtUk11ZW1ZaFc4ZDF3OGhFNW9uMVhiRWFOTC1EU1lRRkg1NWpLWWgyM055anJZazY5VlNvYVI1cjjSAbABQVVfeXFMT1RONi1CZGtoZHBkQVJBQVJ5bl8tTzQxN21ibzVBYld1a2VjNlR2dURXai1NVUJvVTlxalBKUmpoTWJqU3J6NlFHcEFHcUNHYVN4YTZzVXNPbGstXzUxcGVNcmJReXRvZDBRTTNkbUZjQzBaMWY0NDA3dlE5djFBMnhldjNmWUxPMHdnc3FHWkw3bllaODRiTVZEMTJBQng3YkpEZ0JhWWVyc01vVWNnUEU?oc=5",
-        "domain": "aljazeera",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260830T132839Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. plans to sanction another bank in effort to clamp down on Iran transactions: Bessent",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT3hzbEZHU21JLU4tTkpPcUhRbXJ1eHFOYzY5WjZTSVZpQjZ3WnFQRzdvREJmUTdzbVllc2Q3SVc4a1pDWkJ5UEpwMk1naExrWTJDOFY1RDFCQ29wNXFLWTFDejlVb1NWZjZqdjRRaWF1WWJHeW5idVU5Nm1tOGlyRldR0gGHAUFVX3lxTE1nVEVvQ09qbE83QW92RFNsemxsVTNUMFBnMFVTck9rYTBybWpJaEhoYUZLTjBsUG9YVjBoS2tpVWJYMmNCX3FrSFQ4SHlqNGlSX0JIX1lYZ3JtOEF1VGNGeUhXWW8wZlQtTnN6YUhaS204eEsxc1JZN0RMeTJrMjJJV2JXVEJVVQ?oc=5",
+        "title": "U.S.-Iran escalation shows Washington's frustration with slow-moving sanctions",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1lNZXI5eWJuTWZPcE95TVZUdFZrS0p5T3VhVEt3QUc0SVNSd204ZjF0c3VFeFlmay14TVlRclJ4TnNvbVAzSzhDUnhrbzNUcjQ3MzBkejgyelJnRVViSE5iX2hral9lSy0wRHpjb0doMEIyQ2JYTFJtZl8tOThoMDJYSEo3WllzeVpHenVSM3ZJSDNyekhmRNIBngFBVV95cUxNUkVKM2FfNkRva3JPQ1lvZVlUWHRGR2xhOU9hZ1MzMmN2OTQ1SVdkb08xaWwtTWVYNWhsMlNBUDhUdTFYVUpDNExIU3VuTjF3bTUtUXJWZGVNNXhrNW9QclZ1T3djSnl5T3hSN2lnZXk3ZmUwU2dRS0YyNEZSeng1YjBzM3QwR3ZXRnk2ZFByeVJFV0Y3MjBXRG00c1h0dw?oc=5",
         "domain": "cnbc",
         "language": "",
         "tone": 0,
-        "seendate": "20260830T215402Z",
+        "seendate": "20260831T065911Z",
         "source": "GoogleNews"
       },
       {
-        "title": "U.A.E. To Review Banque Misr, Targeted by Iran Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREZxa3JwYmZBSFp1V0xhbV9xdTZ5TGRXTm40T2RBRkoxSFZkWFpUd200Umd3dVpJajVwdmthQkNGc1loZmFHMUdoZW1HWUVTbzhwZkhxQ3pnd2lUYk1COVNyYWRVMGVqMTJUQXJuUUdrbGRHbEFzSVdKWVhpdnVFWmt4OFpZRDlKTlItb3hISQ?oc=5",
-        "domain": "thenewyorktimes",
+        "title": "Opinion | Trump’s New Iran Sanctions Put China on Notice",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenZaZ0ktV3IxSWFQRXhUOHpvb3gtVmZHcTJ6TTdaMnNJcU5VRnFVWWUxWDRjYlpWOE9Tek9OOF96VE5lR3NNS1BsWVQ2bGNPQUJVTXpTc1NtRmpqbWEzblI1MVFGbktxZFRrMm80Zmxza2M2UlM4WVVFUGl0bG95VUVVdzVNMXdad2c?oc=5",
+        "domain": "wsj",
         "language": "",
         "tone": 0,
-        "seendate": "20260830T144915Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "World Mostly Shrugs Off Bessent’s Iran Sanctions Warnings",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUFrM2N3M2Z6VlVKNEM1SHRjR1kxTmsySTY2UXluSFJtSWd6N2FVWnRicmh2VGQ5RnkycVRiZ1NFSndJS1dwc3NvcDFXdjM0Q0pUYlVxemxWakNqNGFiTzdOSkVDTzNlcUlBckNMNFZhdEF4NmpIakVRcXVMN2E3VXYxeVpNaWd4Nmw4ZTREaXZIenh6dDZPX3ItSElQQm9EVVFIMXItZEtEN0NsS0QtVzJR?oc=5",
-        "domain": "bloomberg.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260830T125043Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "America’s new sanctions are unlikely to topple Iran’s regime",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORUE1SmtBM3pFeUdSMDd1cXRqWTlhUkUwMHptVVdIcTBZQTFtcGJYYW56Rkk4cVUyYnVoUUNBajRwcU1vTkNpTDVOcE1DMktCN2N1MGxKb2lvVmVBaVZ1S3lQUnhISHlJd0JNRE41MXpDNWZPNmUyOU8wRjJ1ekxfYlhNdE9MY3lQRVo1Q0RWSGlfN3NVY0YyODJicHZyZjZiWHJXTFZ3?oc=5",
-        "domain": "theeconomist",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T140218Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. targets Egyptian bank's UAE branches under new push for Iran's economic isolation",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmFCMWdabmQ0UFFzTTZ1SDhKdnE0Mk1hZzZzMUVTU0VMd2NEM25SU2dEWWZhMEs1c2RINlgwTlpWOXpDUGFGTEtWQ3dfaGVFYnBjTk1BVG5yb3BUcXZjdFJ3TXJ0ZGR6ejBPWTZRemVfVzlCdUpLeFlZNm1IRmhRbGpuQXZzeXpOT0FhYndUN1RDNlA3Uzd6MElZM2tleE1ncHFlM2drTHA2YmJPWjFtQ19OTkIxd2RIS3fSAb8BQVVfeXFMT0hMWmlmbVphQ0tPTjFKZm9maklTY2NnYmZfWXhNU01odjJlbjluQTZTOTBzVFBPYVRnanpyWkNENE84VUpkTUREVWthZ2p4WlpNYU8tdFFyci1HZk9kNUg2dEVfV1dMd1RPM19FbWo1aXRCeHBudnRxMDJCbWhqREs2LVBiem5VdDNhLTBEckg4dUhEM0N3cWR3ZFdmUS1YckZqcTBSM1VER2lrRkFBUlVrZGlLX2dYY3AxRGlLSEU?oc=5",
-        "domain": "pbs",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260828T182759Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Senator Blumenthal urges House to pass Russia sanctions bill",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlF4RWpubW9LMjFGZkhDNTg1MHMydldST0FLWWxGSlE5cUhfVmFBZ1p6cUxvMUJqZHJucmpoLVhIRk5LV0c2MWt4TV9FcUFVOTIxMW9vQ1N4b1VpSEhWQXFqR19uT3lZRklkWHRFSkdscnhXcFFEckJqMDQzSXYzRWRmS2JGYTAxOTVfNXRQUnNESXBCeWZ1VXBiempzdTVhYVB2azhyWl84bFVBaWNBaVRpTEJyd9IBuwFBVV95cUxQa2Fid3B1OUVXME1hSFh1OXBkcGtYMjhmbVFWUzFTOVVsZ1FuVjNjcEJiZDducVpHVUQ2SGhhNUY4Wm91a1hLS1BKUEVLNC1LTGhkU2hvX004UE81V0EtU2t1NzhhY2UzX1JscHBJOVRBY3BMX1BJcnlwa1lKNzRvMlB0eXpwblZCZkxjN3hEeHNrRTRlMTBFamFwdmZwMzE4dkhqdTQ5YzVPem1zaGxCWHE4RVFiUzcxZDRn?oc=5",
-        "domain": "ukrinform",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260831T040800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ncnpsVHhadTQwc3Z0ZGlDX0RIZ0dOY3U2WWtyYU93TDcycXY2eW9POHFCcEpna0h2Y1MyZlM2MnNkVVpBelB3QVFuUDF6U3NiRlNXNG1NT0d6ZVFpYm95QnBLNnREWDFjYVE?oc=5",
-        "domain": "axios",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260826T060941Z",
+        "seendate": "20260830T163100Z",
         "source": "GoogleNews"
       },
       {
@@ -161,6 +89,141 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Sen. Blumenthal urges House to pass Russia sanctions bill amid a \"moment of extreme urgency\" in Ukraine",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkpFRnhMc0VpNl9mWXlfT2JWczJ5TF80dnNrd3lSY2YxaHBfNU4zcGxKaDZ6dlpYVkNkU3YxZTlqMUdvazZaLVYwb2JwREc0QXBBdkU2b0JlU2NOeGZIQmxpSGdLNE1DckI5TGZwTnlfYkJGbGtjWXAyQnhvdzdRaTEyVm5wRGxZNW03SmhBS2swbl92cEVQenV3aVBuV0U?oc=5",
+        "domain": "cbsnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260830T171717Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
+        "domain": "apnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260830T233000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How Iran and Russia Trade Nuclear and Drone Technology to Bypass Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1RWM0JRVnJwdHE3d2NUOHNDU0QxTHZyalMyNDlXclVORnVaOG5EVHJydUtWRE5NQkpkdUppRDFhaEpucU1fNk9aUlhJYVg2TFNRcG8teFJobV92SkNWMHFpT2IxTUpDOGgzazZDVGoydFlIWGNKRHQ5ekVEN0lZRUpFTUZvOEw2XzNnT2t4RGY3Nlk2RGE3cWkwVWZfV0RsczlVYlNHTGZJRzNIWWJNMQ?oc=5",
+        "domain": "middleeastforum",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T113142Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.A.E. To Review Banque Misr, Targeted by Iran Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREZxa3JwYmZBSFp1V0xhbV9xdTZ5TGRXTm40T2RBRkoxSFZkWFpUd200Umd3dVpJajVwdmthQkNGc1loZmFHMUdoZW1HWUVTbzhwZkhxQ3pnd2lUYk1COVNyYWRVMGVqMTJUQXJuUUdrbGRHbEFzSVdKWVhpdnVFWmt4OFpZRDlKTlItb3hISQ?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260830T144915Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran’s economy, long accustomed to sanctions, feels new U.S. pressure",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3ZpU1VSZGhaaEd4SkpVb3dmTU82ekF3ckFjVXQzcFBBZXhSWnhCenVBUXZKbUlkWEdfVVdKaWNscDRzd1IzOU9XeEt0ZzgyMjRKMlZtOGZXRXJoVmpwRTQ1NmJLUUFWd0VTQ1lYNnV6a0w0cEt0UDhPc3BpTGN1eUJKSWhtbGxhcmpER3ZMZG1xUXdjVEc3NGhjOTIzUjByT3V5Q1V0dF9WSEdGbGNV?oc=5",
+        "domain": "thewashingtonpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T133030Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran sanctions and tariffs shadow G20 finance talks in Asheville",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNczhkWHVmX0RxM0h5a0ozbmZBamJyblpDdFpPN3VyT0RMTTZySW55Y0txd1B5NjZwczdsSnNVSEVnamQ4aGE5V3ZwNzQ5MjNUbFV2TVFxd3J4UzRNV0ZhR252UGl0WUtaSmc0aUE2eHl1bjdweU83UGNFcjlVZm9idi1RcW9kNkxBd2JsNnVmazlXam5hMXRveVFlWE9QLVlXLW9xc3VUSUlFQ0dMNnJ0MFlmcTJ4OHdRbkpibEFtblpvYVFJZXBxWA?oc=5",
+        "domain": "euronews.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T102704Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Blumenthal Declares Ukraine Has ‘Turned The Tide,’ Demands Russia Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEtRR3hFLXRDNDg4dmpRY1poOHJBLUs0bElNd2hXb0FiQkY3NXRVcUhTUDZFLXZmM0t6TGdvbUFqVmE3c2dvdERBWjFkaUUtRkhCVDNsNFdOcm9BNldUQWY2Zzkzb1VDSG43MVVuMnJ6RlNCMDB6c256ODd6VFViN2gyMWkxalhhd0dQLWZxYjV3bEMwRmRIYkU2NWNKeVRVQ2t4WlJDbzl2MGRpM2c?oc=5",
+        "domain": "ctnewsjunkie",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T090000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US renews attack on Iran while threatening financial sanctions on Tehran allies",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUhqaDJSUEg3S0xEQmVtMDkxaXRrVnhUVUFQQ3d3azhBUkZnbFc1akdMd2xKOWEyU01pZUFsbG1rdEtjaURVQ2Mzekl3VDBncVk2YUF6UnFSdWdwSGZfRlhwODZra1M2cVFMTG40MFhXLWhhM0dIZVZ6VzJha2VLUUNwOVFScGtIdHBLenVzOWhQSVJEZG44dWdhU0tKMjBlZDRTQTB6b21CUjA?oc=5",
+        "domain": "france24",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T092419Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran Sanctions: Operation Economic Outcast Auctions Dollar Access",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHFpRzVXakR1MHotRWxnZU95azhldGZmZGxSOFlaU0Jzc1pXekxVSDFhV181SnctbXFiSE91dzhoNFZPNmVYeGUtZ05zNDJuWGRUM0JmYkM4bnRzbFBlY0RVcWJYdW9Hb0l0aW9KTXN4WV9PRXZOQWV2WE1kbzJqVmVHY0h6UC1FYmswX3UyUVZNeHBMcjFKRDFxblBEUFhNdng4WmNWc1Z3R1FoWEE5NTVWSGxraVVl?oc=5",
+        "domain": "forbes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260830T222042Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "What the EU’s Italian Cases Mean for Sanctions & AML Compliance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPakd2ZWJhMlJnVl9VU0t3WC1aSmNvcmtDdUxLTU1OOXhVTkdGb1I3SVpGSmNORXhMdUVZeDJydlJCbFlqSVBfMXVJWm1lRXR6YTRSRmVaTkdHc1duU2RtYWFFWnRDLUFLd0MtY1pTd2JTSm92anM2Vk92ZE1CS3JJNVpsNndhVWxvb1FTRFdTTENlWDNKd1FxZWh6QlQ?oc=5",
+        "domain": "corporatecomplianceinsights.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T110002Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "America’s new sanctions are unlikely to topple Iran’s regime",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORUE1SmtBM3pFeUdSMDd1cXRqWTlhUkUwMHptVVdIcTBZQTFtcGJYYW56Rkk4cVUyYnVoUUNBajRwcU1vTkNpTDVOcE1DMktCN2N1MGxKb2lvVmVBaVZ1S3lQUnhISHlJd0JNRE41MXpDNWZPNmUyOU8wRjJ1ekxfYlhNdE9MY3lQRVo1Q0RWSGlfN3NVY0YyODJicHZyZjZiWHJXTFZ3?oc=5",
+        "domain": "theeconomist",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260827T140218Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. military strikes Iranian targets in first military action in a month",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3ZaTmR4OEVQWjVMZWRibUo2TGJTRDMtUVl6SmdLblprZlRsOXNPeTNvVmJRX2VUbU5JX3dCeXFfbUtqaExPa2pxZzByOEl4aDNNOThMajlXMnNHdFhFVlViTmIzTVZqMmh4RnVsMkdNTmV5ZGNVUThJYjZBRHpfdmFTY0QzYVpuUDdXUFl4c21VWDhvNWZib3NFbE00QQ?oc=5",
+        "domain": "cbsnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T023700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Banque Misr, Egypt’s second-largest bank, hit by US sanctions: What to know",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVpaa01NWVFQODM2OUxJVE5tSnJSUlhmekJCMDhtTDBxSm9MTmZlV2RDU2w1N2VOaG9id0hrRDFWV2NWR1RnckFuRHZKbkJBMGN5clMwd2l1MnAzVEpEZU45MXZiNGppc1lzTV82bEhJQ0QtUk11ZW1ZaFc4ZDF3OGhFNW9uMVhiRWFOTC1EU1lRRkg1NWpLWWgyM055anJZazY5VlNvYVI1cjjSAbABQVVfeXFMT1RONi1CZGtoZHBkQVJBQVJ5bl8tTzQxN21ibzVBYld1a2VjNlR2dURXai1NVUJvVTlxalBKUmpoTWJqU3J6NlFHcEFHcUNHYVN4YTZzVXNPbGstXzUxcGVNcmJReXRvZDBRTTNkbUZjQzBaMWY0NDA3dlE5djFBMnhldjNmWUxPMHdnc3FHWkw3bllaODRiTVZEMTJBQng3YkpEZ0JhWWVyc01vVWNnUEU?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260830T132839Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. Lawmakers Reintroduce Chinese Fentanyl Sanctions Bill",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlZQQXBTX3VUMVViSEhrS2xTWW8teWRGTEdJUlc0QThaWDZfSFB4NWlSVFBIOHR3M0MtTDhrSXowa1Zha2ZCRjhocHJtbm81eHFSc2x1MkRmUmlSU2gxU3g3aElZNjlmQ1c0aWJXYUs4dGs0U20xQ0E5U2pKN3R0bEFlRFREdGRlRWpz?oc=5",
+        "domain": "dominotheory.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T081040Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. targets Egyptian bank's UAE branches under new push for Iran's economic isolation",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmFCMWdabmQ0UFFzTTZ1SDhKdnE0Mk1hZzZzMUVTU0VMd2NEM25SU2dEWWZhMEs1c2RINlgwTlpWOXpDUGFGTEtWQ3dfaGVFYnBjTk1BVG5yb3BUcXZjdFJ3TXJ0ZGR6ejBPWTZRemVfVzlCdUpLeFlZNm1IRmhRbGpuQXZzeXpOT0FhYndUN1RDNlA3Uzd6MElZM2tleE1ncHFlM2drTHA2YmJPWjFtQ19OTkIxd2RIS3fSAb8BQVVfeXFMT0hMWmlmbVphQ0tPTjFKZm9maklTY2NnYmZfWXhNU01odjJlbjluQTZTOTBzVFBPYVRnanpyWkNENE84VUpkTUREVWthZ2p4WlpNYU8tdFFyci1HZk9kNUg2dEVfV1dMd1RPM19FbWo1aXRCeHBudnRxMDJCbWhqREs2LVBiem5VdDNhLTBEckg4dUhEM0N3cWR3ZFdmUS1YckZqcTBSM1VER2lrRkFBUlVrZGlLX2dYY3AxRGlLSEU?oc=5",
+        "domain": "pbs",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260828T182759Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "New US sanctions will hit ordinary Iranians hard as crashing economy stirs fresh protests",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmZwRUxqTVM1WXZpUnZwVmxYcDV6Q2hPZ1lMUVlVYzdOT3BDSHZLVjJmcU15dTQyUEdqWXRaZTRCRVhVX0JLRnRoMERQd2hZbXlyZndwdDdCOW9CM3VkWk93YVdETElBNEFXb1pPdDl0UmNLcXlfWDJzZlRaOVNYYzFMMEhHVzdidWFnN3k5OTNIRzZmRjQ5YU5hbEhTTTFJM3BCeEtn?oc=5",
         "domain": "fortune",
@@ -170,12 +233,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG1feHdFUWRFMFNabndpLXB1STE5dmJNVlMyQ3A4djRaZE9UTzVzc2o5WkEtSlR5MWMxZFpfNFJqOUNtTlFpOW1ZVFRTcFhTVmRjTXI1YVhxbmhwYXotdTdibnRJYnpmWjdQejd6WFh3YTBmOGFMaVpqd1gwNFozeUVwSzFCNkdWTVVmQmtNS0ttVWl3YXVVNUhWWmF5RU1RdGRYaF9xMVJNdS1WSUJIbnM5S2Exdw?oc=5",
-        "domain": "reuters",
+        "title": "For Iranians Seeking A Way Out, Even The English Test Is Becoming A Barrier",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbnE5Tmx5Yjl5S0Q1dDU0TTBaU1hSUFpseWhfbWRWZEQ3RVNGRVBId3ZTYXZNM25KSlFyd0hJS01BVVkwcHpINTFrNTJqenFIQXQ5dUY0eG42VHFsLWlKM0ZOanJrYUFsZFNpcXN2MlBzZWduQ1JtSjNTM3ktbmJjV09vT09wQdIBiAFBVV95cUxOR2tpVkQ4bFNTUE5EeDRUQkZqQ0dxVDdMU2N1Q3VsWTBMZXpPeGc4cU9jNkJxWDRQSTdCVzZSLTRtY2JKSGQwTE1GM0JUZkJEMTBQZ2k5ZkMzel9Hc3ctUUNIRTNncFg5SEFHOHJfQW1vaXV4b0FrekV6SFpCSVJLX0IxUWFqS0dt?oc=5",
+        "domain": "radiofreeeuroperadioliberty",
         "language": "",
         "tone": 0,
-        "seendate": "20260831T021400Z",
+        "seendate": "20260831T132214Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Letter to the editor: Sanctions don’t defeat enemies",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOamk4RDNUOWVFcGlaYzFFWWd2dHdiYWZ6YklwVmpSQ2hHQ2pMZk5FeUhLM1RaRlZsUGt1bms0VzJYaGdWX0IxZ0sySFJ0LU5SVV95aXhTT09BWWhvQkltQlhUWjBVR2pEdzlKRzY4NkdRN25heWF6alE4ZGZOQ0tRd2J4OFA2ZEE3MFplcXRWYjZPdkpRR0ZlaA?oc=5",
+        "domain": "washingtontimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T120218Z",
         "source": "GoogleNews"
       },
       {
@@ -188,12 +260,57 @@
         "source": "GoogleNews"
       },
       {
+        "title": "World Mostly Shrugs Off Bessent’s Iran Sanctions Warnings",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUFrM2N3M2Z6VlVKNEM1SHRjR1kxTmsySTY2UXluSFJtSWd6N2FVWnRicmh2VGQ5RnkycVRiZ1NFSndJS1dwc3NvcDFXdjM0Q0pUYlVxemxWakNqNGFiTzdOSkVDTzNlcUlBckNMNFZhdEF4NmpIakVRcXVMN2E3VXYxeVpNaWd4Nmw4ZTREaXZIenh6dDZPX3ItSElQQm9EVVFIMXItZEtEN0NsS0QtVzJR?oc=5",
+        "domain": "bloomberg.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260830T125043Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Iran lashes out at US sanctions amid economic toll at home",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFhWQ0dIN3p1bUEzcUdpNlN2VFhmaWRhUk5zbkhfWE45U2swM1ViQ0RvRHhxZjJfT2xaUEhnWU9jZ3MzRXl3bXdabG1mM0xpTmdoRzZEQ3dRNDJOVEpTUnJfX3lCV0s4b2RPSzhPbXlZSllrb1l6SjA0NVRVRzNRR0pBYWFwTWdPU0xtOTduNnUyd3hpZjFUUDZUb1NnMkRoanl1Z2V5SjIwYWpubGc?oc=5",
         "domain": "reuters",
         "language": "",
         "tone": 0,
         "seendate": "20260828T202636Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US Imposes Fresh Weekly Sanctions on Iran as Trump Claims Near-Total Hormuz Control",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONndyLWtwbGFYWkp6RTVnVWM2Y0I5cXRiMURJdG4xVndmWUVEMDM1d09icGtQd3NONGdpQVpCRGVYNktnTkZzQjBYMF8ydXNXVnBma1pkZlhsY2J0UnBSaUNPZEM2TE1Gc1dwM3pULXNwR3hBTkUzN0dvNWJIR3FQT3dnVm51Ul9RQUVZQndSUlpuNWNIb2RmbWFrUTFjTllrMTJyWnU1XzlUdzZncnFTRlpRbURFLTVHS1VtUGVJZWxGeEszZnc?oc=5",
+        "domain": "kurdistan24",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T072500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The looming failure of Operation Economic Outcast",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2wzcG0zWUpmMEY5UmlKVVZaaGlxX2pPaXowNnNYSjRqd1QxUzJHQTdIcjRFcVVqSnE0MWpzVHhhZF8zTFVIbHpZUHNCaFYtbEE5RENJTVpWSE9uNUhpdGFaNENrNTBNSlpkWDBZQk02UXZ3ZkM1Y3NoeDVQZFRIekROQkZfS2ZSSkhIOXZWWTlsa0tSRXMyQlFn0gGfAUFVX3lxTE1OT0RuSEk4dGFEamZEVjdKTmxRNU9SZWhMdmZHWEhUUGgyMXpnQXFmRThwWDVCZ0lhM0QtUXRncERsTUlxWUxpcGRBZjR5Y2p3RGN1WnE4b09qWDNnZHZlTnNmVGYxM0xoM3NaMnd6VlFNMUp3WGcxN3BwZXA2UVVGd3lYc0wydDRrQm12WGxyVUNmMnQ3VTVsWW9Ca3FJaw?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T102349Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "NEWS: UAE launches urgent probe into Banque Misr branches after US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVN5RjFhbnN6aW5XbXFMMVpTTS01Yk51OGtzczcxOXpZMHYxckwzQ2NJRlFTTzh1aDdvUmhWTFA4YmFQRlFQUzZRcTFpWlFVU0JzVjh6NmtPYVk2TWVULWktUXQ0bHJzdjE1ZGpoblZXc2NzNHROeEc2OGxMZTBEM01ZMzNTMUF2VGVISXJYZHVMN3J4LXVaRVNWTkJOYkJLTUhCTFBRdXVGRGk1TkZPX2VmaEVJaUk?oc=5",
+        "domain": "amlintelligence",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T113201Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "TOEFL and GRE Cancelled in Iran Following OFAC License Suspension",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHp2RnN0T1FoaHZlYjEtTWQ1a1ZKMmtjM3NYUjhaNkVQNHBLNmtFcTFQakdBcy1nT19USU9STW9JY3VMZDl0X3RuSkVDYjduR2NxMEtzajhRVUtwdDlDV0lFMEtuNFBMUXZ6eDdWQlcwTDNrVkUxZTJYdF94X2x6THNROHJ5TUZUSk1DN0hLMXpJTUZ1anhJMDBsRVl0M0NOcDZBZw?oc=5",
+        "domain": "iranwire",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T072346Z",
         "source": "GoogleNews"
       },
       {
@@ -206,12 +323,30 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX2hCWlVMNnlOM1Uxc0F3WTh0LVdySXVrRVJVendHX0dUQ2hxLV9GdXZ3RFVvdDBrb3Z6Slp3bE9TU01haUE1SHA5bHNBa1M4aWRkekRhczdPM05UbVR2LW9ZNzRaUU05cUNmYUtEcEZOTmhJYS0ydHU1LTlGQ0lMRzJB0gGHAUFVX3lxTE81eGRSTFUtNTM1SmhhSHFtNEVLcktpOUEyN3BhQktDLUpYX3hwUmpUVHIwYjVxRGZFejN3TEdwaGI1WEdiQjR3TERBZ3VPZWVyUk54R1lQekJPWTZSSmZTUkxNM0MxdDEyaFhvUzd6cXRxaGhMNkFWZDMxbk9NMUJFVV9jSGhCOA?oc=5",
-        "domain": "cnbc",
+        "title": "'Moment of extreme urgency' — US Senator urges Congress to pass Russia sanctions bill",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUl3clRoeEJ5dW5CSS1GQkxPdVgxNGRURHdJWHplZXkwNWRpOXJWS09FejVUMjZlZVZXb0tNVnMwX1k4OXlJNjNTMnU4MENVZkttb0lOZ29maEIyUEdXYmhYX3FVTnk3ZGdmSEFWRWRTV1NENExHYTlldlVYU3VfYWhfcmM2NUhDSmFFd3ZyY1B4dlFFRzJ3dE1YcmNGM1FBNmIwODdjMlpDcjNEU2QwSw?oc=5",
+        "domain": "thekyivindependent",
         "language": "",
         "tone": 0,
-        "seendate": "20260828T154408Z",
+        "seendate": "20260831T033349Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Fresh US sanctions aimed at increasing pressure on Iran expected in coming weeks",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjB3RVVKVVVuWHZ0N2hJZ0ZiWHVvRERYWmZfN190QU9ucFVZeVdlXzB6WXJqUXM4Q0ZIMDVWT2RRZUNGUVdpQXJvYzNRMTlqUTBieHFXOHh5S3lUSUZnN3FjYWlnbXN0Rm16X29VR2JkbDRyLWVoci1HRGNFMjR2V3dFcWpEeVp2THQ0RzRra0V5dVBzeVBPNUdFSVBwZV8wVXlGbmNWV2JBcE5RZzhOazdVaDVsbWo4Rjg0SmRaOW55dl9TY0Vz?oc=5",
+        "domain": "middleeasteye",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T061800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ncnpsVHhadTQwc3Z0ZGlDX0RIZ0dOY3U2WWtyYU93TDcycXY2eW9POHFCcEpna0h2Y1MyZlM2MnNkVVpBelB3QVFuUDF6U3NiRlNXNG1NT0d6ZVFpYm95QnBLNnREWDFjYVE?oc=5",
+        "domain": "axios",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260826T060941Z",
         "source": "GoogleNews"
       },
       {
@@ -224,6 +359,33 @@
         "source": "GoogleNews"
       },
       {
+        "title": "US sanctions on Iran are right but wrongly sequenced",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc2ZCdkpHMFhwQkxFbEVJNTBCaWhBTVZsTDUyTGt0Smx6eHhFSDRyeFN0bXFxdkNRLUxlN2pPajYxSXUyUm96WDVDMk5HM0lyRTAzMTNyTXFSaldtcl9jMjVDeTIxNlB5NHVkRUU0NEszaEVqNHZYWlp2cU1iLXp2YUdHdDdmVGU2RjJR?oc=5",
+        "domain": "asiatimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T084803Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Senator Grassley Comments on Increasing Economic Sanctions Against Iran Instead of Military Force",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdHZLZktfOF9KZm8zdTg4ZzFjQ3pyZGwxZDRzX2JaWThqU1RqbVNCLUJVNFN6dDZDSTlkNldZOFQ2dHJFRHJ3WnVyYnNEY1pUVGRZcExHbk1JejQ1cHJwUnRfQlFIbGV5Ylc5VXFsNkQwMHAzVzMtWTAtMFAzR2pDcHFWTzRoTkR3M1FVSjRCLS1HVTlLY1BPQk93YXZyZ3hZY2g2cUw2R1ZfVW9OcmE4SDZzcHdaaDZ6TVNtbVlXQXNrX2lwQndtNkYwS1ZScVpGNTRSOEVvTGR4R01WSFlV?oc=5",
+        "domain": "raccoonvalleyradio",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T114406Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX2hCWlVMNnlOM1Uxc0F3WTh0LVdySXVrRVJVendHX0dUQ2hxLV9GdXZ3RFVvdDBrb3Z6Slp3bE9TU01haUE1SHA5bHNBa1M4aWRkekRhczdPM05UbVR2LW9ZNzRaUU05cUNmYUtEcEZOTmhJYS0ydHU1LTlGQ0lMRzJB0gGHAUFVX3lxTE81eGRSTFUtNTM1SmhhSHFtNEVLcktpOUEyN3BhQktDLUpYX3hwUmpUVHIwYjVxRGZFejN3TEdwaGI1WEdiQjR3TERBZ3VPZWVyUk54R1lQekJPWTZSSmZTUkxNM0MxdDEyaFhvUzd6cXRxaGhMNkFWZDMxbk9NMUJFVV9jSGhCOA?oc=5",
+        "domain": "cnbc",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260828T154408Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "The Real Reason Trump Wants Economic Sanctions in Iran",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTkhyQW5Xcnh1dFRGbUhVX3phTjhBRF9YelRyTHc5cFNBU0JEMENUTUxENkNMZnhFd0xzeFhhZHJ1ZzcyWjlRY2pRWjU4blc0RWVIMTVDZFIwNFVTSy1qQUhhRm4taEJLX0RmalgwYklsYmFaMGoyVEk3OXl6VzVUMmR5Y3NoMDNpZWYzUjJPNA?oc=5",
         "domain": "theatlantic",
@@ -233,30 +395,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "A look at the new U.S. sanctions on Iran and threats against its trading partners",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWZoZUxyZTg0VWVGTzllZm9DZkg3NU9pVi10TEo2aWJraThNcHA2MkN5QzFxQVZRUzVhUHdJZ3BQYkRUUTZ1b0pVUmFaZkZnSjRDQXVIdVFpQ2lDb21LUEZua3N3M0NkWVdaZmhsYmcySjRnX28wZ0p2ZlBubElHdHdKSldKc3I4d3gzenlPQWJOYldZYWNSWDhDYWRCLWNaY01tal92ZjZwM0ZZMjlDT2NqRDg?oc=5",
-        "domain": "pbs",
+        "title": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG1feHdFUWRFMFNabndpLXB1STE5dmJNVlMyQ3A4djRaZE9UTzVzc2o5WkEtSlR5MWMxZFpfNFJqOUNtTlFpOW1ZVFRTcFhTVmRjTXI1YVhxbmhwYXotdTdibnRJYnpmWjdQejd6WFh3YTBmOGFMaVpqd1gwNFozeUVwSzFCNkdWTVVmQmtNS0ttVWl3YXVVNUhWWmF5RU1RdGRYaF9xMVJNdS1WSUJIbnM5S2Exdw?oc=5",
+        "domain": "reuters",
         "language": "",
         "tone": 0,
-        "seendate": "20260824T225012Z",
+        "seendate": "20260831T021400Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Japan's commitment to rule of law tested amid US sanctions on ICC",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUS1iaU4yWXE1RHJubDkxV3IwM2VmMTB1OV9EeGoxTEtMTlRRaU5fLUxkbHNoQlFnTTNZYlp6aWxMWG5JMnZnYWc5N0J4T2NVSzM1bnZUcC1zbXVQS3pmWm5BeGFJOXJraGQ1a3JTY2J3TWZ1VmtSeGs4eDZYa2JoNHJ3?oc=5",
-        "domain": "chinadailyglobaledition",
+        "title": "U.K. Jewish establishment: Sanctions on Israeli settlements could endanger Jews",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNmdBUXc4SWdDWGpnSG0xTEJTYnUyR0JsakdiaDI2bDVoQzJjVHdWOGpLQmNsMVlqWXBhUjBMeUMzRkE2ZERQT3czUW1vbFhPMlR0VkJLY2k0eE9KUXE4aVJNLWxpc2xieF9PWVZOUkd6ZGFheXBHTkNhbEZsNjFGRkd2ckl6UnJBemF5Sk9qaFFsNFlfTkpHeXVuNENENEJFdVdHbi1kQ2pGRDJZQjJaSzJfUXIxWENQSDR5UjU5UWhpQnRTaTNzM213QUVxckFiU3pmR0N2SUUyRjY4X20xczlsa2x2b3RsSElrOEM1VHBYSW4wU09LWGhOc1ExNHpKSUZPZlFpN2R1ajdoMzIxZXRqUHNWUQ?oc=5",
+        "domain": "haaretz",
         "language": "",
         "tone": 0,
-        "seendate": "20260831T012754Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "'Moment of extreme urgency' — US Senator urges Congress to pass Russia sanctions bill",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUl3clRoeEJ5dW5CSS1GQkxPdVgxNGRURHdJWHplZXkwNWRpOXJWS09FejVUMjZlZVZXb0tNVnMwX1k4OXlJNjNTMnU4MENVZkttb0lOZ29maEIyUEdXYmhYX3FVTnk3ZGdmSEFWRWRTV1NENExHYTlldlVYU3VfYWhfcmM2NUhDSmFFd3ZyY1B4dlFFRzJ3dE1YcmNGM1FBNmIwODdjMlpDcjNEU2QwSw?oc=5",
-        "domain": "thekyivindependent",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260831T033349Z",
+        "seendate": "20260831T124700Z",
         "source": "GoogleNews"
       },
       {
@@ -269,6 +422,15 @@
         "source": "GoogleNews"
       },
       {
+        "title": "EU May Impose New Sanctions on Russia in October",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtN1NObUxCczNvdHlYWmNSZjJ3SU9KYjRXbWppclg3R1V2dUVmdzhmZXBVQjgwalpZc2VoVGxEOUlUTy1meW1lOEZuMW5IQk9uakllakVSLVhENldrMlg4XzBaczIydzBVZnJ4dlk2eXJ1aE40SWhNTWI2WWPSAYIBQVVfeXFMTl9icXM1ejdSWTNVY0s3SDdJalozSVZBOWw5MndJazFoZktsbFlJNm9MU2hCT3lrQmE0dEZYR0ppOFlKeXV0and3dl9lUHo0UEV2dmNXeHRxbFJHck40azlKSTF6NHlYU2UyeXluS3NhVUNfcmlSSWJaZW45VkJMc0JVUQ?oc=5",
+        "domain": "reform.news",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T111351Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "China and Iran sanctions: Beijing’s red lines and retaliation options",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOblFYLW1yTDRPZnpsclEwMFpZN2RyVHRwNW43SFJtdUh6M05ZNllKNlNJek8tVUdwSGxRdlNOSGRDT3JOa2xmM1JQWi1XS2R1WHhXSnppekJmQk9ZSThmellvVTBNejdBeDlGZ3FOaXBBcHJLWHRmMi1NcFRTRUw0QmtjX250Z1A4TW93REoxY3JhU19FX2FfN25ibTNWSnZFNkRjOVV4bjBXaVZQUkhqeThqM0szTWJ6VjUxSm85WFlyRWpka2ptbWdobFpubTV1cnlzVjNB?oc=5",
         "domain": "southchinamorningpost",
@@ -278,12 +440,30 @@
         "source": "GoogleNews"
       },
       {
-        "title": "EDITORIAL: House should send Russian sanctions bill to White House",
-        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNLTNhVWo5ZGpOdF9GUGhlYjRic1BWTlhsN1ZXYnZ2UWxpVFVGWXBXUlZRcThSdy1BZ2xHM2xWYVBlLTFMYlNRVnFoalFPSUNES3pfcDlhSVFfM1RKS0JOUHk3dGJ0T0s5Z3NpTWpuTGpyY1lpb2t2TE5xY1lwb0s5dEIwalBNWEEyYjdHOGJHRnlYNGluVDB6aDh2dFB6VHEzZmdnMGt4eGlqWmRrMG1MYU5sZnRVRm5rV1dDc3B5WmFyTFljaDNuR2ZPdjFoSU14cnNwbHctVVpkYU92NXVYNmt3VHl6T1ZMdGhZMDlmUzAzdXdRbUNIMXZSTERLWllDbzBBdTdYTGxzTkJPaEw1aW9UYTRZRlhVTHlGRzVMc3A5eFREVWt6UnM2OUd0ZUk5a3dBRDl3RFYxR2VFZllrRjlha0xEdmRwYVlGVXV6d1JkUjVZZGNBeEdOdDlPZkRRSUkyVEVXZmNXcTJwVlpNbHRFM0RYbWtXZjRSd0F5Ylk1aVhwUGpfOXc2ZXFqMUw5a2k2dw?oc=5",
-        "domain": "lasvegasreview-journal",
+        "title": "A look at the new U.S. sanctions on Iran and threats against its trading partners",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWZoZUxyZTg0VWVGTzllZm9DZkg3NU9pVi10TEo2aWJraThNcHA2MkN5QzFxQVZRUzVhUHdJZ3BQYkRUUTZ1b0pVUmFaZkZnSjRDQXVIdVFpQ2lDb21LUEZua3N3M0NkWVdaZmhsYmcySjRnX28wZ0p2ZlBubElHdHdKSldKc3I4d3gzenlPQWJOYldZYWNSWDhDYWRCLWNaY01tal92ZjZwM0ZZMjlDT2NqRDg?oc=5",
+        "domain": "pbs",
         "language": "",
         "tone": 0,
-        "seendate": "20260831T040000Z",
+        "seendate": "20260824T225012Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran sanctions reach education: Duolingo blocked, TOEFL and GRE in doubt",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rQ2dxVFZES1Rvcmlwdk1kb1VvT3JIOERSQW5BRGNxUlBjLXBuNkliM3NXLV91OUd2aTRKcE42NE9OdTF2eGVBU3ltRmVOR0FuWVE?oc=5",
+        "domain": "iraninternational",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260830T033130Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "False Flag Vessels 2026: Sanctions Evasion Tactics and Detection - News and Statistics",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa2hlVTgxeU1fNm43Uk9sdldvMVBIT3dNdzMtT2piM3FQTTR6ZlgtRFpVSWZlYVBfWEtRdmtZelEzWkkxaU92RjNDUUxuTF9hMHBNSFZULVlwanJ4YnlwSnZmaXdYYThYVkNURF9scThZUGs5VlUzWHdMTmVjcFhxUTVORDB1VkJwMWdUWm1OcHdNdmk5emNNN1NZbWhGbVRiWUE?oc=5",
+        "domain": "indexbox",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260831T110300Z",
         "source": "GoogleNews"
       },
       {
@@ -302,186 +482,6 @@
         "language": "",
         "tone": 0,
         "seendate": "20260826T144300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXI4THplUTN1UEpyNUFld2ttOTBMcjZrWTEtbTlobmRzTEphcUZYZFVfUHdHeTVZTFM3TmJRaVZFMlY2Nkd0MFNWQzBRQnRDSHZmQ2NBOHZQWV9IUi1KRTN1WXpHbENQNnFLYmNaSksyTjVRa2lJVHVBYWFoSlc0LTBlbUJhbzFKUElKY2V4dEhNUVRPMERpeXNNWFF2NG03UEk4R0RrR1dSQnlDc01raC13?oc=5",
-        "domain": "aljazeera",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T142705Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran By Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU2xLX19XZkgzdFNsQWJzeURSd1dZdmIyUmVzdGhjdDBNY2dVZ0otdUJ0elg3QThoUEJDeThYbmVPUW5vR0EwM2JnV3lreUtUYS1HNGY3R1JGZUxyVVBMV25pbkM4OF9EaW14OWdXVUY2U2oxMUpIZ2xmWTZodDhXdkRya0dydGFXT2djV0ctU1pnOUtEWnNyWGE4eXFxNXlOVDNsa1ljTjJ4T2NuMlc5XzF6VHhkTnNsRFlRbTlPLUZ6dHdMcVVWVHpfNnA5S1l6MHJz?oc=5",
-        "domain": "investing.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260831T011043Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran vows to resist widened US sanctions, says Washington seeks talks",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T172519Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russian Sanctions Are Fueling a Canadian Car Theft Epidemic",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUDdYYkJEd3puZ1kxc2NiRnlVUlB5bkJFVkpwbHNnU0RvcWFTTVdnR2kyRl9fMElGM0RvWnJGbW05RnlWbHd3REJyUWxiYklpanlGYS1ITWcyVFhLZEtqbUZxMlc2ZTM2a1BwVVVhaENpaW1jMVhuZE02bTRpcG5pa2JpdlBMVUZOVlAzbHhDUQ?oc=5",
-        "domain": "thenewyorktimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T090038Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump's Iran \"D-Day\" leaves sanctions hammer hanging",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tZGRndDR0cWE4YXJHVl9tV3k1YmhtbHl3RkdXWkRvUURnRHJTX25xMlFmLW1ncmJTOXhicFV4emJCVUEzSVJhbENwTk91dW1xU1VqM3pGdHZET2Vybzk3WnBDbUptN0N0VWlGZTRJbjRYN200bGxHSzBUXzhEZWc?oc=5",
-        "domain": "axios",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T093949Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FILE PHOTO: U.S. Treasury Secretary Scott Bessent speaks outlines further sanctions against Iran, at the Treasury Department in Washington",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNRzY4VVJvZ2drM2ZYRjEycXBXSVlYSjNFUE1YYW95M2pQWVNjcmphUVNUMlY2bEJwU2pfMUNfOFp5WVBPVzV6c01VU0NaQ25BRThYdGRKVHNuVVNfckRZeERsTk1GdHFmcWhuVTRFNG5vLXZjam45NHM3U1pJSHZMeWE2c1BtQ1duRUdzWURJSVdmalZJYXAzWHlYYm1HNGdMZkI4a3ZlaTFjcE04MHp5ZjQ0NUxTRWRUVVZjVEszM0VMUjJ2bjZRY1JPQzNhd0hTRzlLR3NwbkVzbXBjcS1oX09JUElOR25pa1lFNTloWGVicEF3NmRYLTZkbWNvTmFWcDVCNm5NVHBLbHBfTmRwVGNxN1JjMnY4cEJUUw?oc=5",
-        "domain": "thedailynewstexasoldestnewspaper",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260831T050312Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US imposes sanctions on Palestine Action and other left-wing groups",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFZ3azRWM2NLTzRPNTQxWXRwcUdSZUxXbFNiZWtiZmNCcFB2aEFtLXhfaFpIZkdNcmJIY0p5T1hELU83WGFlMW9GbXJrbTVNcHFvTHN4dTUzV3YySEtPWWJlaVRSaGpBMEoxb052VlcxaGRGT2FEMEI5czgwY2JvdFdyTW5DbGNYQ09SOFhJY0tDQ1JHNGZsQXlsaUNRRjlGTnhDOFNwU3pUNDFR0gGyAUFVX3lxTE5nMDFyb0E2bkxDOU1iU3pwM1V4alJNN2E3N2Z1ZGhMY0pyNlk0dnZ0cWdJbkwzSnZDZHVuQ0JsOXpvRmFXdUFtRGZKUEd0VGMzTXFvVi10RGo0MXhPdklLTDRlVktYN285Wi1OdE5tYUpFUnprZXNXRW5CODBOcFB6THJqMldtTHBPUkpJT1Y3Uy1hbDZkQ3hwa0NLY1NTOTZrSXRQb0RFeGpUc0tiSmFEMUE?oc=5",
-        "domain": "aljazeera",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T033550Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "WATCH: Bessent announces new sanctions to block Iran's revenue streams",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0NjZEU0WGp5Nm9XdEpScVlaZjJjeUlRZTV4Z05MeUFVdkxwX3B0MU80M2FSMzA0d3kxX05yT21oRnFtNmdQbW10RHJRWnpvUVM2SkNYOWlLSGFfb2xzUl9KRW9LV0V4T05pRFVkc1p3TEFkWWRMcHY3UnNEOFZKMDhobFp1XzIzVW5QNFNTd9IBlAFBVV95cUxQSFEtX2xLZzIwSUc2TTNYM09sWDlVbVlDYWIySmdwUldFNnFRMEs3cHNmWExycHZNQXNjeWR1VkY2bnQyd0pTUkxJZFYyOC1fRGtRanhsVFhsRTgxTXNMaS1hRmhvSnZCbU9haXc2MlZCTnRXbVNmN3JINnBuT3MyRlZlUjB4SjM3cmRqQkFvZ3RtZXE1?oc=5",
-        "domain": "pbs",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T163021Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US sanctions choke Iran’s economy, but regime change remains a challenge",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RN09LQ3JZX1ZFQ1RfTk9NdVFaRGQyZFg4eGtxaTd4d1dDOXFfLWM5NnVGQlJCTkZYOWRSNzcybEl1SUNOWjFidXNlcDBsdHlSc3RuNTF2c1NlUzJrWkJjZkpHNDVYOV92VFE?oc=5",
-        "domain": "thejerusalempost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260829T230939Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US-hosted G20 finance meeting to target growth, imbalances, Iran sanctions, Treasury official says",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNW43Vk95endNOWY5dnh3SUs0amx5SDJXVEFuWTRoX0F0Vnl6azdkM3NYWmRMZXZPZ0pIRkpZTmZrcExyVG9GWVYyaHlXeFR6aVR1dS15RWcyNmxWZVNDNTBmRXRQSU9ESG1BcHE2YWU0d0M5MW1fcDgtUFFQYnZRTDYxMEp6S2l1c1ZaS3hodWRnSnlPR3hBLVFSLWlCUXR4SlFrb0Z6dnpCVFZneS1CZzVPR2JoRUJ5am0zdw?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260828T002900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVlnRnlJRzZOY2ZlQTVmSGpoR0tPbmMwMi1ZRmtIa2c1Y2lVWTN2U3MxdzdsUFFMX0VHWmwxcDhTc0JRS0VvWkdGb0lkTmRYZjV2akt3aWpiai0tRC1FNDgtZlhhQXFNSzhrNWdNWkpoZ181Z085ak1lQlRfZ1c0aFhGSkdVZTNwbHJRV09JTTRLckZCSEU0NmNWNGhOMFNjaUVKMFhHeDU5WWVZcmdUY3BrX1EzVE0?oc=5",
-        "domain": "npr",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T122600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260830T100400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Sen. Blumenthal urges House to pass Russia sanctions bill amid \"moment of extreme urgency\"",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejA5X084YVNtZUJ1NWlfNnZibGd6MDIwLU8yX3dzVnFGMWswVG5TMXZ6YTZKdV9ZTkFEQjRaREstUFJqYUFTQUhlc3N1VE9jZ3Z1aHc4cEIyanJNUURFZGxEUks0RHBReXBWSVNMMHUtS3poMnBrQm5OczVuYVVNa2puYkFoSXlHbXRUazJ0aER2WktfajRrRUZlMHNhQVEzZ3Q0bzZHeS02eXI0Nk4wbVNMbEJuT2htTGc?oc=5",
-        "domain": "cbsnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260830T143400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bessent unveils sweeping new Iran sanctions but delays toughest blow",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFhKYWdzQ1RSVzB5dEs3NDRxTmZ6MzBPZXpidVhlSmp1YXEyUXhXa1Q4bEZTRC1NTE90VmxfT05ZMFZUXzlrNHA1Q0xsQmQ1NFUxWUNmdE8xUGI4UEZIbUM1VzJxenp6a3RJU09RY1dQRmtlb2VjTXZqMDdCOFg5X2w1S1JQdGVoRTJ6dDFxcW5QSWs0LTBBRlk3aW51Z24tall0SzhqYw?oc=5",
-        "domain": "thewashingtonpost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260825T052205Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTzhCNHl5dWJ2ODQyMjBRX2V1RUUtQnlQY0xrVmtEOFRwTEk0VlMwNmFyUkI5NFlvd2pFdEpORFQ4Qi1xckNXeG1uME5JTk1tdktsSDBDNHo4ZXRTVENSY29JRWNMdkxzQzdnRm0weGFzcERCV0l2Y3pQTVkzaXZjdFBUWVQ4UdIBiwFBVV95cUxNajJTNU1wcExfNXpiUDliTFVycGlFbk9TT2tFdWdZbFdZdThxRmZob1ZsVVRycnFObFFqTHRZenVlcXdYWGlOZzVyLWZoZF8waGRYUFVVeGxvck5yS1k4WlFfRzRsZEZEMlZkSi1QYnJGd2FUa2RlcV9qSFpkN0JGQmpObFpPQmpFWTJn?oc=5",
-        "domain": "cnbc",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260824T172711Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran sanctions reach education: Duolingo blocked, TOEFL and GRE in doubt",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rQ2dxVFZES1Rvcmlwdk1kb1VvT3JIOERSQW5BRGNxUlBjLXBuNkliM3NXLV91OUd2aTRKcE42NE9OdTF2eGVBU3ltRmVOR0FuWVE?oc=5",
-        "domain": "iraninternational",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260830T033130Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObnBScDB0NHZoem1ucncyUTRSQ3B6cjdvanVrUms4R2Z2WGxTZlVoaGFjMzVKblRDQ0piaUNLWDM5eS0yOUlGUTlkU3o0QW1UUmpNUWxGS3V2LW9ZeHNpQ2hLa09jOVR1Mmp0VDlVcEg2YXNIc2Z4Uzk4SWVXTC1xVkV30gGHAUFVX3lxTFA1RTVxa25KSmtyOWp0M0hlM0N0NmRFRHAxcTZJcVFBTU1pcV9hZS1sZVdDaWFJZ2dSTHdndkhTaHNzVk9LdUczWTczbXpHNW45ekdyTjVLMkV3UkdEZGZReFR1MDBmWHFjcDFjUTV3NXdmNzQzMndWVG1Cd1lRMWJ1Vl82Yk9Wdw?oc=5",
-        "domain": "cnbc",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260829T120601Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Senator Grassley Comments on Increasing Economic Sanctions Against Iran Instead of Military Force",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYzNHMzBEckV3Q2d2eVVFZzVHcE55X0Rld1BYVXRrNnZlZUNXUmdHNFpsbGlJeHZVT2llNFMxaWMtc2pMM0dBRU12a3ZvblRXaGw2OWFxdUJPNllodFB4eFBJRlJHNjFhaEd0TUpXV3Z6Y044ZG1FZDBsNVlBZTV2Y0VTMTdwSW5LOUk1WHdvWkRiVmo0RTVJWTUwQTRMWkl3ZGp2R2lZNURlenJmX3BvbU1McEdtc2FOU1VMcV9TYXozR0M4YWhyUl93N1YxdWpZS3ltaXRRSXg4VWxF?oc=5",
-        "domain": "raccoonvalleyradio",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260830T200354Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Pakistan Says Not Bound to Accept Unilateral Sanctions on Iran",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXdDYVp1bndSa3R2NXZyQXBPaUZWemZVdG5nYVJmdk5nQ0RxOE5mYjZzTDVxZVg5U255QUxpMnYyYzhfa0FHaDB3MnZBbjIzZUw3Z3VoUGdhLWJpVWZIOW5EUHQ2d1U4UEFGNjVzWkNPSmpwZHdBci1WZ1Z0WjVOWWo3Z0tobUtIajVJenByLTJFVnBIalFkQXZSMzZ2ajRYZUNVczFaTlJKVlV6MlV4WXV4SQ?oc=5",
-        "domain": "bloomberg.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260827T114530Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Japanese government struggles with balancing act over U.S. sanctions on ICC, faces international criticism",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVo1aEhsUzJ2ZkpRSkZ6RDRYa0d3Q29fX3gzQ3hWczFhcDNPNU0wd25mRkdrQjlMcmZPRUVKWmRpV1FCeTRsTlhpZHZ0MnE4U284aDBXMHdJa1JYOVNTMDYtV2hwNlluS1NzcFBZLTJnb1FONUpSSVk4ZnpWTEF3Y2RFZmxKU0ZtRldJeTlTNW1MbGd4QzdXdUxBWFIzUm9UZzIzZENXNWlncXpsWUJIODNjYzRXRnB1dUE0eGMxYUxCdk84U3NnTWZR?oc=5",
-        "domain": "asianewsnetwork",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260831T010515Z",
         "source": "GoogleNews"
       }
     ],
@@ -580,21 +580,12 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Opinion | Trump’s New Iran Sanctions Put China on Notice",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenZaZ0ktV3IxSWFQRXhUOHpvb3gtVmZHcTJ6TTdaMnNJcU5VRnFVWWUxWDRjYlpWOE9Tek9OOF96VE5lR3NNS1BsWVQ2bGNPQUJVTXpTc1NtRmpqbWEzblI1MVFGbktxZFRrMm80Zmxza2M2UlM4WVVFUGl0bG95VUVVdzVNMXdad2c?oc=5",
-      "domain": "wsj",
+      "title": "Iran’s economy in crisis as US launches new sanctions campaign",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXBZc1p2Yk1MYWRkNVlnbU5PTUlPWHFxSVptMEp5V3dBVk4wWm9VMmY4R2M3c1NuMzB4eko2SW11cmtrNF9VRkduWExoQ2x4VnVIZEhWeXQwXzNYQWwzanU0UWVWY0FDS0g0TVBPbkpvVTVpM0RlaW1YWHZHRUFMWUhBMjB1WjF0UmRxSTlIUy1CeEpHOU1NSDJVbDl2TEYzMWNVXy1uTQ?oc=5",
+      "domain": "theguardian",
       "language": "",
       "tone": 0,
-      "seendate": "20260830T163100Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Sen. Blumenthal urges House to pass Russia sanctions bill amid a \"moment of extreme urgency\" in Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkpFRnhMc0VpNl9mWXlfT2JWczJ5TF80dnNrd3lSY2YxaHBfNU4zcGxKaDZ6dlpYVkNkU3YxZTlqMUdvazZaLVYwb2JwREc0QXBBdkU2b0JlU2NOeGZIQmxpSGdLNE1DckI5TGZwTnlfYkJGbGtjWXAyQnhvdzdRaTEyVm5wRGxZNW03SmhBS2swbl92cEVQenV3aVBuV0U?oc=5",
-      "domain": "cbsnews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260830T171717Z",
+      "seendate": "20260831T130100Z",
       "source": "GoogleNews"
     },
     {
@@ -607,84 +598,21 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Iran Sanctions: Operation Economic Outcast Auctions Dollar Access",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHFpRzVXakR1MHotRWxnZU95azhldGZmZGxSOFlaU0Jzc1pXekxVSDFhV181SnctbXFiSE91dzhoNFZPNmVYeGUtZ05zNDJuWGRUM0JmYkM4bnRzbFBlY0RVcWJYdW9Hb0l0aW9KTXN4WV9PRXZOQWV2WE1kbzJqVmVHY0h6UC1FYmswX3UyUVZNeHBMcjFKRDFxblBEUFhNdng4WmNWc1Z3R1FoWEE5NTVWSGxraVVl?oc=5",
-      "domain": "forbes",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260830T222042Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Banque Misr, Egypt’s second-largest bank, hit by US sanctions: What to know",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVpaa01NWVFQODM2OUxJVE5tSnJSUlhmekJCMDhtTDBxSm9MTmZlV2RDU2w1N2VOaG9id0hrRDFWV2NWR1RnckFuRHZKbkJBMGN5clMwd2l1MnAzVEpEZU45MXZiNGppc1lzTV82bEhJQ0QtUk11ZW1ZaFc4ZDF3OGhFNW9uMVhiRWFOTC1EU1lRRkg1NWpLWWgyM055anJZazY5VlNvYVI1cjjSAbABQVVfeXFMT1RONi1CZGtoZHBkQVJBQVJ5bl8tTzQxN21ibzVBYld1a2VjNlR2dURXai1NVUJvVTlxalBKUmpoTWJqU3J6NlFHcEFHcUNHYVN4YTZzVXNPbGstXzUxcGVNcmJReXRvZDBRTTNkbUZjQzBaMWY0NDA3dlE5djFBMnhldjNmWUxPMHdnc3FHWkw3bllaODRiTVZEMTJBQng3YkpEZ0JhWWVyc01vVWNnUEU?oc=5",
-      "domain": "aljazeera",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260830T132839Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "U.S. plans to sanction another bank in effort to clamp down on Iran transactions: Bessent",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT3hzbEZHU21JLU4tTkpPcUhRbXJ1eHFOYzY5WjZTSVZpQjZ3WnFQRzdvREJmUTdzbVllc2Q3SVc4a1pDWkJ5UEpwMk1naExrWTJDOFY1RDFCQ29wNXFLWTFDejlVb1NWZjZqdjRRaWF1WWJHeW5idVU5Nm1tOGlyRldR0gGHAUFVX3lxTE1nVEVvQ09qbE83QW92RFNsemxsVTNUMFBnMFVTck9rYTBybWpJaEhoYUZLTjBsUG9YVjBoS2tpVWJYMmNCX3FrSFQ4SHlqNGlSX0JIX1lYZ3JtOEF1VGNGeUhXWW8wZlQtTnN6YUhaS204eEsxc1JZN0RMeTJrMjJJV2JXVEJVVQ?oc=5",
+      "title": "U.S.-Iran escalation shows Washington's frustration with slow-moving sanctions",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1lNZXI5eWJuTWZPcE95TVZUdFZrS0p5T3VhVEt3QUc0SVNSd204ZjF0c3VFeFlmay14TVlRclJ4TnNvbVAzSzhDUnhrbzNUcjQ3MzBkejgyelJnRVViSE5iX2hral9lSy0wRHpjb0doMEIyQ2JYTFJtZl8tOThoMDJYSEo3WllzeVpHenVSM3ZJSDNyekhmRNIBngFBVV95cUxNUkVKM2FfNkRva3JPQ1lvZVlUWHRGR2xhOU9hZ1MzMmN2OTQ1SVdkb08xaWwtTWVYNWhsMlNBUDhUdTFYVUpDNExIU3VuTjF3bTUtUXJWZGVNNXhrNW9QclZ1T3djSnl5T3hSN2lnZXk3ZmUwU2dRS0YyNEZSeng1YjBzM3QwR3ZXRnk2ZFByeVJFV0Y3MjBXRG00c1h0dw?oc=5",
       "domain": "cnbc",
       "language": "",
       "tone": 0,
-      "seendate": "20260830T215402Z",
+      "seendate": "20260831T065911Z",
       "source": "GoogleNews"
     },
     {
-      "title": "U.A.E. To Review Banque Misr, Targeted by Iran Sanctions",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREZxa3JwYmZBSFp1V0xhbV9xdTZ5TGRXTm40T2RBRkoxSFZkWFpUd200Umd3dVpJajVwdmthQkNGc1loZmFHMUdoZW1HWUVTbzhwZkhxQ3pnd2lUYk1COVNyYWRVMGVqMTJUQXJuUUdrbGRHbEFzSVdKWVhpdnVFWmt4OFpZRDlKTlItb3hISQ?oc=5",
-      "domain": "thenewyorktimes",
+      "title": "Opinion | Trump’s New Iran Sanctions Put China on Notice",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenZaZ0ktV3IxSWFQRXhUOHpvb3gtVmZHcTJ6TTdaMnNJcU5VRnFVWWUxWDRjYlpWOE9Tek9OOF96VE5lR3NNS1BsWVQ2bGNPQUJVTXpTc1NtRmpqbWEzblI1MVFGbktxZFRrMm80Zmxza2M2UlM4WVVFUGl0bG95VUVVdzVNMXdad2c?oc=5",
+      "domain": "wsj",
       "language": "",
       "tone": 0,
-      "seendate": "20260830T144915Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "World Mostly Shrugs Off Bessent’s Iran Sanctions Warnings",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUFrM2N3M2Z6VlVKNEM1SHRjR1kxTmsySTY2UXluSFJtSWd6N2FVWnRicmh2VGQ5RnkycVRiZ1NFSndJS1dwc3NvcDFXdjM0Q0pUYlVxemxWakNqNGFiTzdOSkVDTzNlcUlBckNMNFZhdEF4NmpIakVRcXVMN2E3VXYxeVpNaWd4Nmw4ZTREaXZIenh6dDZPX3ItSElQQm9EVVFIMXItZEtEN0NsS0QtVzJR?oc=5",
-      "domain": "bloomberg.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260830T125043Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "America’s new sanctions are unlikely to topple Iran’s regime",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORUE1SmtBM3pFeUdSMDd1cXRqWTlhUkUwMHptVVdIcTBZQTFtcGJYYW56Rkk4cVUyYnVoUUNBajRwcU1vTkNpTDVOcE1DMktCN2N1MGxKb2lvVmVBaVZ1S3lQUnhISHlJd0JNRE41MXpDNWZPNmUyOU8wRjJ1ekxfYlhNdE9MY3lQRVo1Q0RWSGlfN3NVY0YyODJicHZyZjZiWHJXTFZ3?oc=5",
-      "domain": "theeconomist",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260827T140218Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "U.S. targets Egyptian bank's UAE branches under new push for Iran's economic isolation",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmFCMWdabmQ0UFFzTTZ1SDhKdnE0Mk1hZzZzMUVTU0VMd2NEM25SU2dEWWZhMEs1c2RINlgwTlpWOXpDUGFGTEtWQ3dfaGVFYnBjTk1BVG5yb3BUcXZjdFJ3TXJ0ZGR6ejBPWTZRemVfVzlCdUpLeFlZNm1IRmhRbGpuQXZzeXpOT0FhYndUN1RDNlA3Uzd6MElZM2tleE1ncHFlM2drTHA2YmJPWjFtQ19OTkIxd2RIS3fSAb8BQVVfeXFMT0hMWmlmbVphQ0tPTjFKZm9maklTY2NnYmZfWXhNU01odjJlbjluQTZTOTBzVFBPYVRnanpyWkNENE84VUpkTUREVWthZ2p4WlpNYU8tdFFyci1HZk9kNUg2dEVfV1dMd1RPM19FbWo1aXRCeHBudnRxMDJCbWhqREs2LVBiem5VdDNhLTBEckg4dUhEM0N3cWR3ZFdmUS1YckZqcTBSM1VER2lrRkFBUlVrZGlLX2dYY3AxRGlLSEU?oc=5",
-      "domain": "pbs",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260828T182759Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Senator Blumenthal urges House to pass Russia sanctions bill",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlF4RWpubW9LMjFGZkhDNTg1MHMydldST0FLWWxGSlE5cUhfVmFBZ1p6cUxvMUJqZHJucmpoLVhIRk5LV0c2MWt4TV9FcUFVOTIxMW9vQ1N4b1VpSEhWQXFqR19uT3lZRklkWHRFSkdscnhXcFFEckJqMDQzSXYzRWRmS2JGYTAxOTVfNXRQUnNESXBCeWZ1VXBiempzdTVhYVB2azhyWl84bFVBaWNBaVRpTEJyd9IBuwFBVV95cUxQa2Fid3B1OUVXME1hSFh1OXBkcGtYMjhmbVFWUzFTOVVsZ1FuVjNjcEJiZDducVpHVUQ2SGhhNUY4Wm91a1hLS1BKUEVLNC1LTGhkU2hvX004UE81V0EtU2t1NzhhY2UzX1JscHBJOVRBY3BMX1BJcnlwa1lKNzRvMlB0eXpwblZCZkxjN3hEeHNrRTRlMTBFamFwdmZwMzE4dkhqdTQ5YzVPem1zaGxCWHE4RVFiUzcxZDRn?oc=5",
-      "domain": "ukrinform",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260831T040800Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ncnpsVHhadTQwc3Z0ZGlDX0RIZ0dOY3U2WWtyYU93TDcycXY2eW9POHFCcEpna0h2Y1MyZlM2MnNkVVpBelB3QVFuUDF6U3NiRlNXNG1NT0d6ZVFpYm95QnBLNnREWDFjYVE?oc=5",
-      "domain": "axios",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260826T060941Z",
+      "seendate": "20260830T163100Z",
       "source": "GoogleNews"
     },
     {
@@ -697,15 +625,87 @@
       "source": "GoogleNews"
     },
     {
-      "title": "New US sanctions will hit ordinary Iranians hard as crashing economy stirs fresh protests",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmZwRUxqTVM1WXZpUnZwVmxYcDV6Q2hPZ1lMUVlVYzdOT3BDSHZLVjJmcU15dTQyUEdqWXRaZTRCRVhVX0JLRnRoMERQd2hZbXlyZndwdDdCOW9CM3VkWk93YVdETElBNEFXb1pPdDl0UmNLcXlfWDJzZlRaOVNYYzFMMEhHVzdidWFnN3k5OTNIRzZmRjQ5YU5hbEhTTTFJM3BCeEtn?oc=5",
-      "domain": "fortune",
+      "title": "Sen. Blumenthal urges House to pass Russia sanctions bill amid a \"moment of extreme urgency\" in Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkpFRnhMc0VpNl9mWXlfT2JWczJ5TF80dnNrd3lSY2YxaHBfNU4zcGxKaDZ6dlpYVkNkU3YxZTlqMUdvazZaLVYwb2JwREc0QXBBdkU2b0JlU2NOeGZIQmxpSGdLNE1DckI5TGZwTnlfYkJGbGtjWXAyQnhvdzdRaTEyVm5wRGxZNW03SmhBS2swbl92cEVQenV3aVBuV0U?oc=5",
+      "domain": "cbsnews",
       "language": "",
       "tone": 0,
-      "seendate": "20260829T212600Z",
+      "seendate": "20260830T171717Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
+      "domain": "apnews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260830T233000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "How Iran and Russia Trade Nuclear and Drone Technology to Bypass Sanctions",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1RWM0JRVnJwdHE3d2NUOHNDU0QxTHZyalMyNDlXclVORnVaOG5EVHJydUtWRE5NQkpkdUppRDFhaEpucU1fNk9aUlhJYVg2TFNRcG8teFJobV92SkNWMHFpT2IxTUpDOGgzazZDVGoydFlIWGNKRHQ5ekVEN0lZRUpFTUZvOEw2XzNnT2t4RGY3Nlk2RGE3cWkwVWZfV0RsczlVYlNHTGZJRzNIWWJNMQ?oc=5",
+      "domain": "middleeastforum",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260831T113142Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "U.A.E. To Review Banque Misr, Targeted by Iran Sanctions",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREZxa3JwYmZBSFp1V0xhbV9xdTZ5TGRXTm40T2RBRkoxSFZkWFpUd200Umd3dVpJajVwdmthQkNGc1loZmFHMUdoZW1HWUVTbzhwZkhxQ3pnd2lUYk1COVNyYWRVMGVqMTJUQXJuUUdrbGRHbEFzSVdKWVhpdnVFWmt4OFpZRDlKTlItb3hISQ?oc=5",
+      "domain": "thenewyorktimes",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260830T144915Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Iran’s economy, long accustomed to sanctions, feels new U.S. pressure",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3ZpU1VSZGhaaEd4SkpVb3dmTU82ekF3ckFjVXQzcFBBZXhSWnhCenVBUXZKbUlkWEdfVVdKaWNscDRzd1IzOU9XeEt0ZzgyMjRKMlZtOGZXRXJoVmpwRTQ1NmJLUUFWd0VTQ1lYNnV6a0w0cEt0UDhPc3BpTGN1eUJKSWhtbGxhcmpER3ZMZG1xUXdjVEc3NGhjOTIzUjByT3V5Q1V0dF9WSEdGbGNV?oc=5",
+      "domain": "thewashingtonpost",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260831T133030Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Iran sanctions and tariffs shadow G20 finance talks in Asheville",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNczhkWHVmX0RxM0h5a0ozbmZBamJyblpDdFpPN3VyT0RMTTZySW55Y0txd1B5NjZwczdsSnNVSEVnamQ4aGE5V3ZwNzQ5MjNUbFV2TVFxd3J4UzRNV0ZhR252UGl0WUtaSmc0aUE2eHl1bjdweU83UGNFcjlVZm9idi1RcW9kNkxBd2JsNnVmazlXam5hMXRveVFlWE9QLVlXLW9xc3VUSUlFQ0dMNnJ0MFlmcTJ4OHdRbkpibEFtblpvYVFJZXBxWA?oc=5",
+      "domain": "euronews.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260831T102704Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Blumenthal Declares Ukraine Has ‘Turned The Tide,’ Demands Russia Sanctions",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEtRR3hFLXRDNDg4dmpRY1poOHJBLUs0bElNd2hXb0FiQkY3NXRVcUhTUDZFLXZmM0t6TGdvbUFqVmE3c2dvdERBWjFkaUUtRkhCVDNsNFdOcm9BNldUQWY2Zzkzb1VDSG43MVVuMnJ6RlNCMDB6c256ODd6VFViN2gyMWkxalhhd0dQLWZxYjV3bEMwRmRIYkU2NWNKeVRVQ2t4WlJDbzl2MGRpM2c?oc=5",
+      "domain": "ctnewsjunkie",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260831T090000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US renews attack on Iran while threatening financial sanctions on Tehran allies",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUhqaDJSUEg3S0xEQmVtMDkxaXRrVnhUVUFQQ3d3azhBUkZnbFc1akdMd2xKOWEyU01pZUFsbG1rdEtjaURVQ2Mzekl3VDBncVk2YUF6UnFSdWdwSGZfRlhwODZra1M2cVFMTG40MFhXLWhhM0dIZVZ6VzJha2VLUUNwOVFScGtIdHBLenVzOWhQSVJEZG44dWdhU0tKMjBlZDRTQTB6b21CUjA?oc=5",
+      "domain": "france24",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260831T092419Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Iran Sanctions: Operation Economic Outcast Auctions Dollar Access",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHFpRzVXakR1MHotRWxnZU95azhldGZmZGxSOFlaU0Jzc1pXekxVSDFhV181SnctbXFiSE91dzhoNFZPNmVYeGUtZ05zNDJuWGRUM0JmYkM4bnRzbFBlY0RVcWJYdW9Hb0l0aW9KTXN4WV9PRXZOQWV2WE1kbzJqVmVHY0h6UC1FYmswX3UyUVZNeHBMcjFKRDFxblBEUFhNdng4WmNWc1Z3R1FoWEE5NTVWSGxraVVl?oc=5",
+      "domain": "forbes",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260830T222042Z",
       "source": "GoogleNews"
     }
   ],
   "timeseries": [],
-  "llm_summary": "The live snapshot tracks 50 articles from 28 deduplicated news domains, with an overall neutral tone index (50/100) and two active feeds. Headlines highlight a U.S. push for weekly secondary sanctions on Iran to raise pressure, a warning that these measures also signal China, and a Senate call for urgent Russia‑focused sanctions amid Ukraine developments. While some outlets frame the Iran sanctions as a “D‑Day” threat, others note that the global response has been largely muted. This sample suggests a concentrated policy focus on intensifying sanctions against Iran and Russia, with secondary effects noted for China, though the broader international reaction remains tepid. (Note: This brief reflects only the sampled news data and not an independent verification of events.)"
+  "llm_summary": ""
 }
