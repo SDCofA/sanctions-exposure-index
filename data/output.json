@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-09-12T04:24:53.377679+00:00",
+    "generated": "2026-09-12T10:37:15.367673+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "38",
+      "value": "37",
       "delta": "deduplicated"
     },
     {
@@ -35,21 +35,21 @@
   "live_data": {
     "news_articles": [
       {
-        "title": "OFAC Increases the Scope of Sanctions on Iran",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0tEb2c2UjlkU3pEdG43NUlDMmxyTklZcndaZHE1TE9ocXhrX2tsYjc4Um5xN2NxVWJiTXo5Vm14ZUYyMVc5LS1rTkZ3NVlxcWwtbWNfdXk2dV9RYmJ3VFlGT3FvcUM2cjQ1OW53M3BraFI1ak44NjVGS0VyaGJKS2dCVThEM1B3SjJ0NGltMC1hZGpPV3dN?oc=5",
-        "domain": "thompsonhinesmartrade.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T172039Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EUGplTllYUzJCdTI5bTZ3aU9ySkpzV2VLQWFwLXc1VnBaS1JhZW9wVy1OUGIwWDFyWVBacFVfYXZYekVPZ0dXZVNPQS13V2xQVUFORFBlNkdXMG9nMDUyVGlNX1lHYzMxNGxxT2tiLU5KYy13dXc?oc=5",
         "domain": "npr",
         "language": "",
         "tone": 0,
         "seendate": "20260911T193935Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "OFAC Increases the Scope of Sanctions on Iran",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0tEb2c2UjlkU3pEdG43NUlDMmxyTklZcndaZHE1TE9ocXhrX2tsYjc4Um5xN2NxVWJiTXo5Vm14ZUYyMVc5LS1rTkZ3NVlxcWwtbWNfdXk2dV9RYmJ3VFlGT3FvcUM2cjQ1OW53M3BraFI1ak44NjVGS0VyaGJKS2dCVThEM1B3SjJ0NGltMC1hZGpPV3dN?oc=5",
+        "domain": "thompsonhinesmartrade.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T172039Z",
         "source": "GoogleNews"
       },
       {
@@ -62,24 +62,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "UK Sanctions Against Israeli Settlers Divide British Rabbis",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWt2RkotdVRLSFJPc0tjZVQ1eHpsRlM4emFhQXNfZTViNHZNcC15SHI5cXQ5c0lxVkJBZmJqZ213Ump1Y1lQOTMzXzNpb3pKYTY3QlIzYmxWSHYySU13Y1hGZ1dTaTZ2SDRQb2xYXy1yOTlXaUQwWk0zQTdFMFdtZVZvRnFBNTUwWV80VDBMbFdXdzZ0ZGc?oc=5",
-        "domain": "thenewyorktimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T143600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "House tees up vote on Russia sanctions bill, but prospects for passage are uncertain",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOak43U3VCaFFIbm5COXBQTFVyT1hYWF9KMWpUU1ZybHdZVWs0VEVrcURQeWVBcUU5QzlXYjZKV0VJWnNIWWRWSktmZWZwZVlDc3d4NktybmhtTEpncE5XNXd6a1FqeThIbElQRHJkTDZJRU05VlllejdFdjFUMS1JUWdCNEU3OXdNYkMtUDR5blBrWDUtdDVhSWJVOC0wZ2_SAaQBQVVfeXFMTmwxYWlyRk05dkxaaDJNQVYyR01DMXFDYlZSd1NvUV96ekdlNk95b2RGSjNQZEtTMDVON2hoaGQ5clJWSnN0X2htVVhzUDB0NlgtYnd2enl5VDVFbVRRQ296ZE5TaHpEelh6TFVnaUZORTByYmJZNzJwbXJiUjdpeDFmZXBxbVh4a0M1MllHTWljMXJEWHlaRG9HX2xqWnJRZUFOZnU?oc=5",
-        "domain": "abcnews-breakingnewslatestnewsandvideos",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T210031Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "How the U.S. Treasury's New Aviation Sanctions on Iran Extend Beyond Tehran",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFhUYUhHOUpHTEZrTmhmbllNR0s4WXJxZUlLZnVadWxmbXE5NGV0a2xzd3NLNDBRcW0wR2laRnpGUUNxTkppeW9CdzhZRFNjY1gyQWRIcTZMZFFqOGRseGE1TmxwSW9nMTdTNmVfcTMwSzd1bkZwOW85SUhMUVpZMEJlS05sX05rNGsxc1AzWEVjVm4wTmhYVEZ3?oc=5",
         "domain": "timemagazine",
@@ -89,39 +71,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oa1ZrMHdwckNGMEdTNGJEamJWY3Vka1ltNFRGX0hHaEczWmhodEpEXzJUVnVuUGUyb2EwbnhLOUVKdmZPR0RtMGgxMUxrSi1Td25MX256cnpFbFNBSUdyc2c1VVFyYTRfdTVXMGpxQ3pYRlJleHotMjdkTdIBgAFBVV95cUxPU1JLRnBsZ2tia0dmMzN4YlJUR0k3NGs1d1RJQWNYUE5rMWszWjFYb0kwM1ZIMlZGbThTcHo2b2xsMG9jalF2NXdmTWZLUi1wb2trc0RzcTRsQXBqYllPcU5mR3NyTlJocld0TzIzOGJfYTJlYUV5NElJRkVoZGRWZg?oc=5",
-        "domain": "cnbc",
+        "title": "Treasury Grounds Iranian Airlines with Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2JjOHZUdGJVTFZubERLYXl3WER5U0l2NW4teDhFdWk4WUpCWTBjVHdveTU2QmtSM1dpT1owdlpfd2g3dXl6Ym16cV9TWFJIaWJGVFBMNzNjX2JLNTVLeW0xT2VwbUlyMHlsWUdHUE03NFlvQUVEWV9jLVRmQWxrT1lyb3NNWmtDOGJlMUtiWkRqTWRjR3k2MXBpQ2Noc2I2?oc=5",
+        "domain": "thepresidentialprayerteam",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T151045Z",
+        "seendate": "20260912T090000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "UN extends partial Sudan arms embargo for a month",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYWZuUkxGNlRRaVh6SFVpZm5uTzc2Tkh3TnhBdnQ3VmVSQ3hSQ0pTVUg4WHd2WVJ0RUw3a1Bsa2xueDJxR3QtTjJmcDQtUHBia3NEbm9vRDhZWDNBY1VqTndLUXZxbmdyN2V5R2UxWU51a1JyUm5LN0hnWUxRRTg1NldzU2swdmhWX0MzZExkTjhBUDlV0gGaAUFVX3lxTE8tNnNIam4xWVQxQ3VZbE9sZk80ZW85OTlDX0RKTlpjQ1pRWWF2LTdrUXNqb2NzbV9pdW9XZWRwRTV3ZGdWTEpkZmFTbEhiZUFIVjZRWl92Q0hyREU0YzNsalB0WFlHV3c2WERJdkdOS0hmMXEwZ29kV3o0S1ZZZXBCT0pnZHkwY0NyekNCMlJ6UGVsWGo4NGd6T0E?oc=5",
-        "domain": "aljazeera",
+        "title": "House tees up vote on Russia sanctions bill, but prospects for passage are uncertain",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOak43U3VCaFFIbm5COXBQTFVyT1hYWF9KMWpUU1ZybHdZVWs0VEVrcURQeWVBcUU5QzlXYjZKV0VJWnNIWWRWSktmZWZwZVlDc3d4NktybmhtTEpncE5XNXd6a1FqeThIbElQRHJkTDZJRU05VlllejdFdjFUMS1JUWdCNEU3OXdNYkMtUDR5blBrWDUtdDVhSWJVOC0wZ2_SAaQBQVVfeXFMTmwxYWlyRk05dkxaaDJNQVYyR01DMXFDYlZSd1NvUV96ekdlNk95b2RGSjNQZEtTMDVON2hoaGQ5clJWSnN0X2htVVhzUDB0NlgtYnd2enl5VDVFbVRRQ296ZE5TaHpEelh6TFVnaUZORTByYmJZNzJwbXJiUjdpeDFmZXBxbVh4a0M1MllHTWljMXJEWHlaRG9HX2xqWnJRZUFOZnU?oc=5",
+        "domain": "abcnews.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T233438Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPajlicGVNdlR4N1MxdHJNa0lrTnRsYjRXZEhNdDl6U1NHSlBVUXk0SFgtemM0LXdid1AzQ0htekgwdGVyNk54NFZHUjN1Z3ZNaXNMVWkzZ05nNHhHdjhEOGdOSHRpZWZyYkZWQ2pzb0VJVHJVRm5wT19HQ2NDaEpwZVI3TkdWYkpBZGVXcUxscGlqcmVPSXZLeWEtZmQwSjR2NzVXU2hTSzlMQk1heXVETDJacVZIYzUyOHlMRtIBvAFBVV95cUxQcENvQlJpLURCZ1FNdDEwcFZLQUI4OWJfSWdfN2dhVUZZWUpINXdUUlNmbHFEckc0T0RJMUdFMFVRVmluVHNiSUhaT1BuUGZNVzdyT1lBbDROdzlWcHpFSk5pRDNIWXlVSDlDbm5seENNZm5tNDc3SkY3V1NZcUJzVktiNUNDV0JpV05ic0UtLUw5eDRyUk5XMFJmRzFUa0Q5WmpxbWMtZjBJbE1wbzRRRWRubjM0X25LeUhyMw?oc=5",
-        "domain": "southchinamorningpost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T223620Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US House Set To Take Up Russia Sanctions Bill Amid Fight Over Trump Tariff Powers",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGk1R3p5ZGJFOGNfV0R6MkpGbC1Pa1JuUDFlTk8wdGY0cU1Fc2x0QlM1Vnh3QjVxaWtiNXpDN2hidmF6VllNMl9EVUw0bW9wRHV1RzFibDhyX0xLbnd5TnoyWUNSV3Fua25PTG13U05SeEpCRUIxaDNYR1BIUVgtUDYzZ2Z4QdIBiAFBVV95cUxNd2xmd0pMaUJmSDladWVyRnVjbnduYU9HZndSWnJneGQ2S3BkanZZdktYQ3NDdHVWVzB4WXFVNHdGWHhpb09uNTI1enlLWlJRa3RSek9UNS0tVVlKWkNYamh1emdNUmFFM1o0NW5zVWtPOWlJdmVZTFpMN3dFbFJPZi0wdGFaYXAy?oc=5",
-        "domain": "radiofreeeuroperadioliberty",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T202652Z",
+        "seendate": "20260911T210031Z",
         "source": "GoogleNews"
       },
       {
@@ -134,21 +98,48 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oa1ZrMHdwckNGMEdTNGJEamJWY3Vka1ltNFRGX0hHaEczWmhodEpEXzJUVnVuUGUyb2EwbnhLOUVKdmZPR0RtMGgxMUxrSi1Td25MX256cnpFbFNBSUdyc2c1VVFyYTRfdTVXMGpxQ3pYRlJleHotMjdkTdIBgAFBVV95cUxPU1JLRnBsZ2tia0dmMzN4YlJUR0k3NGs1d1RJQWNYUE5rMWszWjFYb0kwM1ZIMlZGbThTcHo2b2xsMG9jalF2NXdmTWZLUi1wb2trc0RzcTRsQXBqYllPcU5mR3NyTlJocld0TzIzOGJfYTJlYUV5NElJRkVoZGRWZg?oc=5",
+        "domain": "cnbc",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T151045Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UK Sanctions Against Israeli Settlers Divide British Rabbis",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWt2RkotdVRLSFJPc0tjZVQ1eHpsRlM4emFhQXNfZTViNHZNcC15SHI5cXQ5c0lxVkJBZmJqZ213Ump1Y1lQOTMzXzNpb3pKYTY3QlIzYmxWSHYySU13Y1hGZ1dTaTZ2SDRQb2xYXy1yOTlXaUQwWk0zQTdFMFdtZVZvRnFBNTUwWV80VDBMbFdXdzZ0ZGc?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T143600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Why Sanctions on Iraq Will Be Necessary to Force Iraqi Militia Disarmament",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZl83TjM2dllnVWJJaVFzQ3FSZUExdlBOLVlBN1ItRTNPamZuTWV2YlJMSnRKRktWYzJySF84ZlZveTFER1Ayd3hwTER2Sm10VDlzNnhCaWVldm81eEh5VHBURVlrYmxLdEltYThmR0tTalQ5dHhZTmw0V1lYb1ZDekQyYkU5Z3EwbUd4NV85aGlWWG81U0xaWU41VDdOUHJjZzBuT3otMTFIZnFQbGU5Vw?oc=5",
+        "domain": "middleeastforum",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260912T100138Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UN extends partial Sudan arms embargo for a month",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYWZuUkxGNlRRaVh6SFVpZm5uTzc2Tkh3TnhBdnQ3VmVSQ3hSQ0pTVUg4WHd2WVJ0RUw3a1Bsa2xueDJxR3QtTjJmcDQtUHBia3NEbm9vRDhZWDNBY1VqTndLUXZxbmdyN2V5R2UxWU51a1JyUm5LN0hnWUxRRTg1NldzU2swdmhWX0MzZExkTjhBUDlV0gGaAUFVX3lxTE8tNnNIam4xWVQxQ3VZbE9sZk80ZW85OTlDX0RKTlpjQ1pRWWF2LTdrUXNqb2NzbV9pdW9XZWRwRTV3ZGdWTEpkZmFTbEhiZUFIVjZRWl92Q0hyREU0YzNsalB0WFlHV3c2WERJdkdOS0hmMXEwZ29kV3o0S1ZZZXBCT0pnZHkwY0NyekNCMlJ6UGVsWGo4NGd6T0E?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T233438Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Trump didn't oppose UK sanctions on Israeli settlements",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3gxcHd1VUFCUmx1d093bGRoZ2dHYklOR1NuaUtJVE91bVF0Y1JDRV9DVDJsTmt5V2hncUpVSnJfdGM0akllR0dBWEprVW5oS1FhZkt1MzRyWnRxcXRncnFiRjBDX3RjZ0VkeUJhSjlQOW9XWDlENTF4OGdDYjN5SkFyNHgyZDdROWR1YWotWmJjQQ?oc=5",
         "domain": "axios",
         "language": "",
         "tone": 0,
         "seendate": "20260909T012240Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "House to take up Russia sanctions bill next week",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTHg3ZC1GTXJLTVBzRWgyTnUtdXY4bl9qUS1qLWVfT0FKOE1oZFJRRS1xNkRja19NRkZTTmZTcUt6TldOa2xSRl9VYzVkTElzQ0czbXQwY1dPVTN3TzUtanVyUjQ1SVo2ZU54R3pwSnU3YlXSAXhBVV95cUxQRTlUUEdUNlR2ZlRyVlhZYlFBa1lTTmVtM25BSXlVVXQtT2I1a29lQTZ6cmRMWFBjLVVuRlZ5YXNXemNHd2dxMzlaVFhocXBuZWlGT1lnZ2NIeWY4TThBWTB1amp0VlZLM2RnYkZOMGNVN2p4M0tIcTQ?oc=5",
-        "domain": "thehill",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T175200Z",
         "source": "GoogleNews"
       },
       {
@@ -161,30 +152,30 @@
         "source": "GoogleNews"
       },
       {
+        "title": "US House Set To Take Up Russia Sanctions Bill Amid Fight Over Trump Tariff Powers",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGk1R3p5ZGJFOGNfV0R6MkpGbC1Pa1JuUDFlTk8wdGY0cU1Fc2x0QlM1Vnh3QjVxaWtiNXpDN2hidmF6VllNMl9EVUw0bW9wRHV1RzFibDhyX0xLbnd5TnoyWUNSV3Fua25PTG13U05SeEpCRUIxaDNYR1BIUVgtUDYzZ2Z4QdIBiAFBVV95cUxNd2xmd0pMaUJmSDladWVyRnVjbnduYU9HZndSWnJneGQ2S3BkanZZdktYQ3NDdHVWVzB4WXFVNHdGWHhpb09uNTI1enlLWlJRa3RSek9UNS0tVVlKWkNYamh1emdNUmFFM1o0NW5zVWtPOWlJdmVZTFpMN3dFbFJPZi0wdGFaYXAy?oc=5",
+        "domain": "radiofreeeuroperadioliberty",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T202652Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Investors seek terminating sanctions in $35M Patten University fraud suit",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPandrZHpvMnJLNGd2RjFVTks2YWs5bm5udkpIRzFOWEpvYkJ5aEpOMm9vSDR4aVpBR1NzMnR2QkswaFdOcHhfSXh5S0d4Wjk2U3kzcEp5X0V2YUZJV2sxQlRnazJrV3hydkNab2VvaEdsSmMySE96Z182ZE5WQ2J6aTJtMFA3aFFUSm5abFlxM2QyWTBtNlBvOGhvYVB1OFVJUUgwQlMyVXJzYjlHaS1rOG0zdmVDejg?oc=5",
+        "domain": "dailyjournal",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260912T101929Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "UK sanctions on West Bank settlers are the right step | Letters",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2pzdjIzV1JZd28wekFHbGRWTTJjREFMZ1Q3UjY3bTNpbTgtbU5neGdIQ1AwSndKR0tscnpReVpacGg1QTAxSXMzUlVHZlpkS1JweXRmNWY2SHZ4OUd4NnE4aTVycWR3YmQxRDBmOE5sVkhyeFgxWjRNRWV0M2VWTkhIaWdxeTVyU3RQakhqZ0haMXRBUDViY0lzQl8zR1lN?oc=5",
         "domain": "theguardian",
         "language": "",
         "tone": 0,
         "seendate": "20260912T013100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Brazil's Eduardo Bolsonaro to push for U.S. sanctions against Supreme Court Justice during Washington visit",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdEMtMktXeWhtUy1IVGR0cHJrVWRtYWluRk0tcFZETjJEaWh6QV9ScWhlaHZjbnYzQmhxOWNadVJYbm9pN2Z5b0tfcHBLMzFwUG9hRHcxM2pRU0hhWXlzV1V3RmlUa1FnM1llcTVBQ0hNSW9DR0xDN2cxYjJHYUVCYjFyeTNiR2MzVTJtQnFJN2N0V1d5bXhxVDh3WmM3b0NpOGJmX05OUWtWZEpFdzNWa3dPVkxXV0tXUDNMUUVUM2g4MkhTU0MtWktXNzdfdw?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T200901Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "On Israeli sanctions, Trump strikes an unusually restrained tone",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0JQQ3dyNndhVmo4eG5jN00wZnZpREF0aG9kQWdKRUZZUkhia1BSZUVjRDJYOGlrOGJOdWZlTnd1aFN5Nzh1QnE0OS1LMGdfYTNYUWxobUxYZjVjT1VzUmxTMGk4TmV5ZzJ4eUJyQWVGX3hhcjlvd3ZnZDZUWmZLaVA3OFU4UGJpMXM3a2VWN0tyejBKT045aVBWOEZyTnloWXlRTFVxaWZjMnI2al9oZ3hyT2k5elJQX3F5RlFJNFVqRnh0X3hV?oc=5",
-        "domain": "politico.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260910T040100Z",
         "source": "GoogleNews"
       },
       {
@@ -197,6 +188,15 @@
         "source": "GoogleNews"
       },
       {
+        "title": "On Israeli sanctions, Trump strikes an unusually restrained tone",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0JQQ3dyNndhVmo4eG5jN00wZnZpREF0aG9kQWdKRUZZUkhia1BSZUVjRDJYOGlrOGJOdWZlTnd1aFN5Nzh1QnE0OS1LMGdfYTNYUWxobUxYZjVjT1VzUmxTMGk4TmV5ZzJ4eUJyQWVGX3hhcjlvd3ZnZDZUWmZLaVA3OFU4UGJpMXM3a2VWN0tyejBKT045aVBWOEZyTnloWXlRTFVxaWZjMnI2al9oZ3hyT2k5elJQX3F5RlFJNFVqRnh0X3hV?oc=5",
+        "domain": "politico",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260910T040100Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "EXCLUSIVE: How a billion-dollar sanctions dodge kept Chinese goods flowing to Iran",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQXdBWlltZS1pUU8wZnFqc21wUDExNGZub0prbEtxYTNwS2J3UU91eTQ4aXZTUGNwWjdGZGxVZUNiY2dHbXVNbl9tNE4zSlVqVDJaZFlmMkZ6Slo3RndJczlqMTlsYlVGOEEteGNreDFjR0JabWhJaTNCTHNtUUozWDFVSm56QldwaXFjbnBQZWlxdGtsVFdmcDFDTHNjMzBaN2NkNlNzUGV0MXhZR3hBdmFUMV9LLU9ZYWxBTW5n?oc=5",
         "domain": "reuters",
@@ -206,75 +206,39 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Ukraine Sees Russian-Iranian Sanctions Networks Converging As US Targets Tankers",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzUyb3dlTUQwVW5qV09hbEJQSzBIejU4SGhEaVFNNkxvRXBYeWVrcnQxcjF2VXhjTE91dXpiYlhleUVlMTltUExnZzdzYXZ6UGNheFRjdmpEMjR5MTlkcEhiUlpvOGVkeGVKVDY4TVRpenU0eVNINzJiMVBCblg3ZXEzMG1kR1NvcVNUV3hmUVRDejBEVndERDBubDJ4aHpyRTFJR1B1QXFhLWdEc2pwUzlXbjM3RFRmLXfSAbwBQVVfeXFMTXVWVDFfQ19LWl9oTi1hRTdFbGtsQ2FVV08yaDVteWtQcmhPWHJ4REZaSTNuaGZhTVNMcVhJeUhYMEhjN2ZQN1lfSkFuWVVvQTlBUEtGWlFGaEIzYmVjaFMzLVQtQld4Q2VrZ0xOOFZHRWV6a1FQa0NpSkdfUGEtVkJuazBCQmpQX3lQa1pwZVkybDFocUdGcE5wZHNXdGkxZnlSQTdLNDNEWktmWTBxQWRsZ2VMcnhVb3VpMWg?oc=5",
-        "domain": "radiofreeeuroperadioliberty",
+        "title": "Brazil's Eduardo Bolsonaro to push for U.S. sanctions against Supreme Court Justice during Washington visit",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdEMtMktXeWhtUy1IVGR0cHJrVWRtYWluRk0tcFZETjJEaWh6QV9ScWhlaHZjbnYzQmhxOWNadVJYbm9pN2Z5b0tfcHBLMzFwUG9hRHcxM2pRU0hhWXlzV1V3RmlUa1FnM1llcTVBQ0hNSW9DR0xDN2cxYjJHYUVCYjFyeTNiR2MzVTJtQnFJN2N0V1d5bXhxVDh3WmM3b0NpOGJmX05OUWtWZEpFdzNWa3dPVkxXV0tXUDNMUUVUM2g4MkhTU0MtWktXNzdfdw?oc=5",
+        "domain": "reuters",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T125734Z",
+        "seendate": "20260911T200901Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Russia sanctions bill, criticized by Democrats, awaits House return",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUjllTVNaUk9fQ3RVYmFzVXpaOGNjYkZHNnJPeEs2ZnlrLXRQWWVnakpkY20zOEZZTFp0VHQwX2Y1d09mVERUR0lvTTBTV0phMjRiT1ZUNUlDNGE5Q2t0UEJzMDhTQ3VjNFJTclRTdHBIVWJZM3Y5d3FUWnRaTFZvSDBWZVhfRnRENnBrN0hBMFhfY1FNMGdZU0dfQXVDSURqdldSTWRVRUlkaEhs?oc=5",
-        "domain": "njspotlightnews",
+        "title": "How a billion-dollar sanctions dodge kept Chinese goods flowing to Iran",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSUMyZDhVOF9wZkpNMEZiN195MGlucEtkUWJ0ckFuUjFieFlBYmtfZmt4WTZSb1MzdHV5ZWZDbXRlek1wSVhPUzNCOTJXS3ZnNExaa05ubzVUejJMWHd3UWotbXRkTndHUVFfSW92Sk5LSVdwR0lfZDN2QTJ5Y202RUZHZWNkZmc4T1RZ?oc=5",
+        "domain": "thejapantimes",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T044703Z",
+        "seendate": "20260912T074300Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US Airline Sanctions Sever Some of Iran’s Last Outside Links",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXo4M0E3RV9FQjE0cUdsM2ZWNkpsNlJTU2hSN1NrUnNabXNtcWZNTmgyYkdXckE1ZUdwZEEwbXpoRGNmRmt2QmJ4SGhfV0RGVlJsd0NSQUxDTGlaZ05PdEFtSzdRYnFYNHctdGVNdHNpU0ItYkktYlo1aHltNTR4VGRncWVRa3J0WW1xTnEzMi01UkI2T281Wm0zdHBLSnNwWEZuemhWX1JSbGF1Qlg0Tw?oc=5",
-        "domain": "bloomberg.com",
+        "title": "House to take up Russia sanctions bill next week",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTHg3ZC1GTXJLTVBzRWgyTnUtdXY4bl9qUS1qLWVfT0FKOE1oZFJRRS1xNkRja19NRkZTTmZTcUt6TldOa2xSRl9VYzVkTElzQ0czbXQwY1dPVTN3TzUtanVyUjQ1SVo2ZU54R3pwSnU3YlXSAXhBVV95cUxQRTlUUEdUNlR2ZlRyVlhZYlFBa1lTTmVtM25BSXlVVXQtT2I1a29lQTZ6cmRMWFBjLVVuRlZ5YXNXemNHd2dxMzlaVFhocXBuZWlGT1lnZ2NIeWY4TThBWTB1amp0VlZLM2RnYkZOMGNVN2p4M0tIcTQ?oc=5",
+        "domain": "thehill",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T155145Z",
+        "seendate": "20260911T175200Z",
         "source": "GoogleNews"
       },
       {
         "title": "Zelensky urges Trump to impose new Russia sanctions 'now', after deadly Ukraine strikes",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnhVRTdXcWV6Uk5Ja2pBaktMYzMtYURWUW5iXzdqdnZqM2haZmxEeXlHdzNtb0xjSDBKUlpQQm1RM3RlZzRDSDJxWWdvNHZaRVZhWUpjcnVCcHA0N0dieHowSWFZVkg3Y3dvTWVYN09weFA1Q1dkVW4xTEphYlZGVnVSZUpDaE9tMU1Td0ZoNnFYYWJIMDR3Ry1EQnF3ZXB1YkZLS2QxVEJXalg2NkRMQ2dWbDY0ZVZaazRWVVhDcDhkZ3UtbzZF?oc=5",
-        "domain": "france24",
+        "domain": "france24.com",
         "language": "",
         "tone": 0,
         "seendate": "20260911T191314Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Putin Escalates Anti-West Attacks at BRICS",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWT0RKMUZqcEdlQ3h6WGNyUkhUV0JNa1paOFFXWGVhbE90OUJyczJLOTRtalRUOU9UeDZ5QUlMdFVaT2JNUWFIcE4ydw?oc=5",
-        "domain": "kyivpost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260912T012540Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US House Prepares Vote on Russia Sanctions Bill Giving Trump 100% Tariff Powers",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnUteS1JMXdkT0lJNWFKNnRwOGRuX1RlRU0wWnMtMnE0VGRzN0g0bWhyNkYzdkVHR0Y3RHd6c3hBSUZCSlMxck1tblRGVG5iMzNxRjBTZlpmZ3JXZTJXMWdkVUxOVGZVczkwMk9YV19PWFU0cy0yY2dVN0pTVnA1WlFpOVVmOVJXcERGZGc0UDNKNE5JTEVXMUtCcHpLWmNfeExHWG5GZzRDdnczSVBHTVVQeW5MZ2dJTklRbm1NYUsyRDg?oc=5",
-        "domain": "united24media",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T190624Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia Sanctions Bill Scheduled for a House Vote Next Week",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzhXU0hyclZKWmQ2bU5ueU05ZDhjcE9LdHlhTVFTMHpCcjZpbnVKYjk1MHd0ZVpFYlhabVNlaVVLTkxpNlJGWVlrU09RcXV3a040QUg3MnFzVDBNMU90Y1lTb01OcTBHRDBXbWs0N2stT0JXTWo2ZnpSbjhTQ1Y1YVZiZGR3UEVwV0lVY2VFdk02QW5VejRUNWZMbHRNUnlfR3ZWa1FmY3ltb3pualdpbG1B?oc=5",
-        "domain": "bloomberg.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T153045Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "No sanctions for LSU after SEC meeting on expulsion",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0I1LVNaYjhfSF9RajhNaENRWm1zUk9rTndTN3RsRDN6S21wRWFrdnZ5ZERKVEFKYnE2WGx0a25SNDVXdUdhcHh5c0VXSVMzYVZ1SGtpS3ZZbjdEYTlfQmtNX0t5TlBQQ3kyVjdiaW1WdEZ0WEFiMzV4ZTJpWmpfN29ZRWtkOUN4b0xUNWZjdmVidkhBeXktU2lNbi0?oc=5",
-        "domain": "espn",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260910T225000Z",
         "source": "GoogleNews"
       },
       {
@@ -287,21 +251,39 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Investors seek terminating sanctions in $35M Patten University fraud suit",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPandrZHpvMnJLNGd2RjFVTks2YWs5bm5udkpIRzFOWEpvYkJ5aEpOMm9vSDR4aVpBR1NzMnR2QkswaFdOcHhfSXh5S0d4Wjk2U3kzcEp5X0V2YUZJV2sxQlRnazJrV3hydkNab2VvaEdsSmMySE96Z182ZE5WQ2J6aTJtMFA3aFFUSm5abFlxM2QyWTBtNlBvOGhvYVB1OFVJUUgwQlMyVXJzYjlHaS1rOG0zdmVDejg?oc=5",
-        "domain": "dailyjournal",
+        "title": "Exclusive: Nobel laureate freed by Trump urges hard line in new Belarus talks",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmsxb0FldEZHSGF5MkNUaGxJVEkzQVo4Mld5b1ZUNGt1UVlkT3RfSlFHVEdaTkQ4aHV0YmkydTdSZ05wN0xaRWlvZUxuakhFd0RVbU5qUFQxVTc4dnZSOEdadlg5TWtHSEZkZTlDWEJjYWd2VFBybTVzNFdzSXBlQ3NIUDRwTnZOU0g4?oc=5",
+        "domain": "thehill",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T221929Z",
+        "seendate": "20260912T100000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "EU Sanctions on 3,000 Russians Stall as France Joins Slovakia’s Delisting Push",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03YWlZMG5aY0pWRWlvZDFkX0lXdFdQNUNuWDhGeTBXSExmT2daTFo0UHJnQjRUeDdscWUzQVJudExUNUVZUm5CRmtwZw?oc=5",
+        "title": "No sanctions for LSU after SEC meeting on expulsion",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0I1LVNaYjhfSF9RajhNaENRWm1zUk9rTndTN3RsRDN6S21wRWFrdnZ5ZERKVEFKYnE2WGx0a25SNDVXdUdhcHh5c0VXSVMzYVZ1SGtpS3ZZbjdEYTlfQmtNX0t5TlBQQ3kyVjdiaW1WdEZ0WEFiMzV4ZTJpWmpfN29ZRWtkOUN4b0xUNWZjdmVidkhBeXktU2lNbi0?oc=5",
+        "domain": "espn",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260910T225000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPajlicGVNdlR4N1MxdHJNa0lrTnRsYjRXZEhNdDl6U1NHSlBVUXk0SFgtemM0LXdid1AzQ0htekgwdGVyNk54NFZHUjN1Z3ZNaXNMVWkzZ05nNHhHdjhEOGdOSHRpZWZyYkZWQ2pzb0VJVHJVRm5wT19HQ2NDaEpwZVI3TkdWYkpBZGVXcUxscGlqcmVPSXZLeWEtZmQwSjR2NzVXU2hTSzlMQk1heXVETDJacVZIYzUyOHlMRtIBvAFBVV95cUxQcENvQlJpLURCZ1FNdDEwcFZLQUI4OWJfSWdfN2dhVUZZWUpINXdUUlNmbHFEckc0T0RJMUdFMFVRVmluVHNiSUhaT1BuUGZNVzdyT1lBbDROdzlWcHpFSk5pRDNIWXlVSDlDbm5seENNZm5tNDc3SkY3V1NZcUJzVktiNUNDV0JpV05ic0UtLUw5eDRyUk5XMFJmRzFUa0Q5WmpxbWMtZjBJbE1wbzRRRWRubjM0X25LeUhyMw?oc=5",
+        "domain": "southchinamorningpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T223620Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Putin Escalates Anti-West Attacks at BRICS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWT0RKMUZqcEdlQ3h6WGNyUkhUV0JNa1paOFFXWGVhbE90OUJyczJLOTRtalRUOU9UeDZ5QUlMdFVaT2JNUWFIcE4ydw?oc=5",
         "domain": "kyivpost",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T182923Z",
+        "seendate": "20260912T012540Z",
         "source": "GoogleNews"
       },
       {
@@ -314,6 +296,60 @@
         "source": "GoogleNews"
       },
       {
+        "title": "US Airline Sanctions Sever Some of Iran’s Last Outside Links",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXo4M0E3RV9FQjE0cUdsM2ZWNkpsNlJTU2hSN1NrUnNabXNtcWZNTmgyYkdXckE1ZUdwZEEwbXpoRGNmRmt2QmJ4SGhfV0RGVlJsd0NSQUxDTGlaZ05PdEFtSzdRYnFYNHctdGVNdHNpU0ItYkktYlo1aHltNTR4VGRncWVRa3J0WW1xTnEzMi01UkI2T281Wm0zdHBLSnNwWEZuemhWX1JSbGF1Qlg0Tw?oc=5",
+        "domain": "bloomberg.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T155145Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US House to Vote Next Week on Graham’s Russia Sanctions Bill",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzekdyalJBYm1zc2p3MzZ2dkROcFd0aFRYVWM5Vnh6Smd2WTFGelJCYnVtZm84NUFaWEZRTWpmQjd5clJyTHZ2ZmdGZw?oc=5",
+        "domain": "kyivpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260912T065629Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US House Prepares Vote on Russia Sanctions Bill Giving Trump 100% Tariff Powers",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnUteS1JMXdkT0lJNWFKNnRwOGRuX1RlRU0wWnMtMnE0VGRzN0g0bWhyNkYzdkVHR0Y3RHd6c3hBSUZCSlMxck1tblRGVG5iMzNxRjBTZlpmZ3JXZTJXMWdkVUxOVGZVczkwMk9YV19PWFU0cy0yY2dVN0pTVnA1WlFpOVVmOVJXcERGZGc0UDNKNE5JTEVXMUtCcHpLWmNfeExHWG5GZzRDdnczSVBHTVVQeW5MZ2dJTklRbm1NYUsyRDg?oc=5",
+        "domain": "united24media.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T190624Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russia Sanctions Bill Scheduled for a House Vote Next Week",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzhXU0hyclZKWmQ2bU5ueU05ZDhjcE9LdHlhTVFTMHpCcjZpbnVKYjk1MHd0ZVpFYlhabVNlaVVLTkxpNlJGWVlrU09RcXV3a040QUg3MnFzVDBNMU90Y1lTb01OcTBHRDBXbWs0N2stT0JXTWo2ZnpSbjhTQ1Y1YVZiZGR3UEVwV0lVY2VFdk02QW5VejRUNWZMbHRNUnlfR3ZWa1FmY3ltb3pualdpbG1B?oc=5",
+        "domain": "bloomberg.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T154806Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ukraine Sees Russian-Iranian Sanctions Networks Converging As US Targets Tankers",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzUyb3dlTUQwVW5qV09hbEJQSzBIejU4SGhEaVFNNkxvRXBYeWVrcnQxcjF2VXhjTE91dXpiYlhleUVlMTltUExnZzdzYXZ6UGNheFRjdmpEMjR5MTlkcEhiUlpvOGVkeGVKVDY4TVRpenU0eVNINzJiMVBCblg3ZXEzMG1kR1NvcVNUV3hmUVRDejBEVndERDBubDJ4aHpyRTFJR1B1QXFhLWdEc2pwUzlXbjM3RFRmLXfSAbwBQVVfeXFMTXVWVDFfQ19LWl9oTi1hRTdFbGtsQ2FVV08yaDVteWtQcmhPWHJ4REZaSTNuaGZhTVNMcVhJeUhYMEhjN2ZQN1lfSkFuWVVvQTlBUEtGWlFGaEIzYmVjaFMzLVQtQld4Q2VrZ0xOOFZHRWV6a1FQa0NpSkdfUGEtVkJuazBCQmpQX3lQa1pwZVkybDFocUdGcE5wZHNXdGkxZnlSQTdLNDNEWktmWTBxQWRsZ2VMcnhVb3VpMWg?oc=5",
+        "domain": "radiofreeeuroperadioliberty",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T125734Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How China is extending its legal reach abroad to fight US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZk5MTHRNZ1JySWlyMHVYa0Z2YkhQaG85ZVBJZUFOelF5X3p3MEtsZEhhMXhGeVV4bnNyYjFVSVJlSUM3MEJkWmxPWTRHcGJlWmpCY051WkdmbDBuWFVYN0xOdXRvV3VPa28xN3VhWV9YbkNodk5qX1hsbUdYcjYxMjRUamU?oc=5",
+        "domain": "financialtimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T031745Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "UN extends partial Sudan arms embargo for a month while talks continue on US demand for a total ban",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEdqSHdnLUtZQkFKZ0pXWGpXTzFCR1RuVDFVa2tLbGpRYTRoWkNhS1lHeHkyQUhDd1pQcFNQTktCWS1qZjZrb0NVbWhsUU4tNDBWWk1NLXFLTFdPb0lPME5IZHNBNDlwNjQ3QUN0Y2VxRkZsQndPb0s1R2dvQjlsUjdhcU9MV3FSb1IyLXJ6VlVoWlJHWkF2ZTR0ZDM?oc=5",
         "domain": "apnews",
@@ -323,12 +359,57 @@
         "source": "GoogleNews"
       },
       {
+        "title": "EU Sanctions on 3,000 Russians Stall as France Joins Slovakia’s Delisting Push",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03YWlZMG5aY0pWRWlvZDFkX0lXdFdQNUNuWDhGeTBXSExmT2daTFo0UHJnQjRUeDdscWUzQVJudExUNUVZUm5CRmtwZw?oc=5",
+        "domain": "kyivpost",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T182923Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US sanctions Turkish bank, two subsidiaries in latest pressure on Iran",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSml5Y093OWVORkhPb29wMzl1QlYxcWtjWGYwUTNFSUh3bkNTU3NJZ0d3eG9UbUNxeXM4eGE3U2V5ejVqaThPemU1WDBoMndmY0NxOUhKamRhUExmMjBnMDY2RXQ1b2FBMFI4X1NOcjJZNDlaSDR1dGZSclJoM3FOOElibjhITXVjS1ZiVTBpeFNUVXZuaWlORUNENUw1YVJNcFRYUXNwRERJZTgxb1E?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260904T182257Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "British firms that implement Israel sanctions to be named and shamed in US",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVXlVbHowem0zWHc3N1U0dWxITlBrcEtaUGV5TTRtYVRQdE1KcUxaeENHOUV2a2tBSExzRnhuMG94RThOdTlLNmprck4xUTlkQTFQTEhTdzJ4Vklsd05tTjItcGR5TENJUWNtdThjTjRiY1l6NExfTW1PUF9ZdUdQZjZpVWV5RGkwS1Vabl9yV20yTE5ZWGNQTmc1TEh4aHNHU3c?oc=5",
+        "domain": "yahoo",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260912T081414Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "End Trump Oil Embargo on Cuba With War Powers Vote, Coalition Urges House Democrats",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83aG9XemQyY2VoVlFvcVVJTWlYb0R1cVVabk5GUzRqQmFDTWY2U1JOYmgwcDJVOGF0dkEyRjVIcWZGNmpKY2tfRHFwRXRlVW9iOFFSNXJaV2dFOW5jQzhMOWFlT2V2TllBcVRBU1RtQWhzUld6RGdVbER2a0c?oc=5",
         "domain": "commondreams",
         "language": "",
         "tone": 0,
         "seendate": "20260912T001010Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU sanctions rollover stalls over Russian oligarch Usmanov as Paris backs Bratislava's demand to delist him",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVDVablVyVjg2M1FYOFVUd0RXU2lqa0FHR284T1VOcXRtMnhvZ0VvdGdZT3FCOGpZdGZEanJ6T3lMSy0tZ0hSZklyUXRVYjJyU2NMbEJzeGRXLUFlNkRMeXRhZ2VoWGNlNktZUWpmN08xNkx3ZXRhalVmemxlQ1Z2V1owMjRJX0VrRUhDclhyVlJ4N0R2ZFBQWDJKdVFkVTdDUTFWd0lyM2xlVU9DS1ZwdEdyQVVua1dURE1nNHYxMFVnWG1UMkh0MkNZRllvY2VpT2ZVOHZWbERyVFZBaHl3?oc=5",
+        "domain": "euromaidanpress",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260912T100707Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "LSU faces no SEC sanctions after meeting as eligibility dispute turns to legal questions",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWllEcXdjeDdWS3FpVGVUOWtidDZ5SnBkUXl0WHdPeV9LY09fdDZ4eG9CQUp2UWJCRjI5YndqQi04MTVqNWJ1dVNHRmdtd3lvdk5RRUs3VjdSZkFOei1aT1BNXzQ4ZTNLajJTdk50UDNCX2hnQ0p1QUFGY20ydFhyT1BFbFJUOWtMUExpdFNoU1JPR21lbk9abmh5c3BMZEpzZDRFQWxqSDNoM0pvZzJSNU1QR2NaNmRkaURN0gHPAUFVX3lxTE1jbDJPc052WUdwUDlPVkluYlB5Umc4LWNONDFIUV9lb0RaRUVaVTZzam9kZkFITUQwbi00ZDliVTRHRFJVSEJOaFhlbm5CYnp0UTV3VDdjVk1NZHE1alEyNUVuT2p1ZzhLNEhmY0JieUp3M3N2STl1WVMwV3J0SU9vLTJRNFN6ZEdCU0hnU2VwTTZPMW9hNEV2Y0w3UHpiY0Y1b0VpNU5ZYmNJS1IzeGotaGRzUUdxU0ZZaEp6Qmw5UEppQmxRUkwxSHRZdllNMA?oc=5",
+        "domain": "fox8live.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T030300Z",
         "source": "GoogleNews"
       },
       {
@@ -343,73 +424,10 @@
       {
         "title": "US House to take up Graham's Russia sanctions bill next week",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTnRNNTlXYk1aUkxaMnBReERRRzRXWDdKWkRULV9qMkZEX2NaWklPQnBaWEpuU3o3anpkN2hqWVE2enhuel9QYUQ2RUJsLUhZdHhCd1ZJdGdTM1ZDT0lvcDhRaGFPWnNpVFNDem0wRUdXT2piVUJEZDBDUTZkN2pxa2VQU0MtWXQ0QjQtTnA2aTZQdw?oc=5",
-        "domain": "thekyivindependent",
+        "domain": "kyivindependent.com",
         "language": "",
         "tone": 0,
         "seendate": "20260911T175837Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Zelensky Says Ukraine Won’t Go Hungry Despite Black Sea Blockade",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93TTBBcnBRaGhvaVJNMEozQ1VBWWFqZFRsdDVPRXpPbkxhZnBhbmlDN0dJdkU1cGZUdE85ZjUwbEczVTFWUmtsX0pHOA?oc=5",
-        "domain": "kyivpost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T203540Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "LSU faces no SEC sanctions after meeting as eligibility dispute turns to legal questions",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWllEcXdjeDdWS3FpVGVUOWtidDZ5SnBkUXl0WHdPeV9LY09fdDZ4eG9CQUp2UWJCRjI5YndqQi04MTVqNWJ1dVNHRmdtd3lvdk5RRUs3VjdSZkFOei1aT1BNXzQ4ZTNLajJTdk50UDNCX2hnQ0p1QUFGY20ydFhyT1BFbFJUOWtMUExpdFNoU1JPR21lbk9abmh5c3BMZEpzZDRFQWxqSDNoM0pvZzJSNU1QR2NaNmRkaURN0gHPAUFVX3lxTE1jbDJPc052WUdwUDlPVkluYlB5Umc4LWNONDFIUV9lb0RaRUVaVTZzam9kZkFITUQwbi00ZDliVTRHRFJVSEJOaFhlbm5CYnp0UTV3VDdjVk1NZHE1alEyNUVuT2p1ZzhLNEhmY0JieUp3M3N2STl1WVMwV3J0SU9vLTJRNFN6ZEdCU0hnU2VwTTZPMW9hNEV2Y0w3UHpiY0Y1b0VpNU5ZYmNJS1IzeGotaGRzUUdxU0ZZaEp6Qmw5UEppQmxRUkwxSHRZdllNMA?oc=5",
-        "domain": "fox8live.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T030300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US sanctions Turkish bank, two subsidiaries in latest pressure on Iran",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSml5Y093OWVORkhPb29wMzl1QlYxcWtjWGYwUTNFSUh3bkNTU3NJZ0d3eG9UbUNxeXM4eGE3U2V5ejVqaThPemU1WDBoMndmY0NxOUhKamRhUExmMjBnMDY2RXQ1b2FBMFI4X1NOcjJZNDlaSDR1dGZSclJoM3FOOElibjhITXVjS1ZiVTBpeFNUVXZuaWlORUNENUw1YVJNcFRYUXNwRERJZTgxb1E?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260904T182257Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Zelensky: Sanctions against Russia must be imposed now and they must be strong",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWNFXzNoNnpRT1NTeEdnblZLcEhmREVJckwyajlwcS1rVUFCck4wcTkyMWdSUWhPTGR1OEFfcTBqck5oWEdzMXF1UzlvT2RyZnJHOERrLVdmT2FxeWladmJXUHpYZnJsZktHU2JzNFlWLUhJVnZDQkZoVWJKM3RwdVFlWmYtWC1INU1XbEtyaHE5c3JoMUJFQjRyS2lZeU0tQnpYbm82WFZWTEJJOWttQ3I5Q19nZHNtMG9qS1Fwem1meTkzcFRRZVVZV0LSAdIBQVVfeXFMTXRERjRqQzJsOXROcVNkRFRqOEs3R2NIVXowN3ZJMEYtR1djd2ZGUGVpalJFT2xWeGRpdWdBTzJFZmd1dUhxeUE2TG1BS2RmNHpFLXJ3Vmc3Y196THVOUWdSSG9rTXozejVEUUxtTm5mX3hVMmFZbDh1OWEtYUwzQ1pXT1pyZExGV2VCcGVlM0Zxc1dROWYyNEVGN0xiSENCSEJJczQ3WTJxcmo5b1RHYmhzcDFIZWpzWklXVzNTM19CaThoUXJFZ1JhRWdRUW1TYXF3?oc=5",
-        "domain": "ukrinform",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T195300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Exclusive: UK sanctions on Israeli settlements to include those in Syria's Golan Heights",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcHRid1BTTHljSDdWTEE0R0l0RHptOG1vTWNDcnBlLXFRM29qemp1SDVYc0s2UkVKQXhNN0xfWDdqbzQ1MHA4OThvQklnN1NJdGNfNGotS3c0OEVwX3ZDMVphRElXNzNqUFhaTnRtMW9kU2RDSVFKNlBwc3BSVzRJaGpQdFVncXkxcVNDLWJCR0hYYnpyM2NaWmcwQ0FCSFRTOU1pMQ?oc=5",
-        "domain": "middleeasteye",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T114643Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Graham's Russia sanctions bill to go to House vote next week – Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGtrZVJ4U0c3YlpDeU1xaVFWekViWTJIdDdVRkdITGlyNXFOejF5dE1mcVBLbVc3LVpiVk44ZE1uMHNXQ1ZLN25nMUExU0JMQUx0enNJTHdwTkFMY3hRcVJMWDBnMFd2WENDUGJmaEExOWMzQTBKUHZIWjJxMkEzYWRLQy1CWDMtejFXcEp4NnZOcmFWTnoyRjdqR2Q0OENYeE5zdTR6cmtqMDA0SGYzVlJoZVZ3QlI4V3JFTmN3aDJMZ9IBxwFBVV95cUxOS0N5VXg5N1VzREUwb2tWcWtjWjFucTZuc25jdDlLLTczRl9FSDJwRG1YUGFTaGxVQ2ZuU2Jmd0Jsb0phcHltWE56aEZCMXhIVGV2aV9vWjN2ajZBSGtiUklQMXJlRmtwdElvN3BJUTBCSEk1VndwWGZHYWZkNzRtTXRvVzdIU250b0RnVk90bkhnMnp6VE9DVlVrTUZScjFCM1c0SzM2Y2MxVmdCQXJtQl91REYwLTVmTFJEX2c1d0xIaXlJNjM0?oc=5",
-        "domain": "ukrinform",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T190000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Zelensky calls for stronger US sanctions against Russia, says Ukraine must engage in peace talks with Moscow",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVFBNTG5KbndFLWJPX2FualU2T0ZhMlRnamJTNkE3WDhkQkRFVm12VW1zeGIwSDRqejQtUWVUbGxUQlQ3dFZlYmdqMUF6RDZnNVdEVng1aHVpaXM4MTVweUxXS2ZOWG1NMzVvWHVWMkVtRGlveWkycm15X0VYME9SNHdxMkdQbHNfWUI1UEdJUDg1TW5FV1hwbXZQMHE0a1BpZzVhMjd0VW5VNnQ2aElKRkpiOEMxMWF2TkhCa2VydjE2R2FUVG9TaW9ZcWRQVFNkOHc?oc=5",
-        "domain": "thekyivindependent",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T202920Z",
         "source": "GoogleNews"
       },
       {
@@ -422,6 +440,15 @@
         "source": "GoogleNews"
       },
       {
+        "title": "US Imposes New Sanctions On Hezbollah And Irania Proxy Networks | LIVE BLOG",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRm5LbjltcnE0MWQzUHRfUjhqZ25ObldNbUlCeUVNOUtEemtBS3Nna3lBNUF3ZHIxSVBaN3E5em5zeUxwSXFnMlJQWVNWQ1pfazlsMGZSVURJemEzSmVSdDYwVUZyclNOSGR5SVM5aExLb2tFTk1mWm9iWmF2UXg1TVNjNzNRelhvSm82WFJLS3JJQndjcmVmdkNtMmNScUxaN0k3UVlSOHFiaklWczlQdWFON1lmM3hMTEFQZnF3?oc=5",
+        "domain": "i24news",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260911T143018Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Iran routed up to $2.5 billion via China sanctions workaround in past year - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mUVRyaURqQ3BiWEt6Tzh6N2JlZ1JVb09Pc3RYcjJWVXlMN1VvcF8tN09EWlpVTlFWTUlQSTBYVmsxVGwwU3NKSFRiR3EzZ3V5MUE?oc=5",
         "domain": "iraninternational",
@@ -431,57 +458,30 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Zelenskyy urges US sanctions on Russia ‘now’ after deadly strikes",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcmVvVGJZcHdIWm02d1FZRVYzVjhoVUVuckZ4QTFpS1daZW1ZSmstb3N2SmxpMFBteFVOVlp6WkxWeFJMU3QxTE5TbmtSaG5iVms5Ukc4SmR2LUZ2YU1qTFNJS1pIbllnejFsa01XRGpHMHRRc2FNSklRTEdqS2J1VkplMlk2OUF4OE1tNjFSQTkyVDU2eVhFN1FPYmtSdTlDbGFOUU5fNWJtdw?oc=5",
-        "domain": "trkiyetoday",
+        "title": "Zelensky Says Ukraine Won’t Go Hungry Despite Black Sea Blockade",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93TTBBcnBRaGhvaVJNMEozQ1VBWWFqZFRsdDVPRXpPbkxhZnBhbmlDN0dJdkU1cGZUdE85ZjUwbEczVTFWUmtsX0pHOA?oc=5",
+        "domain": "kyivpost",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T194604Z",
+        "seendate": "20260911T203540Z",
         "source": "GoogleNews"
       },
       {
-        "title": "UN extends partial Sudan arms embargo for a month while talks continue on US demand for a total ban",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbzhvZW5RNldUVmpjcUhsQ0lROFhndWxMSVduRmdubWVzRFlCOVJibmd0WXlydTV5WXEyZWlWM0F3bFRKLW5JM0E2SkFQS2FGUkRNUkhFQUQtdUlhTzZfekd4RDlaTkN5a25OdF80eWJGaF9URTlyNnVrX1RCRVRKaTFMUldHVlJ5Ml9GN19NOEFSSnQ2czJzSjB1VEIxenFOOGF6el83Z2I4cGgxU241WEtrLVZKMURKWXpHYVA1NmVEUlJjc0VxZmlpQU1XYXpXQ3hwZFliV20wMUtBeFNkaDR0ZmFSZ0V4RHM2VjJHUDNLYXpCa0RKYm91ZVozQmZiaVZ4c1BpTjRRQQ?oc=5",
-        "domain": "oskaloosaherald",
+        "title": "Zelensky calls for stronger US sanctions against Russia, says Ukraine must engage in peace talks with Moscow",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVFBNTG5KbndFLWJPX2FualU2T0ZhMlRnamJTNkE3WDhkQkRFVm12VW1zeGIwSDRqejQtUWVUbGxUQlQ3dFZlYmdqMUF6RDZnNVdEVng1aHVpaXM4MTVweUxXS2ZOWG1NMzVvWHVWMkVtRGlveWkycm15X0VYME9SNHdxMkdQbHNfWUI1UEdJUDg1TW5FV1hwbXZQMHE0a1BpZzVhMjd0VW5VNnQ2aElKRkpiOEMxMWF2TkhCa2VydjE2R2FUVG9TaW9ZcWRQVFNkOHc?oc=5",
+        "domain": "kyivindependent.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260911T193011Z",
+        "seendate": "20260911T202920Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump administration offers rare muted response on new sanctions against Israel",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXl6T19GTU5YclJCcUpwMDJQNF90TEU2Q19rNWlSaU1lSTdiZGxnOWt3OUdycUlxWjNadDkyR0ZMYl9fMWdQUURWQUtmelJNcVlDZWlMaXU4OGVhWnczUFgxcUNrMVRRa1A4ZXhYUUNLOTFuQ2lUYmZSTk1kT1VvcHVYR1hXbFNs?oc=5",
-        "domain": "cnn",
+        "title": "Zelensky: Sanctions against Russia must be imposed now and they must be strong",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWNFXzNoNnpRT1NTeEdnblZLcEhmREVJckwyajlwcS1rVUFCck4wcTkyMWdSUWhPTGR1OEFfcTBqck5oWEdzMXF1UzlvT2RyZnJHOERrLVdmT2FxeWladmJXUHpYZnJsZktHU2JzNFlWLUhJVnZDQkZoVWJKM3RwdVFlWmYtWC1INU1XbEtyaHE5c3JoMUJFQjRyS2lZeU0tQnpYbm82WFZWTEJJOWttQ3I5Q19nZHNtMG9qS1Fwem1meTkzcFRRZVVZV0LSAdIBQVVfeXFMTXRERjRqQzJsOXROcVNkRFRqOEs3R2NIVXowN3ZJMEYtR1djd2ZGUGVpalJFT2xWeGRpdWdBTzJFZmd1dUhxeUE2TG1BS2RmNHpFLXJ3Vmc3Y196THVOUWdSSG9rTXozejVEUUxtTm5mX3hVMmFZbDh1OWEtYUwzQ1pXT1pyZExGV2VCcGVlM0Zxc1dROWYyNEVGN0xiSENCSEJJczQ3WTJxcmo5b1RHYmhzcDFIZWpzWklXVzNTM19CaThoUXJFZ1JhRWdRUW1TYXF3?oc=5",
+        "domain": "ukrinform",
         "language": "",
         "tone": 0,
-        "seendate": "20260910T180019Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Africa’s fifth-largest gold producer loses key European market as EU sanctions hit $12.7 billion industry",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV2FReFlRUllxTEhvNzVWZHRTV2tiV2FfQmp6OGljSno1REs3RWNQYjJ3akYtWExWTE5TbzduV2JEdE9KNDh3bVVpeFNhSGNSRndnRUp3UjN2MU4xTnQzbkp2VzB6ZzY2RzduVEpoenFWMUxFX3doRkx2NUczNUlqU1NzX09aWVhGLXlmWndoRE4tOUIxVUsxTDRxUHNVQl94NXFsXzgxZFl4cXR1RGxkblRMQ1lPUWZGS3plNDNKc3VxRGVjMkd6MWpxYnFXcnZXQkk3Ug?oc=5",
-        "domain": "africa.businessinsider.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T070828Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Yossi Abravanel: Despite sanctions, Israel must keep communication open with Europe",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmNZclF3VkpqNG5Cd0VCS1dBMlAwZDJUNi1hS0ZNZWo3dFlaTTIzX2xua2JPZkNELUkxdk9BbVA2ZGJHdFhpam9heFNDMWtmWTBrblhVZ1J6UDlSUWVQZm96LU02NEkyYkpXNExUenh5dlN0Wlc0UkVFVkFaajR6MVZRTFdPNzl4YnB3Q1B0TnZSTzV6ZFF1SzV5Y0lUTjMtVmxSZ0FYTl9DdkgxdTJaR1930gG3AUFVX3lxTE5ybW9fQjYwUmEwY3RYZzJGdlJQVkFUTmlXbUlhMWZhTWpGUWZSYzFrOEdOTmxMWFdaVGc5MVYzTWhUeDV4UUh0Znh4Q1p2SEJkRTNUOGpUeGdwOFk2d0k5amJNZ28tR2tTSk9wWTJpSDBZMDJzWkVJSlVnaDc2V0x2akNWYl9NdVFyYml5bGVHYWRTZFcyNzRZT3g0ekg2dTVlRy12bXFGOUROMVpUSEhIVGtIazIyWQ?oc=5",
-        "domain": "thetimesofisrael",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T085400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "House to Vote on Russia Sanctions Tariff Bill",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTmdkX1hMcnJJdWlpNFBYTFBrZllzSXJCc01PSWcxQ191U2NUQjNMaExvM2l6VFRzTjRMc2VKTG9rVE1LOWRYeXRRZEJlb2JUdTh1TTJCYkhiazN4cXV6UDYzRWY4aUNwNnFSRWl2enJGeDE3UGVsSlhlQkFTYTJLQm9JelA5bDFlYTlMaUJETQ?oc=5",
-        "domain": "briefsfinance",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260911T223906Z",
+        "seendate": "20260911T195300Z",
         "source": "GoogleNews"
       }
     ],
@@ -571,21 +571,21 @@
   "entities": [],
   "events": [
     {
-      "title": "OFAC Increases the Scope of Sanctions on Iran",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0tEb2c2UjlkU3pEdG43NUlDMmxyTklZcndaZHE1TE9ocXhrX2tsYjc4Um5xN2NxVWJiTXo5Vm14ZUYyMVc5LS1rTkZ3NVlxcWwtbWNfdXk2dV9RYmJ3VFlGT3FvcUM2cjQ1OW53M3BraFI1ak44NjVGS0VyaGJKS2dCVThEM1B3SjJ0NGltMC1hZGpPV3dN?oc=5",
-      "domain": "thompsonhinesmartrade.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260911T172039Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EUGplTllYUzJCdTI5bTZ3aU9ySkpzV2VLQWFwLXc1VnBaS1JhZW9wVy1OUGIwWDFyWVBacFVfYXZYekVPZ0dXZVNPQS13V2xQVUFORFBlNkdXMG9nMDUyVGlNX1lHYzMxNGxxT2tiLU5KYy13dXc?oc=5",
       "domain": "npr",
       "language": "",
       "tone": 0,
       "seendate": "20260911T193935Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "OFAC Increases the Scope of Sanctions on Iran",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0tEb2c2UjlkU3pEdG43NUlDMmxyTklZcndaZHE1TE9ocXhrX2tsYjc4Um5xN2NxVWJiTXo5Vm14ZUYyMVc5LS1rTkZ3NVlxcWwtbWNfdXk2dV9RYmJ3VFlGT3FvcUM2cjQ1OW53M3BraFI1ak44NjVGS0VyaGJKS2dCVThEM1B3SjJ0NGltMC1hZGpPV3dN?oc=5",
+      "domain": "thompsonhinesmartrade.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260911T172039Z",
       "source": "GoogleNews"
     },
     {
@@ -598,24 +598,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "UK Sanctions Against Israeli Settlers Divide British Rabbis",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWt2RkotdVRLSFJPc0tjZVQ1eHpsRlM4emFhQXNfZTViNHZNcC15SHI5cXQ5c0lxVkJBZmJqZ213Ump1Y1lQOTMzXzNpb3pKYTY3QlIzYmxWSHYySU13Y1hGZ1dTaTZ2SDRQb2xYXy1yOTlXaUQwWk0zQTdFMFdtZVZvRnFBNTUwWV80VDBMbFdXdzZ0ZGc?oc=5",
-      "domain": "thenewyorktimes",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260911T143600Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "House tees up vote on Russia sanctions bill, but prospects for passage are uncertain",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOak43U3VCaFFIbm5COXBQTFVyT1hYWF9KMWpUU1ZybHdZVWs0VEVrcURQeWVBcUU5QzlXYjZKV0VJWnNIWWRWSktmZWZwZVlDc3d4NktybmhtTEpncE5XNXd6a1FqeThIbElQRHJkTDZJRU05VlllejdFdjFUMS1JUWdCNEU3OXdNYkMtUDR5blBrWDUtdDVhSWJVOC0wZ2_SAaQBQVVfeXFMTmwxYWlyRk05dkxaaDJNQVYyR01DMXFDYlZSd1NvUV96ekdlNk95b2RGSjNQZEtTMDVON2hoaGQ5clJWSnN0X2htVVhzUDB0NlgtYnd2enl5VDVFbVRRQ296ZE5TaHpEelh6TFVnaUZORTByYmJZNzJwbXJiUjdpeDFmZXBxbVh4a0M1MllHTWljMXJEWHlaRG9HX2xqWnJRZUFOZnU?oc=5",
-      "domain": "abcnews-breakingnewslatestnewsandvideos",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260911T210031Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "How the U.S. Treasury's New Aviation Sanctions on Iran Extend Beyond Tehran",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFhUYUhHOUpHTEZrTmhmbllNR0s4WXJxZUlLZnVadWxmbXE5NGV0a2xzd3NLNDBRcW0wR2laRnpGUUNxTkppeW9CdzhZRFNjY1gyQWRIcTZMZFFqOGRseGE1TmxwSW9nMTdTNmVfcTMwSzd1bkZwOW85SUhMUVpZMEJlS05sX05rNGsxc1AzWEVjVm4wTmhYVEZ3?oc=5",
       "domain": "timemagazine",
@@ -625,39 +607,21 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oa1ZrMHdwckNGMEdTNGJEamJWY3Vka1ltNFRGX0hHaEczWmhodEpEXzJUVnVuUGUyb2EwbnhLOUVKdmZPR0RtMGgxMUxrSi1Td25MX256cnpFbFNBSUdyc2c1VVFyYTRfdTVXMGpxQ3pYRlJleHotMjdkTdIBgAFBVV95cUxPU1JLRnBsZ2tia0dmMzN4YlJUR0k3NGs1d1RJQWNYUE5rMWszWjFYb0kwM1ZIMlZGbThTcHo2b2xsMG9jalF2NXdmTWZLUi1wb2trc0RzcTRsQXBqYllPcU5mR3NyTlJocld0TzIzOGJfYTJlYUV5NElJRkVoZGRWZg?oc=5",
-      "domain": "cnbc",
+      "title": "Treasury Grounds Iranian Airlines with Sanctions",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2JjOHZUdGJVTFZubERLYXl3WER5U0l2NW4teDhFdWk4WUpCWTBjVHdveTU2QmtSM1dpT1owdlpfd2g3dXl6Ym16cV9TWFJIaWJGVFBMNzNjX2JLNTVLeW0xT2VwbUlyMHlsWUdHUE03NFlvQUVEWV9jLVRmQWxrT1lyb3NNWmtDOGJlMUtiWkRqTWRjR3k2MXBpQ2Noc2I2?oc=5",
+      "domain": "thepresidentialprayerteam",
       "language": "",
       "tone": 0,
-      "seendate": "20260911T151045Z",
+      "seendate": "20260912T090000Z",
       "source": "GoogleNews"
     },
     {
-      "title": "UN extends partial Sudan arms embargo for a month",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYWZuUkxGNlRRaVh6SFVpZm5uTzc2Tkh3TnhBdnQ3VmVSQ3hSQ0pTVUg4WHd2WVJ0RUw3a1Bsa2xueDJxR3QtTjJmcDQtUHBia3NEbm9vRDhZWDNBY1VqTndLUXZxbmdyN2V5R2UxWU51a1JyUm5LN0hnWUxRRTg1NldzU2swdmhWX0MzZExkTjhBUDlV0gGaAUFVX3lxTE8tNnNIam4xWVQxQ3VZbE9sZk80ZW85OTlDX0RKTlpjQ1pRWWF2LTdrUXNqb2NzbV9pdW9XZWRwRTV3ZGdWTEpkZmFTbEhiZUFIVjZRWl92Q0hyREU0YzNsalB0WFlHV3c2WERJdkdOS0hmMXEwZ29kV3o0S1ZZZXBCT0pnZHkwY0NyekNCMlJ6UGVsWGo4NGd6T0E?oc=5",
-      "domain": "aljazeera",
+      "title": "House tees up vote on Russia sanctions bill, but prospects for passage are uncertain",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOak43U3VCaFFIbm5COXBQTFVyT1hYWF9KMWpUU1ZybHdZVWs0VEVrcURQeWVBcUU5QzlXYjZKV0VJWnNIWWRWSktmZWZwZVlDc3d4NktybmhtTEpncE5XNXd6a1FqeThIbElQRHJkTDZJRU05VlllejdFdjFUMS1JUWdCNEU3OXdNYkMtUDR5blBrWDUtdDVhSWJVOC0wZ2_SAaQBQVVfeXFMTmwxYWlyRk05dkxaaDJNQVYyR01DMXFDYlZSd1NvUV96ekdlNk95b2RGSjNQZEtTMDVON2hoaGQ5clJWSnN0X2htVVhzUDB0NlgtYnd2enl5VDVFbVRRQ296ZE5TaHpEelh6TFVnaUZORTByYmJZNzJwbXJiUjdpeDFmZXBxbVh4a0M1MllHTWljMXJEWHlaRG9HX2xqWnJRZUFOZnU?oc=5",
+      "domain": "abcnews.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260911T233438Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPajlicGVNdlR4N1MxdHJNa0lrTnRsYjRXZEhNdDl6U1NHSlBVUXk0SFgtemM0LXdid1AzQ0htekgwdGVyNk54NFZHUjN1Z3ZNaXNMVWkzZ05nNHhHdjhEOGdOSHRpZWZyYkZWQ2pzb0VJVHJVRm5wT19HQ2NDaEpwZVI3TkdWYkpBZGVXcUxscGlqcmVPSXZLeWEtZmQwSjR2NzVXU2hTSzlMQk1heXVETDJacVZIYzUyOHlMRtIBvAFBVV95cUxQcENvQlJpLURCZ1FNdDEwcFZLQUI4OWJfSWdfN2dhVUZZWUpINXdUUlNmbHFEckc0T0RJMUdFMFVRVmluVHNiSUhaT1BuUGZNVzdyT1lBbDROdzlWcHpFSk5pRDNIWXlVSDlDbm5seENNZm5tNDc3SkY3V1NZcUJzVktiNUNDV0JpV05ic0UtLUw5eDRyUk5XMFJmRzFUa0Q5WmpxbWMtZjBJbE1wbzRRRWRubjM0X25LeUhyMw?oc=5",
-      "domain": "southchinamorningpost",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260911T223620Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US House Set To Take Up Russia Sanctions Bill Amid Fight Over Trump Tariff Powers",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGk1R3p5ZGJFOGNfV0R6MkpGbC1Pa1JuUDFlTk8wdGY0cU1Fc2x0QlM1Vnh3QjVxaWtiNXpDN2hidmF6VllNMl9EVUw0bW9wRHV1RzFibDhyX0xLbnd5TnoyWUNSV3Fua25PTG13U05SeEpCRUIxaDNYR1BIUVgtUDYzZ2Z4QdIBiAFBVV95cUxNd2xmd0pMaUJmSDladWVyRnVjbnduYU9HZndSWnJneGQ2S3BkanZZdktYQ3NDdHVWVzB4WXFVNHdGWHhpb09uNTI1enlLWlJRa3RSek9UNS0tVVlKWkNYamh1emdNUmFFM1o0NW5zVWtPOWlJdmVZTFpMN3dFbFJPZi0wdGFaYXAy?oc=5",
-      "domain": "radiofreeeuroperadioliberty",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260911T202652Z",
+      "seendate": "20260911T210031Z",
       "source": "GoogleNews"
     },
     {
@@ -670,21 +634,48 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oa1ZrMHdwckNGMEdTNGJEamJWY3Vka1ltNFRGX0hHaEczWmhodEpEXzJUVnVuUGUyb2EwbnhLOUVKdmZPR0RtMGgxMUxrSi1Td25MX256cnpFbFNBSUdyc2c1VVFyYTRfdTVXMGpxQ3pYRlJleHotMjdkTdIBgAFBVV95cUxPU1JLRnBsZ2tia0dmMzN4YlJUR0k3NGs1d1RJQWNYUE5rMWszWjFYb0kwM1ZIMlZGbThTcHo2b2xsMG9jalF2NXdmTWZLUi1wb2trc0RzcTRsQXBqYllPcU5mR3NyTlJocld0TzIzOGJfYTJlYUV5NElJRkVoZGRWZg?oc=5",
+      "domain": "cnbc",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260911T151045Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "UK Sanctions Against Israeli Settlers Divide British Rabbis",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWt2RkotdVRLSFJPc0tjZVQ1eHpsRlM4emFhQXNfZTViNHZNcC15SHI5cXQ5c0lxVkJBZmJqZ213Ump1Y1lQOTMzXzNpb3pKYTY3QlIzYmxWSHYySU13Y1hGZ1dTaTZ2SDRQb2xYXy1yOTlXaUQwWk0zQTdFMFdtZVZvRnFBNTUwWV80VDBMbFdXdzZ0ZGc?oc=5",
+      "domain": "thenewyorktimes",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260911T143600Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Why Sanctions on Iraq Will Be Necessary to Force Iraqi Militia Disarmament",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZl83TjM2dllnVWJJaVFzQ3FSZUExdlBOLVlBN1ItRTNPamZuTWV2YlJMSnRKRktWYzJySF84ZlZveTFER1Ayd3hwTER2Sm10VDlzNnhCaWVldm81eEh5VHBURVlrYmxLdEltYThmR0tTalQ5dHhZTmw0V1lYb1ZDekQyYkU5Z3EwbUd4NV85aGlWWG81U0xaWU41VDdOUHJjZzBuT3otMTFIZnFQbGU5Vw?oc=5",
+      "domain": "middleeastforum",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260912T100138Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "UN extends partial Sudan arms embargo for a month",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYWZuUkxGNlRRaVh6SFVpZm5uTzc2Tkh3TnhBdnQ3VmVSQ3hSQ0pTVUg4WHd2WVJ0RUw3a1Bsa2xueDJxR3QtTjJmcDQtUHBia3NEbm9vRDhZWDNBY1VqTndLUXZxbmdyN2V5R2UxWU51a1JyUm5LN0hnWUxRRTg1NldzU2swdmhWX0MzZExkTjhBUDlV0gGaAUFVX3lxTE8tNnNIam4xWVQxQ3VZbE9sZk80ZW85OTlDX0RKTlpjQ1pRWWF2LTdrUXNqb2NzbV9pdW9XZWRwRTV3ZGdWTEpkZmFTbEhiZUFIVjZRWl92Q0hyREU0YzNsalB0WFlHV3c2WERJdkdOS0hmMXEwZ29kV3o0S1ZZZXBCT0pnZHkwY0NyekNCMlJ6UGVsWGo4NGd6T0E?oc=5",
+      "domain": "aljazeera",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260911T233438Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Trump didn't oppose UK sanctions on Israeli settlements",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3gxcHd1VUFCUmx1d093bGRoZ2dHYklOR1NuaUtJVE91bVF0Y1JDRV9DVDJsTmt5V2hncUpVSnJfdGM0akllR0dBWEprVW5oS1FhZkt1MzRyWnRxcXRncnFiRjBDX3RjZ0VkeUJhSjlQOW9XWDlENTF4OGdDYjN5SkFyNHgyZDdROWR1YWotWmJjQQ?oc=5",
       "domain": "axios",
       "language": "",
       "tone": 0,
       "seendate": "20260909T012240Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "House to take up Russia sanctions bill next week",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTHg3ZC1GTXJLTVBzRWgyTnUtdXY4bl9qUS1qLWVfT0FKOE1oZFJRRS1xNkRja19NRkZTTmZTcUt6TldOa2xSRl9VYzVkTElzQ0czbXQwY1dPVTN3TzUtanVyUjQ1SVo2ZU54R3pwSnU3YlXSAXhBVV95cUxQRTlUUEdUNlR2ZlRyVlhZYlFBa1lTTmVtM25BSXlVVXQtT2I1a29lQTZ6cmRMWFBjLVVuRlZ5YXNXemNHd2dxMzlaVFhocXBuZWlGT1lnZ2NIeWY4TThBWTB1amp0VlZLM2RnYkZOMGNVN2p4M0tIcTQ?oc=5",
-      "domain": "thehill",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260911T175200Z",
       "source": "GoogleNews"
     },
     {
@@ -697,12 +688,21 @@
       "source": "GoogleNews"
     },
     {
-      "title": "UK sanctions on West Bank settlers are the right step | Letters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2pzdjIzV1JZd28wekFHbGRWTTJjREFMZ1Q3UjY3bTNpbTgtbU5neGdIQ1AwSndKR0tscnpReVpacGg1QTAxSXMzUlVHZlpkS1JweXRmNWY2SHZ4OUd4NnE4aTVycWR3YmQxRDBmOE5sVkhyeFgxWjRNRWV0M2VWTkhIaWdxeTVyU3RQakhqZ0haMXRBUDViY0lzQl8zR1lN?oc=5",
-      "domain": "theguardian",
+      "title": "US House Set To Take Up Russia Sanctions Bill Amid Fight Over Trump Tariff Powers",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGk1R3p5ZGJFOGNfV0R6MkpGbC1Pa1JuUDFlTk8wdGY0cU1Fc2x0QlM1Vnh3QjVxaWtiNXpDN2hidmF6VllNMl9EVUw0bW9wRHV1RzFibDhyX0xLbnd5TnoyWUNSV3Fua25PTG13U05SeEpCRUIxaDNYR1BIUVgtUDYzZ2Z4QdIBiAFBVV95cUxNd2xmd0pMaUJmSDladWVyRnVjbnduYU9HZndSWnJneGQ2S3BkanZZdktYQ3NDdHVWVzB4WXFVNHdGWHhpb09uNTI1enlLWlJRa3RSek9UNS0tVVlKWkNYamh1emdNUmFFM1o0NW5zVWtPOWlJdmVZTFpMN3dFbFJPZi0wdGFaYXAy?oc=5",
+      "domain": "radiofreeeuroperadioliberty",
       "language": "",
       "tone": 0,
-      "seendate": "20260912T013100Z",
+      "seendate": "20260911T202652Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Investors seek terminating sanctions in $35M Patten University fraud suit",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPandrZHpvMnJLNGd2RjFVTks2YWs5bm5udkpIRzFOWEpvYkJ5aEpOMm9vSDR4aVpBR1NzMnR2QkswaFdOcHhfSXh5S0d4Wjk2U3kzcEp5X0V2YUZJV2sxQlRnazJrV3hydkNab2VvaEdsSmMySE96Z182ZE5WQ2J6aTJtMFA3aFFUSm5abFlxM2QyWTBtNlBvOGhvYVB1OFVJUUgwQlMyVXJzYjlHaS1rOG0zdmVDejg?oc=5",
+      "domain": "dailyjournal",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260912T101929Z",
       "source": "GoogleNews"
     }
   ],
