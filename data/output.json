@@ -1,13 +1,15 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-09-18T04:32:07.129146+00:00",
-    "mode": "live",
+    "generated": "2026-09-18T11:05:47.989699+00:00",
+    "mode": "partial",
     "sources": [
-      "news_articles",
-      "exchange_rates"
+      "exchange_rates",
+      "news_articles"
     ],
-    "source_notes": [],
+    "source_notes": [
+      "News feed unavailable; retained last validated snapshot."
+    ],
     "version": "1.2.0"
   },
   "stats": [
@@ -33,6 +35,88 @@
     }
   ],
   "live_data": {
+    "exchange_rates": [
+      {
+        "currency": "USD",
+        "rate": 1
+      },
+      {
+        "currency": "AED",
+        "rate": 3.67
+      },
+      {
+        "currency": "AFN",
+        "rate": 64.71
+      },
+      {
+        "currency": "ALL",
+        "rate": 79.61
+      },
+      {
+        "currency": "AMD",
+        "rate": 363.61
+      },
+      {
+        "currency": "ANG",
+        "rate": 1.79
+      },
+      {
+        "currency": "AOA",
+        "rate": 921.4
+      },
+      {
+        "currency": "ARS",
+        "rate": 1510
+      },
+      {
+        "currency": "AUD",
+        "rate": 1.41
+      },
+      {
+        "currency": "AWG",
+        "rate": 1.79
+      },
+      {
+        "currency": "AZN",
+        "rate": 1.7
+      },
+      {
+        "currency": "BAM",
+        "rate": 1.7
+      },
+      {
+        "currency": "BBD",
+        "rate": 2
+      },
+      {
+        "currency": "BDT",
+        "rate": 123.06
+      },
+      {
+        "currency": "BGN",
+        "rate": 1.7
+      },
+      {
+        "currency": "BHD",
+        "rate": 0.376
+      },
+      {
+        "currency": "BIF",
+        "rate": 2994.8
+      },
+      {
+        "currency": "BMD",
+        "rate": 1
+      },
+      {
+        "currency": "BND",
+        "rate": 1.28
+      },
+      {
+        "currency": "BOB",
+        "rate": 11.11
+      }
+    ],
     "news_articles": [
       {
         "title": "Congress passes new sanctions on Russia and countries using Russian energy",
@@ -483,88 +567,6 @@
         "tone": 0,
         "seendate": "20260917T051857Z",
         "source": "GoogleNews"
-      }
-    ],
-    "exchange_rates": [
-      {
-        "currency": "USD",
-        "rate": 1
-      },
-      {
-        "currency": "AED",
-        "rate": 3.67
-      },
-      {
-        "currency": "AFN",
-        "rate": 64.71
-      },
-      {
-        "currency": "ALL",
-        "rate": 79.61
-      },
-      {
-        "currency": "AMD",
-        "rate": 363.61
-      },
-      {
-        "currency": "ANG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AOA",
-        "rate": 921.4
-      },
-      {
-        "currency": "ARS",
-        "rate": 1510
-      },
-      {
-        "currency": "AUD",
-        "rate": 1.41
-      },
-      {
-        "currency": "AWG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AZN",
-        "rate": 1.7
-      },
-      {
-        "currency": "BAM",
-        "rate": 1.7
-      },
-      {
-        "currency": "BBD",
-        "rate": 2
-      },
-      {
-        "currency": "BDT",
-        "rate": 123.06
-      },
-      {
-        "currency": "BGN",
-        "rate": 1.7
-      },
-      {
-        "currency": "BHD",
-        "rate": 0.376
-      },
-      {
-        "currency": "BIF",
-        "rate": 2994.8
-      },
-      {
-        "currency": "BMD",
-        "rate": 1
-      },
-      {
-        "currency": "BND",
-        "rate": 1.28
-      },
-      {
-        "currency": "BOB",
-        "rate": 11.11
       }
     ]
   },
