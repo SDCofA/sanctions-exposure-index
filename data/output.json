@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-09-18T20:51:01.337740+00:00",
+    "generated": "2026-09-19T04:28:42.485934+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "34",
+      "value": "35",
       "delta": "deduplicated"
     },
     {
@@ -35,21 +35,84 @@
   "live_data": {
     "news_articles": [
       {
-        "title": "New US sanctions bill on Russia puts India's Modi in a bind",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjJCNkhGN0UzLTdmV0g4RzdmUmdLZ254c2JTWjB5cXRRZXZfYTZ0eW5YZ0ZyU1oteVIwdjV6V3VENE5VOGdfVnFHSTVBMnlCU3R0VkVWeWxMSnI5eVlvUTFRQmdVdWhISEpMVlFXa0UwNU1mTnVqV1ZoanVEQXoxOXBWZW5qUld0bE9QWUl1NkVTMHZ3VUZwTUItNTdpLWtrSmJJMA?oc=5",
-        "domain": "reuters",
+        "title": "Trump takes aim at Russia's energy sector with sanctions bill",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vSHg0WFRlY1pCUkotVTE1N3pUOHdfak53ZVFjaVRUa3hpUEtKWTN5ZzBUOEpIQ25DQzJnZlVlM2JpU2tJcnVraG1rZkR2SUotSEEwNUxJMmRKT28?oc=5",
+        "domain": "bbc",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T145057Z",
+        "seendate": "20260918T220547Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Democratic Leaders Fear the New Russian Sanctions Bill Could 'Harm' Americans. Here's Why",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjZnNmZPbHZxenlZNExLMlRmX2NKRXhHZlh1U1JqUTlMMzM3NXpZVVBOLUFRRklhakduNm90Q3AydDJ5djhBT3RGeHd0NnlJWEVXRWxHZkMzQUxsWl9UM3dWMFVIWVZFX0RMdTE3a2xvSWxBSzAwaXFhYk0wRl81blVORGVvcXV5RXhCbDFGVlhTMENENjRjbWYwdkhFLXBnc1JIRQ?oc=5",
-        "domain": "timemagazine",
+        "title": "Trump signs bill imposing sanctions on Russia and giving him more power to levy tariffs",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWVudVZFMERYYlhsNEJxTFdxZjlYaFFLZkZPZF9zTDJ6dEItZDRfUngtOGVvNm1HQnNHUVZhVl9RMkYyNzF2YTFQNTBmcHFYVC1RMXFzeFhoR0ZqVlNDZVdCaXNDYUROVTVhNXpxSlotTGJTRGJPQXBqdm8ydm93VVk3YkRRdzl4?oc=5",
+        "domain": "theguardian",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T193622Z",
+        "seendate": "20260918T224400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump signs Russia sanctions bill championed by Lindsey Graham",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVYwSFBVcFptYTZtUVNuOXNGMEJpRUluRXVET1lvVnFhT0pFUDN1Wks2bXl3NkM5ZGt4N0o3TW1nUk5fSC10VVVSRlJudlE5VVZTMnFqNHpTWDRPMEEyVU4xOHJoTGUyd1lqQmZtUXRGRllqOHAzY01idzQzTmo1U0xoRmU?oc=5",
+        "domain": "cbsnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T220108Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump officially signs Russia sanctions bill into law",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ1lIQTJVWl9zbnNGaVYtZ2kyOUlaS3A3VUhTdnBSbmNPM041eVZRdllxeTdQcTBHc0xEYVNVdmhFQ092eFhXQWdpS0RQY1VqQWtWcF9QVi0wbDNKcm9ZSE84b3VYZ2N0aTlRSlVzcUU3dEFMNldfWC1hcDlLd0JhM3VzenZ5YXJva0djbElOVdIBlAFBVV95cUxOVEx5RGVTWHNlLUZnRENzZVFxMnR6RHIwYk9McnFTUzZibFVFNmxhcWc4Ynl5WFdVZzVXT0Uzc1BCYlhtaXRPdkU3MHVhVFJRUWpFbE9FcE1UUGNQQXlweXJWYjYtblJfWlZJTm9Xb1hoUkZiOHlKTUNtT0h2WFltLWFjdXFKR1BkNERsck1qMUpjTnJH?oc=5",
+        "domain": "thehill",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T234700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZW53Y3d4N25GZjVKRlJ4RkxiRkZ6Y1NKTVJoUGp3bHFzZTk3OGJvdG1qMm9ubDhqQmo0YVYtQnc4aWNRejUwd2VFX1NVRFRMM1h0QXhLX2VwRTlYM2psTFBWeC1BekxaVUFfQm54bXhpOGtUdTU3MkJKUVV5cHpTcFBpRlQyVXFMVFpFcEVoVnN1S1hxQ0VLaTY0a9IBoAFBVV95cUxQOTFZdG83ZU5IOUxvQ2RqMnhzRnZfY2pZOTIyTHF2YUVSR2pCeGJTV25IWTVCU2w3WEg1LWl3SkdvVXVhZGJONEFZTk5VNlh3VFRnaGphSTlmRGtTaDkyNjM4YVlaOW8wOWZmaWxRNHpQVS1KT1ZyaGVUaUNnTzdQX25HODFUN1ZhcmVuNVZRVnFwNmlrbG1OSmRnTzF6MWFI?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260919T004953Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump signs Russia sanctions bill into law",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWZ3NVV2eHJuOEVQcDhZX3BVSnh2aWxQcE0wWERtWGc3MG9ZS3VmN1lqemJPNS1NbE1pU3RDTlR5TUIteF9hMVdNY2NITDU2N3lva3hWelYydUQ1Nm9xWUZZUHN3R29QeXR3VzhIdFNyOXJ6T1FLNlNEU3JIbUx3Q1ZCVWxHdnI4ZmhJVjFfd0s?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T222053Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQV9zNlc2QnFzVHhiYnV6M24xcUxBMmVValVkZDZSblJBbFVtQW1CMzNLSGZLWW9kTmlzekEzbllyajZCQnJmX2p3TXBGRUVUbWo5djRtaWVPVU9wUHJnc2ZKcEJBbVN2VWZEVGFBVG1RVktzaGNKbm12NEdEenNrWVA4N1dhSkZNMzB5WFJSRnJXd3F4TmlJVHRRM2pkbC1mcWhuVk9ybi1LRkZYdnVzSXRn?oc=5",
+        "domain": "apnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T233700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump signs broad Russia sanctions bill",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sOU5yNnA3Wjl1d2c1N1Y2SDBzRmdpMV95UkFQX2xRaTE3dTMtT21aRGR0SllZOHZpSDZ1X0djM0dqa1Z5MWZ2OVVob3hKT0VDN1FWUjVpdGNnZkd0eGNEMVFRUktJZHJrWTY0OXRWWTdpMW9vb3RZMTBYYmLSAXxBVV95cUxQNkMtWDhWU3QzTGpkSi1YNlNHZzhzUzZxLUZ3a1VCQ2hJTWlyS09vakZ1eG40QS15TlA4cTNPbXVvbnNUUmwtTnVfQmlLYTFYa21GdHhHR0I0US1DQjBMYTJsczQ3Sng4TWZqTkdKMkp0bVU0R09wYTgzRENu?oc=5",
+        "domain": "dw.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260919T013045Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump Signs a Sanctions Bill Targeting Russia, but Pursues Deals Too",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11eG5ZRWl5UHhEOGxBWTVIMDB4bGJ4aXNXSTFfS0JLVjlnSVVTM1lxd0NmRnJoLVFxMDdIQi0yd0Z1T3VZcTc4ckxFU1JsOXpWN2ZSMGxyT0FXTVdMbkoyM2RRaGxZVXZyQWFkV1VFc1ZLNkpfdnlud0pwSQ?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T225800Z",
         "source": "GoogleNews"
       },
       {
@@ -62,120 +125,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Rep. Simpson Supports Imposing Additional Sanctions on Russia",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BMkZ6VWxCcFdKY0FYS01LR3hscHhBNHY2ZWdXV3E2bXZXMGRsNlJ6V1lFUEZBWTRXNW9iYjI5UVMyWkZJdXl2RlhzSmtWN0xPVHlidjRuMUFOMEgtOXdrLTk4STI5T2JUQnExSl92WmdyVWptSmZj?oc=5",
-        "domain": "congressmanmikesimpson.gov",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T155928Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US sanctions bill targets Russian energy but gives Trump broad discretion",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOERXc3N2X2RObWN3eHRfbE16WmJaZ1REaG9zM2RidnBGZFRLWkNrakNYUFNCRUFFNnpxekxWUmRmdktXNnU0c3RlMXJ1VVgxMGpNNk5CWXo0U19zU2FxaDBRRDJWYjhlemZfUGVSWDNZajZhbUFmdzU3aGppTDFCaEZETnE2SnE1V3RYOGhYTjNxQnZZSlQzWUxSQjFfNG1KcjE3dHItUElES21pS0g1bGpHejh4eEhEX3JTYXljbWRtZE9DTlI3cmpadHpXOVlB?oc=5",
-        "domain": "oilgasjournal",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T172359Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORnprZlp5VWJiMUtDX2pzZ3d5M2NHV3lWOVUtTXFlYjVKS2FlOG5qTkQzX2NReUN0YkxTandmQ0lHZ1BzZjdFX3BhbmJQRllTbzVGLUZrV1FuUmhRWHVuNXNZNUlhRmRzaDJTQktqNVVXZEdYUktOSWlJc1ZnTXBZV0VkU09Nd0dkd0xOVW5tYmM?oc=5",
         "domain": "npr",
         "language": "",
         "tone": 0,
         "seendate": "20260916T223046Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcFhvRmY4VGxlaUd4NFpmcDNQR296QkhNUkdwM0U5RnQ3ZmJVT0UybXZSVEdxeDZhWHhIUFQwV0V1cWxXQzZLS0FLZ1h6WHNBN3VCQ1JCT1VES1M4ZzFWXzBHaVR3eE1xS0FYS01mOXluRU9QS1lLbklCSlY0OURHZjFUdTBmbkdGNUHSAY8BQVVfeXFMTVluWlFjSDFCMGw2U0dtak5mR2ZOV0ZicXlhQzBiWVhfRTdWNzNuYUxkOW9YOVZlRUplNk9YazR4TllhYjJfY2Y0LVZRMkt2Z0N6alJfTUEwYTRvUW1FNXlaODBxeExzbE4yMGplZ0xkZVRYSlltejJOWThQQUt2WHlvYWUyQmp0UmJTek8yMDg?oc=5",
-        "domain": "cnbc.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260916T152746Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump to sign Russia sanctions bill today, source says",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWZHd2N5QTVIZGtUM2lTdEtEd09nRnhwQkhZZjNuS3hicWhMRGFaQVdSUGhjT2draWVuMVZUNE1tTDVXZHRpNjhDVGdXZ2VzVnhiU2x0S0VjT2RUc0JUOGUwLWx5MEgtLTBYbklvZVYzaV9waGdQUVJmN3FYel9wb2dSYTZLX2lRTktQWQ?oc=5",
-        "domain": "cbsnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T183100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Congress passes sweeping US sanctions bill targeting Russia",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3ZYSEg3VnhFbkR6Q25RZkZuOFM1UWZ4Vk45TXpxUE4tQXZfZGR5VlZDR2VEOHhhcmd1ekdsLXlpRzhMMmtOYnh0VDA1UXZ3eFZZdnptWnJaeGhIU2k1bmdQNE9EQnU4VUwtU3l3YktfQUpobHBTTzltZ05tU05lZHZoVF9iZTZxS0JwYTlYajlTb29mSTFORHRYcHIwQ0RXekHSAacBQVVfeXFMUGRPNFRWTWxsenJNN0psUTg5NnAxTHlISGUxaHUzRnBLYzZ3OHpaa2YwU1poVDQ3SkozLVRjMGc4NEZkX0NPS1dCc05zdk9JZXhSRURhM0htcTRaMm1HSThJYzZKLWhSVTgxTzZVemp1T2F3UGtzNjRhWW9xQmdNdXk4LXFVTzFfT1ppT1gtaGMyNDJhTFBSa2czRVcxSUtYeTF2M0JaRjQ?oc=5",
-        "domain": "aljazeera",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T010753Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "House passes Russia sanctions bill named for Lindsey Graham, sending it to Trump",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1Z3QlVPb0I2RU1YZ1VaTEw5b09Zc3YxVWxjNWZGMGQxWHR1YlhqWkQyQk04LVRmdm1neENQcGc3REUzYTFsSEQyZzFTNFNubHA5bXN4S1BtSGFyS05wemd5M3ZpYVNTeU1HZl9Qa01yME9lUTVjRkJxR0xwN2F2aUFiXzJLczR5N2xYem9Pa0ZaNnJDaWlTMnQ1Z3lkWHc1TTdFZi1YcV9YaWZZYU1EXy1YcEk2aW1UNkhVckVWdw?oc=5",
-        "domain": "nbcnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260916T223100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "House passes Russia and Iran sanctions bill championed by Sen. Lindsey Graham",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmlXU1czaFNUa25HYVlNdG1OSXppVlEweG5IUElycWMzQTZSRnlZRTN5WDd2aTgxZU43VlN6c2ozb0JKX2RycUZCZThzQUdtYkRtd3JBQUxQTmczN1pnVy1PTVJObzFzWXhVaHQycHlDbE5tQWltNU05WWV1WEhiVWd5SlpjeUQwYkYybThyUDI4NTVIMS0wVm5JVFJGU3JTNEdpR9IBqgFBVV95cUxNSUxmZFlfaF9wZW9EV1BTNi1ycHgxWFhvNWxMd0hTQUoxWmhGMVYtcGtNY3VrZ2YwcmoyV0VZNU9tcVFLQnBfbl9TMEZhMlpoei1nWnAxTk5yRDZTZTlMaEJXYVVUOE9PS0kwX3l1cndpOUM3YVVEcjR1WG9xQjE2OU1ZbEg0NHVZV252Q3Z0dTBvVTBlM05VWlZLc3c5MVhWZW5PenlRXzBYUQ?oc=5",
-        "domain": "abcnews-breakingnewslatestnewsandvideos",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T012835Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Robust House majority backs sanctions on Russia and Iran",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQWZIYnFGaW14dEczTTdmUW1KWjUzUFBRaWFfcFJVU09DU2lIRGN4aGJqZ0JmZlB0U2toaFM1bkVwT1p4Wk96aE1wN0NKakJaeERwSFgwNzVpMlptSXFEbjFjNWZwM3dSUEZkX2ZGaldqNnMzMEhQcmRkbU94V2RHY3hla3BJSlJ0Si1laXE3SGNNY3c?oc=5",
-        "domain": "rollcall",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260916T234740Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "House passes Russia sanctions bill, handing Trump more leverage against Moscow",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFVna0E1UG5EUnZtMXdFYVVUVmJDY1FoallIcEkwS3gxakhTYk5oQ0pHazZWcEkwN0h4anYteHlqT1ZuelpRQUg3U01JOTA2X0NYVG9FRldQYkxrQnVIZDRISG56YmpMOWpWNnRZRzNhWXR3a3VQaEF1czFVOXN0bEpxeHI4QkpJUEVj?oc=5",
-        "domain": "politico",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260916T225400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUUd2bUJIMlpoSzRHU3oxWHV2bGxaRHQ5UDlGcHhkZGFQeWlzbkYtaU1zUmp5OEY3U2ZpMnJ4V2tpRk94QzQ1bWF0UldpanhUZmJSdVVWTkN3WUFMd0FwaEZwaXhDbWhfNzhLcmtERUdDdGFkQkpVUnhWTVluLWpUQUdKUTdUcThNamptWmhhd2p2bzBoal9pRjFJNGE5MENHR0cyUXB30gGuAUFVX3lxTE9CWkxiUXp2Y0Q0SkVsVTVNQnE5MTZoa240a0RQN2hqZ0hyS1V4VnVYUXVFNUdNZTlUVUxDUVJ5RnZ4Q2ROV3FwNXVlQl9TdU5LWVNJRTFucC13d1RWZWJPR2tTdUx1aFI4TWZWUmZWMnZ6M0FTQkhBTGZKZDBKU0hhdWs3TUhWZWNNSnlEUjNFZEJnX1RUdF9TRWVxQ3hJMjZEdi1lMlREbnVNOEQ3QQ?oc=5",
-        "domain": "decrypt",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T090155Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia sanctions bill gives Trump sweeping new tariff powers",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEtRUVNvYVIwTTZqQ3pmak0zd0NlNjZEcmxxQ3FUWTJKVUZjTHdjUmt1SThTNVFmZWl5OXVLUmljaWJoSFRQbU5qVnZDUjcyWEhJNk5yWjZDOTNzazlrenItWHdvODFNbE5Ka3ZoMGF4ZFRGcEFFeVhlWF8tWGZYYU1XWWttR3BuR0hmdF9iY0Z2WGQwbFJfV2lOT2FwSExyT21yUE80ZVM?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T202637Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "WATCH: House passes sweeping Russia sanctions bill, sending it to Trump",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0lDTHNQYnZaU0dRNU1MU1d1RVdLTE9FbVlBYkl6czNMMzdLTUpvelA5a2QzSTZtREdvQWZIV3BIVk9majVuSmRWTWh1c25WWVhkcGl5eG1Bcm0zdUZIQnBwYU04dEJxeDktMzlVQjU2VFBsVy02WjEya3dwTFhETUlHNXUtYmZWN1Z2dXRKRlZUbHV4Q1JvOW9xa0swYVRvSlVVRU5RT0M0M1ppZy1fadIBtgFBVV95cUxOQktsdVVFOUxaem8zalA5WXVtVGZ2bk5uU29Rd3hQVnlTcll2X2RENk1qV0p2dFljXzFLQ01oSEpERmJUSUNTNW1PNUt0NXIyV1ZjdG5famFkNXFzSlUwVGcyRHlWaHJ4Y1YtUy1CTE5hSmRMbjd5ZE1RUGJRZzlHeHZ6R0p4RWVJZnB0VGczVFFHWlNfNHlfYlpPSTlHSEZ2WjN1cm1fT1liWl9JaG5BVE02elpwdw?oc=5",
-        "domain": "pbs",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260916T171415Z",
         "source": "GoogleNews"
       },
       {
@@ -188,21 +143,75 @@
         "source": "GoogleNews"
       },
       {
-        "title": "‘Outrageous lies’: How Israeli voters are shrugging off Western sanctions",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanVYTEtQTDBkMUtmVUFVaThTY3ZzTDVjaWc5N1oxTlhoeGN0anZxcFNpY1k2RjNQeGtxSHF5T0Q5cnlpQ1pYcHJacENIMlpOMHBkRy01TkQ1aXhGTm5zWkNPeDVPdk11cWpfUHptT2o0U1IwWnR0NmExTUQ0UUF4TmRWQ0Etakh6WDVjaHZFTU1LQk15REVIMU03a2plX3ZYV0E0VG9CRFdxTXN5UkxsYdIBtgFBVV95cUxNZ0FyT3J6T2xRd2lhMzBMTGttb19RQ3dhQUxFbW5oZEJ6MjlGSmhzcmF3VzJBMmRTYkJlMlQ4ajhZRHo0ZkdlT1VMRGc1MVNHdVNfNVZEaDl5YWowSHdMeU1ZNTJMLXNRSUM0eDF3OHhhaS1vNHZQMXRSS0RfbFh6Z09JVXJaYkhuX19PVHF2QXlSNldNbGluNU14cnFOLV9rbnIxMFBNV0xDdWlTMEpRbTJPeGhIQQ?oc=5",
-        "domain": "aljazeera",
+        "title": "US lifts sanctions on Eritrea with Red Sea in focus",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbGEzbDVjN01BYmhTTjhnMUI1alZ5RjNGTEFTcWs4QTNnTndKNU9OR0EwMjRSM0VPVmRVR21SYXdWZW8zNWNiZTE1VldWNlViR1FPWDhmdGtnQjI4MzQwUFZDSXQ2cWw4LXpJeWlBdTNmUURzUnZLdWlsMXgzYmlBTA?oc=5",
+        "domain": "middleeasteye",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T065734Z",
+        "seendate": "20260918T162915Z",
         "source": "GoogleNews"
       },
       {
-        "title": "House passes Russia sanctions bill, overcoming opposition from Democratic leaders",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EYWhRQVlOTGQ1b3AxdzQyR1VEUGh2UlFnV1ZWNG11VnhpTVp3NXh3STFJRTZDTzJmZC1mVk5JMFBCekxXRkQ5OHBFSVNZUFl3T0lJQ0QtNnZpNWgtRHhWcTA3SG5QY2F5T2NUcS1oWk8?oc=5",
+        "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcFhvRmY4VGxlaUd4NFpmcDNQR296QkhNUkdwM0U5RnQ3ZmJVT0UybXZSVEdxeDZhWHhIUFQwV0V1cWxXQzZLS0FLZ1h6WHNBN3VCQ1JCT1VES1M4ZzFWXzBHaVR3eE1xS0FYS01mOXluRU9QS1lLbklCSlY0OURHZjFUdTBmbkdGNUHSAY8BQVVfeXFMTVluWlFjSDFCMGw2U0dtak5mR2ZOV0ZicXlhQzBiWVhfRTdWNzNuYUxkOW9YOVZlRUplNk9YazR4TllhYjJfY2Y0LVZRMkt2Z0N6alJfTUEwYTRvUW1FNXlaODBxeExzbE4yMGplZ0xkZVRYSlltejJOWThQQUt2WHlvYWUyQmp0UmJTek8yMDg?oc=5",
+        "domain": "cnbc",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260916T152746Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russia sanctions bill gives Trump sweeping new tariff powers",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEtRUVNvYVIwTTZqQ3pmak0zd0NlNjZEcmxxQ3FUWTJKVUZjTHdjUmt1SThTNVFmZWl5OXVLUmljaWJoSFRQbU5qVnZDUjcyWEhJNk5yWjZDOTNzazlrenItWHdvODFNbE5Ka3ZoMGF4ZFRGcEFFeVhlWF8tWGZYYU1XWWttR3BuR0hmdF9iY0Z2WGQwbFJfV2lOT2FwSExyT21yUE80ZVM?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T202400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump to sign Russia sanctions bill today, source says",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWZHd2N5QTVIZGtUM2lTdEtEd09nRnhwQkhZZjNuS3hicWhMRGFaQVdSUGhjT2draWVuMVZUNE1tTDVXZHRpNjhDVGdXZ2VzVnhiU2x0S0VjT2RUc0JUOGUwLWx5MEgtLTBYbklvZVYzaV9waGdQUVJmN3FYel9wb2dSYTZLX2lRTktQWQ?oc=5",
         "domain": "cbsnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T134548Z",
+        "seendate": "20260918T183100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "WATCH: House passes sweeping Russia sanctions bill, sending it to Trump",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0lDTHNQYnZaU0dRNU1MU1d1RVdLTE9FbVlBYkl6czNMMzdLTUpvelA5a2QzSTZtREdvQWZIV3BIVk9majVuSmRWTWh1c25WWVhkcGl5eG1Bcm0zdUZIQnBwYU04dEJxeDktMzlVQjU2VFBsVy02WjEya3dwTFhETUlHNXUtYmZWN1Z2dXRKRlZUbHV4Q1JvOW9xa0swYVRvSlVVRU5RT0M0M1ppZy1fadIBtgFBVV95cUxOQktsdVVFOUxaem8zalA5WXVtVGZ2bk5uU29Rd3hQVnlTcll2X2RENk1qV0p2dFljXzFLQ01oSEpERmJUSUNTNW1PNUt0NXIyV1ZjdG5famFkNXFzSlUwVGcyRHlWaHJ4Y1YtUy1CTE5hSmRMbjd5ZE1RUGJRZzlHeHZ6R0p4RWVJZnB0VGczVFFHWlNfNHlfYlpPSTlHSEZ2WjN1cm1fT1liWl9JaG5BVE02elpwdw?oc=5",
+        "domain": "pbs",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260916T171415Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New US sanctions bill on Russia puts India's Modi in a bind",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjJCNkhGN0UzLTdmV0g4RzdmUmdLZ254c2JTWjB5cXRRZXZfYTZ0eW5YZ0ZyU1oteVIwdjV6V3VENE5VOGdfVnFHSTVBMnlCU3R0VkVWeWxMSnI5eVlvUTFRQmdVdWhISEpMVlFXa0UwNU1mTnVqV1ZoanVEQXoxOXBWZW5qUld0bE9QWUl1NkVTMHZ3VUZwTUItNTdpLWtrSmJJMA?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T145057Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Congress passes sweeping US sanctions bill targeting Russia",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3ZYSEg3VnhFbkR6Q25RZkZuOFM1UWZ4Vk45TXpxUE4tQXZfZGR5VlZDR2VEOHhhcmd1ekdsLXlpRzhMMmtOYnh0VDA1UXZ3eFZZdnptWnJaeGhIU2k1bmdQNE9EQnU4VUwtU3l3YktfQUpobHBTTzltZ05tU05lZHZoVF9iZTZxS0JwYTlYajlTb29mSTFORHRYcHIwQ0RXekHSAacBQVVfeXFMUGRPNFRWTWxsenJNN0psUTg5NnAxTHlISGUxaHUzRnBLYzZ3OHpaa2YwU1poVDQ3SkozLVRjMGc4NEZkX0NPS1dCc05zdk9JZXhSRURhM0htcTRaMm1HSThJYzZKLWhSVTgxTzZVemp1T2F3UGtzNjRhWW9xQmdNdXk4LXFVTzFfT1ppT1gtaGMyNDJhTFBSa2czRVcxSUtYeTF2M0JaRjQ?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T010753Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNjN3WTVMMmEtMTQ0RGFURVFpcjBSX1I0TTRuR0xnVkRmQ3V1bjY4bzNOaUs5RWFtVFlOUXRObWlfU0taRWZGSks1WHhvTlhqTE8yaTJlQ1ZLVkRWMzBNSWtPbUE5Yk5DYUhXR01Jb09yRThibTZIYmt2VVZpTXR0MTlmNTlGbnYzMkRaZW9scklLa1h3blZkOUVPcUpWYTBMLTVSZmE3MVpmMkF2RFdzUUM3TGlvczZKRnQyODlzbGFzQVJ2SXdVZVJsRDRuOUpV?oc=5",
+        "domain": "foxcarolinanews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260919T035100Z",
         "source": "GoogleNews"
       },
       {
@@ -215,39 +224,39 @@
         "source": "GoogleNews"
       },
       {
-        "title": "House clears Russia sanctions as Republicans dodge impeachment vote",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUjBLUEpEM1dWS2lGS1BSbDVzeVhSTUFtZDZNTXFpX2w1QzF4cjV4WnpZU2kwVnNSU2FMUVVzSHZxTXdHaWF1el9CR0N0YnpzaTN6a0dxYmNmaGx2dXZmM0NTSy0xRmpRUHR2SmxhSk8xOFQ5VnVMWXlSNGJyZGREWGxlZlNHcHBfTFJsMjJHelVnSzVSQkRZY2NUQXFKNXVCYmVKUHZ6dVowb3ZZ?oc=5",
-        "domain": "njspotlightnews",
+        "title": "House passes Russia sanctions bill named for Lindsey Graham, sending it to Trump",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1Z3QlVPb0I2RU1YZ1VaTEw5b09Zc3YxVWxjNWZGMGQxWHR1YlhqWkQyQk04LVRmdm1neENQcGc3REUzYTFsSEQyZzFTNFNubHA5bXN4S1BtSGFyS05wemd5M3ZpYVNTeU1HZl9Qa01yME9lUTVjRkJxR0xwN2F2aUFiXzJLczR5N2xYem9Pa0ZaNnJDaWlTMnQ1Z3lkWHc1TTdFZi1YcV9YaWZZYU1EXy1YcEk2aW1UNkhVckVWdw?oc=5",
+        "domain": "nbcnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T043531Z",
+        "seendate": "20260916T223100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US Congress passes Russia sanctions bill",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RUFVzeUhxTjN5UEpCUEN4bU14T3lYOVBROGxCckticlZFbGJWRTNGSU9IN3h5MDZCMTktVUpQREViUF9qYmRuZ1NwNWZPOHd0VW1lODBHYTFlUDk5czM4X3FOMDQyOTc1OE9YZzE1VG5DOHlDMVktWUxzWjg4QdIBfkFVX3lxTE5mQWlNTk5ST3BkWHFwZGhZaHZTMkdHZDlIVDNUd0pjcy16R083VkZWclNhd2FUTVRvQ3d4a01lRW1LcGl4TkNEdkdsUjhNUVVONFR5T3daQTNSZzlFa2VBTjFlQWU3QnhmSWo2a2VMU1BRV29UWEFWRi1CRXRaQQ?oc=5",
-        "domain": "dw.com",
+        "title": "Democratic Leaders Fear the New Russia Sanctions Bill Could 'Harm' Americans. Here's Why",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjZnNmZPbHZxenlZNExLMlRmX2NKRXhHZlh1U1JqUTlMMzM3NXpZVVBOLUFRRklhakduNm90Q3AydDJ5djhBT3RGeHd0NnlJWEVXRWxHZkMzQUxsWl9UM3dWMFVIWVZFX0RMdTE3a2xvSWxBSzAwaXFhYk0wRl81blVORGVvcXV5RXhCbDFGVlhTMENENjRjbWYwdkhFLXBnc1JIRQ?oc=5",
+        "domain": "time.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T024205Z",
+        "seendate": "20260917T070000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "The Graham sanctions act is a chance to punish Putin. Here’s what the White House should do next.",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTVRSUEFIMEllM3NkeEIxaDV2YVZTa3dHX0tFTGllbWFkMEk3Wnc2MXpTR3lZOVpTdWE0TTZsaWxmVEh5Tmd1WXI5Z1N2UkJPcmtpdGxtTlJSbkdPeFl4X2JjYThKSFlJRXMtWTNaazhBX3phQWY2aXQyWG9BZGFneWxOVVllT3VlVWNOUUhqR083bVpFcE1YdE1FaXBBUWNvaWpfYkhSUkZRbzduczVaOFduejJ5S0cyOUY5VW85QW1Ob0FrUzF2LWpWSHZneDlnTnVIeQ?oc=5",
-        "domain": "atlanticcouncil",
+        "title": "Donald Trump signs Lindsey O. Graham sanctions act into law",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQUVBMU2dmV0VCTm40S0RVZVhTWkJKUEFJekFfaXNsLWZVTjV1Mm82U0ZvbjdsQ2VtWjcwSnE0UG82VXdkVWlCR2ZRSFJORVJTYkVPNnBhWmppczBkbTFZ?oc=5",
+        "domain": "thejerusalempost",
         "language": "",
         "tone": 0,
-        "seendate": "20260916T230147Z",
+        "seendate": "20260919T001642Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Russia, China veto UN mandate to monitor Iran sanctions",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUVYdGNPTUNlYXdHcU9UQnU2OXN6Q3pFb1k4LUdtbmFiSzFYOFNJd29pZW45TFJuVGJ4dlZWbE44OUN2aDhTVm9aVzJQYTFJUVlZQ1pMb2NLSllmSjNvQnVwbFJQdGNrWlltOWNoWHpFdE55VkFvTml3bDVQcXF0YjdVWmNEVWo5UmEwMDNPOVVhVW5jc3N3b1NUSdIBoAFBVV95cUxPbU1nODBpWldrV1c4WXIwV3QyYUZybS14Y0FfYXFnLXhZQTdTaTNxeGthN0N0aTlIVFJTMXppa0JWWWp1ZHFmSl9yTElrM19vZzNla1dWY0h3cG83WUx1dy04dkFpS2xubWFTYVFlTV9Mak5oR0ZlQTBncUhId2M1RU9uQ05TYTlReFNwOVhiVTBPZ0NrTzV5LWVqVE1ha1lf?oc=5",
-        "domain": "aljazeera",
+        "title": "Trump Signs Russia Sanctions Bill Granting New Tariff Powers",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSU1vZElIbm1VNGoyUGlvYXRqVWhCYkhpUmx1S19LUkdKYzJKRzQwYmZmYUpwMWlrYzdBLWJCcEN2YmJVMFNmR3ZBaXcyLXY2TU1Ma3Q2ckdsTC1ocGs1cTdvZmtUay1DRmNoeFJIV2VWN29aSXhmLWRiVWVOb2VjM25LNldnV045bXV6SnNydFpUM1pBTTNSX0lsLWFOcElrQUdNZ3d5VFd5c0RKNk1IWA?oc=5",
+        "domain": "bloomberg.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T210615Z",
+        "seendate": "20260918T215817Z",
         "source": "GoogleNews"
       },
       {
@@ -260,66 +269,39 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Russia, China block US push to maintain UN oversight of Iran sanctions",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1lIQkNQbno5QkhpYU9ETnhzTTlIeXJ6YVIzbmV0YW1kSDJXNmU1SFBaLXVMZk9KaE90WVJCV195Zlc3eTJXTTc2LTJwRDFpalRWWW04emRVSnlFNnJZRGQwUFFIWFNyYUY1RmdfdENEWWdyRmdCcEpySk9EOTZHOVB3b19PQUtaUnRQSmhrN2czdHZsUDhrdVhWRll5S05IMEU2TkVwTnZTY3pJZXJJSC1n?oc=5",
-        "domain": "euronews.com",
+        "title": "Sanctions would stop the 39-story Sunset tower",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTlJRVdMSEZnaGxGNXl5RjEyQU5WZ04tbl9FLXlXSFZZcjFwc3VjY0FmODBnMHBjVXVKSjlkckVwOTlFbklxWHZ6b0RIWTZzUXBFZzhPZlZiay1PNXdGZmMzNjVsLS1vU3AzQlc3MV83cTA3Qlp0dTU0cGg4NDBnVFl5cVcxR0Y5VVE?oc=5",
+        "domain": "paloaltodailypost",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T042718Z",
+        "seendate": "20260918T221211Z",
         "source": "GoogleNews"
       },
       {
-        "title": "A sweeping U.S. sanctions bill offers Ukraine new leverage on Russia, but enforcement looms",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNUpQWnQya2N6NHZhMzA5aFRPRXB4TVgtUVZSN2YwNDdhd3NaRy1ETlV4VWl3UXEzVUVTejdxM1ZGMlZiS3gzYWp3eFBiSHBDZTAxLWtGa0dBNG1vUXhYQ1JCRzZSSTZEUlloWC1rRm9kSmVXOXVudEtNT29zOUxreGF3cmVla3gxbFRsN0pIazFnZm8xakNhVVo1UVM1X3k0U01JNEhrUkh2SUY5TXllSDV2T1ZaLUNraDJmX3JWckxvVHNIeVI1YXktZndLbTdXa3RKeUtWZTQ?oc=5",
-        "domain": "losangelestimes",
+        "title": "Russia, China Block Renewal of UN Panel Overseeing Iran Sanctions Compliance",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOcHc4TFN1bEJnUTVBXzFVRFBXcGpfMnRSaUpUWkZvaks0ZHFCU2RSb0dqamluLWQ2TEJ4dHJrZUpBZ2FoZHYwRGRuVWd5dWlDcDhydWtYS3BVUXM2UkEwMHNvWXdHbF9lcjBWS2R6Mko0RnVaYUdoQy1xdWlxNTV6UDhOZDlMWndDOC1KVEUwZWdMczBGNzFPMFRrU2RkR25rQ2JIWC15VE5Remo1UTFIT01HMWhCd1lyZkl3dE53bUVWRWZOazJLa2szMDU4M1hHSzhHbUUtMWl1OHg2bE44TVg3RkVGdnA0ZFdaZXpIUTYwUjIyb2xrRVhEN19LSkZvMU9KZGhUbjl4ZXdMWW54dDV2Y0VETndN?oc=5",
+        "domain": "haaretz",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T151646Z",
+        "seendate": "20260918T214700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "U.S. Sanctions Iranian Crypto Exchange BitBank Over Sanctions Evasion",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNEhHY25IU0FIYXl1NWFtQlJDWmdHOS16Uk1sVm9IYzlwLWZmUXNfSWFiWW5Wd2VxQVBzZmhmSmJZLXNudXZKOUdZbERIemd3Umd3MDZwVnlqU21janEtY1hMb1lYeG1YZzVYWjVfdmdNU2tFTjhQZXpBWDA3a0dib2VNamtaMzhwWlk4SXRuMFJCYjVlcWF2S0dDS1VWU05QZ3doUWprbw?oc=5",
-        "domain": "dallasexpress",
+        "title": "Russia, China veto UN mandate to monitor Iran sanctions",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUVYdGNPTUNlYXdHcU9UQnU2OXN6Q3pFb1k4LUdtbmFiSzFYOFNJd29pZW45TFJuVGJ4dlZWbE44OUN2aDhTVm9aVzJQYTFJUVlZQ1pMb2NLSllmSjNvQnVwbFJQdGNrWlltOWNoWHpFdE55VkFvTml3bDVQcXF0YjdVWmNEVWo5UmEwMDNPOVVhVW5jc3N3b1NUSdIBoAFBVV95cUxPbU1nODBpWldrV1c4WXIwV3QyYUZybS14Y0FfYXFnLXhZQTdTaTNxeGthN0N0aTlIVFJTMXppa0JWWWp1ZHFmSl9yTElrM19vZzNla1dWY0h3cG83WUx1dy04dkFpS2xubWFTYVFlTV9Mak5oR0ZlQTBncUhId2M1RU9uQ05TYTlReFNwOVhiVTBPZ0NrTzV5LWVqVE1ha1lf?oc=5",
+        "domain": "aljazeera",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T133730Z",
+        "seendate": "20260917T210615Z",
         "source": "GoogleNews"
       },
       {
-        "title": "House passes Russia sanctions bill, sending it to Trump’s desk",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaWlRVUdEaDlNWnZPakxkV3Y0YW00V2JKMlJQbjZLa3VLSm12b2FCU1hoSXBicDBKaUp1X3M0c05zUXRmQWpCUWdLLVFpNC02OVdwUmN4aUFXckZYUWdER3d6NVg1eWpRdkQ1cjFGOWpDbXNGMTAwVDdUWndkaVg0XzAteDRoUU9Odko0OdIBkgFBVV95cUxPUlYxRTNWdGtzQTNvZTI4S2VsWk04THJFbklXY1lsS3FlTHE5a25RY3lFUEVSNmdWeGpFaFZNeDRLRnF3OXVrMS0xdlRUY2tna0FEOW5Wbl9WSmV4eUtpdmI3LU91WXhDcVg3NmdmZ1BrcjFhY05fM0hXdlh3MFN2VGhNTkZHQ3BJS3dqZU43cHM0QQ?oc=5",
-        "domain": "thehill",
+        "title": "The Graham sanctions act is a chance to punish Putin. Here’s what the White House should do next.",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTVRSUEFIMEllM3NkeEIxaDV2YVZTa3dHX0tFTGllbWFkMEk3Wnc2MXpTR3lZOVpTdWE0TTZsaWxmVEh5Tmd1WXI5Z1N2UkJPcmtpdGxtTlJSbkdPeFl4X2JjYThKSFlJRXMtWTNaazhBX3phQWY2aXQyWG9BZGFneWxOVVllT3VlVWNOUUhqR083bVpFcE1YdE1FaXBBUWNvaWpfYkhSUkZRbzduczVaOFduejJ5S0cyOUY5VW85QW1Ob0FrUzF2LWpWSHZneDlnTnVIeQ?oc=5",
+        "domain": "atlanticcouncil",
         "language": "",
         "tone": 0,
-        "seendate": "20260916T223200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia says new US sanctions, if signed by Trump, would make Ukraine peace deal harder",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnEwS05QNW1td1gyV3d6YXRuNXBnallXMjB1SlI1LXdaQ29qMUNpUVBvd1N1U2NQR0dmMXZucnFTb1lsWDNuRmE1cnczejdnU1F6UTdQNUlGdEV5d3ljd3JqZFpCZXk2VV9OTlFyNHZWbmxTZXRzU1Bpb3ZCVE4zVjFCLU53SnJkQXRtRk1LbUtRX0xRcmtXUzZEWUlVa0dha3RjUlFjOWhmZnNGMHB1SjZmWVQ4QjNhdUFnZUY3Uk5QRVow?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T100943Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. slaps South Africa with new sanctions due to alleged discrimination against White people",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVUJLYzh4a01mM0wyUzZvVV9SS0dueVVPdzBGdVZNeEgzZTFWWGpCNnU0Ul9QQlg0eTNCMVpiYjg4cnhuOWJsald3a2dlTGRoY1NYYldoUlZ3aDJ6NHRSMThDT3BLOW9NZDJ1dHROLTNNeFp5ekRMa3ZqT2dwZGNvYTdoRVhxYl9IVFY3VHRkaU8?oc=5",
-        "domain": "cbsnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260916T111100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "House passes Russia sanctions bill championed by Graham, sending it to Trump",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGtKVXRwQXN1c3J1bnpHcXNvRzJEbE9DVEVqV3JOQWttNmNhbHR3ekdVNWhKY1VUSHVuUmZvLXJILXNXRWI1bWhpSnJNV1BqUGhESUl0dGFpUUJDVmtvTmZpeV9ZR3F3bUhJZGFfNllUdENsemJHd0xubFBzUy0yanFES0xxX0FPc1p4UHpNQnh6VU1NSmhwOHp1ZHdka0ItUGlKN0NlcE1Id2J1RjVpcUVZLVZlcFZ6bnd1R0FMVQ?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T084811Z",
+        "seendate": "20260916T230147Z",
         "source": "GoogleNews"
       },
       {
@@ -332,21 +314,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Congress Clears Russia Sanctions Bill, Sending It to Trump",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHAycFF6cm5qMEF2RDZSeGxNUUNTSXVlQ0NqNFRzS2d5RlZRZlZoeTVDZlVoOUJIRXcyZWNjZWV6Z2RVVGxXREZhMDRZR3hWUC1pQzAxdlJsYlZRbENsc1YxMHBjT0JRaWlna3JKY1RtRjBTdGNmOTRhbndRdXZQeDg3OFBzbFktQVRj?oc=5",
-        "domain": "thenewyorktimes",
+        "title": "House passes Russia sanctions bill, sending it to Trump’s desk",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaWlRVUdEaDlNWnZPakxkV3Y0YW00V2JKMlJQbjZLa3VLSm12b2FCU1hoSXBicDBKaUp1X3M0c05zUXRmQWpCUWdLLVFpNC02OVdwUmN4aUFXckZYUWdER3d6NVg1eWpRdkQ1cjFGOWpDbXNGMTAwVDdUWndkaVg0XzAteDRoUU9Odko0OdIBkgFBVV95cUxPUlYxRTNWdGtzQTNvZTI4S2VsWk04THJFbklXY1lsS3FlTHE5a25RY3lFUEVSNmdWeGpFaFZNeDRLRnF3OXVrMS0xdlRUY2tna0FEOW5Wbl9WSmV4eUtpdmI3LU91WXhDcVg3NmdmZ1BrcjFhY05fM0hXdlh3MFN2VGhNTkZHQ3BJS3dqZU43cHM0QQ?oc=5",
+        "domain": "thehill",
         "language": "",
         "tone": 0,
-        "seendate": "20260916T223049Z",
+        "seendate": "20260916T223200Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Treasury Sanctions Iranian Crypto Exchange Linked To Hormuz Ship Tolls",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUZwNFZWVGJpaGtrWVBHcW9BR25Na2UtQjJ0Z3hYRTVwNDZNNkJsS0oyNlhXYzhaRHpqd2RUaUk0VDNONjZQYmpsVVRCYWJBbnVielZYZm82Vm9PeXM3a0xGc2dHd3NueXlsY3JVUTVwNExGZUF4UnRWY0gzODR2MzdnSnFKelcxeTJrQWQ2ZkktSndhOW04TS1VdHJiQVBpUWdVTjlMVVJyaTFRbHc?oc=5",
-        "domain": "northeasttimes",
+        "title": "Trump signs Russia sanctions bill into law: White House",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGtGOXcyVFNhb0l3QWZLYUVsajVhSG1ScGY4Z3lwZF81bm9FWmFrd2xUTGx3bVJ3SXkwelJsNlgtMmV2WUsxU3k2Y0p1UUJHR0Nfd0Y5MUl5QjAwX2FELWFkOFEySnJpVW0ybXhDQ1NNSzFTYUJSV05XQm8xVFFvLWthMXV4Znh5ZnJLSFREcDdlYnBNRE5Wbw?oc=5",
+        "domain": "anadoluajans",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T150103Z",
+        "seendate": "20260918T221828Z",
         "source": "GoogleNews"
       },
       {
@@ -359,21 +341,30 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US House passes sanctions, tariff bill to raise economic pressure on Russia",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVdRekRjalRLeU1yZ1Y1WjFWWmwxbWxXdGdsdWRYbUtkV3RmSlBUc0xkZUtsTWZTTmwtZ1IzT0xpX2RQUkUyemozTGFjS2dGcGdNcnJtUloxN0Z3T2I3OEdIZHd3T01WbXhhamFGanZSV0Z1LWlxaUNsTEl1TkNBSFd5WFd2THJXMEpGSnlXQ3hnbHUwOGJmX2FVZXVZUHRoeUstTXJiVERYSVZka200?oc=5",
-        "domain": "reuters",
+        "title": "Trump signs sweeping Russia sanctions bill into law",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSFFNNExVTzJDRWJReDZsY0toNzYxQVMtZGIwYlpaS095WnY4U0MwWDRWTUFZOXBxM0JTSWRnRFZDaWFwUEQtRzNMVkdpMnZGWmYwclg2Z2ZIY0NXMW5vRVVpMVJLOGtrUVdDU2hZdFJUbUJ1cUpNNXZJNnp3cUpPSTd0cmlYblE?oc=5",
+        "domain": "thekyivindependent",
         "language": "",
         "tone": 0,
-        "seendate": "20260916T223807Z",
+        "seendate": "20260918T220433Z",
         "source": "GoogleNews"
       },
       {
-        "title": "U.S. Sanctions Three Iranians, Two Tehran Firms Over Digital Financial Operations",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOVZJZEhLTG9MZGhCWmpqVXM5S2UtOVdveDZ2U0l6NFZ2SFB2M042ZldwSG1UOEFZZGU1M24xV0pQSjg0VklKNjgwSGo3ek5kdGFIZ3dXLXVJR3hwVVJSVWdZZzRoZ0liSnI1SEt3NXE4WS1qU3pocVZKOFBBb2pGNDI3V1lSUHR5YzZnVDJ2dkFsWjA2R3BKU3dNRjlTS0ZHNHYwVU45Z20zVGdvMURlNkUtaEQ3dw?oc=5",
-        "domain": "iranwire",
+        "title": "Trump Signs Russia Sanctions Bill, Clears Way For 100% Tariffs On India, China",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOME1SV3BuamFzcHAyU29XUWg3NDdZa0MydExDV0tMbW5YN0JLN3ZMNTZwOG9tUjFWMENSNlZFZzV3SjlxWVFTRWs0MDhZLVA2N25nYTJncTdWcmU2YmxMaXhqcmNIZVJ6ODZEUlUxQ09RNjlweThhZEVzVEdYMDg5Sy05RkhGajBCUVIyTDVxTHh6VXVyWkdOVWtXZU9GOW8yN2NyXzBoNFlBSE5qdWtZbVdMbF9lcUhMajNOeWFhYkFLOWg5RWFqZkFjVWtVNUlnX3RQaWM5TdIB3wFBVV95cUxNM0ktZlpWUlBhZXZFZ0ltcnpLdFZrQUloOXVIY0dOdXh2dU5PMnV6YjAtWllhaURReHZLdWR4YmgxR3dUZjYzalBCM2lycUJqWmViMHpLVGI3YmxOUmVodHFhU0JPWDJRcldFeEZJYnlLQm5ERzhWZk5CT3UtWXM1djZid3lNeE82dlFoeXZ5X1RwbHlaZXN5SzRNUnN4Sm9RZ0gzekpTbkdGZHplNjU4cEZMcUVXeENNVHJuMkxrTTJuOFNSNms1aVhYenlQOFAzZTk2NlFjWUtVWkd1VWZr?oc=5",
+        "domain": "ndtv",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T092836Z",
+        "seendate": "20260919T010627Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump signs bill authorizing broad new sanctions to squeeze Russia",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHV4dE42X3FISU9OUC1ZMXQwdm9HSDFSb195dzdDeUFsU1d1VFQwYS1rZFdKa0JDaVgzazdWbHhiUWNLNmJPbEpuUF80Zjlxd2s2aXYwUGlEdEx5NGhYZ0RJdHJtR1YwcFFCNm0ySkREODRsQ3dQd0dOeG81dmpQZ2xEcGw3U2N0VFRqTnQ0TWlRUVVORnl5T2dSZFFGUzZFY2oxeTVxTVA?oc=5",
+        "domain": "arabnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T223242Z",
         "source": "GoogleNews"
       },
       {
@@ -386,30 +377,75 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Former OFAC official warns Chinese tech firms risk US sanctions over services to Iran",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80TUw0LXlNUHRSenhDN3hRMDhwamxfOE5fV1E3NWtVZjNkMU14SUw0WUxVNFprSTNEMGducllCLVEwRWhYck9vcTU5dU1KMXRBcGxpUExB?oc=5",
-        "domain": "foxnews",
+        "title": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLV9HUVpVSVo1cEc2blBwaUVYMGRNdTVKMzVPMmZNbjZMb240ekJqSXJFMVlKdElBNDdSZ0J2ZV8zZkhEcUtsZXpwMzQ4OEhoc3RROEtkWU9rMktUQUszQTFndmh2bUl1NmcxUWpFM1F0VzhSTEs4b2xSQkdoRmZqU19EV205WE9JWF8wYzZ0aHpNYlJPQnU3elk2aXhGQWIwTkdibktLR3U4VHhreVYydTl5MnkyZERRazRFTF9HM2loQl9YSTVZ?oc=5",
+        "domain": "kcrg",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T153450Z",
+        "seendate": "20260919T035100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Joe Gibbs Racing motions to issue sanctions against Spire, Chris Gabehart",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDB0TG1oclo1N0QyZVhmMXo3dno2d3RIeExOZDJqZGhnQnM2aXlUMGZZMURkMlBFT1lvQ2RfZlRlaW9fb2M0d2RLTHp1UXd4NGNyekkwYXlLY1NCVmdiS3d0RGcwNUpBdWFvdUZZby1FNXZOdGZlMnM0a1EzZXlURGVZSXZleE9NV0ZVZzd4bVBzWmt1ckpNVlNGNkc3bmVYeERzVnZqVG9VZ0hfdDJQUVdvb1pkbkpZZTd5RTJLRW1XWlk?oc=5",
-        "domain": "motorsport.com",
+        "title": "Iran’s Isolation Grows After U.S. Imposes Sweeping Sanctions on Airlines",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd21jUktGbU5udUZNVXpKdXIxRUtvM0JnZ0M2VDIwZ1ZSMWQ3WE1TZS1yTUFQU0FtYS02UjVCRzEydVVJdlhfVjd3aHNfc2FTQTd3RWctSUxTeDVMSmNQUHlrSHMtWE92cEhfaDBzZmFIR1NWUTZHR0xabW5VcjFkVXRZT2NUbTd2T1lRb2FvcHlkRmdkUnhNWnB4R2x4Qk1BYTUtRw?oc=5",
+        "domain": "thenewyorktimes",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T174150Z",
+        "seendate": "20260917T180839Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US lifts sanctions on Eritrea with Red Sea in focus",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbGEzbDVjN01BYmhTTjhnMUI1alZ5RjNGTEFTcWs4QTNnTndKNU9OR0EwMjRSM0VPVmRVR21SYXdWZW8zNWNiZTE1VldWNlViR1FPWDhmdGtnQjI4MzQwUFZDSXQ2cWw4LXpJeWlBdTNmUURzUnZLdWlsMXgzYmlBTA?oc=5",
+        "title": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONXNtNTlMUVBXcjFEVDlxWWNYMlFoTDdVdGowUTE5NTNxd0pSa0xrWGQxdHdveFBqdGJTUEw5cTVmRG03a0RuWDduZXgzMnhvOWVnU1F0OUVRRER4ai1xYWozMG11OElsU0tiNXh0eEtraTQ5M2k1a1JTaHZYOUVFWkdqaklIamJ2eEhCYlFaOGkzcFBpOXdqTmRXMVhBOEM3TUt1RWpTbTcyQVhpWGN0MDFTM0VScjgtRHRONU95bjlyNlcxV1RB?oc=5",
+        "domain": "witn",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260919T035100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMTlSQmdBalRFeXdOVHZCRmZUeTNzR01SM1VCcFI4anp1YmRjVnBTb3ItMG5SUUYzMGVmZG9uSGJYemt0bmV5ajgwUWFXVTVJRFhWVjMwQ2Q4VWlHRkdXaXFwQmpTc0VHdGI1eDhKUWFKSEVkWUpXdU1FaWxqbWpqOG5mTUlFXzFseklTbXRieG1nOFkxcVhnUlA3Mk5XWDAxYnJocWVMcmxzQ0t3NjBDMEVESVRmcmtOcXdwakxMZm9NdlNYaXdj?oc=5",
+        "domain": "kltv.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260919T035100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A sweeping US sanctions bill offers Ukraine new leverage on Russia, but enforcement looms",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWjY0a0VnbUEwVzU0RTA0MmlSR1JBZVBSNmRKS2VoN2N1cDdoU0xVV2JoSDViWGstWUxSMGhNVVF4d3JqdURCMHJFdE1EQWNVVElyUzJMMFBIa2liR0NMaWk3dDVDOG1LT0QyNFlPSEwxZkgwUXhyOEVuTVA1QnN3LXNMTlNieFVvVHRMaTdFeVowckc5Z1luZW5MbUtuSVU?oc=5",
+        "domain": "apnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T003300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeXh1WlhDWEpjQndORlljNy1wdDR3Vnh1bDNLNTJBODRwdDItSkxVa0oxY3FFdE01SmZBazktNlVack5jc0xiMENNXzlKWVBMZ0VDT3NxV1FfSi1fLVJ4ODZ0dWtkcGRjWURGamZZUlg5SEJPQ1prMll3bGdtM2tCX3pyeU44YVlqdUR1UjFkbHdlR05KY1FGb3phc28zU1p4LWNzU3hNakV0Wmh5U0RTZFRPZkRPSGZMMmhSTjNzMjBoNXItMk0w?oc=5",
+        "domain": "walb",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260919T035100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump signs Lindsey Graham Act extending Iran sanctions to 2031",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2xwbHN6UURiQWxZaWhCbDU2N1FCR2dYVGNHelNxU3RsWVAweFZ3TWU5b1U1NkpEMXktOXAtWmlrTTlPWWRRdzhwZ3d4OTA3cjRTLXdyLVhDdTNwcEVKM2x4NHpUZ3FhY3p0WVJLSU0yUEE3bHRPbXBLSHBpWHl2bExieVFaZHhNajhuUGljY294dFJKSVF6LTBwZHluYWJRT2FwaHRiWE5iVDRDS0RubzdkLXY4QURt?oc=5",
         "domain": "middleeasteye",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T162915Z",
+        "seendate": "20260919T001700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ukraine Returns To The U.S. Agenda As Congress Passes A Sweeping Sanctions Bill On Russia",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM19JOVhLeWVmZlpxNzN2cVVnRXdNTUY5R1BtbHd1dmZMdkxtZmdiSHB3M19qNDRqVVR5Z2dENU16UlplTk96NGFXQXBqWWpKRENMQUtuQ2tvNURIRWo0bGhTT2ZCcFZBZENvVVEyOXdSTkVtSHl1UWZNZzQtNWRIVGFsQ0c5Rzh5ejhVNHFZeTFaYjVIUFhYdl9lYzBneHdTbGxwdi14bzROY2UtMjltcU5TWFByRUd3cVZNUEtJeEpaUTBIUk1ORWotLTRqM0w5SXI0NDRfTQ?oc=5",
+        "domain": "forbes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T205750Z",
         "source": "GoogleNews"
       },
       {
@@ -422,39 +458,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Blumenthal touts passage of Russia sanctions bill as CT Dems split",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDN5cTFUR3l5bkpXVlJxYU5KOU1KZTlSUVdYYzR6YmU0ZW1VSUphdkFtR192SVh2Y1B6aDNEMWtvcXAxUUNYUWxlVjV3LTVveVZWV0lPT0JXQ2xTNWZSWmh1aXNIVVJfaDhUWXhvTlgzeVQxSFppNExSbXVLZ2ZZWk5zc1RwN2RvcEFVSWtsWnpMbmNaOENKTXpwVm5TaVdWYlJVTEVYOA?oc=5",
-        "domain": "hartfordbusinessjournal",
+        "title": "Trump signs new sanctions on Russia, gains power to impose tariffs on third countries",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNemhGdUpaam1nWGxKeHhzVy1pR0h3TWdYQVVUV2xPX3JyZnRkOWNmWmlxRHBtUEY0ZmYzVXBIR2l6UURWRzF0UDRKcm5KRzBqUEp3RjV3YlJhWDNDeDVDTTFndjJ0VV9Zc2VkVFBrNkQwNDByaTlBOVFfUHl0Z1IzVVVnMTNwWWlCMXZHU3UzZ3hYUTFyb3YtSkhWb08tMU9kZFlCZEtraXYwaGtpUkhsX3otNmxLdnh4QW4zcU02RXY3SHRkbmZjM2ZEaW4?oc=5",
+        "domain": "efe-agenciadenoticias",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T104636Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORXJZdzNMRWtPcnA1b0IwWHFwRVJzazJKWkZkNW85RWx4cDhfSVd6RmgxRE40YmduY3d5WE1QcUk5Y082OFprU3VLeXB1bE04R3loQWVFTXBSNVJhUmhLckE4OU02VjZpclYzM3NSYldYZ3BUaC1vRDdac2ZSckJFdDNGT3FVNG1oUVd2WnNxTVAwUk4yWjlkbEJaVWthc2VPZkE?oc=5",
-        "domain": "thenewyorktimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260916T161619Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia's $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkNlcmx2SVJuaFZnZ3ZVVnVoSDlLakRGYnl0WHVidzJobUIySGdydGRMcjFkU3FLQ2xvUFRab0pfUHFXOFVnYy1kWms1VTdwTlRmQTA4SjBlVnJSU0ZybmhrX2ZmMzlmWGxnRVByUGh4bHpvNTFSVFVDajdsR2NUdFN6SXQ0RVMyYmgzemhTNzdQUV9SSEFLeU16MDFKOHF4dHhjeWRCVl9malloZ1c1MGNSONIBuAFBVV95cUxNNFBkRHd2SWw0aGptb0JtTVB1RzRTVVJTaGo5cUYxY2lTQ3BQOVA2bmhNc3NhVEVJY2ZTX3pWOW56cGpzd0JCdGNVMDJCMnBWUWVCSG1tRlExSWJvTVJIcUI1cTg5U2dtZFp3UTdRSEJFcDNEQ1l6bU43ZnY1Q1FtYmNpLU1HNEZ6andiWUtIUGRYRjdnUk5PS0kwMDJhTnFyM0drdFppNklkems0QXpWaVFRSklMVnd0?oc=5",
-        "domain": "crudeoilpricestodayoilprice.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T160000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran’s Isolation Grows After U.S. Imposes Sweeping Sanctions on Airlines",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd21jUktGbU5udUZNVXpKdXIxRUtvM0JnZ0M2VDIwZ1ZSMWQ3WE1TZS1yTUFQU0FtYS02UjVCRzEydVVJdlhfVjd3aHNfc2FTQTd3RWctSUxTeDVMSmNQUHlrSHMtWE92cEhfaDBzZmFIR1NWUTZHR0xabW5VcjFkVXRZT2NUbTd2T1lRb2FvcHlkRmdkUnhNWnB4R2x4Qk1BYTUtRw?oc=5",
-        "domain": "thenewyorktimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T182435Z",
+        "seendate": "20260919T004109Z",
         "source": "GoogleNews"
       },
       {
@@ -467,21 +476,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "EU mulls compromise options on Usmanov sanctions to end French stand-off",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWml4Y08wb1ZLRmxsUlNwYUpheEd0ZEZfU2xLWFVuemI2QTBDamFmSkFHUkJrUXdmSlZrZnVVUjB2azBOaXVNNXFGbG1ydmVGVmRhSnphVWo1ajZ0OW9NMVhrdFBvdXFzZ3RoOFRJTURHcUI4d2tTS0E3aUZCSURnUEFfeTg?oc=5",
-        "domain": "financialtimes",
+        "title": "Pres. Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS2Y2OXFCaUFtclExcUljZnJyRlRPaENrby1ybjliSk9hS3hSQnhCeFl4cl9jdXJzczI2Rll4cTdmZzRRYzNRQkpwaUU4UFg1UjdMSmVfLTF6UVJrU3R3cG4wX0Fid0RmbmQ1a0NmVzJwT0FGWVJfdWVWdnBNREVmb0UxUVVVdjcyZ2dzcWdtZGNrbmtaal9wZlMwNXk0ajZvTnVaek5BWE1RNGhqdGVfQVNJM0VnWWpTWlA5NlFacUhfV3hwNjRYZA?oc=5",
+        "domain": "fox19cincinnati",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T050009Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia, China end mandate for independent monitoring of UN sanctions on Iran",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHBsNEJfd0VCaF9BYlJXbDRTbFVTc1hGVE01TmdQaF9oRDdlaGw0YzU3TDRucEI4UjRpR2owemo3NUdFLTBkOVFCWm42Z0d3M0p1eHNvU3JBRkNyUG95VWoyWXRoY21lR0lvYjNXUjVEdUFON2x0dHdlbDF5OTlTOXpnV1kwNzlGQmRjODZGZzVsNXVjMHZvbXNad0dEWFdWTXVfdEVSNVh2dGx4elF1Nm5oaw?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T171744Z",
+        "seendate": "20260919T035100Z",
         "source": "GoogleNews"
       }
     ],
@@ -496,15 +496,15 @@
       },
       {
         "currency": "AFN",
-        "rate": 64.71
+        "rate": 64.62
       },
       {
         "currency": "ALL",
-        "rate": 79.61
+        "rate": 79.5
       },
       {
         "currency": "AMD",
-        "rate": 363.61
+        "rate": 363.57
       },
       {
         "currency": "ANG",
@@ -512,15 +512,15 @@
       },
       {
         "currency": "AOA",
-        "rate": 921.4
+        "rate": 920.9
       },
       {
         "currency": "ARS",
-        "rate": 1510
+        "rate": 1512.33
       },
       {
         "currency": "AUD",
-        "rate": 1.41
+        "rate": 1.4
       },
       {
         "currency": "AWG",
@@ -540,7 +540,7 @@
       },
       {
         "currency": "BDT",
-        "rate": 123.06
+        "rate": 122.86
       },
       {
         "currency": "BGN",
@@ -552,7 +552,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2994.8
+        "rate": 2999.15
       },
       {
         "currency": "BMD",
@@ -564,28 +564,91 @@
       },
       {
         "currency": "BOB",
-        "rate": 11.11
+        "rate": 10.87
       }
     ]
   },
   "entities": [],
   "events": [
     {
-      "title": "New US sanctions bill on Russia puts India's Modi in a bind",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjJCNkhGN0UzLTdmV0g4RzdmUmdLZ254c2JTWjB5cXRRZXZfYTZ0eW5YZ0ZyU1oteVIwdjV6V3VENE5VOGdfVnFHSTVBMnlCU3R0VkVWeWxMSnI5eVlvUTFRQmdVdWhISEpMVlFXa0UwNU1mTnVqV1ZoanVEQXoxOXBWZW5qUld0bE9QWUl1NkVTMHZ3VUZwTUItNTdpLWtrSmJJMA?oc=5",
-      "domain": "reuters",
+      "title": "Trump takes aim at Russia's energy sector with sanctions bill",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vSHg0WFRlY1pCUkotVTE1N3pUOHdfak53ZVFjaVRUa3hpUEtKWTN5ZzBUOEpIQ25DQzJnZlVlM2JpU2tJcnVraG1rZkR2SUotSEEwNUxJMmRKT28?oc=5",
+      "domain": "bbc",
       "language": "",
       "tone": 0,
-      "seendate": "20260918T145057Z",
+      "seendate": "20260918T220547Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Democratic Leaders Fear the New Russian Sanctions Bill Could 'Harm' Americans. Here's Why",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjZnNmZPbHZxenlZNExLMlRmX2NKRXhHZlh1U1JqUTlMMzM3NXpZVVBOLUFRRklhakduNm90Q3AydDJ5djhBT3RGeHd0NnlJWEVXRWxHZkMzQUxsWl9UM3dWMFVIWVZFX0RMdTE3a2xvSWxBSzAwaXFhYk0wRl81blVORGVvcXV5RXhCbDFGVlhTMENENjRjbWYwdkhFLXBnc1JIRQ?oc=5",
-      "domain": "timemagazine",
+      "title": "Trump signs bill imposing sanctions on Russia and giving him more power to levy tariffs",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWVudVZFMERYYlhsNEJxTFdxZjlYaFFLZkZPZF9zTDJ6dEItZDRfUngtOGVvNm1HQnNHUVZhVl9RMkYyNzF2YTFQNTBmcHFYVC1RMXFzeFhoR0ZqVlNDZVdCaXNDYUROVTVhNXpxSlotTGJTRGJPQXBqdm8ydm93VVk3YkRRdzl4?oc=5",
+      "domain": "theguardian",
       "language": "",
       "tone": 0,
-      "seendate": "20260918T193622Z",
+      "seendate": "20260918T224400Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump signs Russia sanctions bill championed by Lindsey Graham",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVYwSFBVcFptYTZtUVNuOXNGMEJpRUluRXVET1lvVnFhT0pFUDN1Wks2bXl3NkM5ZGt4N0o3TW1nUk5fSC10VVVSRlJudlE5VVZTMnFqNHpTWDRPMEEyVU4xOHJoTGUyd1lqQmZtUXRGRllqOHAzY01idzQzTmo1U0xoRmU?oc=5",
+      "domain": "cbsnews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T220108Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump officially signs Russia sanctions bill into law",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ1lIQTJVWl9zbnNGaVYtZ2kyOUlaS3A3VUhTdnBSbmNPM041eVZRdllxeTdQcTBHc0xEYVNVdmhFQ092eFhXQWdpS0RQY1VqQWtWcF9QVi0wbDNKcm9ZSE84b3VYZ2N0aTlRSlVzcUU3dEFMNldfWC1hcDlLd0JhM3VzenZ5YXJva0djbElOVdIBlAFBVV95cUxOVEx5RGVTWHNlLUZnRENzZVFxMnR6RHIwYk9McnFTUzZibFVFNmxhcWc4Ynl5WFdVZzVXT0Uzc1BCYlhtaXRPdkU3MHVhVFJRUWpFbE9FcE1UUGNQQXlweXJWYjYtblJfWlZJTm9Xb1hoUkZiOHlKTUNtT0h2WFltLWFjdXFKR1BkNERsck1qMUpjTnJH?oc=5",
+      "domain": "thehill",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T234700Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZW53Y3d4N25GZjVKRlJ4RkxiRkZ6Y1NKTVJoUGp3bHFzZTk3OGJvdG1qMm9ubDhqQmo0YVYtQnc4aWNRejUwd2VFX1NVRFRMM1h0QXhLX2VwRTlYM2psTFBWeC1BekxaVUFfQm54bXhpOGtUdTU3MkJKUVV5cHpTcFBpRlQyVXFMVFpFcEVoVnN1S1hxQ0VLaTY0a9IBoAFBVV95cUxQOTFZdG83ZU5IOUxvQ2RqMnhzRnZfY2pZOTIyTHF2YUVSR2pCeGJTV25IWTVCU2w3WEg1LWl3SkdvVXVhZGJONEFZTk5VNlh3VFRnaGphSTlmRGtTaDkyNjM4YVlaOW8wOWZmaWxRNHpQVS1KT1ZyaGVUaUNnTzdQX25HODFUN1ZhcmVuNVZRVnFwNmlrbG1OSmRnTzF6MWFI?oc=5",
+      "domain": "aljazeera",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260919T004953Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump signs Russia sanctions bill into law",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWZ3NVV2eHJuOEVQcDhZX3BVSnh2aWxQcE0wWERtWGc3MG9ZS3VmN1lqemJPNS1NbE1pU3RDTlR5TUIteF9hMVdNY2NITDU2N3lva3hWelYydUQ1Nm9xWUZZUHN3R29QeXR3VzhIdFNyOXJ6T1FLNlNEU3JIbUx3Q1ZCVWxHdnI4ZmhJVjFfd0s?oc=5",
+      "domain": "reuters",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T222053Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQV9zNlc2QnFzVHhiYnV6M24xcUxBMmVValVkZDZSblJBbFVtQW1CMzNLSGZLWW9kTmlzekEzbllyajZCQnJmX2p3TXBGRUVUbWo5djRtaWVPVU9wUHJnc2ZKcEJBbVN2VWZEVGFBVG1RVktzaGNKbm12NEdEenNrWVA4N1dhSkZNMzB5WFJSRnJXd3F4TmlJVHRRM2pkbC1mcWhuVk9ybi1LRkZYdnVzSXRn?oc=5",
+      "domain": "apnews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T233700Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump signs broad Russia sanctions bill",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sOU5yNnA3Wjl1d2c1N1Y2SDBzRmdpMV95UkFQX2xRaTE3dTMtT21aRGR0SllZOHZpSDZ1X0djM0dqa1Z5MWZ2OVVob3hKT0VDN1FWUjVpdGNnZkd0eGNEMVFRUktJZHJrWTY0OXRWWTdpMW9vb3RZMTBYYmLSAXxBVV95cUxQNkMtWDhWU3QzTGpkSi1YNlNHZzhzUzZxLUZ3a1VCQ2hJTWlyS09vakZ1eG40QS15TlA4cTNPbXVvbnNUUmwtTnVfQmlLYTFYa21GdHhHR0I0US1DQjBMYTJsczQ3Sng4TWZqTkdKMkp0bVU0R09wYTgzRENu?oc=5",
+      "domain": "dw.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260919T013045Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump Signs a Sanctions Bill Targeting Russia, but Pursues Deals Too",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11eG5ZRWl5UHhEOGxBWTVIMDB4bGJ4aXNXSTFfS0JLVjlnSVVTM1lxd0NmRnJoLVFxMDdIQi0yd0Z1T3VZcTc4ckxFU1JsOXpWN2ZSMGxyT0FXTVdMbkoyM2RRaGxZVXZyQWFkV1VFc1ZLNkpfdnlud0pwSQ?oc=5",
+      "domain": "thenewyorktimes",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T225800Z",
       "source": "GoogleNews"
     },
     {
@@ -598,24 +661,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Rep. Simpson Supports Imposing Additional Sanctions on Russia",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BMkZ6VWxCcFdKY0FYS01LR3hscHhBNHY2ZWdXV3E2bXZXMGRsNlJ6V1lFUEZBWTRXNW9iYjI5UVMyWkZJdXl2RlhzSmtWN0xPVHlidjRuMUFOMEgtOXdrLTk4STI5T2JUQnExSl92WmdyVWptSmZj?oc=5",
-      "domain": "congressmanmikesimpson.gov",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260918T155928Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US sanctions bill targets Russian energy but gives Trump broad discretion",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOERXc3N2X2RObWN3eHRfbE16WmJaZ1REaG9zM2RidnBGZFRLWkNrakNYUFNCRUFFNnpxekxWUmRmdktXNnU0c3RlMXJ1VVgxMGpNNk5CWXo0U19zU2FxaDBRRDJWYjhlemZfUGVSWDNZajZhbUFmdzU3aGppTDFCaEZETnE2SnE1V3RYOGhYTjNxQnZZSlQzWUxSQjFfNG1KcjE3dHItUElES21pS0g1bGpHejh4eEhEX3JTYXljbWRtZE9DTlI3cmpadHpXOVlB?oc=5",
-      "domain": "oilgasjournal",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260918T172359Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORnprZlp5VWJiMUtDX2pzZ3d5M2NHV3lWOVUtTXFlYjVKS2FlOG5qTkQzX2NReUN0YkxTandmQ0lHZ1BzZjdFX3BhbmJQRllTbzVGLUZrV1FuUmhRWHVuNXNZNUlhRmRzaDJTQktqNVVXZEdYUktOSWlJc1ZnTXBZV0VkU09Nd0dkd0xOVW5tYmM?oc=5",
       "domain": "npr",
@@ -625,75 +670,30 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Meeks Issues Statement Following Vote on Russia Sanctions & Tariffs Bill",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFpmdUFxQVV6ejlDMjUwajlld1JGeGxKcEhsMDZvc1hzZ0F2S3NpYVJIS3pBTEhyak5nVVhoZVFhMHl3TVBfY1U5NXVSUE1MUWtSSzFvTUhkQ25idlZTclhhQUJBMU00dU9PR19IYjVlekVaTUNTekV2bU9wVURaeVllamxsajljNGlBcDluODVSUHdycG9PNUNBY0xoX2ZCa2FldTRVQ3ZHX1RReTloMzVQRWFvZHhaME9XNQ?oc=5",
+      "domain": "house.gov",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260916T232004Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US lifts sanctions on Eritrea with Red Sea in focus",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbGEzbDVjN01BYmhTTjhnMUI1alZ5RjNGTEFTcWs4QTNnTndKNU9OR0EwMjRSM0VPVmRVR21SYXdWZW8zNWNiZTE1VldWNlViR1FPWDhmdGtnQjI4MzQwUFZDSXQ2cWw4LXpJeWlBdTNmUURzUnZLdWlsMXgzYmlBTA?oc=5",
+      "domain": "middleeasteye",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T162915Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcFhvRmY4VGxlaUd4NFpmcDNQR296QkhNUkdwM0U5RnQ3ZmJVT0UybXZSVEdxeDZhWHhIUFQwV0V1cWxXQzZLS0FLZ1h6WHNBN3VCQ1JCT1VES1M4ZzFWXzBHaVR3eE1xS0FYS01mOXluRU9QS1lLbklCSlY0OURHZjFUdTBmbkdGNUHSAY8BQVVfeXFMTVluWlFjSDFCMGw2U0dtak5mR2ZOV0ZicXlhQzBiWVhfRTdWNzNuYUxkOW9YOVZlRUplNk9YazR4TllhYjJfY2Y0LVZRMkt2Z0N6alJfTUEwYTRvUW1FNXlaODBxeExzbE4yMGplZ0xkZVRYSlltejJOWThQQUt2WHlvYWUyQmp0UmJTek8yMDg?oc=5",
-      "domain": "cnbc.com",
+      "domain": "cnbc",
       "language": "",
       "tone": 0,
       "seendate": "20260916T152746Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Trump to sign Russia sanctions bill today, source says",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWZHd2N5QTVIZGtUM2lTdEtEd09nRnhwQkhZZjNuS3hicWhMRGFaQVdSUGhjT2draWVuMVZUNE1tTDVXZHRpNjhDVGdXZ2VzVnhiU2x0S0VjT2RUc0JUOGUwLWx5MEgtLTBYbklvZVYzaV9waGdQUVJmN3FYel9wb2dSYTZLX2lRTktQWQ?oc=5",
-      "domain": "cbsnews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260918T183100Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Congress passes sweeping US sanctions bill targeting Russia",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3ZYSEg3VnhFbkR6Q25RZkZuOFM1UWZ4Vk45TXpxUE4tQXZfZGR5VlZDR2VEOHhhcmd1ekdsLXlpRzhMMmtOYnh0VDA1UXZ3eFZZdnptWnJaeGhIU2k1bmdQNE9EQnU4VUwtU3l3YktfQUpobHBTTzltZ05tU05lZHZoVF9iZTZxS0JwYTlYajlTb29mSTFORHRYcHIwQ0RXekHSAacBQVVfeXFMUGRPNFRWTWxsenJNN0psUTg5NnAxTHlISGUxaHUzRnBLYzZ3OHpaa2YwU1poVDQ3SkozLVRjMGc4NEZkX0NPS1dCc05zdk9JZXhSRURhM0htcTRaMm1HSThJYzZKLWhSVTgxTzZVemp1T2F3UGtzNjRhWW9xQmdNdXk4LXFVTzFfT1ppT1gtaGMyNDJhTFBSa2czRVcxSUtYeTF2M0JaRjQ?oc=5",
-      "domain": "aljazeera",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260917T010753Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "House passes Russia sanctions bill named for Lindsey Graham, sending it to Trump",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1Z3QlVPb0I2RU1YZ1VaTEw5b09Zc3YxVWxjNWZGMGQxWHR1YlhqWkQyQk04LVRmdm1neENQcGc3REUzYTFsSEQyZzFTNFNubHA5bXN4S1BtSGFyS05wemd5M3ZpYVNTeU1HZl9Qa01yME9lUTVjRkJxR0xwN2F2aUFiXzJLczR5N2xYem9Pa0ZaNnJDaWlTMnQ1Z3lkWHc1TTdFZi1YcV9YaWZZYU1EXy1YcEk2aW1UNkhVckVWdw?oc=5",
-      "domain": "nbcnews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260916T223100Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "House passes Russia and Iran sanctions bill championed by Sen. Lindsey Graham",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmlXU1czaFNUa25HYVlNdG1OSXppVlEweG5IUElycWMzQTZSRnlZRTN5WDd2aTgxZU43VlN6c2ozb0JKX2RycUZCZThzQUdtYkRtd3JBQUxQTmczN1pnVy1PTVJObzFzWXhVaHQycHlDbE5tQWltNU05WWV1WEhiVWd5SlpjeUQwYkYybThyUDI4NTVIMS0wVm5JVFJGU3JTNEdpR9IBqgFBVV95cUxNSUxmZFlfaF9wZW9EV1BTNi1ycHgxWFhvNWxMd0hTQUoxWmhGMVYtcGtNY3VrZ2YwcmoyV0VZNU9tcVFLQnBfbl9TMEZhMlpoei1nWnAxTk5yRDZTZTlMaEJXYVVUOE9PS0kwX3l1cndpOUM3YVVEcjR1WG9xQjE2OU1ZbEg0NHVZV252Q3Z0dTBvVTBlM05VWlZLc3c5MVhWZW5PenlRXzBYUQ?oc=5",
-      "domain": "abcnews-breakingnewslatestnewsandvideos",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260917T012835Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Robust House majority backs sanctions on Russia and Iran",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQWZIYnFGaW14dEczTTdmUW1KWjUzUFBRaWFfcFJVU09DU2lIRGN4aGJqZ0JmZlB0U2toaFM1bkVwT1p4Wk96aE1wN0NKakJaeERwSFgwNzVpMlptSXFEbjFjNWZwM3dSUEZkX2ZGaldqNnMzMEhQcmRkbU94V2RHY3hla3BJSlJ0Si1laXE3SGNNY3c?oc=5",
-      "domain": "rollcall",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260916T234740Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "House passes Russia sanctions bill, handing Trump more leverage against Moscow",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFVna0E1UG5EUnZtMXdFYVVUVmJDY1FoallIcEkwS3gxakhTYk5oQ0pHazZWcEkwN0h4anYteHlqT1ZuelpRQUg3U01JOTA2X0NYVG9FRldQYkxrQnVIZDRISG56YmpMOWpWNnRZRzNhWXR3a3VQaEF1czFVOXN0bEpxeHI4QkpJUEVj?oc=5",
-      "domain": "politico",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260916T225400Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUUd2bUJIMlpoSzRHU3oxWHV2bGxaRHQ5UDlGcHhkZGFQeWlzbkYtaU1zUmp5OEY3U2ZpMnJ4V2tpRk94QzQ1bWF0UldpanhUZmJSdVVWTkN3WUFMd0FwaEZwaXhDbWhfNzhLcmtERUdDdGFkQkpVUnhWTVluLWpUQUdKUTdUcThNamptWmhhd2p2bzBoal9pRjFJNGE5MENHR0cyUXB30gGuAUFVX3lxTE9CWkxiUXp2Y0Q0SkVsVTVNQnE5MTZoa240a0RQN2hqZ0hyS1V4VnVYUXVFNUdNZTlUVUxDUVJ5RnZ4Q2ROV3FwNXVlQl9TdU5LWVNJRTFucC13d1RWZWJPR2tTdUx1aFI4TWZWUmZWMnZ6M0FTQkhBTGZKZDBKU0hhdWs3TUhWZWNNSnlEUjNFZEJnX1RUdF9TRWVxQ3hJMjZEdi1lMlREbnVNOEQ3QQ?oc=5",
-      "domain": "decrypt",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260918T090155Z",
       "source": "GoogleNews"
     },
     {
@@ -702,7 +702,7 @@
       "domain": "reuters",
       "language": "",
       "tone": 0,
-      "seendate": "20260918T202637Z",
+      "seendate": "20260918T202400Z",
       "source": "GoogleNews"
     }
   ],
