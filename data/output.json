@@ -1,13 +1,15 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-09-20T04:45:54.479260+00:00",
-    "mode": "live",
+    "generated": "2026-09-20T11:13:02.018909+00:00",
+    "mode": "partial",
     "sources": [
-      "news_articles",
-      "exchange_rates"
+      "exchange_rates",
+      "news_articles"
     ],
-    "source_notes": [],
+    "source_notes": [
+      "News feed unavailable; retained last validated snapshot."
+    ],
     "version": "1.2.0"
   },
   "stats": [
@@ -33,6 +35,88 @@
     }
   ],
   "live_data": {
+    "exchange_rates": [
+      {
+        "currency": "USD",
+        "rate": 1
+      },
+      {
+        "currency": "AED",
+        "rate": 3.67
+      },
+      {
+        "currency": "AFN",
+        "rate": 64.92
+      },
+      {
+        "currency": "ALL",
+        "rate": 80.19
+      },
+      {
+        "currency": "AMD",
+        "rate": 365.45
+      },
+      {
+        "currency": "ANG",
+        "rate": 1.79
+      },
+      {
+        "currency": "AOA",
+        "rate": 927.31
+      },
+      {
+        "currency": "ARS",
+        "rate": 1512.33
+      },
+      {
+        "currency": "AUD",
+        "rate": 1.4
+      },
+      {
+        "currency": "AWG",
+        "rate": 1.79
+      },
+      {
+        "currency": "AZN",
+        "rate": 1.71
+      },
+      {
+        "currency": "BAM",
+        "rate": 1.7
+      },
+      {
+        "currency": "BBD",
+        "rate": 2
+      },
+      {
+        "currency": "BDT",
+        "rate": 123.32
+      },
+      {
+        "currency": "BGN",
+        "rate": 1.7
+      },
+      {
+        "currency": "BHD",
+        "rate": 0.376
+      },
+      {
+        "currency": "BIF",
+        "rate": 3016.14
+      },
+      {
+        "currency": "BMD",
+        "rate": 1
+      },
+      {
+        "currency": "BND",
+        "rate": 1.28
+      },
+      {
+        "currency": "BOB",
+        "rate": 11.07
+      }
+    ],
     "news_articles": [
       {
         "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
@@ -483,88 +567,6 @@
         "tone": 0,
         "seendate": "20260919T185853Z",
         "source": "GoogleNews"
-      }
-    ],
-    "exchange_rates": [
-      {
-        "currency": "USD",
-        "rate": 1
-      },
-      {
-        "currency": "AED",
-        "rate": 3.67
-      },
-      {
-        "currency": "AFN",
-        "rate": 64.92
-      },
-      {
-        "currency": "ALL",
-        "rate": 80.19
-      },
-      {
-        "currency": "AMD",
-        "rate": 365.45
-      },
-      {
-        "currency": "ANG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AOA",
-        "rate": 927.31
-      },
-      {
-        "currency": "ARS",
-        "rate": 1512.33
-      },
-      {
-        "currency": "AUD",
-        "rate": 1.4
-      },
-      {
-        "currency": "AWG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AZN",
-        "rate": 1.71
-      },
-      {
-        "currency": "BAM",
-        "rate": 1.7
-      },
-      {
-        "currency": "BBD",
-        "rate": 2
-      },
-      {
-        "currency": "BDT",
-        "rate": 123.32
-      },
-      {
-        "currency": "BGN",
-        "rate": 1.7
-      },
-      {
-        "currency": "BHD",
-        "rate": 0.376
-      },
-      {
-        "currency": "BIF",
-        "rate": 3016.14
-      },
-      {
-        "currency": "BMD",
-        "rate": 1
-      },
-      {
-        "currency": "BND",
-        "rate": 1.28
-      },
-      {
-        "currency": "BOB",
-        "rate": 11.07
       }
     ]
   },
