@@ -35,16 +35,11 @@ jobs:
       - name: Install pipeline dependencies
         run: python -m pip install --disable-pip-version-check -r requirements.txt
 
-      - name: Verify keyless offline contracts
-        env:
-          OPENROUTER_API_KEY: ""
-          NASA_FIRMS_API_KEY: ""
+      - name: Verify published news-monitor contract
         run: python -m unittest discover -s tests -v
 
       - name: Refresh public data
         if: github.event_name != 'push'
-        env:
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: python pipeline/sanctions_exposure_index_pipeline.py
 
       - name: Commit refreshed data

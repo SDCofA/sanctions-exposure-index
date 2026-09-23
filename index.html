@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sanctions Exposure Index &mdash; MCT Intelligence</title>
+  <title>Sanctions News Monitor &mdash; MCT Intelligence</title>
   <meta name="description" content="Entity and network signals for sanctions exposure monitoring.">
   <meta name="theme-color" content="#071522">
   <link rel="canonical" href="https://sdcofa.github.io/sanctions-exposure-index/">
   <link rel="icon" href="assets/product-logo.svg?v=2" type="image/svg+xml">
-  <meta property="og:title" content="Sanctions Exposure Index">
+  <meta property="og:title" content="Sanctions News Monitor">
   <meta property="og:description" content="Entity and network signals for sanctions exposure monitoring.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://sdcofa.github.io/sanctions-exposure-index/">
@@ -20,9 +20,9 @@
   <header class="header">
     <div class="header-brand">
       <img class="brand-mark" src="assets/mct-mark.png" alt="Monarch Castle Technologies"><img class="sdcofa-wordmark" src="assets/sdcofa-wordmark.png" alt="Strategic Data Company of Ankara">
-      <img class="product-logo" src="assets/product-logo.svg?v=2" alt="Sanctions Exposure Index">
+      <img class="product-logo" src="assets/product-logo.svg?v=2" alt="Sanctions News Monitor">
       <div>
-        <h1 class="visually-hidden">Sanctions Exposure Index</h1>
+        <h1 class="visually-hidden">Sanctions News Monitor</h1>
       </div>
     </div>
     <div class="header-meta">
@@ -42,7 +42,7 @@
 
   <main class="main" id="overview">
     <div class="alert alert-info" id="status-message">
-      <strong>Intelligence Status:</strong> Track global sanctions lists, entity relationships, and exposure networks in real-time.
+      <strong>Source status:</strong> Topical news sample only. News coverage is not an official sanctions-list check, entity match, ownership graph, or exposure score.
     </div>
 
     <div class="stat-grid" id="stat-grid"></div>
@@ -52,8 +52,8 @@
         <div class="card">
           <div class="card-header">
             <div>
-              <div class="card-title">Signal Coverage</div>
-              <div class="card-subtitle">Source clusters &middot; updates every 6 hours</div>
+              <div class="card-title">Verified geolocation only</div>
+              <div class="card-subtitle">No coordinates are inferred from article titles</div>
             </div>
           </div>
           <div class="map-container" id="map"></div>
@@ -75,12 +75,12 @@
           <div class="card-header">
             <div>
               <div class="card-title">Source Activity</div>
-              <div class="card-subtitle">Domains ranked by signal count</div>
+              <div class="card-subtitle">Publisher labels ranked by sampled article count</div>
             </div>
           </div>
           <table class="data-table">
             <thead>
-              <tr><th>Source</th><th>Tone</th><th>Signals</th><th>Share</th></tr>
+              <tr><th>Publisher</th><th>Articles</th><th>Share</th><th>Relative volume</th></tr>
             </thead>
             <tbody id="entity-rows">
             </tbody>
@@ -91,7 +91,7 @@
           <div class="card-header">
             <div>
               <div class="card-title">Recent Events</div>
-              <div class="card-subtitle">Last 24 hours</div>
+              <div class="card-subtitle">Latest sampled headlines</div>
             </div>
           </div>
           <div id="event-list"></div>
@@ -101,7 +101,7 @@
 
         <div class="card">
           <div class="card-header">
-            <div class="card-title">Analyst Brief</div>
+            <div class="card-title">Methodology and limits</div>
           </div>
           <div id="llm-summary" style="font-size:0.8125rem;color:var(--text-secondary)">
             <p>Signal analysis will populate automatically with the next data refresh.</p>
@@ -112,19 +112,14 @@
           <div class="card-header">
             <div class="card-title" id="sources">Data Sources</div>
           </div>
-              <div id="source-tags">
-        <span class="tag-source">OpenSanctions</span>
-              <span class="tag-source">OFAC SDN</span>
-              <span class="tag-source">EU Sanctions</span>
-              <span class="tag-source">UN Comtrade</span>
-      </div>
+              <div id="source-tags"><span class="tag-source">Google News RSS</span></div>
       </div>
       </div>
     </div>
   </main>
 
   <footer class="footer">
-    <p>Sanctions Exposure Index &mdash; <a href="https://sdcofa.github.io/">SDCofA</a> &mdash; endorsed analytical unit of <a href="https://monarchcastletech.github.io/">Monarch Castle Technologies</a></p>
+    <p>Sanctions News Monitor &mdash; <a href="https://sdcofa.github.io/">SDCofA</a> &mdash; endorsed analytical unit of <a href="https://monarchcastletech.github.io/">Monarch Castle Technologies</a></p>
     <p style="margin-top:0.5rem">Auto-refreshed every 6 hours via GitHub Actions &bull; Source data available in <code>data/</code></p>
   </footer>
 

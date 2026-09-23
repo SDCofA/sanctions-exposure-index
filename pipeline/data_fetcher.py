@@ -203,13 +203,15 @@ def fetch_google_news_rss(query, max_results=50):
                     continue
             if not seendate:
                 seendate = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-            domain = re.sub(r"[^a-z0-9.-]", "", (source_name or "news.google.com").lower()) or "news.google.com"
+            source_url = source_el.get("url", "") if source_el is not None else ""
+            domain = urllib.parse.urlparse(source_url).hostname or "news.google.com"
             articles.append({
                 "title": title,
                 "url": link,
                 "domain": domain,
+                "publisher": source_name or domain,
+                "publisher_url": source_url,
                 "language": "",
-                "tone": 0,
                 "seendate": seendate,
                 "source": "GoogleNews",
             })

@@ -19,7 +19,7 @@ const INTEL = {
     }
     this.articles = (this.data.events && this.data.events.length)
       ? this.data.events
-      : ((this.data.live_data && (this.data.live_data.news_articles || this.data.live_data.news_articles)) || []);
+      : ((this.data.live_data && (this.data.live_data.news_articles)) || []);
     this.geoPoints = (this.data.live_data && this.data.live_data.geo_points) || [];
     this.renderMode();
     this.renderStatus();
@@ -82,12 +82,7 @@ const INTEL = {
   },
 
   uniqueDomains(articles) {
-    return new Set(articles.map(a => a.domain).filter(Boolean)).size;
-  },
-
-  meanTone(articles) {
-    const tones = articles.map(a => Number(a.tone)).filter(Number.isFinite);
-    return tones.length ? tones.reduce((s, v) => s + v, 0) / tones.length : 0;
+    return new Set(articles.map(a => (a.publisher || a.domain)).filter(Boolean)).size;
   },
 
   mode() {
@@ -113,31 +108,29 @@ const INTEL = {
     const base = alert.dataset.baseText || alert.textContent.trim();
     alert.dataset.baseText = base;
     const counts = this.articles.length
-      ? ` ${this.articles.length} recent signals from ${this.uniqueDomains(this.articles)} public sources across ${this.geoPoints.length} geolocated points.`
+      ? ` ${this.articles.length} sampled headlines from ${this.uniqueDomains(this.articles)} publisher labels. This is coverage, not a risk measurement.`
       : ' No validated signals in the current snapshot.';
     const note = notes.length ? ' ' + notes.join(' ') : '';
     alert.replaceChildren();
     const strong = document.createElement('strong');
-    strong.textContent = 'Intelligence status: ';
-    alert.append(strong, document.createTextNode(base.replace(/^Intelligence status:\s*/i, '').trim() + counts + note));
+    strong.textContent = 'Source status: ';
+    alert.append(strong, document.createTextNode(base.replace(/^(Intelligence|Source) status:\s*/i, '').trim() + counts + note));
   },
 
   renderStats() {
     const grid = document.querySelector('.stat-grid');
     if (!grid) return;
-    const tone = this.meanTone(this.articles);
-    const toneIndex = Math.round(Math.max(0, Math.min(100, 50 + tone * 5)));
-    const feeds = Object.values(this.data.live_data || {}).filter(v => v && (Array.isArray(v) ? v.length : true)).length;
+    const dates = this.articles.map(a => this.parseDate(a.seendate)).filter(Boolean).sort((a, b) => a - b);
     const stats = [
-      { value: String(this.articles.length), label: 'Recent Signals', note: 'Google News RSS snapshot', cls: 'neutral' },
-      { value: String(this.uniqueDomains(this.articles)), label: 'News Domains', note: 'deduplicated', cls: 'neutral' },
-      { value: `${toneIndex}/100`, label: 'News Tone Index', note: tone > 0.2 ? '\u25b2 positive' : tone < -0.2 ? '\u25bc negative' : '\u25cf neutral', cls: tone > 0.2 ? 'up' : tone < -0.2 ? 'down' : 'neutral' },
-      { value: String(this.geoPoints.length || feeds), label: this.geoPoints.length ? 'Geo Points' : 'Live Feeds', note: this.geoPoints.length ? 'geolocated coverage' : 'connected sources', cls: 'neutral' },
+      { value: String(this.articles.length), label: 'Articles Sampled', note: 'Google News RSS snapshot' },
+      { value: String(this.uniqueDomains(this.articles)), label: 'Publisher Labels', note: 'distinct publisher domains' },
+      { value: dates.length ? this.formatDate(dates[0].toISOString(), false) : '—', label: 'Oldest Article', note: 'publication date, UTC' },
+      { value: dates.length ? this.formatDate(dates.at(-1).toISOString(), false) : '—', label: 'Newest Article', note: 'publication date, UTC' },
     ];
     grid.replaceChildren(...stats.map(s => {
       const card = document.createElement('div');
       card.className = 'stat-card';
-      card.innerHTML = `<div class="stat-value">${s.value}</div><div class="stat-label">${s.label}</div><div class="stat-delta ${s.cls}">${s.note}</div>`;
+      card.innerHTML = `<div class="stat-value">${s.value}</div><div class="stat-label">${s.label}</div><div class="stat-delta neutral">${s.note}</div>`;
       return card;
     }));
   },
@@ -145,11 +138,9 @@ const INTEL = {
   groupSources(articles) {
     const groups = new Map();
     articles.forEach(article => {
-      const source = article.domain || article.source || 'Unknown';
-      const current = groups.get(source) || { source, count: 0, tones: [] };
+      const source = article.publisher || article.domain || 'Unknown';
+      const current = groups.get(source) || { source, count: 0 };
       current.count += 1;
-      const tone = Number(article.tone);
-      if (Number.isFinite(tone)) current.tones.push(tone);
       groups.set(source, current);
     });
     return [...groups.values()].sort((a, b) => b.count - a.count || a.source.localeCompare(b.source));
@@ -164,24 +155,26 @@ const INTEL = {
       return;
     }
     const maximum = Math.max(...groups.map(g => g.count));
+    const total = Math.max(1, this.articles.length);
     body.replaceChildren(...groups.map(group => {
-      const mean = group.tones.length ? group.tones.reduce((a, b) => a + b, 0) / group.tones.length : 0;
-      const toneClass = mean > 0.2 ? 'badge-success' : mean < -0.2 ? 'badge-danger' : 'badge-info';
       const row = document.createElement('tr');
-      row.innerHTML = `<td title="${group.source}">${group.source}</td>` +
-        `<td><span class="badge ${toneClass}">${mean.toFixed(1)}</span></td>` +
-        `<td>${group.count}</td>` +
-        `<td style="width:120px"><div class="score-bar"><div class="score-bar-fill score-medium" style="width:${Math.round(group.count / maximum * 100)}%"></div></div></td>`;
+      const source = document.createElement('td');
+      source.textContent = group.source;
+      const count = document.createElement('td');
+      count.textContent = String(group.count);
+      const share = document.createElement('td');
+      share.textContent = `${Math.round(group.count / total * 100)}%`;
+      const bar = document.createElement('td');
+      const track = document.createElement('div');
+      track.className = 'score-bar';
+      const fill = document.createElement('div');
+      fill.className = 'score-bar-fill score-medium';
+      fill.style.width = `${Math.round(group.count / maximum * 100)}%`;
+      track.append(fill);
+      bar.append(track);
+      row.append(source, count, share, bar);
       return row;
     }));
-  },
-
-  severity(tone) {
-    const n = Number(tone);
-    if (!Number.isFinite(n)) return 'medium';
-    if (n <= -4) return 'high';
-    if (n < -1) return 'medium';
-    return 'low';
   },
 
   renderEvents() {
@@ -211,11 +204,10 @@ const INTEL = {
       title.textContent = this.cleanText(item.title || 'Untitled signal');
       const meta = document.createElement('div');
       meta.className = 'list-item-meta';
-      meta.textContent = `${item.domain || item.source || 'Public source'} \u00b7 ${this.formatDate(item.seendate)}`;
+      meta.textContent = `${item.publisher || item.domain || 'Public source'} \u00b7 ${this.formatDate(item.seendate)}`;
       const badge = document.createElement('span');
-      const sev = this.severity(item.tone);
-      badge.className = `badge badge-${sev === 'high' ? 'danger' : sev === 'low' ? 'success' : 'warning'}`;
-      badge.textContent = sev;
+      badge.className = 'badge badge-info';
+      badge.textContent = 'article';
       link.append(title, meta);
       article.append(link, badge);
       return article;
@@ -225,7 +217,7 @@ const INTEL = {
   renderSourceTags() {
     const container = document.getElementById('source-tags');
     if (!container) return;
-    const labels = { news_articles: 'News RSS', news_articles: 'Google News RSS', geo: 'Geolocated feed', economic_news: 'Economic News', crypto: 'CoinGecko', exchange_rates: 'Exchange Rates', energy_news: 'Energy News', forex: 'Exchange Rates' };
+    const labels = { news_articles: 'Google News RSS' };
     const names = (this.data.meta && this.data.meta.sources) || Object.keys((this.data.live_data || {}));
     container.replaceChildren(...names.map(name => {
       const tag = document.createElement('span');
@@ -243,17 +235,8 @@ const INTEL = {
   renderAnalysis() {
     const target = document.getElementById('llm-summary');
     if (!target) return;
-    const supplied = this.cleanText((this.data && this.data.llm_summary) || '');
-    if (supplied && !/pending api key|connect openrouter|demo mode|ground[- ]truth|news sample/i.test(supplied)) {
-      target.textContent = supplied;
-      return;
-    }
-    const leading = this.groupSources(this.articles).slice(0, 3).map(g => g.source).join(', ');
-    const tone = this.meanTone(this.articles);
-    const direction = tone > 0.2 ? 'positive' : tone < -0.2 ? 'negative' : 'near-neutral';
-    target.textContent = this.articles.length
-      ? `Current snapshot tracks ${this.articles.length} signals across ${this.uniqueDomains(this.articles)} domains. Coverage is led by ${leading || 'the available sources'}, with ${direction} mean reported news tone (${tone.toFixed(1)}).`
-      : 'Signal analysis will populate automatically with the next data refresh.';
+    const method = this.data?.meta?.methodology || {};
+    target.textContent = `Method: sample up to ${method.sample_limit || 50} headlines matching the published query, count publisher domains, and link each item to its source. ${method.limit || 'No risk score is calculated.'}`;
   },
 
   setupTabs() {
@@ -368,36 +351,22 @@ const INTEL = {
       svg.append(group);
     });
     const caption = this.svgElement('text', { x: this.MAP_W * 0.02, y: this.MAP_H * 0.96, class: 'map-label' });
-    caption.textContent = markers.length && !this.geoPoints.length
-      ? 'Source cluster view \u00b7 current signal activity'
-      : 'Geolocated coverage points \u00b7 Geolocated feed';
+    caption.textContent = markers.length ? 'Source-provided coordinates only' : 'No verified location data in this feed';
     svg.append(caption);
     container.replaceChildren(svg);
   },
 
   buildMarkers() {
-    if (this.geoPoints.length) {
-      const maxCount = Math.max(1, ...this.geoPoints.map(p => Number(p.count) || 1));
-      return this.geoPoints.slice(0, 80).map(p => ({
-        lng: Number(p.lon ?? p.lng),
-        lat: Number(p.lat),
-        r: 2.5 + 5 * Math.sqrt((Number(p.count) || 1) / maxCount),
-        name: p.name || 'Coverage point',
+    return this.geoPoints
+      .filter(point => Number.isFinite(Number(point.lat)) && Number.isFinite(Number(point.lon ?? point.lng)))
+      .slice(0, 80)
+      .map(point => ({
+        lng: Number(point.lon ?? point.lng),
+        lat: Number(point.lat),
+        r: 4,
+        name: point.name || 'Source-provided location',
         sev: 'point',
       }));
-    }
-    const palette = ['#ef4444', '#f59e0b', '#10b981', '#77b8cf'];
-    return this.articles.slice(0, 16).map((article, i) => {
-      const angle = i * 2.39996;
-      return {
-        lng: -10 + (i % 4) * 22 + Math.cos(angle) * 6,
-        lat: 18 + (i % 5) * 9 + Math.sin(angle) * 4,
-        r: 3.5,
-        name: `${this.cleanText(article.domain || 'Public source')}: ${this.cleanText(article.title || '')}`,
-        sev: this.severity(article.tone),
-        illustrative: true,
-      };
-    }).filter(m => Number.isFinite(m.lng) && Number.isFinite(m.lat));
   },
 
   async renderTimeline() {
