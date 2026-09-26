@@ -1,14 +1,12 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-09-25T21:28:00.519035+00:00",
-    "mode": "partial",
+    "generated": "2026-09-26T04:46:22.690789+00:00",
+    "mode": "live",
     "sources": [
       "news_articles"
     ],
-    "source_notes": [
-      "News fetch failed; showing a retained sample less than 24 hours old."
-    ],
+    "source_notes": [],
     "version": "2.0.0",
     "methodology": {
       "scope": "topical news sample",
@@ -25,21 +23,11 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "25"
+      "value": "22"
     }
   ],
   "live_data": {
     "news_articles": [
-      {
-        "title": "International Criminal Court is insulated against US sanctions, says deputy prosecutor",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjIxSzNhemkzOXk5TXNLYzVzUzI3dVVjZWVYQ0gwX1NJZ0NwdEE3Wl9Kc19oc1BlRlpZX2tzMjdoZGctdDVlak5HdHdQVE5falExRklqVHBvbGhRSEp5aTMwV3hmSGExdnRKNjVxZDA0a2U1WmozVllsSE9mTmZVQUNYckc?oc=5",
-        "domain": "www.ft.com",
-        "publisher": "Financial Times",
-        "publisher_url": "https://www.ft.com",
-        "language": "",
-        "seendate": "20260925T111707Z",
-        "source": "GoogleNews"
-      },
       {
         "title": "ICC deputy prosecutor says court insulated against US sanctions, FT reports",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU1p6N1ljQk9oZmx0SWRKcDZ5LXBOWW5JTUV1bDAwQlp5dExPUUprZ1psU1JhOFdiaUNleC04MWRleXpVbnM0MkQxVW03el9jd1BEWUhOVE1kelM2aUk1RElNRGt5SVpnUE9NbEVjaHlLalFQUUFkU2xmSXlVSHRYX2FQejFnMHFGTS1EM1Fhci1LSHFSdTlfU0RuZG9LalZlalpael9UdVhfdmhsdENYUEZkSzRUcEU?oc=5",
@@ -48,6 +36,36 @@
         "publisher_url": "https://www.reuters.com",
         "language": "",
         "seendate": "20260925T120104Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3ppekJpMXdyaFhhWE40RGNyVFV6U2hYdFlLRXlwNVRnS1JHSHdQWnZfWFhydWdhLWFXY0RZOWlSdTFSZlJPdVFRRjBUWWZJaHpsUm5UckpBUlZHMG5HR3E5cXBYTnhtZHktcExqMVlVTmZmQ2xvOVRabTJDWE5wVjJpY2Q1VVkwUkI2MFdRTEFqdzVhcDRuc3JCOXJ6SWd0ZTBDcFlJR2d1TUg50gGyAUFVX3lxTFBGZDNrM25DNmMzWTNGdVVDbmFSZG5lU0FhNXhHczRwSUZoNl9VaDYxb1Rua2RScjFWYUFSTmNTTUJkRmhXNmpHTXBIVEZSbGhjSTlrdGxyQTMzcjl2eFpuc0VIZ2NoZWVPb3RoQzJCaDBrd2piM3ZLbnlQQ2xhSGZEVGhHMlBXVG0yb1Q2OWtzQk4wSFhHWnVNSW1QTC00MkxVVlozMFNwWWV4VC1SSFhhc1E?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20260925T183417Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "38 Global Civil Society Organizations file joint brief in US lawsuit challenging legality of Trump’s ICC sanctions",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNGNuTmdkZW5EOFBKY2JNdk5xU2g1bnQxVjBVWmNDUkUxMmgwSkJPaFl0bVZBVExXNkNJTXlfOHlHbFhJT0x4djlMbHIyZEZTTEJMQnNjQzR4YVl6TlFxZ24wR0tZUmpSLVdrZGNXRk5ZVy1WbjE1SHpLaTVZZzAxNkhfbEhHZVZDY3RfeVZ2LXNNcENCb0Z6OGJEd2F5d3NYMUlzdGJ0MHlxbWktSFBpMlhJbGZ3MFVIQnBiUVFmdW1aejVzd3VWQzdBYWNVZUVrc1lsbXFkRXlyWC1MeTlqc2pHREd1UE1Tc3U5TzZxYnEtOHM?oc=5",
+        "domain": "www.amnesty.org",
+        "publisher": "Amnesty International",
+        "publisher_url": "https://www.amnesty.org",
+        "language": "",
+        "seendate": "20260923T113123Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The ‘Monster’ Behind Russia’s Global Effort to Evade Western Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXhxZ1htTXB1MWFZcUlWQUo2U0M4NFYxaUZUVklTNldJd0xibUNZNk5XMDZhQi1yWlROMGR2dFZqZDQ3ZlpiejM1cjMzNE9BVkpaeGJkTXk4OHBlWFUxTFZrdGpPbmw5aFFkMWhPWkJHR3pDREdWQkZoOVk5bTYtNVN3?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20260924T090015Z",
         "source": "GoogleNews"
       },
       {
@@ -61,20 +79,30 @@
         "source": "GoogleNews"
       },
       {
-        "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVdZMlktTUwtbjRXLWNBbDVLcW9iZjlXaWxxQktUN29CQ3FxQlQ4MnNaeWRWbDVjb0RtSzI3NlJaX051MUZnalptR05vQkFteHloUnFDV0RaTEhCMndINnpQbHg2NzdmYXJoeWk4bm02TGFJSWxvRzJIcl9oZ3R1S1hSYXBucldfTWdIRjR4eHlBSmlZOURFdXgxMGpoRndUeUFRdy1NdHhlM2dSNlYyTEpkQUcyd9IBuwFBVV95cUxOemF2d2VrcTZBRXFPUkhnS1RlVEpvOFpaaEJEdjdiRnZrZEtTM0JBN3JaUEtFeERhYVpHY2JwalpFbXI4MEpOZVRacXVZdUFwUGhtanZvMWFEUzNUbnVlTXFyRFZBN0I1d0hRWmkxcDMtZThZN1dfN2prY3V3T1BaeXh0TUpwWjQwUXNpVVJSN3NyZ3dTOHpsOTlfSHV5NmJTeHVfaTZ2YTNheTBoN3pkdU9rS3VFWmo5MTIw?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "International Criminal Court is insulated against US sanctions, says deputy prosecutor",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjIxSzNhemkzOXk5TXNLYzVzUzI3dVVjZWVYQ0gwX1NJZ0NwdEE3Wl9Kc19oc1BlRlpZX2tzMjdoZGctdDVlak5HdHdQVE5falExRklqVHBvbGhRSEp5aTMwV3hmSGExdnRKNjVxZDA0a2U1WmozVllsSE9mTmZVQUNYckc?oc=5",
+        "domain": "www.ft.com",
+        "publisher": "Financial Times",
+        "publisher_url": "https://www.ft.com",
         "language": "",
-        "seendate": "20260925T002633Z",
+        "seendate": "20260925T111707Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Weak Sanctions Enforcement Is Fueling China’s ‘Polar Silk Road’",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVdwRXd4ZlVuNDFiaU91TlBlOXdDS1VLR2xGY242bmt3YTJFVDQ4Ym1BMlpTS1BTYno5bnVFQm9PUGpIOWg1cHdUV3J5SmR2OVQwWUpxSXAwUnNvZnVyLVRDLW1PeTFEcVYxWDdTYUswblkxc3I2cWpobjVLcXlZSjNia0FtNlNsMjRvSFROZ1FtdU9WUGRleVk1eHBMbFR1anVF?oc=5",
+        "domain": "www.fdd.org",
+        "publisher": "Foundation for Defense of Democracies",
+        "publisher_url": "https://www.fdd.org",
+        "language": "",
+        "seendate": "20260925T194930Z",
         "source": "GoogleNews"
       },
       {
         "title": "Proposed U.S. Sanctions Against the Int’l Criminal Court Could Lead to Detainees’ Release",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzY4SWMxclktcWFod0FzOXNTMTdVQ1Q1UzNxRWt5LW5NLUtBdUVfTVc0TFJjMmFrX3VUSWViV3dUemdxaDQ3czRPZTVQSVFseWNSX0swWjA3NmhJOTQ4cWhweTdrZEEwRzhlUW5wNGJ3UE9pbEFFTkFoY2pXQW9ELUVibGFBal9kYkw4andB?oc=5",
         "domain": "www.justsecurity.org",
-        "publisher": "justsecurity.org",
+        "publisher": "Just Security",
         "publisher_url": "https://www.justsecurity.org",
         "language": "",
         "seendate": "20260925T140424Z",
@@ -91,113 +119,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Manchester City found guilty on almost all Premier League charges relating to financial breaches - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUxLdVdlNk9kWGVQRC1sVEZiUjJjM0pUa0tZTk9VU0ZwS0YwUzRkdmlDd3FscDBYeFNlTTZRaE82WVNHR0NyajhabjdOeHZPb3RaU3B6RTBlOE53dk55Q3dheUI1MWJNbm80SDgwQ2RnOTMyTk5leks4WEJTOVRnc19ZdEFhY0hQem5jSFNfczcyQVpBNHVSakM3Z2x5eTZp?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
+        "title": "Array of Experts Back Lawsuit Challenging Trump’s ICC Sanctions Regime",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUEyVnFCc2ktY1J6ZjNBNXhfemlmZFhfMUpwbjV4Zjk3QTNaTGIxYkdHYUJlYkRjQzV0Z0IwYTl0bmlJNGdRTkZzaGtQRTNzdEViZEpqMV9xS2g5NXJDLVFOTEFYNkJKc2g5Rjl1MnhqdVoyVnY5QkRhS1ZYXzdVVnoyZ3VVdFZLYlRYck5pWVhpNDM0aVBjcFh5MmV5bUREWlJsRXRQV20?oc=5",
+        "domain": "www.hrw.org",
+        "publisher": "Human Rights Watch",
+        "publisher_url": "https://www.hrw.org",
         "language": "",
-        "seendate": "20260925T154736Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Trade With Cuba: Cargo Shipments Surge Despite Trump Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44UUp2Q244ZDBHeUhaUXdPQWRmVzdFRkNadmpGb21RTF94ZDNya0JoalJqU0s5bWRid181Wlo2WmRGd2Z2ZDJlWUJmOFFRMnRNMmw5NHhESnRySlFFNVEzMFVTT0cxMEVmb0tCNXhuMThJMEk?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg.com",
-        "publisher_url": "https://www.bloomberg.com",
-        "language": "",
-        "seendate": "20260925T090000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "38 Global Civil Society Organizations file joint brief in US lawsuit challenging legality of Trump’s ICC sanctions",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNGNuTmdkZW5EOFBKY2JNdk5xU2g1bnQxVjBVWmNDUkUxMmgwSkJPaFl0bVZBVExXNkNJTXlfOHlHbFhJT0x4djlMbHIyZEZTTEJMQnNjQzR4YVl6TlFxZ24wR0tZUmpSLVdrZGNXRk5ZVy1WbjE1SHpLaTVZZzAxNkhfbEhHZVZDY3RfeVZ2LXNNcENCb0Z6OGJEd2F5d3NYMUlzdGJ0MHlxbWktSFBpMlhJbGZ3MFVIQnBiUVFmdW1aejVzd3VWQzdBYWNVZUVrc1lsbXFkRXlyWC1MeTlqc2pHREd1UE1Tc3U5TzZxYnEtOHM?oc=5",
-        "domain": "www.amnesty.org",
-        "publisher": "Amnesty International",
-        "publisher_url": "https://www.amnesty.org",
-        "language": "",
-        "seendate": "20260923T113123Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "How Sanctions Have a Made a New Class of Nouveau Riche in Iran",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2h6UG9sbWN1NEZETHdyQVJzUEd4VXdnaWFIYmRUbEZQbTdfRGxYVTZkWHBnaXl2UmVWeS1tYTRjMlF0MWxKcE16VGpZSGE5NGR6MzJVNkNoN2hrUXlPX2F5WUJnQkNucDc2djdrT3FTZkY2alRyYXVZbjl4cFFscmM3UGo1Q1FtazJQX2RCOERxT2VmZWhWSlNNbGU1RW1SeUwxNVpB?oc=5",
-        "domain": "iranwire.com",
-        "publisher": "IranWire",
-        "publisher_url": "https://iranwire.com",
-        "language": "",
-        "seendate": "20260925T155251Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "New US sanctions shut down Iranian flights",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORXFRdU50SU1neUhFbzk2V2JmSXRiRDFJbm5BR1VFaWp6NXhaZ2hRcExwUjJNeHRwVlFNd0xKY2tBWnI4N0c3Tk0zWTFyUHNCSnZJRUw3Znp3bU1UREd5OHo5anJLY21GdkVTa2V1TnQ2ZTVxOGRXSHRfUmIxN0dCRzFSaXJFVWRJOHQzVWE4dTdjcXRZNk5nSVg0eFBEYWd4akJGNWVzbE5rNEhwSVowcUp5SXhHZzV3OVBsUkp3UkQ1RTZvWHNwWTdn?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "reuters.com",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20260924T172727Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "UAE halts Iranian flights over US sanctions",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3k5d0oxT1hBN1NxYzUwZC1TaFF0eUNyU09jVmZrOUZjUEZueWFsVjNKMVhmQWt5cml0VFc3QkNIRXZJN0FUcXdyR01odlhzdnctVnJHdDBoV244QndVUTVYcFNrZWhXSjFmWmszclVIUFJQaDEtRkx3TmNuaDhIOG1BUmo?oc=5",
-        "domain": "www.ft.com",
-        "publisher": "Financial Times",
-        "publisher_url": "https://www.ft.com",
-        "language": "",
-        "seendate": "20260925T081155Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The ‘Monster’ Behind Russia’s Global Effort to Evade Western Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXhxZ1htTXB1MWFZcUlWQUo2U0M4NFYxaUZUVklTNldJd0xibUNZNk5XMDZhQi1yWlROMGR2dFZqZDQ3ZlpiejM1cjMzNE9BVkpaeGJkTXk4OHBlWFUxTFZrdGpPbmw5aFFkMWhPWkJHR3pDREdWQkZoOVk5bTYtNVN3?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20260924T090015Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Sanctions Are Hobbling Cuban Economic Reform, Minister Says",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTHRTb0lzX21WTm5mLVg1VFFsYkdRWWlweWRXMkhJR2UxeXYxbnQ2MFdUaW5xQ09sZFYxcW5ubWF3dDVmQ1RTN0lrYmpsV1N0TExjRDVCNTE3SlczQnZNOWFQLVlFcGR1cVAxTlVPcEVBQkFzRWtUbVpjRmpYVVBtdk80am54bTEtR2VUVy0tallHWDY3Z3V0ODZNRl9aNm5jUzJuYXlFUm8xTmpGU3VhZnln?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg.com",
-        "publisher_url": "https://www.bloomberg.com",
-        "language": "",
-        "seendate": "20260925T152511Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWS10UDBXSTJyZXR4Q3hHV3IyYzE5d1l4aHItb0hrenQ4V3FFQ0ZtZEJRdElESkp6VXQ4VmlnYkZ5T19CcjJidlBfMXFPN2ZRejg5U0JRSVhsVkJqcXZEc3JPbWpfS1lIUGVFVkI1eGNNX3NLTnVqaF9fMFJfcHFqdlgtd2xYbUZ0TWF3YjZxbUIyR3hXVGhIOWVwOUgzUV9EUl85dnJ3T2h0bWtv0gGyAUFVX3lxTE1YN2FXdEQycVFnNDlwNUEyLWlJdm1UYmlNckwybmEyUzVCY2hUTWVFZDdWTlY4blNxRG1Hc0h2LXQ2WW5yYzVjZURDZkJjbk42NDFYYnBRb1J1bkF4Y2VwXzRORzVlYjFTZmV6M0psdmpTWk5wX0s3MkVxSDFLMXlld0k5Skhqd0xTRUpaa2NxeHBwaWFwV3hLVFBLQ2hWQ1NHNlZPWnQ0X256Y3FQZ0hpMHc?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20260923T210753Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US and Indian top diplomats discuss Russia sanctions bill signed by Trump",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjNWTlhTdURkUERZUjdNQnBhQWR2bzRjOUVYNWRJUkdoX1M0NmpBRk5Dc0dHMm8wWlJKby1YNVNDb28wSnJXazJnbG9sQTNRU0RVTXk0eHJJcGQwTkVIdS00UjNRakFkUHFLTFhJdi1vMGJGZVB0dzMtR0JHUlN2RFoza1F5d3FuOWhBd09MR2RBa1I1ZU11OGotV2FwM2NOdmNydlBjeU1nMzFoVXpTQ1RuR1E?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "reuters.com",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20260924T035100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia Tycoons Examine How Billionaires Shook Off EU Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMk1rRkhaVTFJdlB0Z3pZTWY5bXl0MmdMRlhrdzB3Sk5nM0gyVFg5ZW5iWDV0a0pqOEJQMzBsa0RSdkt3d2lfMmdHdmxPa2prQnlVRzBHNEpwRld0czBWRlBFYjF5bEN0Yk9UMGlqWHNBTFpyUDFfUWo0M1M0T1A1ZnJmQjR3TWhoeE1MOXJlWjJTWU9yWExwVmNEUkhHZXp4WThUVzhDOW8wRzRKWmxCMHZfVQ?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg.com",
-        "publisher_url": "https://www.bloomberg.com",
-        "language": "",
-        "seendate": "20260925T132218Z",
+        "seendate": "20260925T201500Z",
         "source": "GoogleNews"
       },
       {
@@ -211,53 +139,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Azerbaijan pardons French national after EU drops sanctions on Usmanov",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNldBQXliTFpySThuQlRkUlBMVVBLaUYzMS00N2NwM0JnZVBUUTdxaE1ZdmQ2U2NCNFU0dmVQV1hiU1hxWXJoRnJzTGktVjVKeUE0cm82elZ6U3pMc0FES2NJMU8wcWFmc2s0SXRDZDFiX3FHeWtVQnR1a3k2N2RHUkZzdXR4d0dUMjFPZ1dOSW4xZ004TWRMYmNnV2xrT3Z0WDJsTmx1YXI3b2hYa1lKdkFhbXFaZ0stWHROTVd1cw?oc=5",
+        "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWS10UDBXSTJyZXR4Q3hHV3IyYzE5d1l4aHItb0hrenQ4V3FFQ0ZtZEJRdElESkp6VXQ4VmlnYkZ5T19CcjJidlBfMXFPN2ZRejg5U0JRSVhsVkJqcXZEc3JPbWpfS1lIUGVFVkI1eGNNX3NLTnVqaF9fMFJfcHFqdlgtd2xYbUZ0TWF3YjZxbUIyR3hXVGhIOWVwOUgzUV9EUl85dnJ3T2h0bWtv0gGyAUFVX3lxTE1YN2FXdEQycVFnNDlwNUEyLWlJdm1UYmlNckwybmEyUzVCY2hUTWVFZDdWTlY4blNxRG1Hc0h2LXQ2WW5yYzVjZURDZkJjbk42NDFYYnBRb1J1bkF4Y2VwXzRORzVlYjFTZmV6M0psdmpTWk5wX0s3MkVxSDFLMXlld0k5Skhqd0xTRUpaa2NxeHBwaWFwV3hLVFBLQ2hWQ1NHNlZPWnQ0X256Y3FQZ0hpMHc?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20260923T210753Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnhFeHB1dlJzNUFaZkYzM0d3cFNyaDI3bFo3VjJFYW5wc0dhandneXlLVkstbVhfd0REaXJrUmx2TF9tRTd0QzdoTExocDNHSFhwVTlVRkZ6RzhKMU4yckMwNzEzS0xtalhQQl9vSkpBdjRxbUFVczFVc1NEQVJQM3R0NEdaQThjX0owTkdxbUcxb3JuM1c3XzNCVGN4dXV4OTNBeEQ3bURQWGxnRmdaVw?oc=5",
         "domain": "www.reuters.com",
         "publisher": "reuters.com",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20260923T115445Z",
+        "seendate": "20260922T232347Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US Senate Democrats seek sanctions over Israeli settlements, bill says",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVndBSnV3YXhuSXlyX1JLV3dlbm9rRVFHZmg1aWswUGJBZzREb1hYdFJHYjhnU2h4UWwycEJweVpaQ0JWYU1ZVmZlbHNYSXpqMkhITC1DeFdkbFJEWVA5eWg4RFFKNUg2M1lLVkJ4NXhPVHMxb1o2UERSYXZYYjJwWGxwQ1liRXZtTGJmRVNKaWItVGd6dVNvRUtYY1RNYlExakNQVl9tVy0wa1pWX01OdFgxQWMtT1YyVklnYkhqaw?oc=5",
+        "title": "US and Indian top diplomats discuss Russia sanctions bill signed by Trump",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjNWTlhTdURkUERZUjdNQnBhQWR2bzRjOUVYNWRJUkdoX1M0NmpBRk5Dc0dHMm8wWlJKby1YNVNDb28wSnJXazJnbG9sQTNRU0RVTXk0eHJJcGQwTkVIdS00UjNRakFkUHFLTFhJdi1vMGJGZVB0dzMtR0JHUlN2RFoza1F5d3FuOWhBd09MR2RBa1I1ZU11OGotV2FwM2NOdmNydlBjeU1nMzFoVXpTQ1RuR1E?oc=5",
         "domain": "www.reuters.com",
         "publisher": "reuters.com",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20260923T210416Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Former Chelsea Duo Face Premier League Sanctions As Man City Learn Verdict",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFNac2VpYWR6c2c2RHE2dTVvQUJfcUQ0T01LMThVTk5nYVVXa1hSN2hmcXowMTRWSmYxV21TZ0V4T016cGQzYzVNTkhUdmhQZW95QmwxOHpqTUZFOERNYTZIb1RLUGFpY25ldTdZU2Fya3k4ZlphbU9qaU5CaUZqLUlJY2NGRTA?oc=5",
-        "domain": "sports.yahoo.com",
-        "publisher": "Yahoo Sports",
-        "publisher_url": "https://sports.yahoo.com",
-        "language": "",
-        "seendate": "20260925T160209Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "UK Escalates Financial Sanctions on 5 Major Iranian Banks",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUEpySVhXTG55Wk1ZckI2SGl3SWRGQlA1d1VodFMwMlFVWTlScVhSZE41M295dTlUbThGZExaZThmYVFiRGVzZ3dkUTVTUlQtaGFSbjlSTVRRRjBfYkkyRktGV0xOOVNPQXh0aGdEa3YxbDV1S0czUHRxT0pRUGxrTURieXpWbGRvZ2VJcWpzTW95cjN4cG1LeHN3?oc=5",
-        "domain": "iranwire.com",
-        "publisher": "IranWire",
-        "publisher_url": "https://iranwire.com",
-        "language": "",
-        "seendate": "20260925T084446Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The notion that sanctions work is an illusion",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWk1LcWhpZnJSY0ZuMjlvSEtmdm5NeGhrVmdrcGRWeDZRLW9jUVFwblR6VVhoSkdidkJFRzNCTzNhQ0dIYk1uNi1ObHhLRll1NUVzd0N1ZV9adk92NnJud0xvbG5fQTIxaWdaLXJyY0s3eTk4Tl9SbzZ3aU1TZFMzR1p3?oc=5",
-        "domain": "www.japantimes.co.jp",
-        "publisher": "The Japan Times",
-        "publisher_url": "https://www.japantimes.co.jp",
-        "language": "",
-        "seendate": "20260925T072500Z",
+        "seendate": "20260924T035100Z",
         "source": "GoogleNews"
       },
       {
@@ -271,23 +179,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "CRIMES AND OFFENSES—OFAC final rule consolidates sanctions penalty provisions in new regulations",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNmpETDUtcEs5MzlZUjlickpZY1pSWllVSU9TQ1hqS2x6cGFWXzd3VjdjZDUtWHlLdDA4MkVqS19kZWo4czlJcnZpbmJEU1JkODMtZkVTMjREWVlUV2k2Q2pKaW40OUktOVNmS0tUY2lTbDk3eU8tNElpVnlmekVLMjJPUERvNnpWMnBCMDhIWUpneXRTOVFUdzhral9aeko3enVILUZ4bW5vZlU1dEF1Y3pMMkFsQURlUjl2NXQ5MnZwbmhYX3E4cDlRSUhscGo2ejh6Nml6eDZZUkc1ZkJTdE9MT0RieElzTUwzZml3MENKaHVEQkpN?oc=5",
-        "domain": "www.vitallaw.com",
-        "publisher": "VitalLaw.com",
-        "publisher_url": "https://www.vitallaw.com",
+        "title": "Trump administration prepares sanctions against International Criminal Court, sources say",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzVOcmJ4eEtjbkl2RklqSHpWQUVfbHJWTE9fbl95b0ZaajRqbXJYLWxmUExfYUpBcDNuSEVlWGN3djQtbXNCbENmMkJqaDgyWjMtaElIcXpxNkpTdElHZTVNSkUtU3ZYSUdJLVF3WUszZUlSSXJSU1JYS19ZM05HOEJyLWlTZk10bEhYTWRGUGR3ZFlld0tVR0EyYThkaTBOWHRtbFBZUnVaTXZ5WEVPTzVTTXlFYTBDUUx0M1ZB?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "reuters.com",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20260924T233133Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. Sanctions Force UAE and Najaf Airport to Ground Iranian Flights",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHFxWWlLck8ya2tvYmVtcnVjYXI0cjd1M0MwSWFfOGY3ZWtWMHdkMnV3RXRHU0tnOEpDdFVEc1lDR0lKbkpmWjQ5bTdlclBjQ0JBX0hXUUlMemJpNFI4Q1g1SWpPTVFIQWJNZmV5dmNfaXVObDRvbGs2UjRkVmlsalppRF9MdXY5d3BqYUlCV3QwVVpIa09wRzhDWWFFa3hRQm5XV01R?oc=5",
-        "domain": "iranwire.com",
-        "publisher": "IranWire",
-        "publisher_url": "https://iranwire.com",
-        "language": "",
-        "seendate": "20260925T135022Z",
+        "seendate": "20260921T051809Z",
         "source": "GoogleNews"
       },
       {
@@ -301,13 +199,73 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Effectiveness of sanctions against Iran",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS2k1QUFqOFlIcjB4NGxPbG5kaC1mMGpnZ2lSUzFlS2JrZENQRHJ5aFNndEJRdzFUT2dpU1l2R1FwLS1aNXpSS3Y3dkRfamhoUmgtRmQzVGhCZ1hKX0RyMzgtaEVZU3RXaTVlOTVZT0NQa0lwMThLYTBjdmtPc3Z6U0M1R0pRRXZBTmhV?oc=5",
-        "domain": "www.fdd.org",
-        "publisher": "Foundation for Defense of Democracies",
-        "publisher_url": "https://www.fdd.org",
+        "title": "New US sanctions shut down Iranian flights",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORXFRdU50SU1neUhFbzk2V2JmSXRiRDFJbm5BR1VFaWp6NXhaZ2hRcExwUjJNeHRwVlFNd0xKY2tBWnI4N0c3Tk0zWTFyUHNCSnZJRUw3Znp3bU1UREd5OHo5anJLY21GdkVTa2V1TnQ2ZTVxOGRXSHRfUmIxN0dCRzFSaXJFVWRJOHQzVWE4dTdjcXRZNk5nSVg0eFBEYWd4akJGNWVzbE5rNEhwSVowcUp5SXhHZzV3OVBsUkp3UkQ1RTZvWHNwWTdn?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "reuters.com",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20260925T143347Z",
+        "seendate": "20260924T172727Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US Senate Democrats seek sanctions over Israeli settlements, bill says",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVndBSnV3YXhuSXlyX1JLV3dlbm9rRVFHZmg1aWswUGJBZzREb1hYdFJHYjhnU2h4UWwycEJweVpaQ0JWYU1ZVmZlbHNYSXpqMkhITC1DeFdkbFJEWVA5eWg4RFFKNUg2M1lLVkJ4NXhPVHMxb1o2UERSYXZYYjJwWGxwQ1liRXZtTGJmRVNKaWItVGd6dVNvRUtYY1RNYlExakNQVl9tVy0wa1pWX01OdFgxQWMtT1YyVklnYkhqaw?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "reuters.com",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20260923T210416Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Azerbaijan pardons French national after EU drops sanctions on Usmanov",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNldBQXliTFpySThuQlRkUlBMVVBLaUYzMS00N2NwM0JnZVBUUTdxaE1ZdmQ2U2NCNFU0dmVQV1hiU1hxWXJoRnJzTGktVjVKeUE0cm82elZ6U3pMc0FES2NJMU8wcWFmc2s0SXRDZDFiX3FHeWtVQnR1a3k2N2RHUkZzdXR4d0dUMjFPZ1dOSW4xZ004TWRMYmNnV2xrT3Z0WDJsTmx1YXI3b2hYa1lKdkFhbXFaZ0stWHROTVd1cw?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "reuters.com",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20260923T115445Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Medicines run short in Iran under US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVFNTFBJUHdURzJvRWtWdUtlNFR4Ym43VzZTOFJIM3V5Y0oyYm1OSC1TWGYyN01BR3hWdnhDbkxMMWNlVlU5V2xBV0VrMVVnNUwxQ2o1bjRybEVfQXhKM19OdVJaeUZmTm1HWWhOOGtwUmxXcTB4UWtXQTNKdkp0WVJ4V1k?oc=5",
+        "domain": "www.ft.com",
+        "publisher": "Financial Times",
+        "publisher_url": "https://www.ft.com",
+        "language": "",
+        "seendate": "20260926T040259Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US Trade With Cuba: Cargo Shipments Surge Despite Trump Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44UUp2Q244ZDBHeUhaUXdPQWRmVzdFRkNadmpGb21RTF94ZDNya0JoalJqU0s5bWRid181Wlo2WmRGd2Z2ZDJlWUJmOFFRMnRNMmw5NHhESnRySlFFNVEzMFVTT0cxMEVmb0tCNXhuMThJMEk?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
+        "language": "",
+        "seendate": "20260925T090000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVdZMlktTUwtbjRXLWNBbDVLcW9iZjlXaWxxQktUN29CQ3FxQlQ4MnNaeWRWbDVjb0RtSzI3NlJaX051MUZnalptR05vQkFteHloUnFDV0RaTEhCMndINnpQbHg2NzdmYXJoeWk4bm02TGFJSWxvRzJIcl9oZ3R1S1hSYXBucldfTWdIRjR4eHlBSmlZOURFdXgxMGpoRndUeUFRdy1NdHhlM2dSNlYyTEpkQUcyd9IBuwFBVV95cUxOemF2d2VrcTZBRXFPUkhnS1RlVEpvOFpaaEJEdjdiRnZrZEtTM0JBN3JaUEtFeERhYVpHY2JwalpFbXI4MEpOZVRacXVZdUFwUGhtanZvMWFEUzNUbnVlTXFyRFZBN0I1d0hRWmkxcDMtZThZN1dfN2prY3V3T1BaeXh0TUpwWjQwUXNpVVJSN3NyZ3dTOHpsOTlfSHV5NmJTeHVfaTZ2YTNheTBoN3pkdU9rS3VFWmo5MTIw?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20260925T002633Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran fumes as US sanctions stop flights to holy city in Iraq",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVBFenJZZk5rbVAzdllISEtfeldGVjZ1djBMZmNJN1ZSSmpOVWxmQVdSakRCYnRyWDA0TWdBT0VrWldfeGtWY3JVekQ4RFdURXJjaVBQNHhvUHRBa3F2d1hfWjRDSlZ6QmJ5LUNMMHdUWFNvWmxPeUhTNVJwV0htREU1M05ZNlNncnNsVHpiTjdSeGQ2dG0tOWs4TG1lbUQxTldnaURlNVRqVnZIdkRQbVN3?oc=5",
+        "domain": "www.thenationalnews.com",
+        "publisher": "thenationalnews.com",
+        "publisher_url": "https://www.thenationalnews.com",
+        "language": "",
+        "seendate": "20260926T035615Z",
         "source": "GoogleNews"
       },
       {
@@ -321,13 +279,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump administration prepares sanctions against International Criminal Court, sources say",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzVOcmJ4eEtjbkl2RklqSHpWQUVfbHJWTE9fbl95b0ZaajRqbXJYLWxmUExfYUpBcDNuSEVlWGN3djQtbXNCbENmMkJqaDgyWjMtaElIcXpxNkpTdElHZTVNSkUtU3ZYSUdJLVF3WUszZUlSSXJSU1JYS19ZM05HOEJyLWlTZk10bEhYTWRGUGR3ZFlld0tVR0EyYThkaTBOWHRtbFBZUnVaTXZ5WEVPTzVTTXlFYTBDUUx0M1ZB?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "reuters.com",
-        "publisher_url": "https://www.reuters.com",
+        "title": "UAE halts Iranian flights over US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3k5d0oxT1hBN1NxYzUwZC1TaFF0eUNyU09jVmZrOUZjUEZueWFsVjNKMVhmQWt5cml0VFc3QkNIRXZJN0FUcXdyR01odlhzdnctVnJHdDBoV244QndVUTVYcFNrZWhXSjFmWmszclVIUFJQaDEtRkx3TmNuaDhIOG1BUmo?oc=5",
+        "domain": "www.ft.com",
+        "publisher": "Financial Times",
+        "publisher_url": "https://www.ft.com",
         "language": "",
-        "seendate": "20260921T051809Z",
+        "seendate": "20260925T081155Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Effectiveness of sanctions against Iran",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS2k1QUFqOFlIcjB4NGxPbG5kaC1mMGpnZ2lSUzFlS2JrZENQRHJ5aFNndEJRdzFUT2dpU1l2R1FwLS1aNXpSS3Y3dkRfamhoUmgtRmQzVGhCZ1hKX0RyMzgtaEVZU3RXaTVlOTVZT0NQa0lwMThLYTBjdmtPc3Z6U0M1R0pRRXZBTmhV?oc=5",
+        "domain": "www.fdd.org",
+        "publisher": "Foundation for Defense of Democracies",
+        "publisher_url": "https://www.fdd.org",
+        "language": "",
+        "seendate": "20260925T143347Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Manchester City found guilty on almost all Premier League charges relating to financial breaches - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUxLdVdlNk9kWGVQRC1sVEZiUjJjM0pUa0tZTk9VU0ZwS0YwUzRkdmlDd3FscDBYeFNlTTZRaE82WVNHR0NyajhabjdOeHZPb3RaU3B6RTBlOE53dk55Q3dheUI1MWJNbm80SDgwQ2RnOTMyTk5leks4WEJTOVRnc19ZdEFhY0hQem5jSFNfczcyQVpBNHVSakM3Z2x5eTZp?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20260925T154736Z",
         "source": "GoogleNews"
       },
       {
@@ -341,73 +319,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Iraqi airports suspend Iran flights as US sanctions deepen Tehran’s isolation",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObDQtMktjMXF5ME1yd2lhTjUtLUt4Wm5mRkdSb2swbE9lc2FaUHZiQkNVb3lGVjQzNlNRcGpucjhLSjF4bXprUEtvU01wdzY1QnFVaFcxY0JTalUwRzROZGw3Q2RQUHRtcWdxTmxrYll4dmdoSmZTekNVYW0tMXlBbHE4UGNMSUdXYlZrUXN1TEZnRzRQN0FYNUZNbGRWUEww?oc=5",
-        "domain": "thearabweekly.com",
-        "publisher": "The Arab Weekly",
-        "publisher_url": "https://thearabweekly.com",
+        "title": "Alarm at UN over sanctions threatened by US on international criminal court",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Yc1MyZDJFVG1HQmFCM3g1UDFobVRrT3k1b0JhN3Axb3RLaW5TejBmc1RvbVYyTGdYamFKbjYySlE4TGowU01wQ3RUY19Zb0xFd1pVV2x3ZVd3cHhRdVhzUFFDNXAyZGZjNlVZOWx4dkt4dl9ncVRnbjh3?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
         "language": "",
-        "seendate": "20260925T122636Z",
+        "seendate": "20260924T070000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Switzerland’s neutrality vote puts Russia sanctions on the line",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXE2X05VQmVIWmtrM1NleWNsX0xjQlFldzdPX1lJR1Z3Y2k4T0ZTRHBvcnRUNHlJcGFQT1JWSW8wTnZVUTAwVVNrRk9OYUpMVkw1SDVXbTFveVYzby1OSTF2TDF2WkhmZ3NvTGVIalhCWEM4MWJMSzhkcUlSamYyYW03YTFfUHhBVS1GanotTDl0M0drcHBKVF9teWQ?oc=5",
-        "domain": "www.politico.eu",
-        "publisher": "politico.eu",
-        "publisher_url": "https://www.politico.eu",
+        "title": "France forces the EU to lift sanctions on a Russian oligarch",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXFYRTdFLW1ZdjNsdnpXaXdRQTltcVRUZVhwc1FZcUF1bktoS3R4eVlzVTFUZVZoWDFuOTNTUUFMY3lTblpWRVBkMEwyY1JlUGFIRlV3U1dMTk5nN0NpUkthZGkwWFN6bHpLbUxvUTkxUmZQRlpFRllwM0dYQlM5TnNQSW02SjkwMlpxMEhVRkdtejJnYm16NkpmX0ZoM0w3RGUzaE1iZw?oc=5",
+        "domain": "www.economist.com",
+        "publisher": "The Economist",
+        "publisher_url": "https://www.economist.com",
         "language": "",
-        "seendate": "20260925T034300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "‘If we can’t fly, no one can’: Iran threatens neighbors over US aviation sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUb1FoaXhHNFo0bURLdEhmel9ENHVEbGpnVUdnLTh6Yy05S1JrN3QxaDc5TXg1NjFZOV9rSXoxMlZIMERPR0VsZjZZQzY0VkNGQXpZcUdKWQ?oc=5",
-        "domain": "www.ynetnews.com",
-        "publisher": "Ynetnews",
-        "publisher_url": "https://www.ynetnews.com",
-        "language": "",
-        "seendate": "20260925T134609Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "​Urging Pivot on North Korea, South’s Leader Calls for Easing Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjU4UFd6TXlIOGl3TzNMM1dpWnM1cjdYMVRucWZLUV9yendTUXJlOHdFSkdhX2JyZE5OaW1oc1d3a0NtZ282aF9tbDFpT2VvTm1hZGg4NFJWaU5tX1NiSWhkUzUzQTE0d2NwVFhvN0J5S0tzc3BNMDR1dmxWME11by1JaFJkeE9Ea3ZLX2pqYzZpT2hockRDdHdCVXVORFI2TVMtTHFReXlXRVUtemJV?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20260922T003011Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Kremlin slams EU sanctions on Russian TV commentator as 'persecution'",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbE5fTF9aRVdGa2YzSEdySngxLWpLUTZiOFpySndtT3EwTkEycE8xbnIxZ01leVpLUW0wYmJQaW9mREY2WGJ5ei1RTUNuNnlQamNPdml5ckYxUmpMc0wweWdGQ2xGdjBNeXJCZ284NXJhVjZacFF4dkMyR0lOdzV1STlDMGhBSnhpdTlMRUh2YTJDOWlBcE5rcDhIbERzRWpWbXBwYVRxcVZaQzRMeHNFTmZxczBVUnRTNFJvczF5VW5UbGljZTZqWXlpeE5qdTlWU3dJeGl5YWo?oc=5",
-        "domain": "www.lemonde.fr",
-        "publisher": "Le Monde.fr",
-        "publisher_url": "https://www.lemonde.fr",
-        "language": "",
-        "seendate": "20260925T103537Z",
+        "seendate": "20260924T132228Z",
         "source": "GoogleNews"
       },
       {
         "title": "Iran cancels Baghdad, Muscat flights as US aviation sanctions take effect",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEVNOUx2el9hMDNPN0RZN3lKZGRqLWtTeVo0YnYzSm5RbVhhNlVjM2p1V29uUXBzc1dqQmplWm1NOFA0am5ZWE11XzlxU241YzVhUVM1cG1EcXpVY1dJV1RSbHpZUENrTGdJTWRMMU52blJWWjVvQXVMbTJKWERtTkJVbVBLd0Z3akY3YmxWUkFEUi03SGtNMkljMkZaYzk2dlpHc3JWQUhfVXgyT05OUjVn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEVNOUx2el9hMDNPN0RZN3lKZGRqLWtTeVo0YnYzSm5RbVhhNlVjM2p1V29uUXBzc1dqQmplWm1NOFA0am5ZWE11XzlxU241YzVhUVM1cG1EcXpVY1dJV1RSbHpZUENrTGdJTWRMMU52blJWWjVvQXVMbTJKWERtTkJVbVBLd0Z3akY3YmxWUkFEUi03SGtNMkljMkZaYzk2dlpHc3JWQUhfVXgyT05OUjVn0gG3AUFVX3lxTE5oa1dhMjlWRGQwWDVkcVdIcElBRlV4MXpmZnpsdGFDSjdTNmhqZE9UY3JrQ1k4UU9lem9LbU5UTHNrZVJFRFhlUG1JVjJmR0NSdnhpZEM2aUtEYVpHc0VqTmhieVJienF2LUlTZE03VzRqaUJDcG9kc2ZyWUtTREFlS2RwWkZJcFg4dTE1cERhWUpqblZyMzZreFVxa0xEX1VlanZBNWlDVVplR1lQcThGS3FXcWFaUQ?oc=5",
         "domain": "www.aljazeera.com",
         "publisher": "Al Jazeera",
         "publisher_url": "https://www.aljazeera.com",
         "language": "",
         "seendate": "20260923T060546Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iraqi holy city suspends Iranian airlines, enforcing US sanctions",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUV9zUkxoYXpjTGVkY0E1a2kyeXAzeVd3VGVOb0dIM2J6a29SZFF0WlA3ZHpIUy13ZTFtb1FOYWlJenhnSTZxdFB5SlhfeG5qYkdTTlhPVDNUZmhaM2Z2ZTZHLWJDc1gwOUhnWHEzX1p5dGtrbWZ3VmRpN253WjI1bXVSbTVSZ1pFWHktZHk4OFhtdGYzWjlNd3B3OHAtVlJLZUhjaE90TGN2MThyb1E?oc=5",
-        "domain": "www.arabnews.com",
-        "publisher": "Arab News",
-        "publisher_url": "https://www.arabnews.com",
-        "language": "",
-        "seendate": "20260925T094917Z",
         "source": "GoogleNews"
       },
       {
@@ -421,63 +359,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Iranian airlines continue foreign flights after US sanctions deadline - Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc3N1UjctUTV0WGU5SVdvalNvUmdQTmsxOW9WVkNtQ1ljR0ptc0R2VTdkXzFZUmcxZmozT011eDhDY1RBbi1pRkE4TmtEVUhaMnc?oc=5",
-        "domain": "www.iranintl.com",
-        "publisher": "Iran International",
-        "publisher_url": "https://www.iranintl.com",
+        "title": "Hungary looking to extend US sanctions waiver on Russian energy",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdko2Rms3YjQtU2U4d2RUSTJwbWRrUGNrMGlZdHh3N1ZRamlvRE1QM2dDaHQ3a05SNTJHLU9ycDhMZEFXZ0pDb2FCZk00UV9xUnN3aG9rOFU3anJRSzRGNzVXWjdqSG5wRlBCalJ3ZTJWZ3V1c1dFUXVvUjE5TWhmWS1fVExDbnRaQUwxSE8wQ1NwazQ5bmxtcWF4b1FKeUVOdm5ld256NS00MHA3dXc?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "reuters.com",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20260923T090500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Saudi Arabia, UAE urge Trump to maintain pressure on Iran - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFc1o3czBLMHpZRl9SM0hUMzEwUEJIOUxzX3U0eHVKX01abzRrMUlKblVZazlDS2NIRFNTVDhCOXg5S3dLUWdhVzhLWEdhNVRPOEE?oc=5",
-        "domain": "www.iranintl.com",
-        "publisher": "Iran International",
-        "publisher_url": "https://www.iranintl.com",
-        "language": "",
-        "seendate": "20260925T075424Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "SDNY’s $61 Million Crypto Forfeiture Action Reflects Growing Convergence of Civil Forfeiture and Sanctions Enforcement",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ29xa1NNem9NWHhnMWtIZmZyT3R2RUZIRlZCMnBSYllKOGMzN0hZSmJuWDZ6RU5YUTNaaFZ4aHhKQzE0d0FzMTdQVXduMWN0ckk2c1c5UFVkYjJxdjJPY0o5SGxBQnAzekgyU0E1VVpjY2dSa0lFTi1EZVJGbzR5elZ6dDI?oc=5",
-        "domain": "www.jdsupra.com",
-        "publisher": "JD Supra",
-        "publisher_url": "https://www.jdsupra.com",
-        "language": "",
-        "seendate": "20260925T033206Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "International Criminal Court says it has taken steps to withstand potential US sanctions: Report",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmx6ZTR3QTQ4d0Q1MENyUVdiekxDM3M0SWpfSHRMMHhGODFicFhuc1pMSk92OHJPNG5WandvZmo4cjNhaWtoRlprbXh1VFZHdG44MDVVcko5QUhCM2JGSldnVU0zSlZOZEtHMUpsWlBUTS1LcldNRHRKRHRGM3VJU3ljTHQ3dGlpTExmVWYtblp5eTFwTVlBS0pnTFVQNWhNZktBZm1YcWpsSVRzMFRrS2JQd0hOT3p4UEY3WEhRY2RldXRiLVdYZGxR?oc=5",
-        "domain": "aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://aa.com.tr",
-        "language": "",
-        "seendate": "20260925T125845Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Is Switzerland's neutrality at a crossroads?",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNU1tem1jcmp5cFNEamt5ODJuWDZmYlBQOF9xeTFsUHc3bHFLelprWkNPbTB0VkdfYi16NW91c0lRRkdHTWhXNHFwNHpidGZQQTBpaFBUbzlETVFCR09XOGpadmRtSmFFMDBFbnVVNnFwaUtPcE1VVWpMNVNjWXEwQ0pudFp0Zw?oc=5",
-        "domain": "www.npr.org",
-        "publisher": "NPR",
-        "publisher_url": "https://www.npr.org",
-        "language": "",
-        "seendate": "20260925T090000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLc21BQndOZS1qV0dfZmlWem03LS0zNFFDMDdLM1hMYkpXZzFJLTdTOHNqUkRWOUtRVVl6ZmpzaHdWVkxDZ0ZUSjhPcy1La010RHdFYVI0Unk5WkU?oc=5",
-        "domain": "www.bbc.com",
-        "publisher": "bbc.com",
-        "publisher_url": "https://www.bbc.com",
-        "language": "",
-        "seendate": "20260923T143242Z",
+        "seendate": "20260924T175809Z",
         "source": "GoogleNews"
       },
       {
@@ -491,23 +379,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Hungary looking to extend US sanctions waiver on Russian energy",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdko2Rms3YjQtU2U4d2RUSTJwbWRrUGNrMGlZdHh3N1ZRamlvRE1QM2dDaHQ3a05SNTJHLU9ycDhMZEFXZ0pDb2FCZk00UV9xUnN3aG9rOFU3anJRSzRGNzVXWjdqSG5wRlBCalJ3ZTJWZ3V1c1dFUXVvUjE5TWhmWS1fVExDbnRaQUwxSE8wQ1NwazQ5bmxtcWF4b1FKeUVOdm5ld256NS00MHA3dXc?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "reuters.com",
-        "publisher_url": "https://www.reuters.com",
+        "title": "US Sanctions Are Hobbling Cuban Economic Reform, Minister Says",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTHRTb0lzX21WTm5mLVg1VFFsYkdRWWlweWRXMkhJR2UxeXYxbnQ2MFdUaW5xQ09sZFYxcW5ubWF3dDVmQ1RTN0lrYmpsV1N0TExjRDVCNTE3SlczQnZNOWFQLVlFcGR1cVAxTlVPcEVBQkFzRWtUbVpjRmpYVVBtdk80am54bTEtR2VUVy0tallHWDY3Z3V0ODZNRl9aNm5jUzJuYXlFUm8xTmpGU3VhZnln?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
         "language": "",
-        "seendate": "20260924T175809Z",
+        "seendate": "20260925T152511Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Esquel-linked Vietnam factories selling clothes to U.S. despite sanctions",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcE9PanNTQ01WRHdYcFZwY1V0Z24td1pkazRwSTR3eUVsV0xoTmNtTUdtZ09INEhmLTQzb2lVNG1IZnE1RTdaT3o2VDBTTmM3WjZiSEduOGFwN0daT0k5Y1lIWi1IUVBiQy1Ib0dqV0xUU2V6ZWJqanBFSEJSaWc0YkgzWS16YlU?oc=5",
-        "domain": "qz.com",
-        "publisher": "qz.com",
-        "publisher_url": "https://qz.com",
+        "title": "​Urging Pivot on North Korea, South’s Leader Calls for Easing Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjU4UFd6TXlIOGl3TzNMM1dpWnM1cjdYMVRucWZLUV9yendTUXJlOHdFSkdhX2JyZE5OaW1oc1d3a0NtZ282aF9tbDFpT2VvTm1hZGg4NFJWaU5tX1NiSWhkUzUzQTE0d2NwVFhvN0J5S0tzc3BNMDR1dmxWME11by1JaFJkeE9Ea3ZLX2pqYzZpT2hockRDdHdCVXVORFI2TVMtTHFReXlXRVUtemJV?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20260925T132734Z",
+        "seendate": "20260922T003011Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russia Tycoons Examine How Billionaires Shook Off EU Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMk1rRkhaVTFJdlB0Z3pZTWY5bXl0MmdMRlhrdzB3Sk5nM0gyVFg5ZW5iWDV0a0pqOEJQMzBsa0RSdkt3d2lfMmdHdmxPa2prQnlVRzBHNEpwRld0czBWRlBFYjF5bEN0Yk9UMGlqWHNBTFpyUDFfUWo0M1M0T1A1ZnJmQjR3TWhoeE1MOXJlWjJTWU9yWExwVmNEUkhHZXp4WThUVzhDOW8wRzRKWmxCMHZfVQ?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
+        "language": "",
+        "seendate": "20260925T132218Z",
         "source": "GoogleNews"
       },
       {
@@ -521,28 +419,118 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Defense Stocks Gaining Attention As Russia Sanctions Reshape Energy Security",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObDVTZV9VNTJMa3pkVVc2cGE1LWdRRFBmMllLbm0wLThTbUFqSlR1ZWk4dS16NEozWnlZMm81emdGZU1udjNYMTJEOERWUWR3bkRxWDhaeXFjd3ZHTXFWUTBQN3Z2NnlNU0JHUk82VExQeDd1enBhZUJhOVhlSm1ScVdwSDBOTFEwUUYyZGtWLVBWTUk1bVJXNU9IeVJoaUNza3dsX3Y4SQ?oc=5",
-        "domain": "finance.yahoo.com",
-        "publisher": "Yahoo Finance",
-        "publisher_url": "https://finance.yahoo.com",
+        "title": "Report: ICC deputy prosecutor says court has insulated itself against US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOODhtNmI1ZmNoVUpIeUl4RUExbndtNk1sdVd0M01WX2hhMGNodWlvZ2ZjU3JaVUt3U1l1cWx6MDR4VG1sbVRDbEtmeFVIeHpTbXRwaEtEWUpmLWtuTExlLTVwN2tMSkxoMVpGSUUzSHJkYXFodnJ0c191aGxSX3ZMSHV1NFZLZzFhX2pwX0xlZEFYT2M2dHpvWGpiaDNhbWp5dERyai02MzBZcHl2NWF3TjVVUDhuZWs1b2FKNF9OVDhmWWJSNUNJ?oc=5",
+        "domain": "www.middleeasteye.net",
+        "publisher": "Middle East Eye",
+        "publisher_url": "https://www.middleeasteye.net",
         "language": "",
-        "seendate": "20260925T031200Z",
+        "seendate": "20260925T231500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLc21BQndOZS1qV0dfZmlWem03LS0zNFFDMDdLM1hMYkpXZzFJLTdTOHNqUkRWOUtRVVl6ZmpzaHdWVkxDZ0ZUSjhPcy1La010RHdFYVI0Unk5WkU?oc=5",
+        "domain": "www.bbc.com",
+        "publisher": "BBC",
+        "publisher_url": "https://www.bbc.com",
+        "language": "",
+        "seendate": "20260923T143242Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How Sanctions Have a Made a New Class of Nouveau Riche in Iran",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2h6UG9sbWN1NEZETHdyQVJzUEd4VXdnaWFIYmRUbEZQbTdfRGxYVTZkWHBnaXl2UmVWeS1tYTRjMlF0MWxKcE16VGpZSGE5NGR6MzJVNkNoN2hrUXlPX2F5WUJnQkNucDc2djdrT3FTZkY2alRyYXVZbjl4cFFscmM3UGo1Q1FtazJQX2RCOERxT2VmZWhWSlNNbGU1RW1SeUwxNVpB?oc=5",
+        "domain": "iranwire.com",
+        "publisher": "IranWire",
+        "publisher_url": "https://iranwire.com",
+        "language": "",
+        "seendate": "20260925T155251Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UAE says it suspended Iranian airline flights over US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ROUdUY2YzeVRSYktNTTRhOGR0SGl4Q1g4ZUczbmFFdlEwT21NLXRnN2lPUjU2VnFBMGJRQ29ldG1ZY3Rlc1ZDWDQxblRVQjB6aGc?oc=5",
+        "domain": "www.iranintl.com",
+        "publisher": "Iran International",
+        "publisher_url": "https://www.iranintl.com",
+        "language": "",
+        "seendate": "20260924T152253Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UK Escalates Financial Sanctions on 5 Major Iranian Banks",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUEpySVhXTG55Wk1ZckI2SGl3SWRGQlA1d1VodFMwMlFVWTlScVhSZE41M295dTlUbThGZExaZThmYVFiRGVzZ3dkUTVTUlQtaGFSbjlSTVRRRjBfYkkyRktGV0xOOVNPQXh0aGdEa3YxbDV1S0czUHRxT0pRUGxrTURieXpWbGRvZ2VJcWpzTW95cjN4cG1LeHN3?oc=5",
+        "domain": "iranwire.com",
+        "publisher": "IranWire",
+        "publisher_url": "https://iranwire.com",
+        "language": "",
+        "seendate": "20260925T084446Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. Sanctions Force UAE and Najaf Airport to Ground Iranian Flights",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHFxWWlLck8ya2tvYmVtcnVjYXI0cjd1M0MwSWFfOGY3ZWtWMHdkMnV3RXRHU0tnOEpDdFVEc1lDR0lKbkpmWjQ5bTdlclBjQ0JBX0hXUUlMemJpNFI4Q1g1SWpPTVFIQWJNZmV5dmNfaXVObDRvbGs2UjRkVmlsalppRF9MdXY5d3BqYUlCV3QwVVpIa09wRzhDWWFFa3hRQm5XV01R?oc=5",
+        "domain": "iranwire.com",
+        "publisher": "IranWire",
+        "publisher_url": "https://iranwire.com",
+        "language": "",
+        "seendate": "20260925T135022Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "India foreign minister says reiterated concerns over Russia sanctions act to Rubio",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVXhQbVEzRVdTdzFra04yTHNvUEs2VVZVamVGbi1EQV9zMmtlTHYxUVpEdkZDaTNFdGdmSkdOMGxoajVjc1VRUUJaN0ZPNDV5b3RJbUUzaWp6S29sLWxVbEpmVk9EZnU0Njc2NmZZRi1wVTJ2akNEU2QtUDlMd21pMVhEV3NJTS1pM28xVmV2dHNaeEsxTS1uRHNvMEVQRnpaUkl0RS12Mm5lbzZWWEtwWjNjS2hGdVdGQUdTZGFyQW1oSk9qaWc?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "reuters.com",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20260923T134425Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "International Criminal Court says it has taken steps to withstand potential US sanctions: Report",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY1U5S2V2ZWRXTGtzdllVRWtQU3Q2RXZFbTcyYnk1bFpidi1yVHJHSXg4Zmc5N01DWFRDWEVsVGZYNXQ0Rld3a1hROHVNY3gyd1hpQThmeUJkc0sxOWhtZ1ZReWFUVVhiaHI0N1k5cTkzSnh3TFUyRS1WdlBnOWFQNUcyWXNRdEdlSTd6alFJb3Y2Z19WeFdZNnNLMEJ1YkNFX3JsVWhDMHoxR2EyVDJvNTdVdlNMLXBwa0J5dlc3SEVPMlhEZmZuanJkWHlYRkE?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
+        "language": "",
+        "seendate": "20260925T125845Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US sanctions Turkish bank, two subsidiaries in latest pressure on Iran",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSml5Y093OWVORkhPb29wMzl1QlYxcWtjWGYwUTNFSUh3bkNTU3NJZ0d3eG9UbUNxeXM4eGE3U2V5ejVqaThPemU1WDBoMndmY0NxOUhKamRhUExmMjBnMDY2RXQ1b2FBMFI4X1NOcjJZNDlaSDR1dGZSclJoM3FOOElibjhITXVjS1ZiVTBpeFNUVXZuaWlORUNENUw1YVJNcFRYUXNwRERJZTgxb1E?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "reuters.com",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20260904T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iraqi airports suspend Iran flights as US sanctions deepen Tehran’s isolation",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObDQtMktjMXF5ME1yd2lhTjUtLUt4Wm5mRkdSb2swbE9lc2FaUHZiQkNVb3lGVjQzNlNRcGpucjhLSjF4bXprUEtvU01wdzY1QnFVaFcxY0JTalUwRzROZGw3Q2RQUHRtcWdxTmxrYll4dmdoSmZTekNVYW0tMXlBbHE4UGNMSUdXYlZrUXN1TEZnRzRQN0FYNUZNbGRWUEww?oc=5",
+        "domain": "thearabweekly.com",
+        "publisher": "The Arab Weekly",
+        "publisher_url": "https://thearabweekly.com",
+        "language": "",
+        "seendate": "20260925T122636Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Liccardo calls for sanctions on Sunset property owner",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb3l0bEVtUFhPblU3bGtKRm84c0RLdmN0SWZSVkZpUVBOcFJ4azZ4X0ZPdkt3S3NwOUJfNmVhLXEzbUZITG4yTElQdGJuWUZMZTd6WXJSeU1ITGN3WE13R1FSdWd0Ymhoam5ZMW94Y3lwMVNCOHpGM3NidWNPMG9MZWt2NDRFeWRFMGFlZGpaaThHQjA?oc=5",
+        "domain": "padailypost.com",
+        "publisher": "Palo Alto Daily Post",
+        "publisher_url": "https://padailypost.com",
+        "language": "",
+        "seendate": "20260924T152447Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
-    {
-      "title": "International Criminal Court is insulated against US sanctions, says deputy prosecutor",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjIxSzNhemkzOXk5TXNLYzVzUzI3dVVjZWVYQ0gwX1NJZ0NwdEE3Wl9Kc19oc1BlRlpZX2tzMjdoZGctdDVlak5HdHdQVE5falExRklqVHBvbGhRSEp5aTMwV3hmSGExdnRKNjVxZDA0a2U1WmozVllsSE9mTmZVQUNYckc?oc=5",
-      "domain": "www.ft.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://www.ft.com",
-      "language": "",
-      "seendate": "20260925T111707Z",
-      "source": "GoogleNews"
-    },
     {
       "title": "ICC deputy prosecutor says court insulated against US sanctions, FT reports",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU1p6N1ljQk9oZmx0SWRKcDZ5LXBOWW5JTUV1bDAwQlp5dExPUUprZ1psU1JhOFdiaUNleC04MWRleXpVbnM0MkQxVW03el9jd1BEWUhOVE1kelM2aUk1RElNRGt5SVpnUE9NbEVjaHlLalFQUUFkU2xmSXlVSHRYX2FQejFnMHFGTS1EM1Fhci1LSHFSdTlfU0RuZG9LalZlalpael9UdVhfdmhsdENYUEZkSzRUcEU?oc=5",
@@ -551,6 +539,36 @@
       "publisher_url": "https://www.reuters.com",
       "language": "",
       "seendate": "20260925T120104Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3ppekJpMXdyaFhhWE40RGNyVFV6U2hYdFlLRXlwNVRnS1JHSHdQWnZfWFhydWdhLWFXY0RZOWlSdTFSZlJPdVFRRjBUWWZJaHpsUm5UckpBUlZHMG5HR3E5cXBYTnhtZHktcExqMVlVTmZmQ2xvOVRabTJDWE5wVjJpY2Q1VVkwUkI2MFdRTEFqdzVhcDRuc3JCOXJ6SWd0ZTBDcFlJR2d1TUg50gGyAUFVX3lxTFBGZDNrM25DNmMzWTNGdVVDbmFSZG5lU0FhNXhHczRwSUZoNl9VaDYxb1Rua2RScjFWYUFSTmNTTUJkRmhXNmpHTXBIVEZSbGhjSTlrdGxyQTMzcjl2eFpuc0VIZ2NoZWVPb3RoQzJCaDBrd2piM3ZLbnlQQ2xhSGZEVGhHMlBXVG0yb1Q2OWtzQk4wSFhHWnVNSW1QTC00MkxVVlozMFNwWWV4VC1SSFhhc1E?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
+      "language": "",
+      "seendate": "20260925T183417Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "38 Global Civil Society Organizations file joint brief in US lawsuit challenging legality of Trump’s ICC sanctions",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNGNuTmdkZW5EOFBKY2JNdk5xU2g1bnQxVjBVWmNDUkUxMmgwSkJPaFl0bVZBVExXNkNJTXlfOHlHbFhJT0x4djlMbHIyZEZTTEJMQnNjQzR4YVl6TlFxZ24wR0tZUmpSLVdrZGNXRk5ZVy1WbjE1SHpLaTVZZzAxNkhfbEhHZVZDY3RfeVZ2LXNNcENCb0Z6OGJEd2F5d3NYMUlzdGJ0MHlxbWktSFBpMlhJbGZ3MFVIQnBiUVFmdW1aejVzd3VWQzdBYWNVZUVrc1lsbXFkRXlyWC1MeTlqc2pHREd1UE1Tc3U5TzZxYnEtOHM?oc=5",
+      "domain": "www.amnesty.org",
+      "publisher": "Amnesty International",
+      "publisher_url": "https://www.amnesty.org",
+      "language": "",
+      "seendate": "20260923T113123Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "The ‘Monster’ Behind Russia’s Global Effort to Evade Western Sanctions",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXhxZ1htTXB1MWFZcUlWQUo2U0M4NFYxaUZUVklTNldJd0xibUNZNk5XMDZhQi1yWlROMGR2dFZqZDQ3ZlpiejM1cjMzNE9BVkpaeGJkTXk4OHBlWFUxTFZrdGpPbmw5aFFkMWhPWkJHR3pDREdWQkZoOVk5bTYtNVN3?oc=5",
+      "domain": "www.nytimes.com",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "language": "",
+      "seendate": "20260924T090015Z",
       "source": "GoogleNews"
     },
     {
@@ -564,20 +582,30 @@
       "source": "GoogleNews"
     },
     {
-      "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVdZMlktTUwtbjRXLWNBbDVLcW9iZjlXaWxxQktUN29CQ3FxQlQ4MnNaeWRWbDVjb0RtSzI3NlJaX051MUZnalptR05vQkFteHloUnFDV0RaTEhCMndINnpQbHg2NzdmYXJoeWk4bm02TGFJSWxvRzJIcl9oZ3R1S1hSYXBucldfTWdIRjR4eHlBSmlZOURFdXgxMGpoRndUeUFRdy1NdHhlM2dSNlYyTEpkQUcyd9IBuwFBVV95cUxOemF2d2VrcTZBRXFPUkhnS1RlVEpvOFpaaEJEdjdiRnZrZEtTM0JBN3JaUEtFeERhYVpHY2JwalpFbXI4MEpOZVRacXVZdUFwUGhtanZvMWFEUzNUbnVlTXFyRFZBN0I1d0hRWmkxcDMtZThZN1dfN2prY3V3T1BaeXh0TUpwWjQwUXNpVVJSN3NyZ3dTOHpsOTlfSHV5NmJTeHVfaTZ2YTNheTBoN3pkdU9rS3VFWmo5MTIw?oc=5",
-      "domain": "www.aljazeera.com",
-      "publisher": "Al Jazeera",
-      "publisher_url": "https://www.aljazeera.com",
+      "title": "International Criminal Court is insulated against US sanctions, says deputy prosecutor",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjIxSzNhemkzOXk5TXNLYzVzUzI3dVVjZWVYQ0gwX1NJZ0NwdEE3Wl9Kc19oc1BlRlpZX2tzMjdoZGctdDVlak5HdHdQVE5falExRklqVHBvbGhRSEp5aTMwV3hmSGExdnRKNjVxZDA0a2U1WmozVllsSE9mTmZVQUNYckc?oc=5",
+      "domain": "www.ft.com",
+      "publisher": "Financial Times",
+      "publisher_url": "https://www.ft.com",
       "language": "",
-      "seendate": "20260925T002633Z",
+      "seendate": "20260925T111707Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Weak Sanctions Enforcement Is Fueling China’s ‘Polar Silk Road’",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZVdwRXd4ZlVuNDFiaU91TlBlOXdDS1VLR2xGY242bmt3YTJFVDQ4Ym1BMlpTS1BTYno5bnVFQm9PUGpIOWg1cHdUV3J5SmR2OVQwWUpxSXAwUnNvZnVyLVRDLW1PeTFEcVYxWDdTYUswblkxc3I2cWpobjVLcXlZSjNia0FtNlNsMjRvSFROZ1FtdU9WUGRleVk1eHBMbFR1anVF?oc=5",
+      "domain": "www.fdd.org",
+      "publisher": "Foundation for Defense of Democracies",
+      "publisher_url": "https://www.fdd.org",
+      "language": "",
+      "seendate": "20260925T194930Z",
       "source": "GoogleNews"
     },
     {
       "title": "Proposed U.S. Sanctions Against the Int’l Criminal Court Could Lead to Detainees’ Release",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzY4SWMxclktcWFod0FzOXNTMTdVQ1Q1UzNxRWt5LW5NLUtBdUVfTVc0TFJjMmFrX3VUSWViV3dUemdxaDQ3czRPZTVQSVFseWNSX0swWjA3NmhJOTQ4cWhweTdrZEEwRzhlUW5wNGJ3UE9pbEFFTkFoY2pXQW9ELUVibGFBal9kYkw4andB?oc=5",
       "domain": "www.justsecurity.org",
-      "publisher": "justsecurity.org",
+      "publisher": "Just Security",
       "publisher_url": "https://www.justsecurity.org",
       "language": "",
       "seendate": "20260925T140424Z",
@@ -594,83 +622,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Manchester City found guilty on almost all Premier League charges relating to financial breaches - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUxLdVdlNk9kWGVQRC1sVEZiUjJjM0pUa0tZTk9VU0ZwS0YwUzRkdmlDd3FscDBYeFNlTTZRaE82WVNHR0NyajhabjdOeHZPb3RaU3B6RTBlOE53dk55Q3dheUI1MWJNbm80SDgwQ2RnOTMyTk5leks4WEJTOVRnc19ZdEFhY0hQem5jSFNfczcyQVpBNHVSakM3Z2x5eTZp?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
+      "title": "Array of Experts Back Lawsuit Challenging Trump’s ICC Sanctions Regime",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUEyVnFCc2ktY1J6ZjNBNXhfemlmZFhfMUpwbjV4Zjk3QTNaTGIxYkdHYUJlYkRjQzV0Z0IwYTl0bmlJNGdRTkZzaGtQRTNzdEViZEpqMV9xS2g5NXJDLVFOTEFYNkJKc2g5Rjl1MnhqdVoyVnY5QkRhS1ZYXzdVVnoyZ3VVdFZLYlRYck5pWVhpNDM0aVBjcFh5MmV5bUREWlJsRXRQV20?oc=5",
+      "domain": "www.hrw.org",
+      "publisher": "Human Rights Watch",
+      "publisher_url": "https://www.hrw.org",
       "language": "",
-      "seendate": "20260925T154736Z",
+      "seendate": "20260925T201500Z",
       "source": "GoogleNews"
     },
     {
-      "title": "US Trade With Cuba: Cargo Shipments Surge Despite Trump Sanctions",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44UUp2Q244ZDBHeUhaUXdPQWRmVzdFRkNadmpGb21RTF94ZDNya0JoalJqU0s5bWRid181Wlo2WmRGd2Z2ZDJlWUJmOFFRMnRNMmw5NHhESnRySlFFNVEzMFVTT0cxMEVmb0tCNXhuMThJMEk?oc=5",
-      "domain": "www.bloomberg.com",
-      "publisher": "Bloomberg.com",
-      "publisher_url": "https://www.bloomberg.com",
-      "language": "",
-      "seendate": "20260925T090000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "38 Global Civil Society Organizations file joint brief in US lawsuit challenging legality of Trump’s ICC sanctions",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNGNuTmdkZW5EOFBKY2JNdk5xU2g1bnQxVjBVWmNDUkUxMmgwSkJPaFl0bVZBVExXNkNJTXlfOHlHbFhJT0x4djlMbHIyZEZTTEJMQnNjQzR4YVl6TlFxZ24wR0tZUmpSLVdrZGNXRk5ZVy1WbjE1SHpLaTVZZzAxNkhfbEhHZVZDY3RfeVZ2LXNNcENCb0Z6OGJEd2F5d3NYMUlzdGJ0MHlxbWktSFBpMlhJbGZ3MFVIQnBiUVFmdW1aejVzd3VWQzdBYWNVZUVrc1lsbXFkRXlyWC1MeTlqc2pHREd1UE1Tc3U5TzZxYnEtOHM?oc=5",
-      "domain": "www.amnesty.org",
-      "publisher": "Amnesty International",
-      "publisher_url": "https://www.amnesty.org",
-      "language": "",
-      "seendate": "20260923T113123Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "How Sanctions Have a Made a New Class of Nouveau Riche in Iran",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2h6UG9sbWN1NEZETHdyQVJzUEd4VXdnaWFIYmRUbEZQbTdfRGxYVTZkWHBnaXl2UmVWeS1tYTRjMlF0MWxKcE16VGpZSGE5NGR6MzJVNkNoN2hrUXlPX2F5WUJnQkNucDc2djdrT3FTZkY2alRyYXVZbjl4cFFscmM3UGo1Q1FtazJQX2RCOERxT2VmZWhWSlNNbGU1RW1SeUwxNVpB?oc=5",
-      "domain": "iranwire.com",
-      "publisher": "IranWire",
-      "publisher_url": "https://iranwire.com",
-      "language": "",
-      "seendate": "20260925T155251Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "New US sanctions shut down Iranian flights",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORXFRdU50SU1neUhFbzk2V2JmSXRiRDFJbm5BR1VFaWp6NXhaZ2hRcExwUjJNeHRwVlFNd0xKY2tBWnI4N0c3Tk0zWTFyUHNCSnZJRUw3Znp3bU1UREd5OHo5anJLY21GdkVTa2V1TnQ2ZTVxOGRXSHRfUmIxN0dCRzFSaXJFVWRJOHQzVWE4dTdjcXRZNk5nSVg0eFBEYWd4akJGNWVzbE5rNEhwSVowcUp5SXhHZzV3OVBsUkp3UkQ1RTZvWHNwWTdn?oc=5",
+      "title": "EU faces backlash after lifting sanctions on Russian billionaires",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjRvVmg0d0MzSkY1OUprdGlXa1Z4cmJLY2dsWEptR0QyQ3YxNFVDWTRtQjQ1UmZsNEc1LWNjMU1TZjhFSVRvWWVCRWJmc2szU2tnb1JUR1hJZWlvZTJUUlBoN3RqLTFtOUtEalY5cnlrMUNPMDR5VF9yS0o1ODFOUlhyakx3X0VOYjdRS3BNQXVXZ0VveTM0aDlHc0NQMjQwLXhuUndNcGdYMnBjaUhiUw?oc=5",
       "domain": "www.reuters.com",
       "publisher": "reuters.com",
       "publisher_url": "https://www.reuters.com",
       "language": "",
-      "seendate": "20260924T172727Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "UAE halts Iranian flights over US sanctions",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3k5d0oxT1hBN1NxYzUwZC1TaFF0eUNyU09jVmZrOUZjUEZueWFsVjNKMVhmQWt5cml0VFc3QkNIRXZJN0FUcXdyR01odlhzdnctVnJHdDBoV244QndVUTVYcFNrZWhXSjFmWmszclVIUFJQaDEtRkx3TmNuaDhIOG1BUmo?oc=5",
-      "domain": "www.ft.com",
-      "publisher": "Financial Times",
-      "publisher_url": "https://www.ft.com",
-      "language": "",
-      "seendate": "20260925T081155Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "The ‘Monster’ Behind Russia’s Global Effort to Evade Western Sanctions",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXhxZ1htTXB1MWFZcUlWQUo2U0M4NFYxaUZUVklTNldJd0xibUNZNk5XMDZhQi1yWlROMGR2dFZqZDQ3ZlpiejM1cjMzNE9BVkpaeGJkTXk4OHBlWFUxTFZrdGpPbmw5aFFkMWhPWkJHR3pDREdWQkZoOVk5bTYtNVN3?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "language": "",
-      "seendate": "20260924T090015Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US Sanctions Are Hobbling Cuban Economic Reform, Minister Says",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTHRTb0lzX21WTm5mLVg1VFFsYkdRWWlweWRXMkhJR2UxeXYxbnQ2MFdUaW5xQ09sZFYxcW5ubWF3dDVmQ1RTN0lrYmpsV1N0TExjRDVCNTE3SlczQnZNOWFQLVlFcGR1cVAxTlVPcEVBQkFzRWtUbVpjRmpYVVBtdk80am54bTEtR2VUVy0tallHWDY3Z3V0ODZNRl9aNm5jUzJuYXlFUm8xTmpGU3VhZnln?oc=5",
-      "domain": "www.bloomberg.com",
-      "publisher": "Bloomberg.com",
-      "publisher_url": "https://www.bloomberg.com",
-      "language": "",
-      "seendate": "20260925T152511Z",
+      "seendate": "20260923T160434Z",
       "source": "GoogleNews"
     },
     {
@@ -681,6 +649,36 @@
       "publisher_url": "https://www.aljazeera.com",
       "language": "",
       "seendate": "20260923T210753Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnhFeHB1dlJzNUFaZkYzM0d3cFNyaDI3bFo3VjJFYW5wc0dhandneXlLVkstbVhfd0REaXJrUmx2TF9tRTd0QzdoTExocDNHSFhwVTlVRkZ6RzhKMU4yckMwNzEzS0xtalhQQl9vSkpBdjRxbUFVczFVc1NEQVJQM3R0NEdaQThjX0owTkdxbUcxb3JuM1c3XzNCVGN4dXV4OTNBeEQ3bURQWGxnRmdaVw?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "reuters.com",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20260922T232347Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US and Indian top diplomats discuss Russia sanctions bill signed by Trump",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjNWTlhTdURkUERZUjdNQnBhQWR2bzRjOUVYNWRJUkdoX1M0NmpBRk5Dc0dHMm8wWlJKby1YNVNDb28wSnJXazJnbG9sQTNRU0RVTXk0eHJJcGQwTkVIdS00UjNRakFkUHFLTFhJdi1vMGJGZVB0dzMtR0JHUlN2RFoza1F5d3FuOWhBd09MR2RBa1I1ZU11OGotV2FwM2NOdmNydlBjeU1nMzFoVXpTQ1RuR1E?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "reuters.com",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20260924T035100Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "EU continues talks on deal to lift sanctions on Russia-linked billionaires Usmanov and Fridman, diplomats say",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcEVKdjlhcGtLRzFtNF9yOExCc0JNZG9VazZPNlpqdG1rQWc5ejhjMjdPSF9uSjJ3UnJxcXBKMWkyMXhOSUJleEZObXNlVzB5VHA2UUhpRGRNSHA3dXNqekZ0Y0EtMEhxMjNyeHBMLXhGM2hYa3ZvMXdFUWhnZ1Mxb1hpN1BCTVdMOFhoQlBTM3F1dGZPVTBZdTlyUjZjYjJBODJjaFJDbFE4MnpaNDlZ?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "reuters.com",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20260921T210225Z",
       "source": "GoogleNews"
     }
   ],
