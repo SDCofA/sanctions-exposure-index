@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-10-10T05:39:32.388789+00:00",
+    "generated": "2026-10-10T12:21:39.098400+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,21 +23,11 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "36"
+      "value": "35"
     }
   ],
   "live_data": {
     "news_articles": [
-      {
-        "title": "The ICC strongly rejects US sanctions against the institution",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVZwUEMzamgxUzl4TTJ6aVdJWTJpbEpUc2RqR0IxTXg5MmV1QkVjRmhnb2x2blVDdGRyM2dFNkhQZHBObFlwZUlBXzg0U3VNV3NPNUdScEh5bHBMVzRVSWxrZjNIUmZNdVpmUmdwLWFZTlJNbjUyd2xUWi14SXJlSTM2Y3BTS2VHRXc?oc=5",
-        "domain": "www.icc-cpi.int",
-        "publisher": "| International Criminal Court",
-        "publisher_url": "https://www.icc-cpi.int",
-        "language": "",
-        "seendate": "20261009T152152Z",
-        "source": "GoogleNews"
-      },
       {
         "title": "Imposing Sanctions on the International Criminal Court",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbF9kWkF3dlFITzZHa29JMy1kaVFqTHRuUXl1eGtqODU0SGpHU2NjOER5WU9iY1pRZVRvSmJmT2h5VUhmc0VXeGhoRWdNX2FHUEtRYkx3NkEwZDQtdk1yRU9lRnREcWdNZU5kSVU0QVpGRDlzWWtpWC1xTF9MMkltMTFqRllmUm9QX2NxYXEyUzVnRUk2WW5JbVdwNTl2b3FKdjZENy1NY0RRSmNXTzFIcnBEQ1RmYkJ3eGc?oc=5",
@@ -59,13 +49,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+        "title": "The ICC strongly rejects US sanctions against the institution",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVZwUEMzamgxUzl4TTJ6aVdJWTJpbEpUc2RqR0IxTXg5MmV1QkVjRmhnb2x2blVDdGRyM2dFNkhQZHBObFlwZUlBXzg0U3VNV3NPNUdScEh5bHBMVzRVSWxrZjNIUmZNdVpmUmdwLWFZTlJNbjUyd2xUWi14SXJlSTM2Y3BTS2VHRXc?oc=5",
+        "domain": "www.icc-cpi.int",
+        "publisher": "| International Criminal Court",
+        "publisher_url": "https://www.icc-cpi.int",
+        "language": "",
+        "seendate": "20261009T152152Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Germany sticks to Russia sanctions after Trump announcement on diesel",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUFXZDgzaHN2T1FRdnc3Njh3R0t5cGppS3pJUm8xREprWk54RFdON1pYY1BBbFRKS2pEajVWVzJJcmNiQVVJVGI1czM0U0F1U04zUEFZZVNDZzUtVWZ6UzdPQlItRzNyX3ZseVdmeVlaY1B5M203LWhwWFJTZjh0TlBFVm4zbm9SQjVvRGpXclhWWnJDYmdOWVRmaFhCVDBRNV9uU0UtZmo?oc=5",
         "domain": "www.reuters.com",
         "publisher": "Reuters",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261009T140200Z",
+        "seendate": "20261010T105943Z",
         "source": "GoogleNews"
       },
       {
@@ -76,6 +76,26 @@
         "publisher_url": "https://www.washingtonpost.com",
         "language": "",
         "seendate": "20261010T040022Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US announces sanctions on the International Criminal Court",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnNxeEFFZ2R2Y1M4aHZSNlYtLU9WTUpTbGhrM3FEeG44UkRxRmxzZDFmdXlEc0tuSFpXdE02UmItOGxEa0NBQlFaSno0dDhzUkpFWmxuWk9WOUNIV3lLOTFpbTE3QThSRzI1RFB4NFh6MkIyTWE4eE81UVlYQlY3YWU2NDl6WHJuWWtvNkZNODZ4MzVaNlZVOF92bGZ1Sy14Wm54VdIBpAFBVV95cUxPT0lVTEFwbzZxaVVRQWpQTlNEYjBOOTNHTzNMZmtkQno2VldfVVNQSjNWZ0FNcnhNbHFPSGZyNmtaeGtTR0g5Q3A1M01BWTE0dVQ5TDBpaDVJRFNpV0NBSnZJVnFzbjlaUVczYTIxOGFXelk5MkRWaUFDeWdzYjF3cVNrV0JTU0FNYndLblgzenRPcVR3aWo1TlZvQ2FVRWtvWmxhYw?oc=5",
+        "domain": "www.dw.com",
+        "publisher": "DW.com",
+        "publisher_url": "https://www.dw.com",
+        "language": "",
+        "seendate": "20261010T002420Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump lifts sanctions on Russian diesel, suggests US may buy amid surging fuel prices",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVm1iSTU5UlBYRUxoMUxWZ1ByWXhvWlc2R2o4QWFqeG5mNnQ4WEc3QS11YUlKZUFBZ2NQUUdaTHFKNm1SZmlsNVBxODBCSUcyM2lUUE54cFdhVnNFZURKYkJ4aXE0ak1xUExyaHBRdm9kbGs1ZWREQnRuX2VWdW9kN1FNOUs0dUVfbWJ2dHZJcw?oc=5",
+        "domain": "www.politico.com",
+        "publisher": "Politico",
+        "publisher_url": "https://www.politico.com",
+        "language": "",
+        "seendate": "20261009T191000Z",
         "source": "GoogleNews"
       },
       {
@@ -99,43 +119,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump lifts sanctions on Russian diesel, suggests US may buy amid surging fuel prices",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVm1iSTU5UlBYRUxoMUxWZ1ByWXhvWlc2R2o4QWFqeG5mNnQ4WEc3QS11YUlKZUFBZ2NQUUdaTHFKNm1SZmlsNVBxODBCSUcyM2lUUE54cFdhVnNFZURKYkJ4aXE0ak1xUExyaHBRdm9kbGs1ZWREQnRuX2VWdW9kN1FNOUs0dUVfbWJ2dHZJcw?oc=5",
-        "domain": "www.politico.com",
-        "publisher": "Politico",
-        "publisher_url": "https://www.politico.com",
+        "title": "U.S. imposes sweeping sanctions on International Criminal Court",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWtVRTFWdDFiYWtqaEZwdFU3bXR5bnR2akpzRm01cFlXOFJuZng2NDRYYWtyWkFTc2hvam9BUGVUQ1BsNkQ2SlhtWktHYnZJaWxXTGZrQ3VxUFNQSG5BUkxhSGxaQ0JyUTRoakRjOTVfazJLeEZ6WkdBX0dNWEdkVEJieHZpNmJnQjFaSjdGaTUzRUdSRWhWOEVZeWVUdG92YzdxeUY3ekxmYjQ?oc=5",
+        "domain": "www.npr.org",
+        "publisher": "NPR",
+        "publisher_url": "https://www.npr.org",
         "language": "",
-        "seendate": "20261009T191000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHBFOGx1NzFvVkdzQWlHbm5vTGFlNFNBSm5fWWVPWC1EYXNoVmgtd2ZXSWJnaFZtSjhvRU5pd1YtMUVUV1FMYllka1hZQm5pck04N2pza0hZRU5NZXZtSEVnQWFGemMzWk00WlJaeVlDajNmQk0zNUg0RlhGYVBRX0dlYzBVS0w5aEJXLVdSMVdjZUxQalpnemtrRlg?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261009T152317Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump escalates war on International Criminal Court with deep sanctions",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWJ6UEplRzNEaEZjUWp1UExHSUR4Nzk3Z09SZTJtMkhGS1F3RG5WWjA2dlN2aGpmX3F2SnNwM3ppakF0eS1TOTZzR1o1bE5ya2FtYWVlMDZrV3Zxbk1FblAxQk4zN0FveXBOcHl1ZG42MHZoVVFmNkJqYTA2ankxYjZVQnctUm5SVVVrSHAzT1VFNGRzZlI2dzItTGxOTi1aNHRzTQ?oc=5",
-        "domain": "www.courthousenews.com",
-        "publisher": "Courthouse News",
-        "publisher_url": "https://www.courthousenews.com",
-        "language": "",
-        "seendate": "20261009T174337Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US announces sanctions on the International Criminal Court",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnNxeEFFZ2R2Y1M4aHZSNlYtLU9WTUpTbGhrM3FEeG44UkRxRmxzZDFmdXlEc0tuSFpXdE02UmItOGxEa0NBQlFaSno0dDhzUkpFWmxuWk9WOUNIV3lLOTFpbTE3QThSRzI1RFB4NFh6MkIyTWE4eE81UVlYQlY3YWU2NDl6WHJuWWtvNkZNODZ4MzVaNlZVOF92bGZ1Sy14Wm54VdIBpAFBVV95cUxPT0lVTEFwbzZxaVVRQWpQTlNEYjBOOTNHTzNMZmtkQno2VldfVVNQSjNWZ0FNcnhNbHFPSGZyNmtaeGtTR0g5Q3A1M01BWTE0dVQ5TDBpaDVJRFNpV0NBSnZJVnFzbjlaUVczYTIxOGFXelk5MkRWaUFDeWdzYjF3cVNrV0JTU0FNYndLblgzenRPcVR3aWo1TlZvQ2FVRWtvWmxhYw?oc=5",
-        "domain": "www.dw.com",
-        "publisher": "DW.com",
-        "publisher_url": "https://www.dw.com",
-        "language": "",
-        "seendate": "20261009T181917Z",
+        "seendate": "20261010T114051Z",
         "source": "GoogleNews"
       },
       {
@@ -149,6 +139,36 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Trump escalates war on International Criminal Court with deep sanctions",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWJ6UEplRzNEaEZjUWp1UExHSUR4Nzk3Z09SZTJtMkhGS1F3RG5WWjA2dlN2aGpmX3F2SnNwM3ppakF0eS1TOTZzR1o1bE5ya2FtYWVlMDZrV3Zxbk1FblAxQk4zN0FveXBOcHl1ZG42MHZoVVFmNkJqYTA2ankxYjZVQnctUm5SVVVrSHAzT1VFNGRzZlI2dzItTGxOTi1aNHRzTQ?oc=5",
+        "domain": "www.courthousenews.com",
+        "publisher": "Courthouse News",
+        "publisher_url": "https://www.courthousenews.com",
+        "language": "",
+        "seendate": "20261009T174337Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. Sanctions and Threatens to Dismantle International Criminal Court",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWhKNi1UT2NaTnMySGFaNXRwVGozc2NzZG9QV1pUTkFhbzBMb1pQT3VFSV9IMF9kdUdVYmQ1THRjdFJwbmZvUFJoc2JNOV9xQ1A2S09vNU5UZGUtYmV6SEpWS3FoazRSc0JnUjlmbnFRTGctSGdMNU5wNXJ5TGE2YS1WWE92SUlNQWFqRWd5VDl2UVZEOVh2ZmpOUVV3UmtOdGRuNlNkaER0UW5YQUh3Ng?oc=5",
+        "domain": "www.wsj.com",
+        "publisher": "WSJ",
+        "publisher_url": "https://www.wsj.com",
+        "language": "",
+        "seendate": "20261009T174200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHBFOGx1NzFvVkdzQWlHbm5vTGFlNFNBSm5fWWVPWC1EYXNoVmgtd2ZXSWJnaFZtSjhvRU5pd1YtMUVUV1FMYllka1hZQm5pck04N2pza0hZRU5NZXZtSEVnQWFGemMzWk00WlJaeVlDajNmQk0zNUg0RlhGYVBRX0dlYzBVS0w5aEJXLVdSMVdjZUxQalpnemtrRlg?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20261009T152317Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WSElxQ2l1VzJ2ZTNTQ2N1VHFLbXNzbmRvV3FMOEVyMm83ZDFxMmdxWmZuWHM5TmtGbXIya3c3U0kyYTcySW8yTzY2VGF1Q0h3TlAyVmZPbmp6d2s?oc=5",
         "domain": "www.bbc.com",
@@ -159,43 +179,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump strikes deal with Putin for Russian diesel in sharp reversal of U.S. policy ahead of midterms",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSWNoTjJ1UXVXNmh2NEFiZEx4eGJ4Q1dUczA4NjRsWERRVmJnUVo2MHFFcTJsMTlBWXktd1NldERtTVoyN0Fub0pTU01rcVo0WG9aZzE2XzRoUlVGallsWkE3b3NkX3ZFVTJwZkJ6OEphOVc4OHo3S3NsRFRWcHNvNGFIZVlTaHpIQkxTUWdsQWxGSjBxSThPVm93R0VrREFYRWk5Tk1VM3JpWmQyQnF0amVIVXdZR3BMRWw2RWoxTlRObFB3T2loSWxhRmNCZ9IB0wFBVV95cUxNQWtnTVN5N0JWck5iTDRkY1ZzNG1yeW1qcjVmXzV6dVFkTEhLX18tZmtwT1FudXNOM1MwNDBtZUstVjczOUFiR0RkZlFsQWhYRFhBTGJfMnRTcDJNUTdjSkdlaHpLa29SMkF6cWp4U2xLT1BjWVRVOFBWTm9zU1ZoelFwYWp6UVMzY2hSSlg4OHJtb0xGdVF0UklNNy1ZZXg3X3JXUkZrQzdrck16MVJySnZzRUlaMHJmNmQ3Z1F5SjE0SzRDRlFTX3lnc19OeURPbDBZ?oc=5",
-        "domain": "www.pbs.org",
-        "publisher": "PBS",
-        "publisher_url": "https://www.pbs.org",
-        "language": "",
-        "seendate": "20261009T220636Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunal",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXNFcXVnRVZfckpBb0hJMmN0aVhRQ1lxZHlsUlR4MWhLN0J0d0VYdllmYnF2SUlxV3BFN1VGbTAzQXMtaTZjbld2WFg0akNnMjNaUlBTRTlZeE1SQlZ6OXJ6Y3pibHNOQjBreHRHN295WTlVZmtnT0RnX1YwTV8yWTlibFA?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
-        "language": "",
-        "seendate": "20261009T184600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Reactions to US imposing sanctions on International Criminal Court",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHUxbm9jdTRzNzR1d1UteGF1XzZDbW5BSV8tYzY2cGVmODFLR0hlQnpZX2M2LU5rblNhNmw4V3FkV2VyRElZRnhaSzRKRFJHLUdjaklvMTRyZ3NsckNSZGMteHpSRXZXamRDS1hPYTd1WTA1ZVRLYU5DMUhmT1VIUWNlYmE2dUo2RDNCSVRiTFVySUJnX3NSWkllTlFycVFCWkRpSQ?oc=5",
+        "title": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
         "domain": "www.reuters.com",
         "publisher": "Reuters",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261009T171932Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump administration launches new sanctions on International Criminal Court",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2hQMDBzWjNCRnE3NzNuQkt5ZlJteEZpdzVLM3dHMjctYWtucGpzcDl6QmZXaFotTVRZbjZrQXk0LUkwNHhoTWpneWF5cjVjWEFQN0pHdnZSTWZUMVd5Q2ZEZlp1U0Z0Z0pMSWNwVWRuU0ZFQUVZN094NThhRjZjWGNyVUVqUGdMWlNlM1JHd1dUcE5GVGhuMlNR?oc=5",
-        "domain": "www.politico.com",
-        "publisher": "Politico",
-        "publisher_url": "https://www.politico.com",
-        "language": "",
-        "seendate": "20261009T155400Z",
+        "seendate": "20261009T140200Z",
         "source": "GoogleNews"
       },
       {
@@ -219,13 +209,63 @@
         "source": "GoogleNews"
       },
       {
-        "title": "ICC prosecutor condemns US sanctions, says work will continue",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3NLWjFFeEdjTTFLRzZ5bTRQNzhhWTg3eXpjWmtGY1M2SXhRUE9RMFNZTnVEanBhNWd1OWR2Z0x0OURyWTZmd1J3alh1cWlJdElZMk5DcUZ2SzU4Y1Nab2liME45ckJJb21GNExWUm9KTG1pMDlQMUd3OTdTOGgyZmhVUHFRcW9kOEFsMnlDMVRaUGc4YS1mcHFqMm1pdENkYkdLRg?oc=5",
+        "title": "Trump administration launches new sanctions on International Criminal Court",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2hQMDBzWjNCRnE3NzNuQkt5ZlJteEZpdzVLM3dHMjctYWtucGpzcDl6QmZXaFotTVRZbjZrQXk0LUkwNHhoTWpneWF5cjVjWEFQN0pHdnZSTWZUMVd5Q2ZEZlp1U0Z0Z0pMSWNwVWRuU0ZFQUVZN094NThhRjZjWGNyVUVqUGdMWlNlM1JHd1dUcE5GVGhuMlNR?oc=5",
+        "domain": "www.politico.com",
+        "publisher": "Politico",
+        "publisher_url": "https://www.politico.com",
+        "language": "",
+        "seendate": "20261009T155400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Reactions to US imposing sanctions on International Criminal Court",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHUxbm9jdTRzNzR1d1UteGF1XzZDbW5BSV8tYzY2cGVmODFLR0hlQnpZX2M2LU5rblNhNmw4V3FkV2VyRElZRnhaSzRKRFJHLUdjaklvMTRyZ3NsckNSZGMteHpSRXZXamRDS1hPYTd1WTA1ZVRLYU5DMUhmT1VIUWNlYmE2dUo2RDNCSVRiTFVySUJnX3NSWkllTlFycVFCWkRpSQ?oc=5",
         "domain": "www.reuters.com",
         "publisher": "Reuters",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261009T141243Z",
+        "seendate": "20261009T171932Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US lifts sanctions on daughter of military-linked Myanmar businessman",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN01KUDU3dmZwWHhWbXF0d2ozTXVyZ3c3bUZmWjRMWS1obEFvaWl6YUxJdXZQSGdGazBuY1lhMDdJamdBSTJVeDBmLUN0NmJ1VzA5VlZOeExwUHVVdEwzbkEybEwta0I0cHpxcTA5dF94UDRFOXV3dWY5VW9WMjl4dXlhWG1XUjhValA1cDI4cnQxcE9QTWFMcDVNbGpEdnBoX0tiaGpjTWpkZ9IBrwFBVV95cUxOTndBSk5tYVZvUmNjblczMUdUWFM2WVA4WGFwOWNxLWN3Z3hDNkNQS010UHZTVFFmcmt5VmZpNTRWSzcxQVBMN2Z5WDlvVVdpRDgxMXdtQzk0ZHZGRDVVU2NPRmlValVDS2NVazRaT0ZHdjBnc2cwdnAwbE5WZW43WU5Tdl8zT0hrR0hRblIySk9WUDduUlVHNV9RS25lZkk3SXZ4akxMRUFPWklBX1lJ?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261010T075532Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US imposes fresh sanctions on Iran's shadow fleet",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUm45bHRGMFlmNEV2d2lTTkFvQURQckhMSGhYRlhxWUtOb1d2cGhCTnVXUEJaMF94S2xZNXFWMF9ONTVraWdWdnVOME04c2xyMk5tRnhHVjI3YVFmQTZIWVR6MXhDUUNram9tRjlsejRlRXVQUERDX3NkY2ZIVmlsOV9Ic0wxOVNPSmVCRmtVVExGcWZNY0tCTw?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261008T183524Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunal",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXNFcXVnRVZfckpBb0hJMmN0aVhRQ1lxZHlsUlR4MWhLN0J0d0VYdllmYnF2SUlxV3BFN1VGbTAzQXMtaTZjbld2WFg0akNnMjNaUlBTRTlZeE1SQlZ6OXJ6Y3pibHNOQjBreHRHN295WTlVZmtnT0RnX1YwTV8yWTlibFA?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
+        "language": "",
+        "seendate": "20261009T184600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "'We're Not Really Here': As Man City sanctions loom, it's the fans who suffer",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbnFRZjFkY0tmV2xZOXhvQkZPaEYwTHA1X2lzb1RCcDQ2RFgtOHZ6Q0szOFBybVE4OGYyVzhaR1VxLXJiTm9ydF9lNGhucTVsbTV5bG9yaWg3SG5YZ3JOMGdkUWpoZm93S1VHSjNLekxqRmNMNDIyLW1lWExMekRPUl9FZEY3VTE1T25FTlo2LWp0bEV2LVN1WmRhbkxSUnN1UXJqM3VITVlKOGNsZDd5NUJIX0dYYmJtcC05ZVgxUWtiODVCQ3BuN1NQSjRFeWcwTHoxa1psYjk?oc=5",
+        "domain": "www.espn.com",
+        "publisher": "ESPN",
+        "publisher_url": "https://www.espn.com",
+        "language": "",
+        "seendate": "20261010T080000Z",
         "source": "GoogleNews"
       },
       {
@@ -236,6 +276,46 @@
         "publisher_url": "https://www.nbcnews.com",
         "language": "",
         "seendate": "20261009T203314Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "ICC prosecutor condemns US sanctions, says work will continue",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3NLWjFFeEdjTTFLRzZ5bTRQNzhhWTg3eXpjWmtGY1M2SXhRUE9RMFNZTnVEanBhNWd1OWR2Z0x0OURyWTZmd1J3alh1cWlJdElZMk5DcUZ2SzU4Y1Nab2liME45ckJJb21GNExWUm9KTG1pMDlQMUd3OTdTOGgyZmhVUHFRcW9kOEFsMnlDMVRaUGc4YS1mcHFqMm1pdENkYkdLRg?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261009T141243Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US imposes full sanctions on ICC over arrest warrants and jurisdiction disputes",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3F2MER5VG5xSm1GR1I2RjliaFUzRkZ0V05BUlcyMjQtNmEtdDFMTGtVdEx2RmJUSDRfdmtndS1qUV8wMUV1UTVWUjZaT1YwWkhmbVdEUkk3RzVLQTJlSlRUMmUwcUdKZm8xNVdKUE0wT1pPbElJbHU3Y2pCMnBPYnl5YWZnTnl5NXdMb3lQaFREWXVTejRuUHd1NHQteHpEelZCZkVaVjlfRENwekFLbEJJYlFiYlk?oc=5",
+        "domain": "www.jurist.org",
+        "publisher": "Jurist.org",
+        "publisher_url": "https://www.jurist.org",
+        "language": "",
+        "seendate": "20261010T105628Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The US just sanctioned the International Criminal Court. What’s next?",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3FQSjdkUlQ1cUpfVzNROVRidHFGb0lBZWwtbEtCZEdRUThNUHRxaU5CNEl2V25yaXlleFk4U2JaVXRTaTE5WE84SElMLVpEdGRVN29jNU9pQm5TVjVDUnd4TEtsRS1KN1VHMnZxVWJ0aTRPaXhXSjhsN0pTOW9GQk1DYUFTSXBVc0NwSHVfSXFaMFN5TmtCLVp6Uk0yXzkwR2V2NEpESGQ3RDIySlpj?oc=5",
+        "domain": "www.atlanticcouncil.org",
+        "publisher": "Atlantic Council",
+        "publisher_url": "https://www.atlanticcouncil.org",
+        "language": "",
+        "seendate": "20261009T222636Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump signed sweeping Russia sanctions last month. Now he's striking a diesel deal with Putin",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDdBVmhBeW0zbHVWLUtxVkd4MFJOcGdfQV9JOXk4d2lidndPMlpHNDdPS2FQVTZkcnRELXZJQjFoNThIM3RWenk2VEhBRE83d0dKdDJ3OTJweXZRZnE2NUdNMEY5RS1JQ1JRTC1YblNtdkZtQTZkTWpIdDNfdzYxVFZ0cHNtd0Nqc1ZN?oc=5",
+        "domain": "fortune.com",
+        "publisher": "Fortune",
+        "publisher_url": "https://fortune.com",
+        "language": "",
+        "seendate": "20261009T211600Z",
         "source": "GoogleNews"
       },
       {
@@ -259,33 +339,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US sanctions global court as judge awarded Nobel Peace Prize",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVRkSjNWRmtoa0tVLTA2QjEzYmlFUU05a0xtY2ozVGJtdUx5eFUxdEh0c0tESTBDUkFiSDZVWXVBekw1WUVfMjd0RjRjeWxZcUtiN0gxd2oyZGpTZkhITlkyVjFPQVBjWGZDMENuVTh4b1E1UG1La3JWcnZiODVxaGRzbEt4Qk83TkJtRG1pdThRLVXSAZgBQVVfeXFMTnZfWFlyY1owazNlRWpJbW9tb19GdDJwWUFYbUY0VEtIcGlDZUxuTFd6RGVSaUtpQXR4NVFBSEc1VlAwb0NoT2NxV3Vpc3VhRkZISlZXNzNnOGF1S0tFbWZsQy1Fb1o4S09pLXlKVG9tQjU3LUsyRnFRMzZySjF1RXRpaTNXTUVKMXJSbEluMEtqV0lTOUtIT1M?oc=5",
-        "domain": "thehill.com",
-        "publisher": "The Hill",
-        "publisher_url": "https://thehill.com",
+        "title": "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PWGowS2NnXzhoTEJRSEpMclBjMEtyQVo3ZWlOVHNaMkV0a0R1QlZSMlZkNTlQY24wLVIzU24zbm5OcjV3Y1cwWXRFTHo0NVl6MVRfZ0tPWEdfMGNydVlyWllsME4tbnNVaTZuUW5lQTE2cnJPSTNtV2ZtdWEwd9IBgwFBVV95cUxQWk9Nc0hERFM4ZVZjT1FxaWE1RFZaY0U5eTVuc01Ta2lDLVZLY1pDVTNJXzJmTzhJdUd5T2tROXhlZVJSOW9mLTdxcjB2cWV4WXJaSWxtWWt4TzBZMVFuVmdNYzU3NU9LVVJYMUJkUktqZzZrdi02Vi1tMXFlcklyWVMzNA?oc=5",
+        "domain": "www.cnbc.com",
+        "publisher": "CNBC",
+        "publisher_url": "https://www.cnbc.com",
         "language": "",
-        "seendate": "20261009T143900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump signed sweeping Russia sanctions last month. Now he's striking a diesel deal with Putin",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDdBVmhBeW0zbHVWLUtxVkd4MFJOcGdfQV9JOXk4d2lidndPMlpHNDdPS2FQVTZkcnRELXZJQjFoNThIM3RWenk2VEhBRE83d0dKdDJ3OTJweXZRZnE2NUdNMEY5RS1JQ1JRTC1YblNtdkZtQTZkTWpIdDNfdzYxVFZ0cHNtd0Nqc1ZN?oc=5",
-        "domain": "fortune.com",
-        "publisher": "Fortune",
-        "publisher_url": "https://fortune.com",
-        "language": "",
-        "seendate": "20261009T211600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Marco Rubio announces sweeping financial sanctions against the International Criminal Court",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3o0bmJoTVI2dzVCbURYZEtGUnZyalpEU2NLT3FaTUpZSEdCcndnQndGRjI0SGtWZGxpQ3JnVW10cEJNZDUyS182eTJ6cXV6Q1RtYWFubVM1QktiVlVzaEo4VXBJZ1lRTGpUdEVkSjhyRlJQRjlEUWxLSnA3M0FZVWtpbDlRNml6Nkg1WjExSld5VDg0dzh5TkFjWmU3d0hPU0l3MHJWZHRfRE4tS2JPTUtB0gG3AUFVX3lxTE5pWk1zWW14VUx2NlotV3NSOUhyS0NkNUNFY29kVzZzRGdWSXFWNGU0UEpEVnRYcDc4QnZqSnREMHNJYjdfdDY5YkItd3JTckxLcDA4YzFjTUo0al9qYWxuN2JkcmRidE1xRW4tOUZmSENmMG80YmhhcGZrSXhfUmk0T2dJWWNPTldHYWZjbm12MnFLZ2FLUUhndkNTeG5KVzB1MGNoUWtILXFkZ0VZcks3N25xREZhQQ?oc=5",
-        "domain": "www.foxnews.com",
-        "publisher": "Fox News",
-        "publisher_url": "https://www.foxnews.com",
-        "language": "",
-        "seendate": "20261009T182503Z",
+        "seendate": "20261008T170001Z",
         "source": "GoogleNews"
       },
       {
@@ -299,23 +359,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US imposes fresh sanctions on Iran's shadow fleet",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUm45bHRGMFlmNEV2d2lTTkFvQURQckhMSGhYRlhxWUtOb1d2cGhCTnVXUEJaMF94S2xZNXFWMF9ONTVraWdWdnVOME04c2xyMk5tRnhHVjI3YVFmQTZIWVR6MXhDUUNram9tRjlsejRlRXVQUERDX3NkY2ZIVmlsOV9Ic0wxOVNPSmVCRmtVVExGcWZNY0tCTw?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "“An assault on the administration of justice”: US sanctions against ICC threaten system of international accountability, warn UN experts",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnBDN2Z4cTNzZGo1NTJYcFMzOFB2Z0RsbHItenB5UjFsU2tWaElxTzJ6aE85am4zSXVzVjdlSWtuUkNnLTczdlRkQTEzU1pDdXRvcWpWNXpBRktrd0w1WHB6Y3hQZ2pYVVo2X3JTUlBkR2VNbHdCNDM1MENsbG1KNkJKNHF1ZVhPU0dHRnZsMlBMdW90aDJ6TjQ0a0lXRy1EeW5QcHhIdmtKTl8zSU9FeklCa04xY1M3RjU0?oc=5",
+        "domain": "www.ohchr.org",
+        "publisher": "ohchr",
+        "publisher_url": "https://www.ohchr.org",
         "language": "",
-        "seendate": "20261008T183524Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The US just sanctioned the International Criminal Court. What’s next?",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3FQSjdkUlQ1cUpfVzNROVRidHFGb0lBZWwtbEtCZEdRUThNUHRxaU5CNEl2V25yaXlleFk4U2JaVXRTaTE5WE84SElMLVpEdGRVN29jNU9pQm5TVjVDUnd4TEtsRS1KN1VHMnZxVWJ0aTRPaXhXSjhsN0pTOW9GQk1DYUFTSXBVc0NwSHVfSXFaMFN5TmtCLVp6Uk0yXzkwR2V2NEpESGQ3RDIySlpj?oc=5",
-        "domain": "www.atlanticcouncil.org",
-        "publisher": "Atlantic Council",
-        "publisher_url": "https://www.atlanticcouncil.org",
-        "language": "",
-        "seendate": "20261009T222636Z",
+        "seendate": "20261009T194538Z",
         "source": "GoogleNews"
       },
       {
@@ -325,97 +375,17 @@
         "publisher": "The New York Times",
         "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20261009T214327Z",
+        "seendate": "20261009T214300Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US sanctions the ICC after former judge wins the Nobel Peace Prize",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbE5JbjhHYndfanVYTWJwVjd5TFVzX3V0OGNpXzRpakozOU50RWd5NTRiRHViYVN6VF9EU0s3S2R6WFFLYnlTLVZpVWUxTDR3M0gyU3lYald0Rm0tRWRGcm5NcHBNTlNySWpuWFJUYlE2RUo0cVNhOWhWNGJ6Z0pORTY3N2t4M1g1bWlCR284V2JUNHJKUFJjbjczeU9zRmg1LXFaOVI2RHRGaG5ZbmdxYjU0WUJtWEFCVFdZYnNYRGJCQ0tTUmxiMnh6WGlEc3pm?oc=5",
-        "domain": "www.usatoday.com",
-        "publisher": "USA Today",
-        "publisher_url": "https://www.usatoday.com",
+        "title": "Marco Rubio announces sweeping financial sanctions against the International Criminal Court",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3o0bmJoTVI2dzVCbURYZEtGUnZyalpEU2NLT3FaTUpZSEdCcndnQndGRjI0SGtWZGxpQ3JnVW10cEJNZDUyS182eTJ6cXV6Q1RtYWFubVM1QktiVlVzaEo4VXBJZ1lRTGpUdEVkSjhyRlJQRjlEUWxLSnA3M0FZVWtpbDlRNml6Nkg1WjExSld5VDg0dzh5TkFjWmU3d0hPU0l3MHJWZHRfRE4tS2JPTUtB0gG3AUFVX3lxTE5pWk1zWW14VUx2NlotV3NSOUhyS0NkNUNFY29kVzZzRGdWSXFWNGU0UEpEVnRYcDc4QnZqSnREMHNJYjdfdDY5YkItd3JTckxLcDA4YzFjTUo0al9qYWxuN2JkcmRidE1xRW4tOUZmSENmMG80YmhhcGZrSXhfUmk0T2dJWWNPTldHYWZjbm12MnFLZ2FLUUhndkNTeG5KVzB1MGNoUWtILXFkZ0VZcks3N25xREZhQQ?oc=5",
+        "domain": "www.foxnews.com",
+        "publisher": "Fox News",
+        "publisher_url": "https://www.foxnews.com",
         "language": "",
-        "seendate": "20261009T182900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. Sanctions and Threatens to Dismantle International Criminal Court",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWhKNi1UT2NaTnMySGFaNXRwVGozc2NzZG9QV1pUTkFhbzBMb1pQT3VFSV9IMF9kdUdVYmQ1THRjdFJwbmZvUFJoc2JNOV9xQ1A2S09vNU5UZGUtYmV6SEpWS3FoazRSc0JnUjlmbnFRTGctSGdMNU5wNXJ5TGE2YS1WWE92SUlNQWFqRWd5VDl2UVZEOVh2ZmpOUVV3UmtOdGRuNlNkaER0UW5YQUh3Ng?oc=5",
-        "domain": "www.wsj.com",
-        "publisher": "WSJ",
-        "publisher_url": "https://www.wsj.com",
-        "language": "",
-        "seendate": "20261009T174200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PWGowS2NnXzhoTEJRSEpMclBjMEtyQVo3ZWlOVHNaMkV0a0R1QlZSMlZkNTlQY24wLVIzU24zbm5OcjV3Y1cwWXRFTHo0NVl6MVRfZ0tPWEdfMGNydVlyWllsME4tbnNVaTZuUW5lQTE2cnJPSTNtV2ZtdWEwd9IBgwFBVV95cUxQWk9Nc0hERFM4ZVZjT1FxaWE1RFZaY0U5eTVuc01Ta2lDLVZLY1pDVTNJXzJmTzhJdUd5T2tROXhlZVJSOW9mLTdxcjB2cWV4WXJaSWxtWWt4TzBZMVFuVmdNYzU3NU9LVVJYMUJkUktqZzZrdi02Vi1tMXFlcklyWVMzNA?oc=5",
-        "domain": "www.cnbc.com",
-        "publisher": "CNBC",
-        "publisher_url": "https://www.cnbc.com",
-        "language": "",
-        "seendate": "20261008T170001Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "ICC urges members to make sure it can continue despite US sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekdiQk5vWjJ6bWFsSzVsaXVrTHlSZVl0RjFMRVNrdVRCTDI5VXZEMXE0TUttZFZ1OVhLOGZKVFdSTmxNckFhWks5X1RPOEloMGVwMHpDM25fbEhGMERLY1dycmQ0OGRtSk9rYzVXUk1FMlB0cmxwZTNkSkxMVmp1OGpHdU8yQnlvWTYtOU5QOGN6Ri1IbDJUTHRFcjRuUnVhRTFWQ19NQTV3UQ?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261009T150424Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "EU calls US sanctions on International Criminal Court 'regrettable'",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVB0Ynl1bGx3bVN2Zm81NHJ1bExOWHI0WWlfMFB4S294QlFfNTN4ZzRydXptVWx3WUF1NzhkZFdKUV9TRVU0SHM3eWhSLXV6cDQzeUlUekpJRXVaV2tGeVpvaG1pR2ZmWmY5cllmNjlIZTZDd1d0elZyMUpmdUZjMm5KZDg0dEk5U2RJLWpiR2RvUUJnMm13V3lWbDI2T2ZTeEt3?oc=5",
-        "domain": "www.euronews.com",
-        "publisher": "Euronews.com",
-        "publisher_url": "https://www.euronews.com",
-        "language": "",
-        "seendate": "20261009T161417Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Federal judge mulls sanctions on immigration judge for violating order",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjdtS3IyZ0p1UWE5a3hSMHNwSVlWUV9hTXlOU2oxSUdYdUNIVHVKRXFGM28ybkotUmZMcExoSFFKaWZJRlRaUHZFQU5WdDFuSWgwRHl3TnA5Ny1tTFdROC0xaDdzS3JOYjJwdUhBV1QtdXNoR0pYYjlQWklMX3JUcWtmTVJTRjV1THRtd2wycjR6VXdSVWFZS3MxVDVYM3FuYUw0RGo0QkRCS2RKV21lTy1YV2pIZDJw?oc=5",
-        "domain": "www.coloradopolitics.com",
-        "publisher": "Colorado Politics",
-        "publisher_url": "https://www.coloradopolitics.com",
-        "language": "",
-        "seendate": "20261009T231927Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "New US sanctions against International Criminal Court unacceptable – Türk",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakxlaEZJMHdXRkY5RHdzSzVVaDBJT0Q1bjc0SnZya2lYTm5YZWk3dVpxd1pnZ1piWmt2V2dtLWVBRkFUelZiT2ZUZUVfMUptRnhIb09GVUtSc3o2ZEx0SmdFY1EzRVFRUWVkMVhnY3lkTXZVbVNyUWNBS291Tk5OMEZybS1Pbllkek53WU9pYUVfd21XUFRmNzVPOUdOS1B4UHJrelprZ2JvcThtLVFkc1ZMZWpLeFpKd01n?oc=5",
-        "domain": "www.ohchr.org",
-        "publisher": "ohchr",
-        "publisher_url": "https://www.ohchr.org",
-        "language": "",
-        "seendate": "20261009T164538Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iranian Airlines Expand Trips to Iraq Despite U.S. Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdkt0TW0taW5icjB3aXJmVDRtbExLY09DMVNtWHk1UU1jX1AybjM0Mm5LdTJRUDVDU0ZTbGk0NEdHVDJwT2Rzd1hqVEVZdnA0eW5YdEdfTnh2V1Rxa0ppR0J3Q3RwTVQ2U2dDLUZlTUFybWxvT25NakZsbWpsNVFYbkIyWHlhMjBrWVRqMVFwMXl1ZEE?oc=5",
-        "domain": "www.fdd.org",
-        "publisher": "Foundation for Defense of Democracies",
-        "publisher_url": "https://www.fdd.org",
-        "language": "",
-        "seendate": "20261009T223812Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "“An assault on the administration of justice”: US sanctions against ICC threaten system of international accountability, warn UN experts",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnBDN2Z4cTNzZGo1NTJYcFMzOFB2Z0RsbHItenB5UjFsU2tWaElxTzJ6aE85am4zSXVzVjdlSWtuUkNnLTczdlRkQTEzU1pDdXRvcWpWNXpBRktrd0w1WHB6Y3hQZ2pYVVo2X3JTUlBkR2VNbHdCNDM1MENsbG1KNkJKNHF1ZVhPU0dHRnZsMlBMdW90aDJ6TjQ0a0lXRy1EeW5QcHhIdmtKTl8zSU9FeklCa04xY1M3RjU0?oc=5",
-        "domain": "www.ohchr.org",
-        "publisher": "ohchr",
-        "publisher_url": "https://www.ohchr.org",
-        "language": "",
-        "seendate": "20261009T194538Z",
+        "seendate": "20261009T182503Z",
         "source": "GoogleNews"
       },
       {
@@ -429,6 +399,116 @@
         "source": "GoogleNews"
       },
       {
+        "title": "US sanctions the ICC after former judge wins the Nobel Peace Prize",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbE5JbjhHYndfanVYTWJwVjd5TFVzX3V0OGNpXzRpakozOU50RWd5NTRiRHViYVN6VF9EU0s3S2R6WFFLYnlTLVZpVWUxTDR3M0gyU3lYald0Rm0tRWRGcm5NcHBNTlNySWpuWFJUYlE2RUo0cVNhOWhWNGJ6Z0pORTY3N2t4M1g1bWlCR284V2JUNHJKUFJjbjczeU9zRmg1LXFaOVI2RHRGaG5ZbmdxYjU0WUJtWEFCVFdZYnNYRGJCQ0tTUmxiMnh6WGlEc3pm?oc=5",
+        "domain": "www.usatoday.com",
+        "publisher": "USA Today",
+        "publisher_url": "https://www.usatoday.com",
+        "language": "",
+        "seendate": "20261009T182900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US sanctions global court as judge awarded Nobel Peace Prize",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVRkSjNWRmtoa0tVLTA2QjEzYmlFUU05a0xtY2ozVGJtdUx5eFUxdEh0c0tESTBDUkFiSDZVWXVBekw1WUVfMjd0RjRjeWxZcUtiN0gxd2oyZGpTZkhITlkyVjFPQVBjWGZDMENuVTh4b1E1UG1La3JWcnZiODVxaGRzbEt4Qk83TkJtRG1pdThRLVXSAZgBQVVfeXFMTnZfWFlyY1owazNlRWpJbW9tb19GdDJwWUFYbUY0VEtIcGlDZUxuTFd6RGVSaUtpQXR4NVFBSEc1VlAwb0NoT2NxV3Vpc3VhRkZISlZXNzNnOGF1S0tFbWZsQy1Fb1o4S09pLXlKVG9tQjU3LUsyRnFRMzZySjF1RXRpaTNXTUVKMXJSbEluMEtqV0lTOUtIT1M?oc=5",
+        "domain": "thehill.com",
+        "publisher": "The Hill",
+        "publisher_url": "https://thehill.com",
+        "language": "",
+        "seendate": "20261009T143900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump’s Russia Diesel Deal: Can the US Import Russian Fuel Despite Sanctions?",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rZU1BMFlpNy1yT2xNYUVEV3NnOGZZdEZ2M2JyMG9oOHVjbmFhUWZ3MmhydzdRcHQwUG1tTjg4OUlYcG44eXg1bkROQ3ZvT2Q0cHlVT2llMzlvTlFYX2d5MUlnRGJFdEU5ZERYb2F3?oc=5",
+        "domain": "www.diplomacyandlaw.com",
+        "publisher": "Diplomacy and Law",
+        "publisher_url": "https://www.diplomacyandlaw.com",
+        "language": "",
+        "seendate": "20261009T213603Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US announces ICC sanctions and issues ultimatum to member states",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcTBzZDBWYmV0NzhiZGlldnp4WlZPM0NNVF9fSDFYYU1sMWg1Wk55WmMtXzVzaklGMm83M2FJQWViMFFYWmpMYU56dV9KZ2JSLU1pOEEyWDNYbnJRWHQ2WlZsMV96WktvVkRLcWFiX3hYcmU0NWo4RVhLZ1hJRmFYQjRnUGdlR0dla1EwdVY0VnRVb2twV2NCcnFPdEVTU1pTSWpMdUF1UnlLSm9oYUVwQkZjbXlONHluSm1jOUFJck12dm1OM2ZTLTJrbkZjU2hqYUtHZg?oc=5",
+        "domain": "www.lemonde.fr",
+        "publisher": "Le Monde.fr",
+        "publisher_url": "https://www.lemonde.fr",
+        "language": "",
+        "seendate": "20261010T102616Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Federal judge mulls sanctions on immigration judge for violating order",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjdtS3IyZ0p1UWE5a3hSMHNwSVlWUV9hTXlOU2oxSUdYdUNIVHVKRXFGM28ybkotUmZMcExoSFFKaWZJRlRaUHZFQU5WdDFuSWgwRHl3TnA5Ny1tTFdROC0xaDdzS3JOYjJwdUhBV1QtdXNoR0pYYjlQWklMX3JUcWtmTVJTRjV1THRtd2wycjR6VXdSVWFZS3MxVDVYM3FuYUw0RGo0QkRCS2RKV21lTy1YV2pIZDJw?oc=5",
+        "domain": "www.coloradopolitics.com",
+        "publisher": "Colorado Politics",
+        "publisher_url": "https://www.coloradopolitics.com",
+        "language": "",
+        "seendate": "20261009T231927Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iranian Airlines Expand Trips to Iraq Despite U.S. Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdkt0TW0taW5icjB3aXJmVDRtbExLY09DMVNtWHk1UU1jX1AybjM0Mm5LdTJRUDVDU0ZTbGk0NEdHVDJwT2Rzd1hqVEVZdnA0eW5YdEdfTnh2V1Rxa0ppR0J3Q3RwTVQ2U2dDLUZlTUFybWxvT25NakZsbWpsNVFYbkIyWHlhMjBrWVRqMVFwMXl1ZEE?oc=5",
+        "domain": "www.fdd.org",
+        "publisher": "Foundation for Defense of Democracies",
+        "publisher_url": "https://www.fdd.org",
+        "language": "",
+        "seendate": "20261009T223812Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU urges US to reverse latest sanctions targeting ICC",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGdNYUE0RzZWM0VrVWliWGdtT05iZWF6c1o4RkwyYk9SNzZQUS1ZczAyVUhlbFltTkgzQkNfblFvT0JUdUI1dE9ESUVxdDhfSlN2enQ4dnQ1V2lIVW04WWVfUlkzZGdOS1o4UjRrdG5GZHdvVjlsa01tV1R5NWxpdlRtcHNSdUxieUJRZmpKTUhRM3psV2ZscA?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
+        "language": "",
+        "seendate": "20261010T115706Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU calls US sanctions on International Criminal Court 'regrettable'",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVB0Ynl1bGx3bVN2Zm81NHJ1bExOWHI0WWlfMFB4S294QlFfNTN4ZzRydXptVWx3WUF1NzhkZFdKUV9TRVU0SHM3eWhSLXV6cDQzeUlUekpJRXVaV2tGeVpvaG1pR2ZmWmY5cllmNjlIZTZDd1d0elZyMUpmdUZjMm5KZDg0dEk5U2RJLWpiR2RvUUJnMm13V3lWbDI2T2ZTeEt3?oc=5",
+        "domain": "www.euronews.com",
+        "publisher": "Euronews.com",
+        "publisher_url": "https://www.euronews.com",
+        "language": "",
+        "seendate": "20261009T161417Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Why Russian Sanctions Relief Would Do Little For U.S. Fuel Prices",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3BBdzhWS1h4dHNvMXFwWXpxR1FzanpqNVdzVUxaT3ozWHJUZ0FfaFF4NVBoMkNnWTF2dGRNbEVpYm9tS2p5ZTJzay1Qd3hoUDlJSTNqZnRkbnBMR3RfQm5ERl90bjdfVUpiaHdCa2p5czB3d1dWV192a3dJdlJLUTZuZWN3RVV5NFZoQ3VfMnJaNExVcFdjX1kwTGdreVBKZHBvN2h1d0NhUGFoN3FfMXFUWDZfaFZP?oc=5",
+        "domain": "www.forbes.com",
+        "publisher": "Forbes",
+        "publisher_url": "https://www.forbes.com",
+        "language": "",
+        "seendate": "20261010T100000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New US sanctions against International Criminal Court unacceptable – Türk",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakxlaEZJMHdXRkY5RHdzSzVVaDBJT0Q1bjc0SnZya2lYTm5YZWk3dVpxd1pnZ1piWmt2V2dtLWVBRkFUelZiT2ZUZUVfMUptRnhIb09GVUtSc3o2ZEx0SmdFY1EzRVFRUWVkMVhnY3lkTXZVbVNyUWNBS291Tk5OMEZybS1Pbllkek53WU9pYUVfd21XUFRmNzVPOUdOS1B4UHJrelprZ2JvcThtLVFkc1ZMZWpLeFpKd01n?oc=5",
+        "domain": "www.ohchr.org",
+        "publisher": "ohchr",
+        "publisher_url": "https://www.ohchr.org",
+        "language": "",
+        "seendate": "20261009T164538Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "ICC urges members to make sure it can continue despite US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekdiQk5vWjJ6bWFsSzVsaXVrTHlSZVl0RjFMRVNrdVRCTDI5VXZEMXE0TUttZFZ1OVhLOGZKVFdSTmxNckFhWks5X1RPOEloMGVwMHpDM25fbEhGMERLY1dycmQ0OGRtSk9rYzVXUk1FMlB0cmxwZTNkSkxMVmp1OGpHdU8yQnlvWTYtOU5QOGN6Ri1IbDJUTHRFcjRuUnVhRTFWQ19NQTV3UQ?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261009T150424Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Statement by the Trust Fund for Victims in relation to sanctions imposed against the ICC",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXQzUzdBLTktUXlraFpnaVppNjdDOXRib1l2TmRKT2U3NmZnS0RVaVN1T09MV3JUODZSMnpncUhLeldGd0RsTy0wLURLejNzVXJDdi01N2JOYzJSZWE3bWUzSUNFdGkyYnpfSi1sZDhZM0JWaTVtVFdnbWxESXBFOUpNUUxEMGhSdldaWDJ4cU1qMjFwVWYtZVozeFg?oc=5",
         "domain": "www.icc-cpi.int",
@@ -439,108 +519,18 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US sanctions against the International Criminal Court: The ultimate test for its 125 States Parties",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNzRDVnJPc3RXM2FnR2V4bTJkYkNMWUJrMGt3SHpsaF9hV3hyZ3lvbHpjYy1TdWF2ckVzSDdJd0xHLUZlYk84djZlaEpHbXM2dGo3c0Z5azBoNTM1NWgxSWpiMENLeDZrNERhSFVqc2pDUm1RRWJ1ejVsUVh0VXlRM3BFcjFDRVhEOC02a01hcEJrWTFZdFF4RE1VYjYzZjdGcWZWaUpGdTlXaGE0M1lsR20xWUJ6Q1p6U09VT0ZiWHRQUTBRMDJTeTJ0d04tSTZ3akdwQzI3d3k1VFNYWTVwekdJRC1mUQ?oc=5",
-        "domain": "www.fidh.org",
-        "publisher": "Fédération internationale pour les droits humains",
-        "publisher_url": "https://www.fidh.org",
+        "title": "US sanctions 17 ships in push to shut down Iran’s shadow fleet",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtSUlmdndidVZ5c2xpMWFKbGJybzJFbldHVEVwTHpsaTlVb1IxS2lxb09UMGNpdEZ3TEJSNFJKWWtvOExpdWI3UHNoSzRJcm8xa0E?oc=5",
+        "domain": "www.iranintl.com",
+        "publisher": "Iran International",
+        "publisher_url": "https://www.iranintl.com",
         "language": "",
-        "seendate": "20261009T162852Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Comprehensive Sanctions on the International Criminal Court Require Collective Pushback",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWlOaGg3Q2pVazE2YjdSZmx3QmdSYjVMSW9BcXRuM2FLdjRzck1MQkNwcFZiZ0FTQnRoUkJZcTYxbUUyNWdlY1dtM3ZZV0tHRVl0NXlUdHBibjNFbnU5bWdELUJkUGZhNThuX3FFUVBrWmktbURDMWdDN1JwNGpLQnVGZDVibHRsZlhWcVEwaWpkclgwbFgzYmhmS2p2N1lSRllLMm9GQ09JaWZ6ejRLOE5qa0VkYldjYWJ0czZGeWl2UQ?oc=5",
-        "domain": "charityandsecurity.org",
-        "publisher": "Charity & Security Network",
-        "publisher_url": "https://charityandsecurity.org",
-        "language": "",
-        "seendate": "20261009T163340Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US sanctions ICC, hours after ex-judge wins Nobel",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONVFYT3p6VkprU3p5RmluYWM0NnhMWEVfUWNUS2dXWEY0d2NrNHFuNGxRSVYwZWdYaVd0UGhjb0hVQlowZFRLcmZWdFVSZXJ0RUFHQW53MHJES0xuYTRJOC1rdGpaWlhBZlRzWkhvTGREVWEwbGJoUTJnMi1Vd3JjOGhvODdFOUpoYm13R3lNWHZFOUtJUDRYWFgzS244QnpjNk1jdWduY2NqcTJMVEZSZVlkM0FLNko5QjlNSUkxVkTSAcABQVVfeXFMTVVXc3FsS2FmeXYwSDJ3dDF3dVp0VUJrQUliVXQyRzNRMVh3ZlIzdFFxbE5DSFphV1lscmtaLXV3MTVMeXBjZEpuTDl4czdkVlFRdUxidWZhTkRqd3VmckhFRzRUY29kZm51SlJfanNDM05RYmJKT0ZuaDJ2T2FhTjdPODlrYUgtQWx3RHlUM0hsNGJnY1hyNFAyY3h6WXREV01GcDllOTUtZXg4ZUg4Yy0tRHVJdEpTRXJJUWJQWDZp?oc=5",
-        "domain": "www.scmp.com",
-        "publisher": "South China Morning Post",
-        "publisher_url": "https://www.scmp.com",
-        "language": "",
-        "seendate": "20261009T145106Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. sanctions ICC after former judge wins Nobel Peace Prize",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YUlQ1U0dEaUN0dDJzdnZlcGdCcDVjamxBU1NQcU55MTJkWGRtel9wU0xhb29aMHpCWGpuUXRJSndhQ0UwZ09tdzZHU1FIVG5mRVZYakNscG1RcEdVNl96NHJuU1dfNUROSjFXMkxfVDF6VEJna29v?oc=5",
-        "domain": "www.japantimes.co.jp",
-        "publisher": "The Japan Times",
-        "publisher_url": "https://www.japantimes.co.jp",
-        "language": "",
-        "seendate": "20261009T220200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZXVJRTc5dmtkLTcwLUlQY2g0bnp0RXJwWGZxTHh2b3hSWjdGNDBnbGtkSWsyREM1SVVWd2lGRU5VUng3b251VDhqSkFHb0QweThSNlJ6VXV0Rm5QVnpFUlNRZ3ZxLWF6NTJVcFdjZmY4dlFRa2czZ0hsUGJGRVFqazVYbWZDbzFsWExubDQwQ2dJZHFYQWppdlZXMFRlVHJjVDV2cHllb3VVQTRNWVhhTG13eHlxbDlYakHSAb8BQVVfeXFMUFhNY0xkUXlhMnJkaHdsaEVYSFVyNXZCTDd1WFNQQlkyQWxiTWF1d0RidnZlQU5feVZ6TzN6ZG54RXp6d0d6eE8yeHYyME5PWVBaaHE5ckp2YkgwSERkd3BuZEs3MkdteEdJeDVlemRLWUx1QTE4QnVoczU2dWxHel9BZTVXXzBZWmc2ek15NVFkVEhQVmFrc08zejZUS0JKRlA2clk4aHlMNXo1NFQ5cjQxRXo1RmV0TS1qTC1XTGM?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261009T181439Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Rubio slaps fresh sanctions on 'rogue' International Criminal Court, vows to 'end the ICC' if prosecution threats go on",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSU9wM3dqQTA0U1c3ZVRUMm9kTUt5X01POGJ2bmZhZXJZQ3VZS1dQbVQ2cVE4bHNfLVVXY1pBSG84ZnYta215dEZJMmV6YjMzcGFzUGN4ZlBDMU83R2hwaE80MWk2OHZrZDZhTEx5ZG5fM1NydXBwSWtSMmhNRTdxd3plMUpxcmYxQWg3UmZtZjZaMHg2OHhLQ0g1N202Yk8yVzUzMFdSVkwzLUVzeFJndlZvQlNadkZJVmRGcGFWNHY3TFhtbXhGZUR0LWhHRHZsdlozZTZpLUN6VS1vS3FQRkhjdXZXc3JP?oc=5",
-        "domain": "nypost.com",
-        "publisher": "New York Post",
-        "publisher_url": "https://nypost.com",
-        "language": "",
-        "seendate": "20261009T171858Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump administration takes aim at ICC with sweeping sanctions",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ1oyaEpRTDZaakwtRzNSSWpLcHJ3NDd2c1ZnbHU5WGZ3Z2dtQ09ycGZldl82WDc4SGpRZHFCTHVXdUN3WE9aZTlOU1JVaWU0djRUUG1LV3k2M0lWQ0tDXzczTlN1ajV4RVpXbklyOG9lSTE2NjZRRUtfdXlWTlJLbUJqRlQ2ZW8xV0VSYkNic2U4WFBSY0hLSVpHMEpmeWdhUHVSakE0YmwxWUZtbWJrNEM5OF9fMlVvVnJ3YXl2bw?oc=5",
-        "domain": "news3lv.com",
-        "publisher": "KSNV",
-        "publisher_url": "https://news3lv.com",
-        "language": "",
-        "seendate": "20261009T183827Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Takaichi Says Japan ‘Deeply Concerned’ by US Sanctions on ICC",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1pNR2Iyd3prT2o0NDBuVzhna21MVnNLemhTN1VJS0E3Z3NMNW5SMUdkWXhsZGk0VGF3Y0NHdVhyLWlLZ09iRWQ2eEt6eWxPOXRVM1BucnF4X2hfd05DZU5neC01NzI5czJnQWRIamg5YncyQnJYdFdzTFJpVnJlMVRHaDdWZEtIMXd3VUl0Rkt4NXllRzV2ZldEa0lTVXd1R2U0bDlfTWYwTkN0VXk4T05SeGMtYUIySDkzSXhhaWo5cTR0cUxBRFV2ekpDQQ?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg.com",
-        "publisher_url": "https://www.bloomberg.com",
-        "language": "",
-        "seendate": "20261010T032300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump Administration, Accused of Crimes Against Humanity, Sanctions Entire ICC",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcUhWNDk5QXZrR1Vlb2VMLTZGSlVLUG5yNG1kdXJpTUFDekdjbFJVRUNBaEdUTG0yRWF1dS1nSDZldVhkVlBqVTcxTDZMTkZkYXF4QXVrLVlSQXNtOTRtYXBKV3JEOVppcE9FUjdzTmFKZGZ0cHF5bE5rd29rcUlGeE1sTDIzTFlNUXREbUR4bTEwdGQtZVRoRjlFRWVBYnJXSlBjOG5uMjFqVlE?oc=5",
-        "domain": "truthout.org",
-        "publisher": "Truthout",
-        "publisher_url": "https://truthout.org",
-        "language": "",
-        "seendate": "20261009T184328Z",
+        "seendate": "20261008T172500Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
-    {
-      "title": "The ICC strongly rejects US sanctions against the institution",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVZwUEMzamgxUzl4TTJ6aVdJWTJpbEpUc2RqR0IxTXg5MmV1QkVjRmhnb2x2blVDdGRyM2dFNkhQZHBObFlwZUlBXzg0U3VNV3NPNUdScEh5bHBMVzRVSWxrZjNIUmZNdVpmUmdwLWFZTlJNbjUyd2xUWi14SXJlSTM2Y3BTS2VHRXc?oc=5",
-      "domain": "www.icc-cpi.int",
-      "publisher": "| International Criminal Court",
-      "publisher_url": "https://www.icc-cpi.int",
-      "language": "",
-      "seendate": "20261009T152152Z",
-      "source": "GoogleNews"
-    },
     {
       "title": "Imposing Sanctions on the International Criminal Court",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbF9kWkF3dlFITzZHa29JMy1kaVFqTHRuUXl1eGtqODU0SGpHU2NjOER5WU9iY1pRZVRvSmJmT2h5VUhmc0VXeGhoRWdNX2FHUEtRYkx3NkEwZDQtdk1yRU9lRnREcWdNZU5kSVU0QVpGRDlzWWtpWC1xTF9MMkltMTFqRllmUm9QX2NxYXEyUzVnRUk2WW5JbVdwNTl2b3FKdjZENy1NY0RRSmNXTzFIcnBEQ1RmYkJ3eGc?oc=5",
@@ -562,13 +552,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+      "title": "The ICC strongly rejects US sanctions against the institution",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVZwUEMzamgxUzl4TTJ6aVdJWTJpbEpUc2RqR0IxTXg5MmV1QkVjRmhnb2x2blVDdGRyM2dFNkhQZHBObFlwZUlBXzg0U3VNV3NPNUdScEh5bHBMVzRVSWxrZjNIUmZNdVpmUmdwLWFZTlJNbjUyd2xUWi14SXJlSTM2Y3BTS2VHRXc?oc=5",
+      "domain": "www.icc-cpi.int",
+      "publisher": "| International Criminal Court",
+      "publisher_url": "https://www.icc-cpi.int",
+      "language": "",
+      "seendate": "20261009T152152Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Germany sticks to Russia sanctions after Trump announcement on diesel",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUFXZDgzaHN2T1FRdnc3Njh3R0t5cGppS3pJUm8xREprWk54RFdON1pYY1BBbFRKS2pEajVWVzJJcmNiQVVJVGI1czM0U0F1U04zUEFZZVNDZzUtVWZ6UzdPQlItRzNyX3ZseVdmeVlaY1B5M203LWhwWFJTZjh0TlBFVm4zbm9SQjVvRGpXclhWWnJDYmdOWVRmaFhCVDBRNV9uU0UtZmo?oc=5",
       "domain": "www.reuters.com",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
       "language": "",
-      "seendate": "20261009T140200Z",
+      "seendate": "20261010T105943Z",
       "source": "GoogleNews"
     },
     {
@@ -579,6 +579,26 @@
       "publisher_url": "https://www.washingtonpost.com",
       "language": "",
       "seendate": "20261010T040022Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US announces sanctions on the International Criminal Court",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnNxeEFFZ2R2Y1M4aHZSNlYtLU9WTUpTbGhrM3FEeG44UkRxRmxzZDFmdXlEc0tuSFpXdE02UmItOGxEa0NBQlFaSno0dDhzUkpFWmxuWk9WOUNIV3lLOTFpbTE3QThSRzI1RFB4NFh6MkIyTWE4eE81UVlYQlY3YWU2NDl6WHJuWWtvNkZNODZ4MzVaNlZVOF92bGZ1Sy14Wm54VdIBpAFBVV95cUxPT0lVTEFwbzZxaVVRQWpQTlNEYjBOOTNHTzNMZmtkQno2VldfVVNQSjNWZ0FNcnhNbHFPSGZyNmtaeGtTR0g5Q3A1M01BWTE0dVQ5TDBpaDVJRFNpV0NBSnZJVnFzbjlaUVczYTIxOGFXelk5MkRWaUFDeWdzYjF3cVNrV0JTU0FNYndLblgzenRPcVR3aWo1TlZvQ2FVRWtvWmxhYw?oc=5",
+      "domain": "www.dw.com",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "language": "",
+      "seendate": "20261010T002420Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump lifts sanctions on Russian diesel, suggests US may buy amid surging fuel prices",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVm1iSTU5UlBYRUxoMUxWZ1ByWXhvWlc2R2o4QWFqeG5mNnQ4WEc3QS11YUlKZUFBZ2NQUUdaTHFKNm1SZmlsNVBxODBCSUcyM2lUUE54cFdhVnNFZURKYkJ4aXE0ak1xUExyaHBRdm9kbGs1ZWREQnRuX2VWdW9kN1FNOUs0dUVfbWJ2dHZJcw?oc=5",
+      "domain": "www.politico.com",
+      "publisher": "Politico",
+      "publisher_url": "https://www.politico.com",
+      "language": "",
+      "seendate": "20261009T191000Z",
       "source": "GoogleNews"
     },
     {
@@ -602,43 +622,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Trump lifts sanctions on Russian diesel, suggests US may buy amid surging fuel prices",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVm1iSTU5UlBYRUxoMUxWZ1ByWXhvWlc2R2o4QWFqeG5mNnQ4WEc3QS11YUlKZUFBZ2NQUUdaTHFKNm1SZmlsNVBxODBCSUcyM2lUUE54cFdhVnNFZURKYkJ4aXE0ak1xUExyaHBRdm9kbGs1ZWREQnRuX2VWdW9kN1FNOUs0dUVfbWJ2dHZJcw?oc=5",
-      "domain": "www.politico.com",
-      "publisher": "Politico",
-      "publisher_url": "https://www.politico.com",
+      "title": "U.S. imposes sweeping sanctions on International Criminal Court",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWtVRTFWdDFiYWtqaEZwdFU3bXR5bnR2akpzRm01cFlXOFJuZng2NDRYYWtyWkFTc2hvam9BUGVUQ1BsNkQ2SlhtWktHYnZJaWxXTGZrQ3VxUFNQSG5BUkxhSGxaQ0JyUTRoakRjOTVfazJLeEZ6WkdBX0dNWEdkVEJieHZpNmJnQjFaSjdGaTUzRUdSRWhWOEVZeWVUdG92YzdxeUY3ekxmYjQ?oc=5",
+      "domain": "www.npr.org",
+      "publisher": "NPR",
+      "publisher_url": "https://www.npr.org",
       "language": "",
-      "seendate": "20261009T191000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHBFOGx1NzFvVkdzQWlHbm5vTGFlNFNBSm5fWWVPWC1EYXNoVmgtd2ZXSWJnaFZtSjhvRU5pd1YtMUVUV1FMYllka1hZQm5pck04N2pza0hZRU5NZXZtSEVnQWFGemMzWk00WlJaeVlDajNmQk0zNUg0RlhGYVBRX0dlYzBVS0w5aEJXLVdSMVdjZUxQalpnemtrRlg?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "language": "",
-      "seendate": "20261009T152317Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Trump escalates war on International Criminal Court with deep sanctions",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWJ6UEplRzNEaEZjUWp1UExHSUR4Nzk3Z09SZTJtMkhGS1F3RG5WWjA2dlN2aGpmX3F2SnNwM3ppakF0eS1TOTZzR1o1bE5ya2FtYWVlMDZrV3Zxbk1FblAxQk4zN0FveXBOcHl1ZG42MHZoVVFmNkJqYTA2ankxYjZVQnctUm5SVVVrSHAzT1VFNGRzZlI2dzItTGxOTi1aNHRzTQ?oc=5",
-      "domain": "www.courthousenews.com",
-      "publisher": "Courthouse News",
-      "publisher_url": "https://www.courthousenews.com",
-      "language": "",
-      "seendate": "20261009T174337Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US announces sanctions on the International Criminal Court",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnNxeEFFZ2R2Y1M4aHZSNlYtLU9WTUpTbGhrM3FEeG44UkRxRmxzZDFmdXlEc0tuSFpXdE02UmItOGxEa0NBQlFaSno0dDhzUkpFWmxuWk9WOUNIV3lLOTFpbTE3QThSRzI1RFB4NFh6MkIyTWE4eE81UVlYQlY3YWU2NDl6WHJuWWtvNkZNODZ4MzVaNlZVOF92bGZ1Sy14Wm54VdIBpAFBVV95cUxPT0lVTEFwbzZxaVVRQWpQTlNEYjBOOTNHTzNMZmtkQno2VldfVVNQSjNWZ0FNcnhNbHFPSGZyNmtaeGtTR0g5Q3A1M01BWTE0dVQ5TDBpaDVJRFNpV0NBSnZJVnFzbjlaUVczYTIxOGFXelk5MkRWaUFDeWdzYjF3cVNrV0JTU0FNYndLblgzenRPcVR3aWo1TlZvQ2FVRWtvWmxhYw?oc=5",
-      "domain": "www.dw.com",
-      "publisher": "DW.com",
-      "publisher_url": "https://www.dw.com",
-      "language": "",
-      "seendate": "20261009T181917Z",
+      "seendate": "20261010T114051Z",
       "source": "GoogleNews"
     },
     {
@@ -652,6 +642,36 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Trump escalates war on International Criminal Court with deep sanctions",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWJ6UEplRzNEaEZjUWp1UExHSUR4Nzk3Z09SZTJtMkhGS1F3RG5WWjA2dlN2aGpmX3F2SnNwM3ppakF0eS1TOTZzR1o1bE5ya2FtYWVlMDZrV3Zxbk1FblAxQk4zN0FveXBOcHl1ZG42MHZoVVFmNkJqYTA2ankxYjZVQnctUm5SVVVrSHAzT1VFNGRzZlI2dzItTGxOTi1aNHRzTQ?oc=5",
+      "domain": "www.courthousenews.com",
+      "publisher": "Courthouse News",
+      "publisher_url": "https://www.courthousenews.com",
+      "language": "",
+      "seendate": "20261009T174337Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "U.S. Sanctions and Threatens to Dismantle International Criminal Court",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWhKNi1UT2NaTnMySGFaNXRwVGozc2NzZG9QV1pUTkFhbzBMb1pQT3VFSV9IMF9kdUdVYmQ1THRjdFJwbmZvUFJoc2JNOV9xQ1A2S09vNU5UZGUtYmV6SEpWS3FoazRSc0JnUjlmbnFRTGctSGdMNU5wNXJ5TGE2YS1WWE92SUlNQWFqRWd5VDl2UVZEOVh2ZmpOUVV3UmtOdGRuNlNkaER0UW5YQUh3Ng?oc=5",
+      "domain": "www.wsj.com",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
+      "language": "",
+      "seendate": "20261009T174200Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHBFOGx1NzFvVkdzQWlHbm5vTGFlNFNBSm5fWWVPWC1EYXNoVmgtd2ZXSWJnaFZtSjhvRU5pd1YtMUVUV1FMYllka1hZQm5pck04N2pza0hZRU5NZXZtSEVnQWFGemMzWk00WlJaeVlDajNmQk0zNUg0RlhGYVBRX0dlYzBVS0w5aEJXLVdSMVdjZUxQalpnemtrRlg?oc=5",
+      "domain": "www.nytimes.com",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "language": "",
+      "seendate": "20261009T152317Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WSElxQ2l1VzJ2ZTNTQ2N1VHFLbXNzbmRvV3FMOEVyMm83ZDFxMmdxWmZuWHM5TmtGbXIya3c3U0kyYTcySW8yTzY2VGF1Q0h3TlAyVmZPbmp6d2s?oc=5",
       "domain": "www.bbc.com",
@@ -659,26 +679,6 @@
       "publisher_url": "https://www.bbc.com",
       "language": "",
       "seendate": "20261009T184010Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Trump strikes deal with Putin for Russian diesel in sharp reversal of U.S. policy ahead of midterms",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSWNoTjJ1UXVXNmh2NEFiZEx4eGJ4Q1dUczA4NjRsWERRVmJnUVo2MHFFcTJsMTlBWXktd1NldERtTVoyN0Fub0pTU01rcVo0WG9aZzE2XzRoUlVGallsWkE3b3NkX3ZFVTJwZkJ6OEphOVc4OHo3S3NsRFRWcHNvNGFIZVlTaHpIQkxTUWdsQWxGSjBxSThPVm93R0VrREFYRWk5Tk1VM3JpWmQyQnF0amVIVXdZR3BMRWw2RWoxTlRObFB3T2loSWxhRmNCZ9IB0wFBVV95cUxNQWtnTVN5N0JWck5iTDRkY1ZzNG1yeW1qcjVmXzV6dVFkTEhLX18tZmtwT1FudXNOM1MwNDBtZUstVjczOUFiR0RkZlFsQWhYRFhBTGJfMnRTcDJNUTdjSkdlaHpLa29SMkF6cWp4U2xLT1BjWVRVOFBWTm9zU1ZoelFwYWp6UVMzY2hSSlg4OHJtb0xGdVF0UklNNy1ZZXg3X3JXUkZrQzdrck16MVJySnZzRUlaMHJmNmQ3Z1F5SjE0SzRDRlFTX3lnc19OeURPbDBZ?oc=5",
-      "domain": "www.pbs.org",
-      "publisher": "PBS",
-      "publisher_url": "https://www.pbs.org",
-      "language": "",
-      "seendate": "20261009T220636Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US hits International Criminal Court with sweeping sanctions as part of drive to dismantle tribunal",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXNFcXVnRVZfckpBb0hJMmN0aVhRQ1lxZHlsUlR4MWhLN0J0d0VYdllmYnF2SUlxV3BFN1VGbTAzQXMtaTZjbld2WFg0akNnMjNaUlBTRTlZeE1SQlZ6OXJ6Y3pibHNOQjBreHRHN295WTlVZmtnT0RnX1YwTV8yWTlibFA?oc=5",
-      "domain": "apnews.com",
-      "publisher": "AP News",
-      "publisher_url": "https://apnews.com",
-      "language": "",
-      "seendate": "20261009T184600Z",
       "source": "GoogleNews"
     }
   ],
