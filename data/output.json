@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-10-11T05:34:45.337586+00:00",
+    "generated": "2026-10-11T12:38:08.760116+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,31 +23,11 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "29"
+      "value": "28"
     }
   ],
   "live_data": {
     "news_articles": [
-      {
-        "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYm5oTEpwTVVzQ2hrd3ZTVWwxNG1rLTBNZkpDdnEtOUpTUUtCWGlHNlY0M0xkUmNPN2FISXNHQTlFX2J5VzZjQ0hNaHdNS05aeEdWQTNMMVVkT0VfMms3RHBJRllTWDE4WHN2MG0yWlpnLVg3SWxUUFNHRTZwbElqdGVDUldMZl9yN3NqV1lIbm1wZ3JuOGxSV29idW1mMjNhTGliSm9ISW9IcnZ1M1hzeGhNdUR2RkE?oc=5",
-        "domain": "www.npr.org",
-        "publisher": "NPR",
-        "publisher_url": "https://www.npr.org",
-        "language": "",
-        "seendate": "20261010T114053Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ukraine rattled as Trump eases Russia oil sanctions, says Zelenskyy should be replaced",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1Ja2RHUFhhYVRTdFk4R2c3YW5GNUc3dkp4MW16VDV5MFFKdUI5WUhnZXlvVVpCSXQtQURIblljN3c3MzNmd21ydFRjWUZMLWxxaGdVQVNGNk5Mc1lFV0RPMnl6Szl3SEhFNFZRYnNuaUJMaVFIN1JIa2F2cnRCc0tsb0JfVHZWUHpkZUJkMnZJYldlZHFBZTY4Yk96ZXlQdHJndUdZS3poS2wxa1hB?oc=5",
-        "domain": "www.nbcnews.com",
-        "publisher": "NBC News",
-        "publisher_url": "https://www.nbcnews.com",
-        "language": "",
-        "seendate": "20261010T144631Z",
-        "source": "GoogleNews"
-      },
       {
         "title": "Imposing Sanctions on the International Criminal Court",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbF9kWkF3dlFITzZHa29JMy1kaVFqTHRuUXl1eGtqODU0SGpHU2NjOER5WU9iY1pRZVRvSmJmT2h5VUhmc0VXeGhoRWdNX2FHUEtRYkx3NkEwZDQtdk1yRU9lRnREcWdNZU5kSVU0QVpGRDlzWWtpWC1xTF9MMkltMTFqRllmUm9QX2NxYXEyUzVnRUk2WW5JbVdwNTl2b3FKdjZENy1NY0RRSmNXTzFIcnBEQ1RmYkJ3eGc?oc=5",
@@ -59,23 +39,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Germany sticks to Russia sanctions after Trump announcement on diesel",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUFXZDgzaHN2T1FRdnc3Njh3R0t5cGppS3pJUm8xREprWk54RFdON1pYY1BBbFRKS2pEajVWVzJJcmNiQVVJVGI1czM0U0F1U04zUEFZZVNDZzUtVWZ6UzdPQlItRzNyX3ZseVdmeVlaY1B5M203LWhwWFJTZjh0TlBFVm4zbm9SQjVvRGpXclhWWnJDYmdOWVRmaFhCVDBRNV9uU0UtZmo?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261010T105943Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Germany sticks to Russia sanctions after Trump diesel deal",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYzBrUE1heDRjMEt4OFNqcUxIdURaelhuYUV0QUhoWEhIU2RxOGN2ek9GVzk3eWp6M21jcm93ODRnQmZrN3JBNE5EMV9kVjNOUUw1N1RsWm1WWXdWd25JUFNSVS1QTWhKdzdGek5kY1luU1lwM1lVUXo4c2VuX1h4QzJwOUI1LWNyTEJmcm1uWHJPZDFJOVdYNmlR?oc=5",
         "domain": "www.dw.com",
         "publisher": "DW.com",
         "publisher_url": "https://www.dw.com",
         "language": "",
-        "seendate": "20261010T180850Z",
+        "seendate": "20261011T001120Z",
         "source": "GoogleNews"
       },
       {
@@ -89,23 +59,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Premier League coaches react to Manchester City judgment, possible sanctions",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblA1MGhYSFpSRDE0bWNrQjByZmRMa2NSSFlsaDBOZmlsanBwR3JuZ1g0SDlTQTF5eE52ZUZ3a1B2RTQwT0FzNTUxUXFIbHY5Zmx4VUg0SGxvMVNpODBQejF2bWtCVFV3cEVvOElvbHYtM0ZWdnE3dnl2UHdZZVRVbmNCSHU2S0hZTkJmR0hjcW1hWVVZcmpF?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
+        "title": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261010T225900Z",
+        "seendate": "20261009T140200Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Why is US turning to Russia for diesel despite sanctions?",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGNTbVgyVC14ZDVBOEs3Mm1rTW16emtnYzdRZm1OWi1SQ0xod09CRWZaajVkbEVmanlDdUxDRGd4NXNJOFdJYUYwUmV2UW00VXl2a2p4M0ZxNVc2NGlNdFIyN1R4UEFwTzN4aFdDcFNSM3ZKdnpIN3Bqek1wT25UUkhZUVV4UlJ0YjNROFc3TEgwQ25hZWlmZmJMVVJ1ZUnSAaQBQVVfeXFMT1R5NE0yR3F1TTRkZHZCb1h4M2lvd1JTMklBT05BUWY5SGRsSVFSbG9LTlNNeDJVNFpnMk9ZcVVpNnBLOUxPQmdacjA2VTdCeWVSei1lbmVJYUw1MFBnN1RRV2VjNENoQmhDck5EbkpXaFpoUW0wQ1ktbG54Z2l2LTVyN2dDc3BERTZzYTlOVGdyNDItSnh3UnFRc2RlbWktbWtKVXI?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "Ukraine rattled as Trump eases Russia oil sanctions, says Zelenskyy should be replaced",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1Ja2RHUFhhYVRTdFk4R2c3YW5GNUc3dkp4MW16VDV5MFFKdUI5WUhnZXlvVVpCSXQtQURIblljN3c3MzNmd21ydFRjWUZMLWxxaGdVQVNGNk5Mc1lFV0RPMnl6Szl3SEhFNFZRYnNuaUJMaVFIN1JIa2F2cnRCc0tsb0JfVHZWUHpkZUJkMnZJYldlZHFBZTY4Yk96ZXlQdHJndUdZS3poS2wxa1hB?oc=5",
+        "domain": "www.nbcnews.com",
+        "publisher": "NBC News",
+        "publisher_url": "https://www.nbcnews.com",
         "language": "",
-        "seendate": "20261010T122526Z",
+        "seendate": "20261010T144631Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYm5oTEpwTVVzQ2hrd3ZTVWwxNG1rLTBNZkpDdnEtOUpTUUtCWGlHNlY0M0xkUmNPN2FISXNHQTlFX2J5VzZjQ0hNaHdNS05aeEdWQTNMMVVkT0VfMms3RHBJRllTWDE4WHN2MG0yWlpnLVg3SWxUUFNHRTZwbElqdGVDUldMZl9yN3NqV1lIbm1wZ3JuOGxSV29idW1mMjNhTGliSm9ISW9IcnZ1M1hzeGhNdUR2RkE?oc=5",
+        "domain": "www.npr.org",
+        "publisher": "NPR",
+        "publisher_url": "https://www.npr.org",
+        "language": "",
+        "seendate": "20261010T114053Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump misses out on Nobel Prize again and imposes new sanctions on the International Criminal Court. What does it mean?",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWlJWclRPenpaMVpTcFNYMFRZdDJGclBoMHdPQ0xJUnBoeDJ3ZDg4Sm1iTGxRYVJQYldOUEhRZXFueXRYaVRkb210NzRjdDdNTVdlNFdMOExRTE8wZkwxWlJWWUs3YnVhUHVrZUNBM0FtVjVKcERmWnUyNUh5OEEzWmNlLXd6ODJiVkoyaVhzWmhjbWpvOHJXVXJHaERqeUltUkpMZDFMMFBQYnhENzVIckVUT1diaUh2eEExamFVTHQ1QTQyLXdDTC00ZGlrTnExMVNuUU9TWU8yam9lTTNaekFBY1BPeTg?oc=5",
+        "domain": "theconversation.com",
+        "publisher": "The Conversation",
+        "publisher_url": "https://theconversation.com",
+        "language": "",
+        "seendate": "20261011T050832Z",
         "source": "GoogleNews"
       },
       {
@@ -119,23 +109,23 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rb2FYU2tneS1pdzNLcHFobnZpNFM3cjBCSE9MNWtFRVV6MG5uZDkxRmwwUWJ0QlRQQy03c2NsNUM5blh0bkFYQVhadjU2bkxCUVZNR2VpdVFlV1k?oc=5",
+        "domain": "www.bbc.com",
+        "publisher": "BBC",
+        "publisher_url": "https://www.bbc.com",
+        "language": "",
+        "seendate": "20261010T152347Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Trump administration launches new sanctions on International Criminal Court",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2hQMDBzWjNCRnE3NzNuQkt5ZlJteEZpdzVLM3dHMjctYWtucGpzcDl6QmZXaFotTVRZbjZrQXk0LUkwNHhoTWpneWF5cjVjWEFQN0pHdnZSTWZUMVd5Q2ZEZlp1U0Z0Z0pMSWNwVWRuU0ZFQUVZN094NThhRjZjWGNyVUVqUGdMWlNlM1JHd1dUcE5GVGhuMlNR?oc=5",
         "domain": "www.politico.com",
         "publisher": "Politico",
         "publisher_url": "https://www.politico.com",
         "language": "",
-        "seendate": "20261009T164400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Rubio cites ‘necessity’ of U.S. sanctions on ICC in call with Japanese counterpart",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGpzZExwX0x4Z05wNnpRd2Rid1dWcU4xbFBfdlhQVDN6RUJhYmNYaHgya0dkemhvVlRiUmZJRE1tWjhveHpiTlhQZTEwUG9YWFZlY2lwTnJMWmRBMVJtSEl4X3lCcWlDU2RWR3hkZ3FGeUZDRlpLMDZfM0tkYVdwdDlSdElrbGVKbGV2MjRsWmE?oc=5",
-        "domain": "www.japantimes.co.jp",
-        "publisher": "The Japan Times",
-        "publisher_url": "https://www.japantimes.co.jp",
-        "language": "",
-        "seendate": "20261011T014100Z",
+        "seendate": "20261009T155400Z",
         "source": "GoogleNews"
       },
       {
@@ -159,43 +149,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "U.S. imposes sweeping sanctions on International Criminal Court",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWtVRTFWdDFiYWtqaEZwdFU3bXR5bnR2akpzRm01cFlXOFJuZng2NDRYYWtyWkFTc2hvam9BUGVUQ1BsNkQ2SlhtWktHYnZJaWxXTGZrQ3VxUFNQSG5BUkxhSGxaQ0JyUTRoakRjOTVfazJLeEZ6WkdBX0dNWEdkVEJieHZpNmJnQjFaSjdGaTUzRUdSRWhWOEVZeWVUdG92YzdxeUY3ekxmYjQ?oc=5",
-        "domain": "www.npr.org",
-        "publisher": "NPR",
-        "publisher_url": "https://www.npr.org",
+        "title": "Premier League coaches react to Manchester City judgment, possible sanctions",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblA1MGhYSFpSRDE0bWNrQjByZmRMa2NSSFlsaDBOZmlsanBwR3JuZ1g0SDlTQTF5eE52ZUZ3a1B2RTQwT0FzNTUxUXFIbHY5Zmx4VUg0SGxvMVNpODBQejF2bWtCVFV3cEVvOElvbHYtM0ZWdnE3dnl2UHdZZVRVbmNCSHU2S0hZTkJmR0hjcW1hWVVZcmpF?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20261010T114051Z",
+        "seendate": "20261010T225900Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US announces sanctions on the International Criminal Court",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnNxeEFFZ2R2Y1M4aHZSNlYtLU9WTUpTbGhrM3FEeG44UkRxRmxzZDFmdXlEc0tuSFpXdE02UmItOGxEa0NBQlFaSno0dDhzUkpFWmxuWk9WOUNIV3lLOTFpbTE3QThSRzI1RFB4NFh6MkIyTWE4eE81UVlYQlY3YWU2NDl6WHJuWWtvNkZNODZ4MzVaNlZVOF92bGZ1Sy14Wm54VdIBpAFBVV95cUxPT0lVTEFwbzZxaVVRQWpQTlNEYjBOOTNHTzNMZmtkQno2VldfVVNQSjNWZ0FNcnhNbHFPSGZyNmtaeGtTR0g5Q3A1M01BWTE0dVQ5TDBpaDVJRFNpV0NBSnZJVnFzbjlaUVczYTIxOGFXelk5MkRWaUFDeWdzYjF3cVNrV0JTU0FNYndLblgzenRPcVR3aWo1TlZvQ2FVRWtvWmxhYw?oc=5",
-        "domain": "www.dw.com",
-        "publisher": "DW.com",
-        "publisher_url": "https://www.dw.com",
-        "language": "",
-        "seendate": "20261010T123406Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+        "title": "US imposes fresh sanctions on Iran's shadow fleet",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUm45bHRGMFlmNEV2d2lTTkFvQURQckhMSGhYRlhxWUtOb1d2cGhCTnVXUEJaMF94S2xZNXFWMF9ONTVraWdWdnVOME04c2xyMk5tRnhHVjI3YVFmQTZIWVR6MXhDUUNram9tRjlsejRlRXVQUERDX3NkY2ZIVmlsOV9Ic0wxOVNPSmVCRmtVVExGcWZNY0tCTw?oc=5",
         "domain": "www.reuters.com",
         "publisher": "Reuters",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261009T140200Z",
+        "seendate": "20261008T183524Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Why is the US sanctioning the International Criminal Court?",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT29SMHVPVGc5OUxjT2plSDN3ZkNLVTF6c25wSDZlZW5TcE5reTJTU0ZIUS1RTEdnTld6YjU1c2pnNE5NTTV2R1VVZ2R3VFdDWjVDVnJ5dTJTdHJyRC1XaWphTWtUdk01V2s5NUdrV04xdzJrVG52bkxKa2w1elJQcXdBcS1fRGlNSENIN2tTTFk2b2VNQ1o4bXFiaU5rRGJpOUHSAacBQVVfeXFMTmJPeDBjZjdYYklhY3VFYWQ1UmtjNGItczB3UVZaaEhfaEktY2VPbE5wcTA2UzlTRV9DZzNLb3c4ODM5Z2Mtc0lyVzkyNnhjYXVFQ0RwaWU2YUJHWmR3UmhNS3VQUE1ma29VS3kzSGJzd2t0RXZsVklOYV8yaWRjZXhONXRIcnR1aWdRMGF2WXBDeER6bGQzSFQ5VlYtZVlEMDZxMUlmVHM?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "Politics chat: Trump announces fuel deal with Russia. What does it mean for sanctions?",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR3JWeWxYVzZpcGtRNUY3R3RFWU11V3RLNmRPZm9sZDJhV1JiS09fa29qeEJLVWRDWmxYV1Z4b01wSEdZY21EcDBhNVJvX0hmbXI5X1hZZEJRMW9uQzk1YUNpZzBtQmdScjViaEN4ajlOQVhqVzRWMVhnS3hyUDQzMUhyYjNJS05xTTVrZC1BdUNoNTlQQjlqN3YyWFdISW5kakFYdEc3N2pERFVsMWRZdlEyRVQtOVFDVlpoXzhkV2JaUG1USnJF?oc=5",
+        "domain": "www.npr.org",
+        "publisher": "NPR",
+        "publisher_url": "https://www.npr.org",
         "language": "",
-        "seendate": "20261010T154605Z",
+        "seendate": "20261011T120356Z",
         "source": "GoogleNews"
       },
       {
@@ -209,13 +189,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US imposes fresh sanctions on Iran's shadow fleet",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUm45bHRGMFlmNEV2d2lTTkFvQURQckhMSGhYRlhxWUtOb1d2cGhCTnVXUEJaMF94S2xZNXFWMF9ONTVraWdWdnVOME04c2xyMk5tRnhHVjI3YVFmQTZIWVR6MXhDUUNram9tRjlsejRlRXVQUERDX3NkY2ZIVmlsOV9Ic0wxOVNPSmVCRmtVVExGcWZNY0tCTw?oc=5",
+        "title": "Germany sticks to Russia sanctions after Trump announcement on diesel",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUFXZDgzaHN2T1FRdnc3Njh3R0t5cGppS3pJUm8xREprWk54RFdON1pYY1BBbFRKS2pEajVWVzJJcmNiQVVJVGI1czM0U0F1U04zUEFZZVNDZzUtVWZ6UzdPQlItRzNyX3ZseVdmeVlaY1B5M203LWhwWFJTZjh0TlBFVm4zbm9SQjVvRGpXclhWWnJDYmdOWVRmaFhCVDBRNV9uU0UtZmo?oc=5",
         "domain": "www.reuters.com",
         "publisher": "Reuters",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261008T183524Z",
+        "seendate": "20261010T105943Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. imposes sweeping sanctions on International Criminal Court",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWtVRTFWdDFiYWtqaEZwdFU3bXR5bnR2akpzRm01cFlXOFJuZng2NDRYYWtyWkFTc2hvam9BUGVUQ1BsNkQ2SlhtWktHYnZJaWxXTGZrQ3VxUFNQSG5BUkxhSGxaQ0JyUTRoakRjOTVfazJLeEZ6WkdBX0dNWEdkVEJieHZpNmJnQjFaSjdGaTUzRUdSRWhWOEVZeWVUdG92YzdxeUY3ekxmYjQ?oc=5",
+        "domain": "www.npr.org",
+        "publisher": "NPR",
+        "publisher_url": "https://www.npr.org",
+        "language": "",
+        "seendate": "20261010T114051Z",
         "source": "GoogleNews"
       },
       {
@@ -239,23 +229,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "The Bureau of the Assembly of States Parties regrets sanctions against the ICC as an institution",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX05YZkdLTWJIRUJnR1Roc2NjbFhoUkhXQ09HRGRYUVI2YVdTakNZS2tJWGFobHV4VXVVYlF3bVpIaUhIRl9xWlV1OWdPTmF0ZFlpWjJjaG5vMUVINmcyczR3aXJHdFlKajR4Y0NoMnhaaEdWQzJFS2xMejIyQU5XLTcwU3VBbEkteTFVMjg3dXpGVUF2Wm1wWXpwVFFFZkJCY0pF?oc=5",
-        "domain": "www.icc-cpi.int",
-        "publisher": "| International Criminal Court",
-        "publisher_url": "https://www.icc-cpi.int",
+        "title": "Trump lifts sanctions on Russian diesel, suggests US may buy amid surging fuel prices",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVm1iSTU5UlBYRUxoMUxWZ1ByWXhvWlc2R2o4QWFqeG5mNnQ4WEc3QS11YUlKZUFBZ2NQUUdaTHFKNm1SZmlsNVBxODBCSUcyM2lUUE54cFdhVnNFZURKYkJ4aXE0ak1xUExyaHBRdm9kbGs1ZWREQnRuX2VWdW9kN1FNOUs0dUVfbWJ2dHZJcw?oc=5",
+        "domain": "www.politico.com",
+        "publisher": "Politico",
+        "publisher_url": "https://www.politico.com",
         "language": "",
-        "seendate": "20261010T141843Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US imposes full sanctions on ICC over arrest warrants and jurisdiction disputes",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3F2MER5VG5xSm1GR1I2RjliaFUzRkZ0V05BUlcyMjQtNmEtdDFMTGtVdEx2RmJUSDRfdmtndS1qUV8wMUV1UTVWUjZaT1YwWkhmbVdEUkk3RzVLQTJlSlRUMmUwcUdKZm8xNVdKUE0wT1pPbElJbHU3Y2pCMnBPYnl5YWZnTnl5NXdMb3lQaFREWXVTejRuUHd1NHQteHpEelZCZkVaVjlfRENwekFLbEJJYlFiYlk?oc=5",
-        "domain": "www.jurist.org",
-        "publisher": "Jurist.org",
-        "publisher_url": "https://www.jurist.org",
-        "language": "",
-        "seendate": "20261010T134718Z",
+        "seendate": "20261009T191000Z",
         "source": "GoogleNews"
       },
       {
@@ -269,33 +249,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump lifts sanctions on Russian diesel, suggests US may buy amid surging fuel prices",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVm1iSTU5UlBYRUxoMUxWZ1ByWXhvWlc2R2o4QWFqeG5mNnQ4WEc3QS11YUlKZUFBZ2NQUUdaTHFKNm1SZmlsNVBxODBCSUcyM2lUUE54cFdhVnNFZURKYkJ4aXE0ak1xUExyaHBRdm9kbGs1ZWREQnRuX2VWdW9kN1FNOUs0dUVfbWJ2dHZJcw?oc=5",
-        "domain": "www.politico.com",
-        "publisher": "Politico",
-        "publisher_url": "https://www.politico.com",
+        "title": "Why is the US sanctioning the International Criminal Court?",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT29SMHVPVGc5OUxjT2plSDN3ZkNLVTF6c25wSDZlZW5TcE5reTJTU0ZIUS1RTEdnTld6YjU1c2pnNE5NTTV2R1VVZ2R3VFdDWjVDVnJ5dTJTdHJyRC1XaWphTWtUdk01V2s5NUdrV04xdzJrVG52bkxKa2w1elJQcXdBcS1fRGlNSENIN2tTTFk2b2VNQ1o4bXFiaU5rRGJpOUHSAacBQVVfeXFMTmJPeDBjZjdYYklhY3VFYWQ1UmtjNGItczB3UVZaaEhfaEktY2VPbE5wcTA2UzlTRV9DZzNLb3c4ODM5Z2Mtc0lyVzkyNnhjYXVFQ0RwaWU2YUJHWmR3UmhNS3VQUE1ma29VS3kzSGJzd2t0RXZsVklOYV8yaWRjZXhONXRIcnR1aWdRMGF2WXBDeER6bGQzSFQ5VlYtZVlEMDZxMUlmVHM?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261009T191000Z",
+        "seendate": "20261010T154605Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US announces ICC sanctions and issues ultimatum to member states",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcTBzZDBWYmV0NzhiZGlldnp4WlZPM0NNVF9fSDFYYU1sMWg1Wk55WmMtXzVzaklGMm83M2FJQWViMFFYWmpMYU56dV9KZ2JSLU1pOEEyWDNYbnJRWHQ2WlZsMV96WktvVkRLcWFiX3hYcmU0NWo4RVhLZ1hJRmFYQjRnUGdlR0dla1EwdVY0VnRVb2twV2NCcnFPdEVTU1pTSWpMdUF1UnlLSm9oYUVwQkZjbXlONHluSm1jOUFJck12dm1OM2ZTLTJrbkZjU2hqYUtHZg?oc=5",
-        "domain": "www.lemonde.fr",
-        "publisher": "Le Monde.fr",
-        "publisher_url": "https://www.lemonde.fr",
+        "title": "US sanctions International Criminal Court in major escalation",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmVUSkZhQjRwQS11bzZ3V2RQWDlaY0NvLTkwdDd6bUpjX1UwNVcwLWI0UExJV2FCRFZlRDZQalVZMEhleHFZb3E1WnBwZTZRMFRSSmRDWDNESzlIUzQyYzJCMFEtZjRDZy1FZ2dhLWVWQWEzOVZwLUhqWFl3QklTb2Nfd0pMX3J6cGl4cjU3Q3ZRT0QwOXgtelB0QU1WYkp3X2FWLThfVE5RZWt2OVdr0gG0AUFVX3lxTE5WSy1UNkxSME5YbXVTbU1vMHdTQ1U5RmhQX0lwQnphVjViaWtkQmdWNWs0ZlVKdUd5RlZrNDBFSHpUMkstMWY1NUFFRHhFazIyZmtEOUFxMDFNRlJFREZVQ3ZRZHNweXpVRmxtZWJuM0t4SGluNmNaSWNPMTl5VnB6c3F3dVdpVWJBdTNoRW9KQVhfVmZEc2NkM0xGaXVXNkxhNkJVN19BQjFVMXlhR3V3Y3RlTA?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261010T102616Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "OFAC Targets Iran’s Aviation and Rail Sectors for Additional Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMkQ4eWE3amlqRTE5aGx1T0VzaHlncXJFcHY2TmRBMEtlZ1VHRlprRENaQllrdVY0NVVKdkxRaW56djNZem5kTTE2b1kxV1pYUDlwVmdvcVI3TFUwRVpHNmlJa283ZHgtV3V0ZzBKT0FOWmtQbEpuMnJGYmNRSEVJeEZDTWs5Sm1abndfUDVlWDExSGNDMkdOd2NtXzIzUi15VW80aFVEb0xFV1FGR1k2QzF2eVBYdVU?oc=5",
-        "domain": "www.thompsonhinesmartrade.com",
-        "publisher": "Thompson Hine",
-        "publisher_url": "https://www.thompsonhinesmartrade.com",
-        "language": "",
-        "seendate": "20261007T213241Z",
+        "seendate": "20261009T182352Z",
         "source": "GoogleNews"
       },
       {
@@ -315,67 +285,27 @@
         "publisher": "DW.com",
         "publisher_url": "https://www.dw.com",
         "language": "",
-        "seendate": "20261010T175630Z",
+        "seendate": "20261011T052243Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US sanctions International Criminal Court in major escalation",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmVUSkZhQjRwQS11bzZ3V2RQWDlaY0NvLTkwdDd6bUpjX1UwNVcwLWI0UExJV2FCRFZlRDZQalVZMEhleHFZb3E1WnBwZTZRMFRSSmRDWDNESzlIUzQyYzJCMFEtZjRDZy1FZ2dhLWVWQWEzOVZwLUhqWFl3QklTb2Nfd0pMX3J6cGl4cjU3Q3ZRT0QwOXgtelB0QU1WYkp3X2FWLThfVE5RZWt2OVdr0gG0AUFVX3lxTE5WSy1UNkxSME5YbXVTbU1vMHdTQ1U5RmhQX0lwQnphVjViaWtkQmdWNWs0ZlVKdUd5RlZrNDBFSHpUMkstMWY1NUFFRHhFazIyZmtEOUFxMDFNRlJFREZVQ3ZRZHNweXpVRmxtZWJuM0t4SGluNmNaSWNPMTl5VnB6c3F3dVdpVWJBdTNoRW9KQVhfVmZEc2NkM0xGaXVXNkxhNkJVN19BQjFVMXlhR3V3Y3RlTA?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "US economic campaign targets Iran's political survival, experts say",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10NjZHZXJNdlc3d2JudGw0OGhVWHVfMHZibWc2V2F5VV9wX3RUUG9jVXBuakNqeVpCclduY1ZvYmljQS1uNW1nQzlYeUd1S194Z2c?oc=5",
+        "domain": "www.iranintl.com",
+        "publisher": "Iran International",
+        "publisher_url": "https://www.iranintl.com",
         "language": "",
-        "seendate": "20261009T182352Z",
+        "seendate": "20261011T100916Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Top Japan Spokesman Deeply Concerned over U.S. Sanctions on ICC",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44YjBQZGp0WmFxY0NicTJLZmczUEtMakhIWGRxNVN0U2RjZkJEblg5dTNxMHI3X2dRTm96bDdheGJsUWxYWVhIRmZJMmZSU3JkQzRBZ2lSZ01wUWpx?oc=5",
-        "domain": "www.nippon.com",
-        "publisher": "nippon.com",
-        "publisher_url": "https://www.nippon.com",
+        "title": "US announces sanctions on the International Criminal Court",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnNxeEFFZ2R2Y1M4aHZSNlYtLU9WTUpTbGhrM3FEeG44UkRxRmxzZDFmdXlEc0tuSFpXdE02UmItOGxEa0NBQlFaSno0dDhzUkpFWmxuWk9WOUNIV3lLOTFpbTE3QThSRzI1RFB4NFh6MkIyTWE4eE81UVlYQlY3YWU2NDl6WHJuWWtvNkZNODZ4MzVaNlZVOF92bGZ1Sy14Wm54VdIBpAFBVV95cUxPT0lVTEFwbzZxaVVRQWpQTlNEYjBOOTNHTzNMZmtkQno2VldfVVNQSjNWZ0FNcnhNbHFPSGZyNmtaeGtTR0g5Q3A1M01BWTE0dVQ5TDBpaDVJRFNpV0NBSnZJVnFzbjlaUVczYTIxOGFXelk5MkRWaUFDeWdzYjF3cVNrV0JTU0FNYndLblgzenRPcVR3aWo1TlZvQ2FVRWtvWmxhYw?oc=5",
+        "domain": "www.dw.com",
+        "publisher": "DW.com",
+        "publisher_url": "https://www.dw.com",
         "language": "",
-        "seendate": "20261011T042858Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump says Russia will export diesel, lifts sanctions",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUtNR2lvVlBpM29SdzRlelE2aDA5SjdLOEd3U0JWeDAwTEN0Snl2RG1tU3BaUWplM2xQOGM4M1k2VWtiYm1DWkN5WC1pd3p6NDBzMUpfeW1IdVhBejhjTnp6NkVwcWM4UU8ybHhRdGtDUk9XYXRxUEwxN3E1ZzgyNnVVOURQMC1MbVdES0l4Q2VtNnJvc3Q5UDhnM3NTNU9BTzdfNmpjSFBzbnFZaWp3NDZB0gG3AUFVX3lxTE1kYm1Xc1pOMEtaSlJOR1BTMEJmWFotdGloMWlRXzhsVU9EV0NFSWVKX2psSURqenBOdkpyc2Q4Z2JIMW5WTGwzbUx0TDVHaHdJMm5paXR5bktKQUhPNEZ3MnhVV01LUUJlRVo5X19kclpTdjBMUmZoY3FXamt4REJmcUxlUkRVVzVVN2l0Mng2TDJkcXZDR0lZcTEzTC0zYjRYU3lDYWpSTi1yMkMwMVY0NGxIRm02SQ?oc=5",
-        "domain": "thehill.com",
-        "publisher": "The Hill",
-        "publisher_url": "https://thehill.com",
-        "language": "",
-        "seendate": "20261009T222300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. Sanctions and Threatens to Dismantle International Criminal Court",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWhKNi1UT2NaTnMySGFaNXRwVGozc2NzZG9QV1pUTkFhbzBMb1pQT3VFSV9IMF9kdUdVYmQ1THRjdFJwbmZvUFJoc2JNOV9xQ1A2S09vNU5UZGUtYmV6SEpWS3FoazRSc0JnUjlmbnFRTGctSGdMNU5wNXJ5TGE2YS1WWE92SUlNQWFqRWd5VDl2UVZEOVh2ZmpOUVV3UmtOdGRuNlNkaER0UW5YQUh3Ng?oc=5",
-        "domain": "www.wsj.com",
-        "publisher": "WSJ",
-        "publisher_url": "https://www.wsj.com",
-        "language": "",
-        "seendate": "20261009T174200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "International Criminal Court ‘firmly rejects’ new US sanctions",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXRKd1V5VHlrbUpFSXBpanJaRmpUMnBuQW1aZ3U1S2ZUWm9pUUFwNzZtSHIzVnZoVVlxQWZFUkNmMmRkbkZVdXBRQUd2UmdKWWdqWHdDdG5fT1BpVTVoZ1NfZHlLMWVCZ1p0MU0yV3JySVZ2UjV1VEh4M3dqOVo1Y3BKRm1wSmhuU1pOM1loanF6S3BhQjdTVDhSNWU3TTTSAaQBQVVfeXFMUGJUUGtvZkttNlJsZEM5Z3Bhc1lOVUl4NVpORlFRQmNOT0hYOU0yMTJUZnJUSUhmZ2ZYZ3Yxb1ZBaU1Nc2c3SVdkb2FySWhGeGhoekQ5d1FLWWhqeUJSZUZWZ1dqV3gyTVNZYlYtcjhjWk53bWkweXZ2MmRvSWxtQmoyQ1k2bnV1QlIzYzdtTkI1eWNweTNJNHZGam1FZzVqdV9oZUc?oc=5",
-        "domain": "thehill.com",
-        "publisher": "The Hill",
-        "publisher_url": "https://thehill.com",
-        "language": "",
-        "seendate": "20261009T202500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US lifts sanctions on daughter of military-linked Myanmar businessman",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN01KUDU3dmZwWHhWbXF0d2ozTXVyZ3c3bUZmWjRMWS1obEFvaWl6YUxJdXZQSGdGazBuY1lhMDdJamdBSTJVeDBmLUN0NmJ1VzA5VlZOeExwUHVVdEwzbkEybEwta0I0cHpxcTA5dF94UDRFOXV3dWY5VW9WMjl4dXlhWG1XUjhValA1cDI4cnQxcE9QTWFMcDVNbGpEdnBoX0tiaGpjTWpkZ9IBrwFBVV95cUxOTndBSk5tYVZvUmNjblczMUdUWFM2WVA4WGFwOWNxLWN3Z3hDNkNQS010UHZTVFFmcmt5VmZpNTRWSzcxQVBMN2Z5WDlvVVdpRDgxMXdtQzk0ZHZGRDVVU2NPRmlValVDS2NVazRaT0ZHdjBnc2cwdnAwbE5WZW43WU5Tdl8zT0hrR0hRblIySk9WUDduUlVHNV9RS25lZkk3SXZ4akxMRUFPWklBX1lJ?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261010T075532Z",
+        "seendate": "20261009T181150Z",
         "source": "GoogleNews"
       },
       {
@@ -389,13 +319,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump misses out on Nobel Prize again and imposes new sanctions on the International Criminal Court. What does it mean?",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWlJWclRPenpaMVpTcFNYMFRZdDJGclBoMHdPQ0xJUnBoeDJ3ZDg4Sm1iTGxRYVJQYldOUEhRZXFueXRYaVRkb210NzRjdDdNTVdlNFdMOExRTE8wZkwxWlJWWUs3YnVhUHVrZUNBM0FtVjVKcERmWnUyNUh5OEEzWmNlLXd6ODJiVkoyaVhzWmhjbWpvOHJXVXJHaERqeUltUkpMZDFMMFBQYnhENzVIckVUT1diaUh2eEExamFVTHQ1QTQyLXdDTC00ZGlrTnExMVNuUU9TWU8yam9lTTNaekFBY1BPeTg?oc=5",
-        "domain": "theconversation.com",
-        "publisher": "The Conversation",
-        "publisher_url": "https://theconversation.com",
+        "title": "Trump says Russia will export diesel, lifts sanctions",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUtNR2lvVlBpM29SdzRlelE2aDA5SjdLOEd3U0JWeDAwTEN0Snl2RG1tU3BaUWplM2xQOGM4M1k2VWtiYm1DWkN5WC1pd3p6NDBzMUpfeW1IdVhBejhjTnp6NkVwcWM4UU8ybHhRdGtDUk9XYXRxUEwxN3E1ZzgyNnVVOURQMC1MbVdES0l4Q2VtNnJvc3Q5UDhnM3NTNU9BTzdfNmpjSFBzbnFZaWp3NDZB0gG3AUFVX3lxTE1kYm1Xc1pOMEtaSlJOR1BTMEJmWFotdGloMWlRXzhsVU9EV0NFSWVKX2psSURqenBOdkpyc2Q4Z2JIMW5WTGwzbUx0TDVHaHdJMm5paXR5bktKQUhPNEZ3MnhVV01LUUJlRVo5X19kclpTdjBMUmZoY3FXamt4REJmcUxlUkRVVzVVN2l0Mng2TDJkcXZDR0lZcTEzTC0zYjRYU3lDYWpSTi1yMkMwMVY0NGxIRm02SQ?oc=5",
+        "domain": "thehill.com",
+        "publisher": "The Hill",
+        "publisher_url": "https://thehill.com",
         "language": "",
-        "seendate": "20261011T050832Z",
+        "seendate": "20261009T222300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "International Criminal Court ‘firmly rejects’ new US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXRKd1V5VHlrbUpFSXBpanJaRmpUMnBuQW1aZ3U1S2ZUWm9pUUFwNzZtSHIzVnZoVVlxQWZFUkNmMmRkbkZVdXBRQUd2UmdKWWdqWHdDdG5fT1BpVTVoZ1NfZHlLMWVCZ1p0MU0yV3JySVZ2UjV1VEh4M3dqOVo1Y3BKRm1wSmhuU1pOM1loanF6S3BhQjdTVDhSNWU3TTTSAaQBQVVfeXFMUGJUUGtvZkttNlJsZEM5Z3Bhc1lOVUl4NVpORlFRQmNOT0hYOU0yMTJUZnJUSUhmZ2ZYZ3Yxb1ZBaU1Nc2c3SVdkb2FySWhGeGhoekQ5d1FLWWhqeUJSZUZWZ1dqV3gyTVNZYlYtcjhjWk53bWkweXZ2MmRvSWxtQmoyQ1k2bnV1QlIzYzdtTkI1eWNweTNJNHZGam1FZzVqdV9oZUc?oc=5",
+        "domain": "thehill.com",
+        "publisher": "The Hill",
+        "publisher_url": "https://thehill.com",
+        "language": "",
+        "seendate": "20261009T202500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. Sanctions and Threatens to Dismantle International Criminal Court",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWhKNi1UT2NaTnMySGFaNXRwVGozc2NzZG9QV1pUTkFhbzBMb1pQT3VFSV9IMF9kdUdVYmQ1THRjdFJwbmZvUFJoc2JNOV9xQ1A2S09vNU5UZGUtYmV6SEpWS3FoazRSc0JnUjlmbnFRTGctSGdMNU5wNXJ5TGE2YS1WWE92SUlNQWFqRWd5VDl2UVZEOVh2ZmpOUVV3UmtOdGRuNlNkaER0UW5YQUh3Ng?oc=5",
+        "domain": "www.wsj.com",
+        "publisher": "WSJ",
+        "publisher_url": "https://www.wsj.com",
+        "language": "",
+        "seendate": "20261009T174200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Rubio cites ‘necessity’ of U.S. sanctions on ICC in call with Japanese counterpart",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGpzZExwX0x4Z05wNnpRd2Rid1dWcU4xbFBfdlhQVDN6RUJhYmNYaHgya0dkemhvVlRiUmZJRE1tWjhveHpiTlhQZTEwUG9YWFZlY2lwTnJMWmRBMVJtSEl4X3lCcWlDU2RWR3hkZ3FGeUZDRlpLMDZfM0tkYVdwdDlSdElrbGVKbGV2MjRsWmE?oc=5",
+        "domain": "www.japantimes.co.jp",
+        "publisher": "The Japan Times",
+        "publisher_url": "https://www.japantimes.co.jp",
+        "language": "",
+        "seendate": "20261011T014100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU envoys set to approve major new Russia sanctions on Wednesday",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDJ4ZF9TakJ4NF9aZUlEV2ZEanBXX2xoRzRhOUU1TldVUy1pdWYyM2ZQVndneV9GSlJSMTRaaFhPdk5pZm1tY3FfWlJPOHFOVE1EbkZIR2l5dW5mYlZnWlVDZmVFaXRCTmk1cG1vc2hybmVNdnhzdk9rX0xzS3VvVi1hLTFCanpEQXREd21Ib1R3MHRRUWJ5QVBmZUZZYW5IY1E?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261006T163920Z",
         "source": "GoogleNews"
       },
       {
@@ -406,26 +376,6 @@
         "publisher_url": "https://apnews.com",
         "language": "",
         "seendate": "20261009T184600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Japan, Other ICC Members Seek Withdrawal of U.S. Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LVzFWSkJ2anRvZ2FsMElKWHp5YVZ3bWt4RVhKVk5iVlJJSXBOZUpXT3hEcWNQSmJWSEtSWWZ3T3U4cFVUV291V3RTQTlDdnhVcFljN0VPUllOd2Zn?oc=5",
-        "domain": "www.nippon.com",
-        "publisher": "nippon.com",
-        "publisher_url": "https://www.nippon.com",
-        "language": "",
-        "seendate": "20261011T001318Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Why Russian Sanctions Relief Would Do Little For U.S. Fuel Prices",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3BBdzhWS1h4dHNvMXFwWXpxR1FzanpqNVdzVUxaT3ozWHJUZ0FfaFF4NVBoMkNnWTF2dGRNbEVpYm9tS2p5ZTJzay1Qd3hoUDlJSTNqZnRkbnBMR3RfQm5ERl90bjdfVUpiaHdCa2p5czB3d1dWV192a3dJdlJLUTZuZWN3RVV5NFZoQ3VfMnJaNExVcFdjX1kwTGdreVBKZHBvN2h1d0NhUGFoN3FfMXFUWDZfaFZP?oc=5",
-        "domain": "www.forbes.com",
-        "publisher": "Forbes",
-        "publisher_url": "https://www.forbes.com",
-        "language": "",
-        "seendate": "20261010T100000Z",
         "source": "GoogleNews"
       },
       {
@@ -449,33 +399,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "European states, Canada, Japan and UN back ICC against US sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbUhBc3VITjVCZUpaU0tGR3l1Q2JOV29nNEJXRmNSRXFpM3lUQ1d2RHFGUXFya21HMmVCYWcweXM2SUItcUxJbUQ5VGpIMXRackNKTGFYWUdZSm9Qcm91UU5tM1pTMHAzUXExMG1hSFZCR2dSWFFFSGxhM0ZIZFdfdWNpVXFQZ3htUl9uZDBGY000Y0RvcjR1WGl6eloydEtFWnZEb0Qza1hqZ9IBrwFBVV95cUxPVll1VnM3aW1pZEVwbW1MQVRZejhqR2dkQjZvM0VROEFXVC0tTUloNlJLbElwdEFtZ29zbmtfRFlwb2s0Umg1dmpHWGg2WF9NbG42dFVUUV9ZVDEzYi1XNzZSTUpMU0ljOUlWZDlvMFVwcFlDME10cFFNWThBZnd6cEhiTU5iRXYtX2dDZ2VMVHVtUWNHbHU4MUpFc1l2VVQ1Uko4SXFEM19oVUotYm5Z?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "Russia’s Turn to China Under Sanctions: Sanctions Decay, Substitution Elasticity, and the Challenge of Sustaining Pressure",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94clA1ZGhqd0k5a0tjVHlnd0U2V0hPMWJtR2F6UzJETVZvNmtmd0NWMXdjb1RqOWNsd2JCU3FhZjduSFlvTE5OYjdQRDBuM19jVVQtRFZ2d0g2alNtZWpXZzNKREozVWctZG5zV1lpaUdRdw?oc=5",
+        "domain": "www.csis.org",
+        "publisher": "CSIS | Center for Strategic and International Studies",
+        "publisher_url": "https://www.csis.org",
         "language": "",
-        "seendate": "20261009T195243Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hundreds rally outside US Capitol to demand arms embargo against Israel",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHZxcmFpemJ1UE5DMFZGcnFVNTNScFBtTEQxUkNQb2xWdlJpWHZhUUI5Y1Q0MndlYll4cy1NNk5wbFZoWHBYRVJ3dW1hWVdOT2c5OHRKbkppbnktY3Z0dFVuTDVsNllUWl9KTGZmMFBRems1a0lrall4RG5Cdm5tUU1WM2VkekxMb2h6aEhrc0ZJeGxpSmltdHZKLXd4VUxkTkNiR1dpWlNGODdQRlhJTWFwT1dwalU?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
-        "language": "",
-        "seendate": "20261011T032755Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US imposes new sanctions on international criminal court",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MQkVaMzE3eE1UN0piX2JRYkxveE1DQnctUEt0V0hNaVlOR2hscWdiU2p0SWFMTGtnZ1UtZ3V6U0ExcnJ2Q0tTQ1IxSnhha1hteEtOd1V6ZmVwM0tOT2dGUXR4OUdPNlhXQ2wxeU8yQlNpc2l5U0E?oc=5",
-        "domain": "www.theguardian.com",
-        "publisher": "The Guardian",
-        "publisher_url": "https://www.theguardian.com",
-        "language": "",
-        "seendate": "20261009T151100Z",
+        "seendate": "20261009T184713Z",
         "source": "GoogleNews"
       },
       {
@@ -489,7 +419,37 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump eases Russia sanctions, says Putin will release diesel amid massive price spikes",
+        "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbUhBc3VITjVCZUpaU0tGR3l1Q2JOV29nNEJXRmNSRXFpM3lUQ1d2RHFGUXFya21HMmVCYWcweXM2SUItcUxJbUQ5VGpIMXRackNKTGFYWUdZSm9Qcm91UU5tM1pTMHAzUXExMG1hSFZCR2dSWFFFSGxhM0ZIZFdfdWNpVXFQZ3htUl9uZDBGY000Y0RvcjR1WGl6eloydEtFWnZEb0Qza1hqZ9IBrwFBVV95cUxPVll1VnM3aW1pZEVwbW1MQVRZejhqR2dkQjZvM0VROEFXVC0tTUloNlJLbElwdEFtZ29zbmtfRFlwb2s0Umg1dmpHWGg2WF9NbG42dFVUUV9ZVDEzYi1XNzZSTUpMU0ljOUlWZDlvMFVwcFlDME10cFFNWThBZnd6cEhiTU5iRXYtX2dDZ2VMVHVtUWNHbHU4MUpFc1l2VVQ1Uko4SXFEM19oVUotYm5Z?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261009T195243Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US imposes new sanctions on international criminal court",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MQkVaMzE3eE1UN0piX2JRYkxveE1DQnctUEt0V0hNaVlOR2hscWdiU2p0SWFMTGtnZ1UtZ3V6U0ExcnJ2Q0tTQ1IxSnhha1hteEtOd1V6ZmVwM0tOT2dGUXR4OUdPNlhXQ2wxeU8yQlNpc2l5U0E?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
+        "language": "",
+        "seendate": "20261009T151100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Hundreds rally outside US Capitol to demand arms embargo against Israel",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHZxcmFpemJ1UE5DMFZGcnFVNTNScFBtTEQxUkNQb2xWdlJpWHZhUUI5Y1Q0MndlYll4cy1NNk5wbFZoWHBYRVJ3dW1hWVdOT2c5OHRKbkppbnktY3Z0dFVuTDVsNllUWl9KTGZmMFBRems1a0lrall4RG5Cdm5tUU1WM2VkekxMb2h6aEhrc0ZJeGxpSmltdHZKLXd4VUxkTkNiR1dpWlNGODdQRlhJTWFwT1dwalU?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
+        "language": "",
+        "seendate": "20261011T032755Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump eases Russia sanctions, says Putin will release diesel supplies amid unprecedented price spike",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXFFRkltbDNZaFpHRnM1UGJFdzNPNmhuUGZFQzI1eXRDYXZMTHI2NmpDRUVXaG9zanRscUl1MGtqWTVaQ203Ym5JVzNQU0t2VWpOX0J6LVM0OWJSQVF1VHMxMVNfclBwczFrRnJQZHlfc0ZkejlDdWRjeU12MGV2eEZ3?oc=5",
         "domain": "www.nbcnews.com",
         "publisher": "NBC News",
@@ -499,13 +459,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "EU says US deal lifting diesel sanctions 'funds' Russian war on Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3ltbXRnWGYyWnY5eUdfa2tqdmdxb0llNlZkQjk3TE5HWkYxdzhKcTBNcTVYMTRsVkhuRGhTNHhVTWxrOFd1RG9fbGRSeVVUaDZiNmNYSUt1aVZZenRVSEhUcmJCVFVZeExPUmRIUTVYRm4zSTRJMHNVWG9wbW9heTRtcDQtSE9KZGtyQmdfajZUQjJPM2ItZ3VPQnY5OFluRVlLeWkyOUpzRnFFb0o0X21Iazk?oc=5",
-        "domain": "www.rfi.fr",
-        "publisher": "RFI",
-        "publisher_url": "https://www.rfi.fr",
+        "title": "Top Japan Spokesman Deeply Concerned over U.S. Sanctions on ICC",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44YjBQZGp0WmFxY0NicTJLZmczUEtMakhIWGRxNVN0U2RjZkJEblg5dTNxMHI3X2dRTm96bDdheGJsUWxYWVhIRmZJMmZSU3JkQzRBZ2lSZ01wUWpx?oc=5",
+        "domain": "www.nippon.com",
+        "publisher": "nippon.com",
+        "publisher_url": "https://www.nippon.com",
         "language": "",
-        "seendate": "20261010T150641Z",
+        "seendate": "20261011T042858Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump signed sweeping Russia sanctions last month. Now he's striking a diesel deal with Putin",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDdBVmhBeW0zbHVWLUtxVkd4MFJOcGdfQV9JOXk4d2lidndPMlpHNDdPS2FQVTZkcnRELXZJQjFoNThIM3RWenk2VEhBRE83d0dKdDJ3OTJweXZRZnE2NUdNMEY5RS1JQ1JRTC1YblNtdkZtQTZkTWpIdDNfdzYxVFZ0cHNtd0Nqc1ZN?oc=5",
+        "domain": "fortune.com",
+        "publisher": "Fortune",
+        "publisher_url": "https://fortune.com",
+        "language": "",
+        "seendate": "20261009T211600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Bureau of the Assembly of States Parties regrets sanctions against the ICC as an institution",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX05YZkdLTWJIRUJnR1Roc2NjbFhoUkhXQ09HRGRYUVI2YVdTakNZS2tJWGFobHV4VXVVYlF3bVpIaUhIRl9xWlV1OWdPTmF0ZFlpWjJjaG5vMUVINmcyczR3aXJHdFlKajR4Y0NoMnhaaEdWQzJFS2xMejIyQU5XLTcwU3VBbEkteTFVMjg3dXpGVUF2Wm1wWXpwVFFFZkJCY0pF?oc=5",
+        "domain": "www.icc-cpi.int",
+        "publisher": "| International Criminal Court",
+        "publisher_url": "https://www.icc-cpi.int",
+        "language": "",
+        "seendate": "20261010T141843Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Why is US turning to Russia for diesel despite sanctions?",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGNTbVgyVC14ZDVBOEs3Mm1rTW16emtnYzdRZm1OWi1SQ0xod09CRWZaajVkbEVmanlDdUxDRGd4NXNJOFdJYUYwUmV2UW00VXl2a2p4M0ZxNVc2NGlNdFIyN1R4UEFwTzN4aFdDcFNSM3ZKdnpIN3Bqek1wT25UUkhZUVV4UlJ0YjNROFc3TEgwQ25hZWlmZmJMVVJ1ZUnSAaQBQVVfeXFMT1R5NE0yR3F1TTRkZHZCb1h4M2lvd1JTMklBT05BUWY5SGRsSVFSbG9LTlNNeDJVNFpnMk9ZcVVpNnBLOUxPQmdacjA2VTdCeWVSei1lbmVJYUw1MFBnN1RRV2VjNENoQmhDck5EbkpXaFpoUW0wQ1ktbG54Z2l2LTVyN2dDc3BERTZzYTlOVGdyNDItSnh3UnFRc2RlbWktbWtKVXI?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261010T122526Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump Faces Russia Sanctions Deadline as Republicans Risk Losing Congress",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56ZGhGcVRkWlVVNHpvY2ppUVRYUnVpM3FiMTBibUtsSWw0T0d0dUtxNjdUY0hHcWxjSmYyT3JjZF9tQWl5amhaVDNCcDV1ZHcx?oc=5",
+        "domain": "www.kyivpost.com",
+        "publisher": "Kyiv Post",
+        "publisher_url": "https://www.kyivpost.com",
+        "language": "",
+        "seendate": "20261011T114049Z",
         "source": "GoogleNews"
       },
       {
@@ -519,38 +519,18 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Japan Informs U.S. of Concern over ICC Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14eS1iZWlrc284RG5uWHgyUTRlMjR1SW5JLUkxWHdRNVdYUmRKUk12NlpjbjdTTEdvdzJBM19ZZUI1akNzbXJ1ZGVvUnBpV1hIckF3ekU0cnUzMUdr?oc=5",
-        "domain": "www.nippon.com",
-        "publisher": "nippon.com",
-        "publisher_url": "https://www.nippon.com",
+        "title": "ICC urges members to make sure it can continue despite US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekdiQk5vWjJ6bWFsSzVsaXVrTHlSZVl0RjFMRVNrdVRCTDI5VXZEMXE0TUttZFZ1OVhLOGZKVFdSTmxNckFhWks5X1RPOEloMGVwMHpDM25fbEhGMERLY1dycmQ0OGRtSk9rYzVXUk1FMlB0cmxwZTNkSkxMVmp1OGpHdU8yQnlvWTYtOU5QOGN6Ri1IbDJUTHRFcjRuUnVhRTFWQ19NQTV3UQ?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261010T154342Z",
+        "seendate": "20261009T150424Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
-    {
-      "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYm5oTEpwTVVzQ2hrd3ZTVWwxNG1rLTBNZkpDdnEtOUpTUUtCWGlHNlY0M0xkUmNPN2FISXNHQTlFX2J5VzZjQ0hNaHdNS05aeEdWQTNMMVVkT0VfMms3RHBJRllTWDE4WHN2MG0yWlpnLVg3SWxUUFNHRTZwbElqdGVDUldMZl9yN3NqV1lIbm1wZ3JuOGxSV29idW1mMjNhTGliSm9ISW9IcnZ1M1hzeGhNdUR2RkE?oc=5",
-      "domain": "www.npr.org",
-      "publisher": "NPR",
-      "publisher_url": "https://www.npr.org",
-      "language": "",
-      "seendate": "20261010T114053Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Ukraine rattled as Trump eases Russia oil sanctions, says Zelenskyy should be replaced",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1Ja2RHUFhhYVRTdFk4R2c3YW5GNUc3dkp4MW16VDV5MFFKdUI5WUhnZXlvVVpCSXQtQURIblljN3c3MzNmd21ydFRjWUZMLWxxaGdVQVNGNk5Mc1lFV0RPMnl6Szl3SEhFNFZRYnNuaUJMaVFIN1JIa2F2cnRCc0tsb0JfVHZWUHpkZUJkMnZJYldlZHFBZTY4Yk96ZXlQdHJndUdZS3poS2wxa1hB?oc=5",
-      "domain": "www.nbcnews.com",
-      "publisher": "NBC News",
-      "publisher_url": "https://www.nbcnews.com",
-      "language": "",
-      "seendate": "20261010T144631Z",
-      "source": "GoogleNews"
-    },
     {
       "title": "Imposing Sanctions on the International Criminal Court",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbF9kWkF3dlFITzZHa29JMy1kaVFqTHRuUXl1eGtqODU0SGpHU2NjOER5WU9iY1pRZVRvSmJmT2h5VUhmc0VXeGhoRWdNX2FHUEtRYkx3NkEwZDQtdk1yRU9lRnREcWdNZU5kSVU0QVpGRDlzWWtpWC1xTF9MMkltMTFqRllmUm9QX2NxYXEyUzVnRUk2WW5JbVdwNTl2b3FKdjZENy1NY0RRSmNXTzFIcnBEQ1RmYkJ3eGc?oc=5",
@@ -562,23 +542,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Germany sticks to Russia sanctions after Trump announcement on diesel",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUFXZDgzaHN2T1FRdnc3Njh3R0t5cGppS3pJUm8xREprWk54RFdON1pYY1BBbFRKS2pEajVWVzJJcmNiQVVJVGI1czM0U0F1U04zUEFZZVNDZzUtVWZ6UzdPQlItRzNyX3ZseVdmeVlaY1B5M203LWhwWFJTZjh0TlBFVm4zbm9SQjVvRGpXclhWWnJDYmdOWVRmaFhCVDBRNV9uU0UtZmo?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "language": "",
-      "seendate": "20261010T105943Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Germany sticks to Russia sanctions after Trump diesel deal",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYzBrUE1heDRjMEt4OFNqcUxIdURaelhuYUV0QUhoWEhIU2RxOGN2ek9GVzk3eWp6M21jcm93ODRnQmZrN3JBNE5EMV9kVjNOUUw1N1RsWm1WWXdWd25JUFNSVS1QTWhKdzdGek5kY1luU1lwM1lVUXo4c2VuX1h4QzJwOUI1LWNyTEJmcm1uWHJPZDFJOVdYNmlR?oc=5",
       "domain": "www.dw.com",
       "publisher": "DW.com",
       "publisher_url": "https://www.dw.com",
       "language": "",
-      "seendate": "20261010T180850Z",
+      "seendate": "20261011T001120Z",
       "source": "GoogleNews"
     },
     {
@@ -592,23 +562,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Premier League coaches react to Manchester City judgment, possible sanctions",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblA1MGhYSFpSRDE0bWNrQjByZmRMa2NSSFlsaDBOZmlsanBwR3JuZ1g0SDlTQTF5eE52ZUZ3a1B2RTQwT0FzNTUxUXFIbHY5Zmx4VUg0SGxvMVNpODBQejF2bWtCVFV3cEVvOElvbHYtM0ZWdnE3dnl2UHdZZVRVbmNCSHU2S0hZTkJmR0hjcW1hWVVZcmpF?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
+      "title": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
       "language": "",
-      "seendate": "20261010T225900Z",
+      "seendate": "20261009T140200Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Why is US turning to Russia for diesel despite sanctions?",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGNTbVgyVC14ZDVBOEs3Mm1rTW16emtnYzdRZm1OWi1SQ0xod09CRWZaajVkbEVmanlDdUxDRGd4NXNJOFdJYUYwUmV2UW00VXl2a2p4M0ZxNVc2NGlNdFIyN1R4UEFwTzN4aFdDcFNSM3ZKdnpIN3Bqek1wT25UUkhZUVV4UlJ0YjNROFc3TEgwQ25hZWlmZmJMVVJ1ZUnSAaQBQVVfeXFMT1R5NE0yR3F1TTRkZHZCb1h4M2lvd1JTMklBT05BUWY5SGRsSVFSbG9LTlNNeDJVNFpnMk9ZcVVpNnBLOUxPQmdacjA2VTdCeWVSei1lbmVJYUw1MFBnN1RRV2VjNENoQmhDck5EbkpXaFpoUW0wQ1ktbG54Z2l2LTVyN2dDc3BERTZzYTlOVGdyNDItSnh3UnFRc2RlbWktbWtKVXI?oc=5",
-      "domain": "www.aljazeera.com",
-      "publisher": "Al Jazeera",
-      "publisher_url": "https://www.aljazeera.com",
+      "title": "Ukraine rattled as Trump eases Russia oil sanctions, says Zelenskyy should be replaced",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1Ja2RHUFhhYVRTdFk4R2c3YW5GNUc3dkp4MW16VDV5MFFKdUI5WUhnZXlvVVpCSXQtQURIblljN3c3MzNmd21ydFRjWUZMLWxxaGdVQVNGNk5Mc1lFV0RPMnl6Szl3SEhFNFZRYnNuaUJMaVFIN1JIa2F2cnRCc0tsb0JfVHZWUHpkZUJkMnZJYldlZHFBZTY4Yk96ZXlQdHJndUdZS3poS2wxa1hB?oc=5",
+      "domain": "www.nbcnews.com",
+      "publisher": "NBC News",
+      "publisher_url": "https://www.nbcnews.com",
       "language": "",
-      "seendate": "20261010T122526Z",
+      "seendate": "20261010T144631Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYm5oTEpwTVVzQ2hrd3ZTVWwxNG1rLTBNZkpDdnEtOUpTUUtCWGlHNlY0M0xkUmNPN2FISXNHQTlFX2J5VzZjQ0hNaHdNS05aeEdWQTNMMVVkT0VfMms3RHBJRllTWDE4WHN2MG0yWlpnLVg3SWxUUFNHRTZwbElqdGVDUldMZl9yN3NqV1lIbm1wZ3JuOGxSV29idW1mMjNhTGliSm9ISW9IcnZ1M1hzeGhNdUR2RkE?oc=5",
+      "domain": "www.npr.org",
+      "publisher": "NPR",
+      "publisher_url": "https://www.npr.org",
+      "language": "",
+      "seendate": "20261010T114053Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump misses out on Nobel Prize again and imposes new sanctions on the International Criminal Court. What does it mean?",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWlJWclRPenpaMVpTcFNYMFRZdDJGclBoMHdPQ0xJUnBoeDJ3ZDg4Sm1iTGxRYVJQYldOUEhRZXFueXRYaVRkb210NzRjdDdNTVdlNFdMOExRTE8wZkwxWlJWWUs3YnVhUHVrZUNBM0FtVjVKcERmWnUyNUh5OEEzWmNlLXd6ODJiVkoyaVhzWmhjbWpvOHJXVXJHaERqeUltUkpMZDFMMFBQYnhENzVIckVUT1diaUh2eEExamFVTHQ1QTQyLXdDTC00ZGlrTnExMVNuUU9TWU8yam9lTTNaekFBY1BPeTg?oc=5",
+      "domain": "theconversation.com",
+      "publisher": "The Conversation",
+      "publisher_url": "https://theconversation.com",
+      "language": "",
+      "seendate": "20261011T050832Z",
       "source": "GoogleNews"
     },
     {
@@ -622,23 +612,23 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rb2FYU2tneS1pdzNLcHFobnZpNFM3cjBCSE9MNWtFRVV6MG5uZDkxRmwwUWJ0QlRQQy03c2NsNUM5blh0bkFYQVhadjU2bkxCUVZNR2VpdVFlV1k?oc=5",
+      "domain": "www.bbc.com",
+      "publisher": "BBC",
+      "publisher_url": "https://www.bbc.com",
+      "language": "",
+      "seendate": "20261010T152347Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Trump administration launches new sanctions on International Criminal Court",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2hQMDBzWjNCRnE3NzNuQkt5ZlJteEZpdzVLM3dHMjctYWtucGpzcDl6QmZXaFotTVRZbjZrQXk0LUkwNHhoTWpneWF5cjVjWEFQN0pHdnZSTWZUMVd5Q2ZEZlp1U0Z0Z0pMSWNwVWRuU0ZFQUVZN094NThhRjZjWGNyVUVqUGdMWlNlM1JHd1dUcE5GVGhuMlNR?oc=5",
       "domain": "www.politico.com",
       "publisher": "Politico",
       "publisher_url": "https://www.politico.com",
       "language": "",
-      "seendate": "20261009T164400Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Rubio cites ‘necessity’ of U.S. sanctions on ICC in call with Japanese counterpart",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGpzZExwX0x4Z05wNnpRd2Rid1dWcU4xbFBfdlhQVDN6RUJhYmNYaHgya0dkemhvVlRiUmZJRE1tWjhveHpiTlhQZTEwUG9YWFZlY2lwTnJMWmRBMVJtSEl4X3lCcWlDU2RWR3hkZ3FGeUZDRlpLMDZfM0tkYVdwdDlSdElrbGVKbGV2MjRsWmE?oc=5",
-      "domain": "www.japantimes.co.jp",
-      "publisher": "The Japan Times",
-      "publisher_url": "https://www.japantimes.co.jp",
-      "language": "",
-      "seendate": "20261011T014100Z",
+      "seendate": "20261009T155400Z",
       "source": "GoogleNews"
     },
     {
@@ -662,23 +652,33 @@
       "source": "GoogleNews"
     },
     {
-      "title": "U.S. imposes sweeping sanctions on International Criminal Court",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWtVRTFWdDFiYWtqaEZwdFU3bXR5bnR2akpzRm01cFlXOFJuZng2NDRYYWtyWkFTc2hvam9BUGVUQ1BsNkQ2SlhtWktHYnZJaWxXTGZrQ3VxUFNQSG5BUkxhSGxaQ0JyUTRoakRjOTVfazJLeEZ6WkdBX0dNWEdkVEJieHZpNmJnQjFaSjdGaTUzRUdSRWhWOEVZeWVUdG92YzdxeUY3ekxmYjQ?oc=5",
+      "title": "Premier League coaches react to Manchester City judgment, possible sanctions",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblA1MGhYSFpSRDE0bWNrQjByZmRMa2NSSFlsaDBOZmlsanBwR3JuZ1g0SDlTQTF5eE52ZUZ3a1B2RTQwT0FzNTUxUXFIbHY5Zmx4VUg0SGxvMVNpODBQejF2bWtCVFV3cEVvOElvbHYtM0ZWdnE3dnl2UHdZZVRVbmNCSHU2S0hZTkJmR0hjcW1hWVVZcmpF?oc=5",
+      "domain": "www.nytimes.com",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "language": "",
+      "seendate": "20261010T225900Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US imposes fresh sanctions on Iran's shadow fleet",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUm45bHRGMFlmNEV2d2lTTkFvQURQckhMSGhYRlhxWUtOb1d2cGhCTnVXUEJaMF94S2xZNXFWMF9ONTVraWdWdnVOME04c2xyMk5tRnhHVjI3YVFmQTZIWVR6MXhDUUNram9tRjlsejRlRXVQUERDX3NkY2ZIVmlsOV9Ic0wxOVNPSmVCRmtVVExGcWZNY0tCTw?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20261008T183524Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Politics chat: Trump announces fuel deal with Russia. What does it mean for sanctions?",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR3JWeWxYVzZpcGtRNUY3R3RFWU11V3RLNmRPZm9sZDJhV1JiS09fa29qeEJLVWRDWmxYV1Z4b01wSEdZY21EcDBhNVJvX0hmbXI5X1hZZEJRMW9uQzk1YUNpZzBtQmdScjViaEN4ajlOQVhqVzRWMVhnS3hyUDQzMUhyYjNJS05xTTVrZC1BdUNoNTlQQjlqN3YyWFdISW5kakFYdEc3N2pERFVsMWRZdlEyRVQtOVFDVlpoXzhkV2JaUG1USnJF?oc=5",
       "domain": "www.npr.org",
       "publisher": "NPR",
       "publisher_url": "https://www.npr.org",
       "language": "",
-      "seendate": "20261010T114051Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US announces sanctions on the International Criminal Court",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnNxeEFFZ2R2Y1M4aHZSNlYtLU9WTUpTbGhrM3FEeG44UkRxRmxzZDFmdXlEc0tuSFpXdE02UmItOGxEa0NBQlFaSno0dDhzUkpFWmxuWk9WOUNIV3lLOTFpbTE3QThSRzI1RFB4NFh6MkIyTWE4eE81UVlYQlY3YWU2NDl6WHJuWWtvNkZNODZ4MzVaNlZVOF92bGZ1Sy14Wm54VdIBpAFBVV95cUxPT0lVTEFwbzZxaVVRQWpQTlNEYjBOOTNHTzNMZmtkQno2VldfVVNQSjNWZ0FNcnhNbHFPSGZyNmtaeGtTR0g5Q3A1M01BWTE0dVQ5TDBpaDVJRFNpV0NBSnZJVnFzbjlaUVczYTIxOGFXelk5MkRWaUFDeWdzYjF3cVNrV0JTU0FNYndLblgzenRPcVR3aWo1TlZvQ2FVRWtvWmxhYw?oc=5",
-      "domain": "www.dw.com",
-      "publisher": "DW.com",
-      "publisher_url": "https://www.dw.com",
-      "language": "",
-      "seendate": "20261010T123406Z",
+      "seendate": "20261011T120356Z",
       "source": "GoogleNews"
     }
   ],
