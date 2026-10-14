@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-10-14T04:42:31.483096+00:00",
+    "generated": "2026-10-14T11:41:13.565079+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "38"
+      "value": "36"
     }
   ],
   "live_data": {
@@ -39,13 +39,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHg4RHZSODh0VUg3RTE4MUlBNU5SVUticTYwZzdNTzJmZkVCVHRhSmFkMGNlODZINHdZblVqdDEwR29EWTBwTUctMlAxZF9YemxqUnIycDVCN2c2WmJKanpoT0Zpd1hPQXRRWTNCS05XWnZTcVRzeWhfLXlIaWJ4SFVfNjQzdGNFblFadjM5c0M2ejNmX2VmMjVB0gGfAUFVX3lxTE0wYjREY1lIUHNVeWRzOHdiV1JkT1A2d0dQcmhNbDd3TWtGV0x4aGFJeU9FdzdmcmdPVTdCaEhUWnRBOFBFSXJzcllWRzMwM3BMWXNqMVpjYmxBcUU5UFNXT0FaYXgxTlhtUVhWcUhyUjl6RzB2MFNTZHRfTUhFakpUWE1WMGx2SGdDYUtYRWVCLVBOM0JYYzF3amVCSkRoQQ?oc=5",
-        "domain": "abcnews.com",
-        "publisher": "ABC News - Breaking News, Latest News and Videos",
-        "publisher_url": "https://abcnews.com",
+        "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEFMR2FRM3RkWDAwVWRwMTN5R2xUYkdNQl91TldZdks0YUIxbmZBRHlMWXJqVDV1VnVHTWxwRzJuYjREd0t0MGRZVVU0WlljZkkwUEtfdmI3RlZncWVJcEJGUk0tMzlYUlhuZlp1SXN6Z3ViclRxMnBVT3BFNGh1WDdUOE1qY3k1Wlk5LU1VazVlMFE1YVNXWG9xdzJTR2JIY0tnUjVwdVlibFl0S092ckN2aU_SAboBQVVfeXFMTldQT1dKcW1HZ3FlTUw0LVlUNWY0UTdkV3IxZnVocWZ6Y2hHLVp2dVVrNkZBemgyWUl2aHhXeXA2RjdoSnp1b0RFeDl0blVpdy1pTkQta0FkQ1ZQN2E0cmlvcFZBaDlva2V6RWZfeVNxYTY3SjNkZG1UdXY0MVZBaFJQM20wUkcyd0QzdENOamZVSXN5aDhxNjY2cUlIWUIyamJDLVhVeU53SGtWd0lNSjZvVGU0ZVhJeVZ3?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261013T212406Z",
+        "seendate": "20261014T012908Z",
         "source": "GoogleNews"
       },
       {
@@ -55,137 +55,7 @@
         "publisher": "The Washington Post",
         "publisher_url": "https://www.washingtonpost.com",
         "language": "",
-        "seendate": "20261014T043450Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Supreme Court rejects attorney sanctions appeal in Arizona elections case",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUw3MWFmUmFCR1JXdS1RaDJDXzczUnFLMG1EVXJMZzVHYlMyNG1fcmkzWDRsdzg1eUh3RC1vU1RaY1RSRTh1WHNFWTRJSDNnVG9ORW5JSEQwRy0zcEZldjhIMDhQb09ndkRBY3VfckdRNzhVbkZZVXdaTEpCc0ppbFRiQVVpTlJqVEhOeGhLbUc0MWJVRTZQZWVLa1k4UGlJcTJxeUoyS0JyUThadlJLOVZwVlpkelRaVlJzeS1ZZkRhaUYw?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261013T230603Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Supreme Court turns away Kari Lake lawyer’s challenge to sanctions in Arizona voting machine lawsuit",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenhseW1HU2JaRExkZUJaWGlORHUwVmdvVEwtRjU0THpDRU43SHl2bEk5aG1jckVfTXJlMHB1eWdYN21zTGlXMTN4THI4c3l3S0czSks3ZkpJU2RGeU5kb2ZDN2FzNVBDbGZEV1FzdHdGYkFqZGs4TDBIS0NQNVJhM3RYVDBJcGcwWDFMWTFWdUNrc2JVdXYzVHZoWnVjcjFDejMtY1pDLUvSAa4BQVVfeXFMTlY0bTJPUkY1ajFiV2pXTUpwbHlYSm42OW12MFVscE1sQXN0WENDbzRjUE1nN0t2ajBKYl9MbndwT09NQ0RONkNMNjNjWnF2VXJmb0U0eGFhNkptZEpLd01HdEUtNDgwYm9CTEs0WGc3QVl4Y3IzQUZONU9LTlZwVUhmaVRxdFJpdGVNRkZuUmFjN0dzZ1ZkSkZwb3J5OFlzTFphVXprMlpvTTZZa3R3?oc=5",
-        "domain": "thehill.com",
-        "publisher": "The Hill",
-        "publisher_url": "https://thehill.com",
-        "language": "",
-        "seendate": "20261013T133800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bank of America fined $1.2 billion by Treasury Department for money laundering and sanctions laws violations",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXZDakt4djJRcFNXcGMxNzVLOHFlNWJYZGhLRjUyMlh6bm5PeGN0clAwZ0NDaG9pelBBdlNXWU1ocXkxeUJoWmRPSWZMckpqTXZ2QWRLempabXdUX0pveVhGVXYwSl92VDJsR1NuZDRUeDNRY0xzaWVFTWUweEJCcHhB?oc=5",
-        "domain": "www.cnn.com",
-        "publisher": "CNN",
-        "publisher_url": "https://www.cnn.com",
-        "language": "",
-        "seendate": "20261013T203259Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Imposing Sanctions on the International Criminal Court",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObmFDb0ZBanoxeHZFZmNKenBlSWpkOV9SWGJFNG0xcno1NXpaSUtHTEpPQ3FzSjRiS3V5d1U2THJscmxGV1FTSzduMnFZSGMyZ3Y5aVZCT1FLU0dMbVk4VFJJYzdYaExrN0VnN3hpYjh4WXBVUmtqenpvSVE1S2FjUk1GM2Jya2pseVl0eFp2RWlJUkFzb1VkczYyNXk5REYyWC1IMThTZTJsQU9Qb0FBbUVxd1FHdmlB?oc=5",
-        "domain": "www.state.gov",
-        "publisher": "U.S. Department of State (.gov)",
-        "publisher_url": "https://www.state.gov",
-        "language": "",
-        "seendate": "20261009T145716Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia’s Leading Sanctions Evasion Tool Is a New Kind of Illicit Finance Threat",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRk44MTIta0h5dUxHa1dGSXpwTGhzOFk5bE5FVTNSREN5eDVkMEFrcXU2ZGZ5TkZTTmhqM1NadHpSbVM5RnZBQk1TaDd4ZUwxUmF1SGtWbFFVYkNZZkhpYjVoMTZHU3o3WGFNcmJxTktWcWJyZXdOZVM3Um4xZ2FGNEY1Qmk1VlRjbjg0dnMzS284bnpFSEtEQW5ITE1YcTR4RDJ1TC1NV0ZLV1lf?oc=5",
-        "domain": "www.fdd.org",
-        "publisher": "Foundation for Defense of Democracies",
-        "publisher_url": "https://www.fdd.org",
-        "language": "",
-        "seendate": "20261014T005834Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Lawmakers Argue Trump's Russia Diesel Deal 'Violates' the Law. Here's What Legal Experts Say",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjJDOFZveTZzQWowY0ZmNlJFS01kbHpZY3BlVkREdGltal9HakF4Rk8tZkJGVWxGVGtGdlE3RkFCMGQzSkp3Tjk4Y0traUdTRlVRbk5rZlNUTzJNZkp0djFOemY4cmtMN3VJTlQ0TWtRdzBjN0lEb2k5RnFVV2NBSldUUHllaG1aRjFfTTNYcVJtdVVhX2RPaVVhTW5VMFdoQ3BXSUxOSQ?oc=5",
-        "domain": "time.com",
-        "publisher": "Time Magazine",
-        "publisher_url": "https://time.com",
-        "language": "",
-        "seendate": "20261013T203153Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bank of America to Pay $1.2 Billion to Settle Violations of Money Laundering, Sanctions Laws",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemVIQ2FhSTdKUkpYbmtTR1h6LVNyVmlNVG84ZUVRdW5FMV80V18wa0Q5YmR5UzVzZDRiYXZXbFJPdkVmVkZLVm9QaDlTNmdwUWJ0YldDaXB5N0I1cng5NHY1VnFTYUNfYmVjNlhmcWZCRllXbmRQUFJvYm54YjkwOWNYVU1Oa1hrVUFzWHU5dzhLWUlMOTVMc3pWUl9uNE1vREZYa0lJVXZsVjRlM09DeUR4M3M1YVVxSG41THpJOXloZTRzTkl4a0VfT3lEeVVIVEswd1BB?oc=5",
-        "domain": "www.wsj.com",
-        "publisher": "WSJ",
-        "publisher_url": "https://www.wsj.com",
-        "language": "",
-        "seendate": "20261013T220500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia’s war of aggression against Ukraine: EU agrees largest-ever package of listings targeting almost 1600 individuals and entities in Russia’s military-industrial complex",
-        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPWHNlczJqY1VHMDg3NEFKaXNMTkN5eVJSdXB5VE5ZR21CRWpoYm1GeVVLVkl2VjkzUk15RGtEZXRKMG80ZlQ0elBzSWR2M1Z4MmItR2p4WVQyZk43SHFYNGZ5c0JodTFxVmdVTU52VzhWM0tGSHZjcFdZUVE0Sl9td2dnd1BoUUN3R3RzbFAtRWwzUk01d1VsUzg3Q0RzLUowY1ZibnBYbjZnaUFnclFuREw5S2ljajB4UU9qWWRFWXpITUE3a0k5enh2X2JQSEFBSkZadmpZRDVuZy01UGR1bWY0Vk9CenJ5LUhRV0ZjaWljaXhsWjJvS0VnbEU1SUhQcWdUOXBHWkRncWRXZXY2end4MmM3TEZfQlpEZ2ZneTRhU25NX3B2LVl3Nzk4dkJxa2o4NFJjYTVTejBwRFZXRGFNc01BNG9RaU1sZHgwTFpQZXB3Y0RUa00yWEE?oc=5",
-        "domain": "www.consilium.europa.eu",
-        "publisher": "Consilium.europa.eu",
-        "publisher_url": "https://www.consilium.europa.eu",
-        "language": "",
-        "seendate": "20261012T103733Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. Court Blocks Enforcement of ICC Sanctions against Groups Advocating for Palestinian Rights",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcE41bkJ4czJ1NnFOWnZoOVhJbGoydjZhUnQ1ZHNEd2MtVnI3SHRsUXBJRzYzMzN5WFc1TDZmcEtZdFQ4SnUzQjJPQXlZMXkxRWk3VmlsT1FmZ1F5OWxCTUd1Ni1uR05mN3c4NU5kZlJqSVhzcVBsYlFTSVZXckhrTDFUSDlYbkw4LVNETDRWaXFzTWx4cGhOQWVkeDRaTlJoMWwyU1JlcFJkMXdNeTlTZ2RBSmRfUFU?oc=5",
-        "domain": "dawnmena.org",
-        "publisher": "Democracy for the Arab World Now",
-        "publisher_url": "https://dawnmena.org",
-        "language": "",
-        "seendate": "20261013T220633Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "PSG’s Luis Enrique Hopes Man City Avoids Sanctions After Financial Rules Verdict",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYjIyTjJiN2RSMVBtTC1zNHd6ZXRjQzc5NHhUMXNtdWNKV0tTVFpNV0dibTdLTE5sVmpRdE9CYll0TjhrQno0d3haMW5fVFZRWkZfWnN2emdIOENyR2dFQlRQdzR3YjJQWDN0NlYwNVBkb0dodXQwSGZTX0RYbUpfd0tSS2dMdlprbnEwUURZMUk2MzEzdzZzQ3ViSHV0NWJ5T0xZeTRMNzNuSkd6LVZKaVZISm5DdlpocjVXSlJVOWFZMVlmZmc?oc=5",
-        "domain": "www.foxsports.com",
-        "publisher": "FOX Sports",
-        "publisher_url": "https://www.foxsports.com",
-        "language": "",
-        "seendate": "20261013T193613Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US fines Bank of America US$1.2 billion for alleged money laundering",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPREVzMUJHSEFiVUN2ejE5RWF6eTBFdWhHTWg4NjNWbnVidlRRa19JOG9NZDVvbmNwQzNYcDZHYVNiYVZ2Wkc4cGJ6QlFweGRNX3ktdU1nXzhNdnc2cHdTYUNyaGR0NWxldXVJNGNGOHZJNkhuTUtsbzBGQWhRQmtXX21kcGZOb2d6bG9lTVR5U2RJd0cxdVM0MXR6QkNQYnlHbDY5Y2tKOWZpTzlHeGJfMlA2WElJa0hBSnNPTDdFbTJrMjdVVzRUcDF2bFpDRE5lcTI5UXluRkZLOF9OVXZSVnpSdHYyMTg?oc=5",
-        "domain": "www.scmp.com",
-        "publisher": "South China Morning Post",
-        "publisher_url": "https://www.scmp.com",
-        "language": "",
-        "seendate": "20261013T235549Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US sanctions Mexican cartel CDN's horse-racing, business network",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGM2dm9HNmlqTkdMODFpV09LT2YxRWloWXUtTk5KaFV1NTVxWDMtNlRwZDY3Z2M3WFBpZ2JVS2tsVUY5eko1Mldtd3RPMTM3aFFaNGZYS3dZbkZvbjZLelNISHB1dlk1Z3B2Zy1xWVJudzhIaXVXeWNjQkxIX2x5VThzUnZ1Y25HTjV5eHBVNm1jSlk3S1c2Qm90ZkZLUkRpU3JHX18tdld4U0U0R2hhVHdwZw?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261013T182851Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Treasury fines Bank of America $1.2B for violating money laundering, sanctions law",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00Z3pwamtKUjQ4a2lmdEg4YjJuRkdiWnZlV21WRWEwOWF3dHR1VzV1ZXlTLVE5c19NTDFZVW1hcGlXVWFyLTIyTkNqRUR5YmFJUTZoZm1FLUpWa21KMVhjUktwNzRFZkdKQXVJd3p5Sm1mUdIBd0FVX3lxTFAtZ2VTbEFmaGlfTm5RdXcwOHN2Y2w2SFpJLXZiUHRQeVBKd09sOW1qaUtfX0s5LUJRY1JPYXZodkhiYkIyMlBNS0FnNmliTU8wN016enY5dkVSTjB5Y3AyVzR6Y25SRkdnbjFQSERWUU9memQtRHgw?oc=5",
-        "domain": "thehill.com",
-        "publisher": "The Hill",
-        "publisher_url": "https://thehill.com",
-        "language": "",
-        "seendate": "20261013T214500Z",
+        "seendate": "20261014T052213Z",
         "source": "GoogleNews"
       },
       {
@@ -199,6 +69,106 @@
         "source": "GoogleNews"
       },
       {
+        "title": "US Supreme Court rejects attorney sanctions appeal in Arizona elections case",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUw3MWFmUmFCR1JXdS1RaDJDXzczUnFLMG1EVXJMZzVHYlMyNG1fcmkzWDRsdzg1eUh3RC1vU1RaY1RSRTh1WHNFWTRJSDNnVG9ORW5JSEQwRy0zcEZldjhIMDhQb09ndkRBY3VfckdRNzhVbkZZVXdaTEpCc0ppbFRiQVVpTlJqVEhOeGhLbUc0MWJVRTZQZWVLa1k4UGlJcTJxeUoyS0JyUThadlJLOVZwVlpkelRaVlJzeS1ZZkRhaUYw?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261013T230603Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Imposing Sanctions on the International Criminal Court",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObmFDb0ZBanoxeHZFZmNKenBlSWpkOV9SWGJFNG0xcno1NXpaSUtHTEpPQ3FzSjRiS3V5d1U2THJscmxGV1FTSzduMnFZSGMyZ3Y5aVZCT1FLU0dMbVk4VFJJYzdYaExrN0VnN3hpYjh4WXBVUmtqenpvSVE1S2FjUk1GM2Jya2pseVl0eFp2RWlJUkFzb1VkczYyNXk5REYyWC1IMThTZTJsQU9Qb0FBbUVxd1FHdmlB?oc=5",
+        "domain": "www.state.gov",
+        "publisher": "U.S. Department of State (.gov)",
+        "publisher_url": "https://www.state.gov",
+        "language": "",
+        "seendate": "20261009T145716Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Bank of America fined $1.2 billion by Treasury Department for money laundering and sanctions laws violations",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXZDakt4djJRcFNXcGMxNzVLOHFlNWJYZGhLRjUyMlh6bm5PeGN0clAwZ0NDaG9pelBBdlNXWU1ocXkxeUJoWmRPSWZMckpqTXZ2QWRLempabXdUX0pveVhGVXYwSl92VDJsR1NuZDRUeDNRY0xzaWVFTWUweEJCcHhB?oc=5",
+        "domain": "www.cnn.com",
+        "publisher": "CNN",
+        "publisher_url": "https://www.cnn.com",
+        "language": "",
+        "seendate": "20261013T203259Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C.",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDdnT3JDZVFPaDNiNDlmcW85MXhtQmlLRGp2dWZ0UGtTOS14RkRBRWFZM0h4em8yLUJWNHpfUmkxTXZxZ1FIa3N2THZEdTNXY3B5bkRFNVp5aFhmR0psS01jT3lKekEzc2ZwdTh0QmI2SGFCaVlLeF9ZaG9mbkZIRkNydw?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20261014T080325Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Treasury fines Bank of America $1.2B for violating money laundering, sanctions law",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00Z3pwamtKUjQ4a2lmdEg4YjJuRkdiWnZlV21WRWEwOWF3dHR1VzV1ZXlTLVE5c19NTDFZVW1hcGlXVWFyLTIyTkNqRUR5YmFJUTZoZm1FLUpWa21KMVhjUktwNzRFZkdKQXVJd3p5Sm1mUdIBd0FVX3lxTFAtZ2VTbEFmaGlfTm5RdXcwOHN2Y2w2SFpJLXZiUHRQeVBKd09sOW1qaUtfX0s5LUJRY1JPYXZodkhiYkIyMlBNS0FnNmliTU8wN016enY5dkVSTjB5Y3AyVzR6Y25SRkdnbjFQSERWUU9memQtRHgw?oc=5",
+        "domain": "thehill.com",
+        "publisher": "The Hill",
+        "publisher_url": "https://thehill.com",
+        "language": "",
+        "seendate": "20261013T214500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU's Dombrovskis on diesel deal: Now is not the time to ease Russian sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2wzam12ci10NGxscWpnMkU3SE0tM2FJMmVoUkswRUprb1JJUmxIcjlpZGtUMTZiZUZKdmwwZHBhaENSWFZHLWlUZTR5ODVoU2lYdlRXQndoSl9icG54U3BnQk5WVUk0OUxTT1hjZzAwNnJ5ZFo4OXhlVVhMb3lFRldmTmhwU1RjQW9aQzdEYlNCVVZEREliVlVpVERhSWVjemRmMEhTTkRKUQ?oc=5",
+        "domain": "www.cnbc.com",
+        "publisher": "CNBC",
+        "publisher_url": "https://www.cnbc.com",
+        "language": "",
+        "seendate": "20261014T081658Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Bank of America Fined $1.2B+ Over Sanctions and Money Laundering Violations",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkh1M1R4MHY0eHpfWFd0R2poNGU2bjlNSTJIbVJDVUdRdUpJWXJlMFRZa2hrRGtha1FpbHBYMkhpUDc2MEt4Um5sNXl2LWVtSGE2LVpGSk5feE1LSk42RWFXS0VuanVLT0RYbjF0WXZ1QTJuMkUxeUlUYkZNbjhaQVNDOVdBUGtBYklpRTE0X1g0dGFaMUlTeUR1RjdQTll1ZThqQk5Ra3NCNXl4cXc?oc=5",
+        "domain": "iranwire.com",
+        "publisher": "IranWire",
+        "publisher_url": "https://iranwire.com",
+        "language": "",
+        "seendate": "20261014T100911Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Lawmakers Argue Trump's Russia Diesel Deal 'Violates' the Law. Here's What Legal Experts Say",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjJDOFZveTZzQWowY0ZmNlJFS01kbHpZY3BlVkREdGltal9HakF4Rk8tZkJGVWxGVGtGdlE3RkFCMGQzSkp3Tjk4Y0traUdTRlVRbk5rZlNUTzJNZkp0djFOemY4cmtMN3VJTlQ0TWtRdzBjN0lEb2k5RnFVV2NBSldUUHllaG1aRjFfTTNYcVJtdVVhX2RPaVVhTW5VMFdoQ3BXSUxOSQ?oc=5",
+        "domain": "time.com",
+        "publisher": "Time Magazine",
+        "publisher_url": "https://time.com",
+        "language": "",
+        "seendate": "20261013T212215Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Bank of America to Pay $1.2 Billion to Settle Violations of Money Laundering, Sanctions Laws",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemVIQ2FhSTdKUkpYbmtTR1h6LVNyVmlNVG84ZUVRdW5FMV80V18wa0Q5YmR5UzVzZDRiYXZXbFJPdkVmVkZLVm9QaDlTNmdwUWJ0YldDaXB5N0I1cng5NHY1VnFTYUNfYmVjNlhmcWZCRllXbmRQUFJvYm54YjkwOWNYVU1Oa1hrVUFzWHU5dzhLWUlMOTVMc3pWUl9uNE1vREZYa0lJVXZsVjRlM09DeUR4M3M1YVVxSG41THpJOXloZTRzTkl4a0VfT3lEeVVIVEswd1BB?oc=5",
+        "domain": "www.wsj.com",
+        "publisher": "WSJ",
+        "publisher_url": "https://www.wsj.com",
+        "language": "",
+        "seendate": "20261013T220500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How do Iranians move money abroad to avoid US sanctions?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FTWFZtUnRrQlJZdEd2dGZraWo5SXdkZnptUjQ3TFJLblJOVkFLRDRrbGgyZ0dQRkEtTG40M2lEWUdqVDNGREpMZFRVZGFkTVIwMG1yclVWWnE1UjZpbDBuUHNubTJRVm83cDRGYVk5V0NlTTRxZFJTdlhmRHBZcG5hOTNlSkJ1Yl9aM2xRWFpCTzJjczV4Ym4wUWZnd9IBowFBVV95cUxOVERJM0JGcjlvSFBoX2RjUGZYczQ4dlBqWVAyajRhM3VUcDkxM0l3dEFLX2tjOTc4b3FSX1c2OGp4dS1Cb1prMFctU2dWN3pGWmVCMGdFc2NKWGZyWXk5dnJfdTRBS3Z2UWpheFl4OHBVNEQyVjBsek9odkRYdzdmbmtSc0F2WlZxc1ZTbGZfZGl5ZVlhNzFoM0c3eTl3bVZCQlpJ?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261014T082954Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "EU adopts nearly 1,600 new sanctions listings targeting Russia",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHU4aWdseGJQNDlHSkY2bVlVakhtNG9qSWo2eHl0MV9WSTRoc1lqdUdTcHlXeWdCVU1nZ3V6c2Z2dV9FMmRXdGlmMjhOOVpENE9ZRkY1UkRxM1ZzUTBaLTE0OUhEUE9nVzFVd1pUQUlJcjljeWhjNEJvSk55VlhobmU5Q0F2S2lKb0M0Z2lLcjg1Y1J2bG8zUU8xUXdLUV93WUpOMG5DSE11dzJmdklv?oc=5",
         "domain": "www.reuters.com",
@@ -206,6 +176,26 @@
         "publisher_url": "https://www.reuters.com",
         "language": "",
         "seendate": "20261012T082344Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russia’s war of aggression against Ukraine: EU agrees largest-ever package of listings targeting almost 1600 individuals and entities in Russia’s military-industrial complex",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPWHNlczJqY1VHMDg3NEFKaXNMTkN5eVJSdXB5VE5ZR21CRWpoYm1GeVVLVkl2VjkzUk15RGtEZXRKMG80ZlQ0elBzSWR2M1Z4MmItR2p4WVQyZk43SHFYNGZ5c0JodTFxVmdVTU52VzhWM0tGSHZjcFdZUVE0Sl9td2dnd1BoUUN3R3RzbFAtRWwzUk01d1VsUzg3Q0RzLUowY1ZibnBYbjZnaUFnclFuREw5S2ljajB4UU9qWWRFWXpITUE3a0k5enh2X2JQSEFBSkZadmpZRDVuZy01UGR1bWY0Vk9CenJ5LUhRV0ZjaWljaXhsWjJvS0VnbEU1SUhQcWdUOXBHWkRncWRXZXY2end4MmM3TEZfQlpEZ2ZneTRhU25NX3B2LVl3Nzk4dkJxa2o4NFJjYTVTejBwRFZXRGFNc01BNG9RaU1sZHgwTFpQZXB3Y0RUa00yWEE?oc=5",
+        "domain": "www.consilium.europa.eu",
+        "publisher": "Consilium.europa.eu",
+        "publisher_url": "https://www.consilium.europa.eu",
+        "language": "",
+        "seendate": "20261012T103733Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Supreme Court turns away Kari Lake lawyer’s challenge to sanctions in Arizona voting machine lawsuit",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenhseW1HU2JaRExkZUJaWGlORHUwVmdvVEwtRjU0THpDRU43SHl2bEk5aG1jckVfTXJlMHB1eWdYN21zTGlXMTN4THI4c3l3S0czSks3ZkpJU2RGeU5kb2ZDN2FzNVBDbGZEV1FzdHdGYkFqZGs4TDBIS0NQNVJhM3RYVDBJcGcwWDFMWTFWdUNrc2JVdXYzVHZoWnVjcjFDejMtY1pDLUvSAa4BQVVfeXFMTlY0bTJPUkY1ajFiV2pXTUpwbHlYSm42OW12MFVscE1sQXN0WENDbzRjUE1nN0t2ajBKYl9MbndwT09NQ0RONkNMNjNjWnF2VXJmb0U0eGFhNkptZEpLd01HdEUtNDgwYm9CTEs0WGc3QVl4Y3IzQUZONU9LTlZwVUhmaVRxdFJpdGVNRkZuUmFjN0dzZ1ZkSkZwb3J5OFlzTFphVXprMlpvTTZZa3R3?oc=5",
+        "domain": "thehill.com",
+        "publisher": "The Hill",
+        "publisher_url": "https://thehill.com",
+        "language": "",
+        "seendate": "20261013T133800Z",
         "source": "GoogleNews"
       },
       {
@@ -229,23 +219,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Supreme Court won’t hear bid to overturn sanctions against Kari Lake’s lawyers",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNckx6blotcHdHcWRfWklLSk9xcHl6eWg3c2ZmeWM4LWY1MEJZMEplN3NkRzFTNXZyYXFKQTI1dFJYZVdkRHpNX25CcElxeWFSOUdHZDZWMFduMnFkblVrNVl5anJBa1habzFLVGpqQlFkSlM0N0lSTjV0U19GR001ck1DNnZkLVBHVW16SUFENFRzcGZ0Z185QnlSZ2kyak5QVjZXRXU5V25FQUltV0E?oc=5",
-        "domain": "azmirror.com",
-        "publisher": "Arizona Mirror",
-        "publisher_url": "https://azmirror.com",
+        "title": "US sanctions Mexican cartel CDN's horse-racing, business network",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGM2dm9HNmlqTkdMODFpV09LT2YxRWloWXUtTk5KaFV1NTVxWDMtNlRwZDY3Z2M3WFBpZ2JVS2tsVUY5eko1Mldtd3RPMTM3aFFaNGZYS3dZbkZvbjZLelNISHB1dlk1Z3B2Zy1xWVJudzhIaXVXeWNjQkxIX2x5VThzUnZ1Y25HTjV5eHBVNm1jSlk3S1c2Qm90ZkZLUkRpU3JHX18tdld4U0U0R2hhVHdwZw?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261013T211723Z",
+        "seendate": "20261013T182851Z",
         "source": "GoogleNews"
       },
       {
-        "title": "AML, Sanctions Breaches Catch Up to BoA",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VQU4xcEhOUWtETHZwRllCbGJ1TGJLalI5ZEs2N29mYkJnTzgyMW5qTkhRZ1NSRlJNS0xHanEyT3pZcjJaSlRNUGdoWHpfYXRpNGxGeHRxTVlXZ25CN3lVZlVVY2xWdDczQU1MMmFXaw?oc=5",
-        "domain": "www.acams.org",
-        "publisher": "ACAMS",
-        "publisher_url": "https://www.acams.org",
+        "title": "Russia’s Leading Sanctions Evasion Tool Is a New Kind of Illicit Finance Threat",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRk44MTIta0h5dUxHa1dGSXpwTGhzOFk5bE5FVTNSREN5eDVkMEFrcXU2ZGZ5TkZTTmhqM1NadHpSbVM5RnZBQk1TaDd4ZUwxUmF1SGtWbFFVYkNZZkhpYjVoMTZHU3o3WGFNcmJxTktWcWJyZXdOZVM3Um4xZ2FGNEY1Qmk1VlRjbjg0dnMzS284bnpFSEtEQW5ITE1YcTR4RDJ1TC1NV0ZLV1lf?oc=5",
+        "domain": "www.fdd.org",
+        "publisher": "Foundation for Defense of Democracies",
+        "publisher_url": "https://www.fdd.org",
         "language": "",
-        "seendate": "20261013T211851Z",
+        "seendate": "20261014T005834Z",
         "source": "GoogleNews"
       },
       {
@@ -259,6 +249,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "US fines Bank of America US$1.2 billion for alleged money laundering",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPREVzMUJHSEFiVUN2ejE5RWF6eTBFdWhHTWg4NjNWbnVidlRRa19JOG9NZDVvbmNwQzNYcDZHYVNiYVZ2Wkc4cGJ6QlFweGRNX3ktdU1nXzhNdnc2cHdTYUNyaGR0NWxldXVJNGNGOHZJNkhuTUtsbzBGQWhRQmtXX21kcGZOb2d6bG9lTVR5U2RJd0cxdVM0MXR6QkNQYnlHbDY5Y2tKOWZpTzlHeGJfMlA2WElJa0hBSnNPTDdFbTJrMjdVVzRUcDF2bFpDRE5lcTI5UXluRkZLOF9OVXZSVnpSdHYyMTjSAecBQVVfeXFMTmgwSFA3c3RhLXhZS2d6TzFodVE3bU5EN2ppZjVUWGpGaEt0a2puZkFlX19kMGU4TEg1MkVaRTltRHg2OU1jMjBZRjFhUlZTSUpPV3BSZnljWE8xM0w1UVBtbDB3bWQ3RWttOTh0ZmNoQnpTYk95cGM3ek1qcVZTX3BEbHdCNzU0cjdoeFlIZTVVUmFKbl9oV0UwZUVyaVk3WkxfTmxPVG9taXk1TWZWdWtmZUdaWXFxM0MyUGJkaGdnbjRmeko2cmI0TzkzZkZ0SkNjZWlVMjNMWExBUnV0dGZ4RGFVeU44?oc=5",
+        "domain": "www.scmp.com",
+        "publisher": "South China Morning Post",
+        "publisher_url": "https://www.scmp.com",
+        "language": "",
+        "seendate": "20261013T235549Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Nobel Peace laureate Pillay condemns U.S. sanctions on ICC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HM21kQTY4N203bS12N1FjVmRZbXNTYUFqVVIzUjJGaW1Ed1JvV0pPWG83UWNOMFo3X1pBbmg5RWNWTlNwdGNtRjN5QXpIWWNhWVpyQkZJcWJqZw?oc=5",
+        "domain": "english.kyodonews.net",
+        "publisher": "Japan Wire by Kyodo News",
+        "publisher_url": "https://english.kyodonews.net",
+        "language": "",
+        "seendate": "20261014T071128Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Russia’s Turn to China Under Sanctions: Sanctions Decay, Substitution Elasticity, and the Challenge of Sustaining Pressure",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94clA1ZGhqd0k5a0tjVHlnd0U2V0hPMWJtR2F6UzJETVZvNmtmd0NWMXdjb1RqOWNsd2JCU3FhZjduSFlvTE5OYjdQRDBuM19jVVQtRFZ2d0g2alNtZWpXZzNKREozVWctZG5zV1lpaUdRdw?oc=5",
         "domain": "www.csis.org",
@@ -266,36 +276,6 @@
         "publisher_url": "https://www.csis.org",
         "language": "",
         "seendate": "20261009T184714Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Washington Policy Weekly: United States Sanctions International Criminal Court",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeERrV3dkWDFzQ0dDZEg1SS1JdTBacEdkVG9adXZBQ25NenQ2ZnI2bjkzN2ptaFp2Z3FaSkNQU05lWXdnTFlyVVNCeFdzcTYtMmZnWVlXNHpVajExaHlzTEhyUFJsMzA4aVRxVjhTMGJiaEZiMC1SN1lQUS0yUzNteFRGbDZHZENoTlNReWtOSFdmaloxUDYyc2ZaLTZtZXF1Tm1GZ0h4ZFd0MEZfVDJUcnBn?oc=5",
-        "domain": "arabcenterdc.org",
-        "publisher": "Arab Center Washington DC",
-        "publisher_url": "https://arabcenterdc.org",
-        "language": "",
-        "seendate": "20261014T002252Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The ICC strongly rejects US sanctions against the institution",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVZwUEMzamgxUzl4TTJ6aVdJWTJpbEpUc2RqR0IxTXg5MmV1QkVjRmhnb2x2blVDdGRyM2dFNkhQZHBObFlwZUlBXzg0U3VNV3NPNUdScEh5bHBMVzRVSWxrZjNIUmZNdVpmUmdwLWFZTlJNbjUyd2xUWi14SXJlSTM2Y3BTS2VHRXc?oc=5",
-        "domain": "www.icc-cpi.int",
-        "publisher": "| International Criminal Court",
-        "publisher_url": "https://www.icc-cpi.int",
-        "language": "",
-        "seendate": "20261009T152152Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FIU faculty want law school dean sidelined over sanctions tied to Trump lawsuit",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qeVhwYWNpQ09LZmNWdXZzVWxQdHpGX1VaX05nWFZWMVlXT0xodnJudVZUbnZOb3lQbjZtTkNUVFBlLVlld1pOSVdLMk1BQTBZYVRKaFd1eUNlVXI5dHh3bkRvOXVYS2dXT2NFeGxpMlRNOUJoczFSM1Nn0gF6QVVfeXFMT3BFdS1PbzRIdEVBZ0luTUl1NGw2dmJqVmt3Z3AydElGNmlfZmZvMkZVRGlfMjFfdk5JRjd6aWhRU2YtYTR5dzNmMmRjazdIcFNWOEh3ZDBvWGVTX0RHci1wbElHd3M0V1pGcktwTjE4MUNuZlNfb2czdVE?oc=5",
-        "domain": "www.miamiherald.com",
-        "publisher": "Miami Herald",
-        "publisher_url": "https://www.miamiherald.com",
-        "language": "",
-        "seendate": "20261013T205025Z",
         "source": "GoogleNews"
       },
       {
@@ -309,73 +289,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "The Bureau of the Assembly of States Parties regrets sanctions against the ICC as an institution",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX05YZkdLTWJIRUJnR1Roc2NjbFhoUkhXQ09HRGRYUVI2YVdTakNZS2tJWGFobHV4VXVVYlF3bVpIaUhIRl9xWlV1OWdPTmF0ZFlpWjJjaG5vMUVINmcyczR3aXJHdFlKajR4Y0NoMnhaaEdWQzJFS2xMejIyQU5XLTcwU3VBbEkteTFVMjg3dXpGVUF2Wm1wWXpwVFFFZkJCY0pF?oc=5",
+        "title": "The ICC strongly rejects US sanctions against the institution",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVZwUEMzamgxUzl4TTJ6aVdJWTJpbEpUc2RqR0IxTXg5MmV1QkVjRmhnb2x2blVDdGRyM2dFNkhQZHBObFlwZUlBXzg0U3VNV3NPNUdScEh5bHBMVzRVSWxrZjNIUmZNdVpmUmdwLWFZTlJNbjUyd2xUWi14SXJlSTM2Y3BTS2VHRXc?oc=5",
         "domain": "www.icc-cpi.int",
         "publisher": "| International Criminal Court",
         "publisher_url": "https://www.icc-cpi.int",
         "language": "",
-        "seendate": "20261010T141843Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. Supreme Court won't reverse sanctions against lawyers in Kari Lake's 2022 Arizona voting case",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1hXelJpcUFUZUdFM2VSUDhlY081dHhrVU14aHpRWVhHQlc0VVhVNGhzSlM1Q3hvdzJWV0NrTVZraXFNRU1OVUx5TTQ4ZkZVbjM2QnFJRzdacXZ2U0h1c1ZPTmJsRi1rSjZjbUYyX3RuSXZlWG8yTTdaSUc3UXJyeExZOUNueXN5NjJyNk5oWmRsRVhoVFRoOFpWQ1l3amUxVzIzR0Nwb19sWjF2cXVXT1FLUk9selpIOWFSUmdjTmtLd2hySUtSajhIeXEzTXkwLUl3?oc=5",
-        "domain": "www.kjzz.org",
-        "publisher": "KJZZ",
-        "publisher_url": "https://www.kjzz.org",
-        "language": "",
-        "seendate": "20261013T191400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Don’t hold your breath for Russia sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTzN5QjFNMk5GN2d5ZVAxTmppWnljTGVvaEhCSHRIaWxQdTVIa3dOeFB2RWxzWFd5dS1FNUNaYkRIMGdZazhpUzA3QUl4ekpVX2kwVHpaaWYyalFkOUZ2ZW14ZktXbnZXVzZLa19YTVRyOGpqeWlUcXkzTEY3RmRxOEthaTYzM0FXWGZaQktqcDZMNnJ2MklXdmM3NUFIM2V0N09Lc1FSUDlvV0ZxazRHVlFJM0hWa3o3SjJkV2RIRnI?oc=5",
-        "domain": "www.politico.com",
-        "publisher": "Politico",
-        "publisher_url": "https://www.politico.com",
-        "language": "",
-        "seendate": "20261013T202444Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10dmFabGNvbFplU0g0bWdycHBYSTZDUzhWOF84d1pTc1JBZTA4d0NzaXc0M05XbzZ5RmlCUWhIcmM0Vml2QkZoSjhWVVFaM3poS3k2OGpJWQ?oc=5",
-        "domain": "news.un.org",
-        "publisher": "UN News",
-        "publisher_url": "https://news.un.org",
-        "language": "",
-        "seendate": "20261009T170201Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Kari Lake lawyers’ $122,000 sanctions left intact by Supreme Court",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yNUdBd3YwSnVkX2N3SFQtaDl0M2k4ZkxUd1FodUpEMDQzUTRGQjBVY0R3ODdHbUItNkFKODlKdXBYVDk2Z1pEX0pITVljZmtFU01UZGFwbEFsSXhhU2tPc0E5TVJzZXF6YThTbzFFUHVEUlVLMkR5cVFxZDZYQQ?oc=5",
-        "domain": "ktar.com",
-        "publisher": "KTAR News 92.3 FM",
-        "publisher_url": "https://ktar.com",
-        "language": "",
-        "seendate": "20261014T002004Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bank of America fined US$1.2bn over money laundering, sanctions breaches",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2VrMnY4WGhvcGMxQk9mazQyamFhbzB4WERnNnJpSW9rMTNpTzdmMFVsb0hXdzRfa3NLOVhtZ2IxVGZhMmZfVG5uZnN2am5tdnB5Nkw0cTNGZEdra2hfZG9ldHdNNm1pY29PMURLenVGZEQ0bEExaTNVY3lVV25XSks5ME9nUG9vQVRvQlo2bzBYbWRTZkJqNVR5NVJnRktDd1JRQkpwZDRITHZNVFEwd0k1Yw?oc=5",
-        "domain": "www.gtreview.com",
-        "publisher": "Global Trade Review (GTR)",
-        "publisher_url": "https://www.gtreview.com",
-        "language": "",
-        "seendate": "20261013T224408Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US imposes fresh sanctions on Iran's shadow fleet",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUm45bHRGMFlmNEV2d2lTTkFvQURQckhMSGhYRlhxWUtOb1d2cGhCTnVXUEJaMF94S2xZNXFWMF9ONTVraWdWdnVOME04c2xyMk5tRnhHVjI3YVFmQTZIWVR6MXhDUUNram9tRjlsejRlRXVQUERDX3NkY2ZIVmlsOV9Ic0wxOVNPSmVCRmtVVExGcWZNY0tCTw?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261008T183524Z",
+        "seendate": "20261009T152152Z",
         "source": "GoogleNews"
       },
       {
@@ -389,23 +309,73 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Manchester City deserved trophies, says PSG’s Luis Enrique: ‘I hope they avoid sanctions’",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZFFaYTduNlJDenFaRndjTHNzZ1c5al9aTWVoNjhZY09qeDNEVW1JblpUNFRsZUpJVTR4ZTBld0lnTXNiVXhYNkQtMElpNWpxQ0diemR0MS1ZTUVJblJnd3djRXgtYmNVNHR1ZTlkMTlhdWlsV0tlWDhpQnVTTzl3alVKanhTaUpaNXE4emVxUXI?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
+        "title": "US sanctions threaten ICC's survival, MEPs warn Brussels",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnloc1hZb0pwVFkwdXhwekFpdVM0UGpWdTFhczl2NXhzT1l2QU9yWFgtV1J0MjdJaThQLTBOYkREVWc5Y3U3VTUzaDJiSUk2cWVsUVFyZFlyTnB2RWZSS09WMVo4M1R0OTNrOUVqdzBkczZMTHdHNVhwZEY3OU9iZnE3d2g3NXZBWmdXRmRvM3JBZF9BU2cwb3dCb0NZWEhPMW53a2VKUWY?oc=5",
+        "domain": "www.euronews.com",
+        "publisher": "Euronews",
+        "publisher_url": "https://www.euronews.com",
         "language": "",
-        "seendate": "20261013T194258Z",
+        "seendate": "20261014T104411Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US sanctions cartel-linked horse racing network with New Mexico ties",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2dQbFlJcjJtSEFLcktBakpneGJBYUNmS04xVDBTNGh6d1paWlZMY3RuUWFkLUlsZGlDSVVuMGVpOGpuS3pmX2VFVjZaLTEyT0NDRW1wcUpQV0M1SlgxeEF0TXpjQjVWbUJIa2k2YXBIV01ORW5sMGFYVDdGcVRGZ3FPclJGSzJCcjNRWG84NDdnRjh4d0szTVJOYWdSVXdYVE5nbHJvWTJOVTBIZWfSAbMBQVVfeXFMUFB4eXJCNFFWbjZfMVBwa0JPZnRTTTU5R0NKb3c5UkdtZ1pxdFNPMlkxQVFzOFgyQjVlZ1VMemxmZHhXUFE5enVsYjdmTWQzZzMyQTRjMXh3bWh1SFRla1JEV3hUemJXZWt3Mjd6YnRhV0pHb3J6NjFfUHoxbXR3a0Y1cXJORU9RVUZ6R1d2bU5XM1JoUUlUREVfR1lqc2htd3VJWWNIY1N5Rm1LNDBiUVdFSW8?oc=5",
-        "domain": "www.yourbasin.com",
-        "publisher": "Yourbasin",
-        "publisher_url": "https://www.yourbasin.com",
+        "title": "The Bureau of the Assembly of States Parties regrets sanctions against the ICC as an institution",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX05YZkdLTWJIRUJnR1Roc2NjbFhoUkhXQ09HRGRYUVI2YVdTakNZS2tJWGFobHV4VXVVYlF3bVpIaUhIRl9xWlV1OWdPTmF0ZFlpWjJjaG5vMUVINmcyczR3aXJHdFlKajR4Y0NoMnhaaEdWQzJFS2xMejIyQU5XLTcwU3VBbEkteTFVMjg3dXpGVUF2Wm1wWXpwVFFFZkJCY0pF?oc=5",
+        "domain": "www.icc-cpi.int",
+        "publisher": "| International Criminal Court",
+        "publisher_url": "https://www.icc-cpi.int",
         "language": "",
-        "seendate": "20261014T024103Z",
+        "seendate": "20261010T141843Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "PSG’s Luis Enrique Hopes Man City Avoids Sanctions After Financial Rules Verdict",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYjIyTjJiN2RSMVBtTC1zNHd6ZXRjQzc5NHhUMXNtdWNKV0tTVFpNV0dibTdLTE5sVmpRdE9CYll0TjhrQno0d3haMW5fVFZRWkZfWnN2emdIOENyR2dFQlRQdzR3YjJQWDN0NlYwNVBkb0dodXQwSGZTX0RYbUpfd0tSS2dMdlprbnEwUURZMUk2MzEzdzZzQ3ViSHV0NWJ5T0xZeTRMNzNuSkd6LVZKaVZISm5DdlpocjVXSlJVOWFZMVlmZmc?oc=5",
+        "domain": "www.foxsports.com",
+        "publisher": "FOX Sports",
+        "publisher_url": "https://www.foxsports.com",
+        "language": "",
+        "seendate": "20261013T193613Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. Court Blocks Enforcement of ICC Sanctions against Groups Advocating for Palestinian Rights",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcE41bkJ4czJ1NnFOWnZoOVhJbGoydjZhUnQ1ZHNEd2MtVnI3SHRsUXBJRzYzMzN5WFc1TDZmcEtZdFQ4SnUzQjJPQXlZMXkxRWk3VmlsT1FmZ1F5OWxCTUd1Ni1uR05mN3c4NU5kZlJqSVhzcVBsYlFTSVZXckhrTDFUSDlYbkw4LVNETDRWaXFzTWx4cGhOQWVkeDRaTlJoMWwyU1JlcFJkMXdNeTlTZ2RBSmRfUFU?oc=5",
+        "domain": "dawnmena.org",
+        "publisher": "Democracy for the Arab World Now",
+        "publisher_url": "https://dawnmena.org",
+        "language": "",
+        "seendate": "20261013T220633Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "AML, Sanctions Breaches Catch Up to BoA",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VQU4xcEhOUWtETHZwRllCbGJ1TGJLalI5ZEs2N29mYkJnTzgyMW5qTkhRZ1NSRlJNS0xHanEyT3pZcjJaSlRNUGdoWHpfYXRpNGxGeHRxTVlXZ25CN3lVZlVVY2xWdDczQU1MMmFXaw?oc=5",
+        "domain": "www.acams.org",
+        "publisher": "ACAMS",
+        "publisher_url": "https://www.acams.org",
+        "language": "",
+        "seendate": "20261013T211851Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10dmFabGNvbFplU0g0bWdycHBYSTZDUzhWOF84d1pTc1JBZTA4d0NzaXc0M05XbzZ5RmlCUWhIcmM0Vml2QkZoSjhWVVFaM3poS3k2OGpJWQ?oc=5",
+        "domain": "news.un.org",
+        "publisher": "UN News",
+        "publisher_url": "https://news.un.org",
+        "language": "",
+        "seendate": "20261009T170201Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFBDRG1uc0VicDE2RVNPN0hpQW84SXJZeXp1S3h0QmhRUzJselNBTmVQVUZPWndDV3lub0JVZllGTTU1ZkdxOV9MQVp0bXdxOHFFVVlITTlSR1pKMkUyaG5XTzR2dXRsT09iamowM2lkQ0lVbExNak1WOEQ2QzJ0ZmFmYXJwZEx2Y2RDYUhpbGdham5UNFBrcE5FTTRtOUVzdTZiLdIBpAFBVV95cUxPRjRnbHBFNm5xMjljcHJjOTBzMmFRMFViSVFwQTZzVGVqRnREMnNzU2xZX3VGMk1qamNDNmFTcU1yWGw2dUU1aWJxX3FaZXJHQ2diSjVCbGp0dFJmMmNoeVpKbGZIQ3QzU0NIN3hZN3QwZFFUajE1bjh1dDl6dV9Sd3Q3N2JWNXR0LS02R0FJak1zR0lFN3ZOTW52UXJzQ21nXzFvSA?oc=5",
+        "domain": "www.dw.com",
+        "publisher": "DW.com",
+        "publisher_url": "https://www.dw.com",
+        "language": "",
+        "seendate": "20261012T105115Z",
         "source": "GoogleNews"
       },
       {
@@ -419,53 +389,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Nobel Peace laureate Pillay condemns U.S. sanctions on ICC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HM21kQTY4N203bS12N1FjVmRZbXNTYUFqVVIzUjJGaW1Ed1JvV0pPWG83UWNOMFo3X1pBbmg5RWNWTlNwdGNtRjN5QXpIWWNhWVpyQkZJcWJqZw?oc=5",
-        "domain": "english.kyodonews.net",
-        "publisher": "Japan Wire by Kyodo News",
-        "publisher_url": "https://english.kyodonews.net",
+        "title": "Supreme Court won’t hear bid to overturn sanctions against Kari Lake’s lawyers",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNckx6blotcHdHcWRfWklLSk9xcHl6eWg3c2ZmeWM4LWY1MEJZMEplN3NkRzFTNXZyYXFKQTI1dFJYZVdkRHpNX25CcElxeWFSOUdHZDZWMFduMnFkblVrNVl5anJBa1habzFLVGpqQlFkSlM0N0lSTjV0U19GR001ck1DNnZkLVBHVW16SUFENFRzcGZ0Z185QnlSZ2kyak5QVjZXRXU5V25FQUltV0E?oc=5",
+        "domain": "azmirror.com",
+        "publisher": "Arizona Mirror",
+        "publisher_url": "https://azmirror.com",
         "language": "",
-        "seendate": "20261014T011500Z",
+        "seendate": "20261013T211723Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US Treasury fines Bank of America more than $1.21B over money laundering and sanctions laws violations",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2ZiNTZ5cXZyZXhaUVh3cjhpWUF6WmM3VGl3RnRHMWdRZTI2alNRWXhiVjNQdlJtelZQVnVNUW9vdWhoNnlnaXo2NFJPWkpodFVGYmZIWHQ2NEpKT0pLWFkxQmpBYVZUbGItbmxyTVlmVGNfWUp0NjBDSjRHNjA5WkZyMTFic2EtLUZSZEhkd3RVeWt0ejRnVTVJT2VCN0lLV1hOd1RpRHd2dzZScm9GM0s4cnZfeXNXajdkS00xMHZnZ2hTZE9WQWJPLVBuM09PRWpHSGpOU0hFZw?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
+        "title": "US sanctions cartel-linked horse racing network with New Mexico ties",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR2tNSXBmQkZyUy1SSXFaTlNULUt5SzJiR2NDMXVUOFhXc3gxZzRWYmlEMVZuNDBKb3RWNHNBaERXd1dzTU81ME8tVEh3dHlYTlUySmZYa2RseEMzZ2kweWRUTHZ4elg3b3hrbGo2eEdSdjRSWnRmYnhUYm1PUGdsQ2ZnTjBKSkZ2UlExV2d5RXd5WGxwY01mWUZYN3d6VzZidk5DNzJjT0JFVG9pS0E?oc=5",
+        "domain": "www.krqe.com",
+        "publisher": "KRQE",
+        "publisher_url": "https://www.krqe.com",
         "language": "",
-        "seendate": "20261013T235005Z",
+        "seendate": "20261013T221736Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US fines Bank of America $1.2B, saying it violated money laundering & sanctions law",
-        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOZkphTkNUNkVPbXR1SkNuUVYwbncxMXRMVHVCV2RJUXRZODRMbE9hUEMtdEZ3OTUzUkwwQWZQTTNlaTM5dTVLQXpCcmpsa1pETkR4dU94SEQ5ZFNqdUp5Q2Nyc181anN5TW5pOUtTZm8xcW1mWm9CY1ozemtwdXBTMHlEZXhzeWhnR0hjcXlRUmhsYnlnajBhYVp6UXVVWEhGYzhrVXVDS3JOLTVhM2lWOEJaVkFRaDljZ2d3TE9jUi1abnFvcmh4S2NwemJNT3FCRlo0Vmh0SUpuZUw5akNVMHEwWkVKSFN3SXpkcEFZX1BGN1l0VWc3MHJkWW5rb0VFSmJMLVZXT0Jsc1RORzdTT0V3RnlyanhKaHRZVnV6RTRXOE9adGVMQXRPTjNMOFJNVGpLRUEyVmJwZnJMWUpsQ1F5NnpobVhybkVLNi1oQ1c2dVZSREE?oc=5",
-        "domain": "turnto10.com",
-        "publisher": "WJAR",
-        "publisher_url": "https://turnto10.com",
+        "title": "US imposes fresh sanctions on Iran's shadow fleet",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUm45bHRGMFlmNEV2d2lTTkFvQURQckhMSGhYRlhxWUtOb1d2cGhCTnVXUEJaMF94S2xZNXFWMF9ONTVraWdWdnVOME04c2xyMk5tRnhHVjI3YVFmQTZIWVR6MXhDUUNram9tRjlsejRlRXVQUERDX3NkY2ZIVmlsOV9Ic0wxOVNPSmVCRmtVVExGcWZNY0tCTw?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261014T023730Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbTB3TGU4cm8tNFhlSWRLeVlydl95WXA3RlMxdFhpd1NaNDY0MUZZaDFRQ0g5VVprZV9ERkNMV0lMTWRUc1ZYQlpYdEdiTG1vQjVkR2ZpZmlGT2h0RFppaHh2MTV2djZzQXp5Y0NJenRodENaSHp1djhFTWY4YXRfc3hZSDJTaEnSAYwBQVVfeXFMUEI4blVkNFA2U0p3ZV85TURQRFNFQm1WYjBXQWpVNW1TN05fWEpEcUFXdTVpQUV6c3htcndpcElIUzdKUG9RUjNUa3dVWFpsLUdFRnpHV1p4VExfLWUwM2YxVGZwT2ZsRHRZSFFVNGhVd0N4Wm1KcDNDNTFIM1lMNXpxNldMczA3Z19rcE0?oc=5",
-        "domain": "www.cnbc.com",
-        "publisher": "CNBC",
-        "publisher_url": "https://www.cnbc.com",
-        "language": "",
-        "seendate": "20261009T230258Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "ICC chief Akane's book gets boost after U.S. slaps sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zU2tlLVVQNWNFMGt2eDc3dUhXa3VNYXNKWHFRU2lEYUFKVi1QZ2MxQmUydUgtOUExb2tYM1JWam5teGszRXpiMnpnMnhZTWRPR01SdEQ3YjZEdw?oc=5",
-        "domain": "english.kyodonews.net",
-        "publisher": "Japan Wire by Kyodo News",
-        "publisher_url": "https://english.kyodonews.net",
-        "language": "",
-        "seendate": "20261014T012500Z",
+        "seendate": "20261008T183524Z",
         "source": "GoogleNews"
       },
       {
@@ -489,43 +439,93 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Germany's Wadephul calls new EU sanctions 'unprecedented' blow to Russia",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFBDRG1uc0VicDE2RVNPN0hpQW84SXJZeXp1S3h0QmhRUzJselNBTmVQVUZPWndDV3lub0JVZllGTTU1ZkdxOV9MQVp0bXdxOHFFVVlITTlSR1pKMkUyaG5XTzR2dXRsT09iamowM2lkQ0lVbExNak1WOEQ2QzJ0ZmFmYXJwZEx2Y2RDYUhpbGdham5UNFBrcE5FTTRtOUVzdTZiLdIBpAFBVV95cUxPRjRnbHBFNm5xMjljcHJjOTBzMmFRMFViSVFwQTZzVGVqRnREMnNzU2xZX3VGMk1qamNDNmFTcU1yWGw2dUU1aWJxX3FaZXJHQ2diSjVCbGp0dFJmMmNoeVpKbGZIQ3QzU0NIN3hZN3QwZFFUajE1bjh1dDl6dV9Sd3Q3N2JWNXR0LS02R0FJak1zR0lFN3ZOTW52UXJzQ21nXzFvSA?oc=5",
-        "domain": "www.dw.com",
-        "publisher": "DW.com",
-        "publisher_url": "https://www.dw.com",
+        "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbTB3TGU4cm8tNFhlSWRLeVlydl95WXA3RlMxdFhpd1NaNDY0MUZZaDFRQ0g5VVprZV9ERkNMV0lMTWRUc1ZYQlpYdEdiTG1vQjVkR2ZpZmlGT2h0RFppaHh2MTV2djZzQXp5Y0NJenRodENaSHp1djhFTWY4YXRfc3hZSDJTaEnSAYwBQVVfeXFMUEI4blVkNFA2U0p3ZV85TURQRFNFQm1WYjBXQWpVNW1TN05fWEpEcUFXdTVpQUV6c3htcndpcElIUzdKUG9RUjNUa3dVWFpsLUdFRnpHV1p4VExfLWUwM2YxVGZwT2ZsRHRZSFFVNGhVd0N4Wm1KcDNDNTFIM1lMNXpxNldMczA3Z19rcE0?oc=5",
+        "domain": "www.cnbc.com",
+        "publisher": "CNBC",
+        "publisher_url": "https://www.cnbc.com",
         "language": "",
-        "seendate": "20261012T105115Z",
+        "seendate": "20261009T230258Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Bank of America ordered to pay historic $1.2 billion over alleged sanctions law violations",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXZvNHlkQW1zUUw3LVo0dnVQa2R6NFgxcE1DbXRBX1ZHYnpKTU44YUFOSWFsN1RDWWZqaUc5TTlYN05XQmNrNTJFY1p6YlhqVXUxNnRyaUswOF9nTEFMMFBKQzRVZVp1UzFiUEk3UjF5Rm9MRGpJTGVmck5YYjlPQ0FWdXdvSWZOWjhoWkZ4dVVOR19TWFJLWXNSV2lTYy1wQXI0Zlp6YW1vYThWTzJabm5rQ2FPYWJHNDRWdlBRUEtHSXpPS0dPeEpn0gHSAUFVX3lxTE9FNFNsSkI2WkNIMTBhLVdTS0h0Y2RRSHNaWE5wRUUwSlRyRVg2OXZkQU5OY1pweFdhNVVqQ0hmT0ItOVc3TGJsQTJOWjdNc0w3U3ZOLWJjQzRtMUU1bkpZSnFfTlY5UXQxTUh6LU5RaDVudUZKcjNaMXNrT0ZqMmtrY1Z6bFJPVTBPSTVHUDNyaEtza3R4ckRVRU1zVVA2Q05zOW8waEx3Zkt3TlVFczA5ZnZIT1lYazY4ZHE3WWstQ21qVTFXbnBjYWl2YS1ZNFladw?oc=5",
-        "domain": "www.nbcconnecticut.com",
-        "publisher": "NBC Connecticut",
-        "publisher_url": "https://www.nbcconnecticut.com",
+        "title": "Washington Policy Weekly: United States Sanctions International Criminal Court",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeERrV3dkWDFzQ0dDZEg1SS1JdTBacEdkVG9adXZBQ25NenQ2ZnI2bjkzN2ptaFp2Z3FaSkNQU05lWXdnTFlyVVNCeFdzcTYtMmZnWVlXNHpVajExaHlzTEhyUFJsMzA4aVRxVjhTMGJiaEZiMC1SN1lQUS0yUzNteFRGbDZHZENoTlNReWtOSFdmaloxUDYyc2ZaLTZtZXF1Tm1GZ0h4ZFd0MEZfVDJUcnBn?oc=5",
+        "domain": "arabcenterdc.org",
+        "publisher": "Arab Center Washington DC",
+        "publisher_url": "https://arabcenterdc.org",
         "language": "",
-        "seendate": "20261013T223921Z",
+        "seendate": "20261014T002223Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Paraguay and Belize condemn China sanctions",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwZGhEaTR3aktuaGtMcnRWN1R0bVZQS2lmejh0NVlBOGdtRE5xZDJNclVXb2tJNUJDWTVKQ1NldnNYUk42LUFfS1o2Uzdrc0ZKM2QzNldWY1hMdHdmT0o1NjMxZmRVbzJYRjZVUFF2VGh2ZDRobHBXaw?oc=5",
-        "domain": "www.taipeitimes.com",
-        "publisher": "Taipei Times",
-        "publisher_url": "https://www.taipeitimes.com",
+        "title": "U.S. Supreme Court won't reverse sanctions against lawyers in Kari Lake's 2022 Arizona voting case",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1hXelJpcUFUZUdFM2VSUDhlY081dHhrVU14aHpRWVhHQlc0VVhVNGhzSlM1Q3hvdzJWV0NrTVZraXFNRU1OVUx5TTQ4ZkZVbjM2QnFJRzdacXZ2U0h1c1ZPTmJsRi1rSjZjbUYyX3RuSXZlWG8yTTdaSUc3UXJyeExZOUNueXN5NjJyNk5oWmRsRVhoVFRoOFpWQ1l3amUxVzIzR0Nwb19sWjF2cXVXT1FLUk9selpIOWFSUmdjTmtLd2hySUtSajhIeXEzTXkwLUl3?oc=5",
+        "domain": "www.kjzz.org",
+        "publisher": "KJZZ",
+        "publisher_url": "https://www.kjzz.org",
         "language": "",
-        "seendate": "20261013T160000Z",
+        "seendate": "20261013T191400Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US Fines Bank of America $1.2 Billion, Alleging AML and Sanctions Violations",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZU9ORUlGOXJEV1BhZ0FDZG5zUlU5NDQzS1FUT2lvaHBzYTF0ZjZWdjhldXlabEgxdDVRRm5xa0lmbkpleVp6ZmdEN1BQRjdCS3p5MVNJX0FlQ1dSUGNNRXFGTVZKS1VmZVdwdUI2NHFkSFBfRFczT3RQNHRSMjFPNHVSMEVsTzd3V1hXaFN4QnFKOW82dUlsdHVoUW13RFQ5cWdqNHB3NzlUY2N5Q1Jha183TkR3NHZUZFlQaTJpU0FfRGM?oc=5",
-        "domain": "www.pymnts.com",
-        "publisher": "PYMNTS.com",
-        "publisher_url": "https://www.pymnts.com",
+        "title": "FIU faculty want law school dean sidelined over sanctions tied to Trump lawsuit",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qeVhwYWNpQ09LZmNWdXZzVWxQdHpGX1VaX05nWFZWMVlXT0xodnJudVZUbnZOb3lQbjZtTkNUVFBlLVlld1pOSVdLMk1BQTBZYVRKaFd1eUNlVXI5dHh3bkRvOXVYS2dXT2NFeGxpMlRNOUJoczFSM1Nn0gF6QVVfeXFMT3BFdS1PbzRIdEVBZ0luTUl1NGw2dmJqVmt3Z3AydElGNmlfZmZvMkZVRGlfMjFfdk5JRjd6aWhRU2YtYTR5dzNmMmRjazdIcFNWOEh3ZDBvWGVTX0RHci1wbElHd3M0V1pGcktwTjE4MUNuZlNfb2czdVE?oc=5",
+        "domain": "www.miamiherald.com",
+        "publisher": "Miami Herald",
+        "publisher_url": "https://www.miamiherald.com",
         "language": "",
-        "seendate": "20261014T010837Z",
+        "seendate": "20261013T205025Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Japan Struggles to Change U.S. Stance on ICC Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fek1tOEJaOHBJOEowYjBpTTBoS09rRGhHOXhEZWhDblp0Um9PU2pRTVBjN1JTRmU4eGx4VmVoSF9seDdfbDJ0TDFpYmFJTThxQUJCMGg0STM1UE95?oc=5",
+        "domain": "www.nippon.com",
+        "publisher": "nippon.com",
+        "publisher_url": "https://www.nippon.com",
+        "language": "",
+        "seendate": "20261014T074009Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Bank of America fined $1.2bn over claimed sanctions breaches",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZS0wazZfajhzYnJHdUxCZjViYTU2Y3NVT1prSWQ0UXVfQVIyRU85eVV0N2dzYnh0UTZQWUNIeFF3SnNwVWNJX191UUIzOXg2d0YwcjV6dEZjLVU1d1g3SEJkWnNCaDB0WWh5OGNwMkIwNjh5XzZPX084cGRzNW01OURfVFkzWnZxQUtUQUpHdXk0a0hvVElLNklsUjRCaEVKbkRWaVlxVFFNY3B1Zmh3aVY2dEpRNE5Gc2E0?oc=5",
+        "domain": "www.thenationalnews.com",
+        "publisher": "The National",
+        "publisher_url": "https://www.thenationalnews.com",
+        "language": "",
+        "seendate": "20261014T022240Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Don’t hold your breath for Russia sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTzN5QjFNMk5GN2d5ZVAxTmppWnljTGVvaEhCSHRIaWxQdTVIa3dOeFB2RWxzWFd5dS1FNUNaYkRIMGdZazhpUzA3QUl4ekpVX2kwVHpaaWYyalFkOUZ2ZW14ZktXbnZXVzZLa19YTVRyOGpqeWlUcXkzTEY3RmRxOEthaTYzM0FXWGZaQktqcDZMNnJ2MklXdmM3NUFIM2V0N09Lc1FSUDlvV0ZxazRHVlFJM0hWa3o3SjJkV2RIRnI?oc=5",
+        "domain": "www.politico.com",
+        "publisher": "Politico",
+        "publisher_url": "https://www.politico.com",
+        "language": "",
+        "seendate": "20261013T202444Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Bank of America fined US$1.2bn over money laundering, sanctions breaches",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2VrMnY4WGhvcGMxQk9mazQyamFhbzB4WERnNnJpSW9rMTNpTzdmMFVsb0hXdzRfa3NLOVhtZ2IxVGZhMmZfVG5uZnN2am5tdnB5Nkw0cTNGZEdra2hfZG9ldHdNNm1pY29PMURLenVGZEQ0bEExaTNVY3lVV25XSks5ME9nUG9vQVRvQlo2bzBYbWRTZkJqNVR5NVJnRktDd1JRQkpwZDRITHZNVFEwd0k1Yw?oc=5",
+        "domain": "www.gtreview.com",
+        "publisher": "Global Trade Review (GTR)",
+        "publisher_url": "https://www.gtreview.com",
+        "language": "",
+        "seendate": "20261013T234100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU Sanctions Russia as Trump Diesel Deal Deepens Transatlantic Rift",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYXVwNHVMakt5bUxTUnp5OGRkZFFsMWo4alo1ai1Lci02cnQxM3d6UjN6WVpWLTVqS2haX1Z1eFFqZ1p2LUU1c0FNQ0NCOFBCNEt6NmM1RG5haGtGSDgwcnQtY0x1eUVnS1VoNlJPRHd4R2VSaU1OQ08tbGQ4UzM4eHZtUDFsejFSLXk0TTVBTG12SHdSMS1rOWh1T1VTMlhr?oc=5",
+        "domain": "globalpost.com",
+        "publisher": "https://globalpost.com/",
+        "publisher_url": "https://globalpost.com",
+        "language": "",
+        "seendate": "20261014T082304Z",
         "source": "GoogleNews"
       }
     ]
@@ -542,13 +542,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHg4RHZSODh0VUg3RTE4MUlBNU5SVUticTYwZzdNTzJmZkVCVHRhSmFkMGNlODZINHdZblVqdDEwR29EWTBwTUctMlAxZF9YemxqUnIycDVCN2c2WmJKanpoT0Zpd1hPQXRRWTNCS05XWnZTcVRzeWhfLXlIaWJ4SFVfNjQzdGNFblFadjM5c0M2ejNmX2VmMjVB0gGfAUFVX3lxTE0wYjREY1lIUHNVeWRzOHdiV1JkT1A2d0dQcmhNbDd3TWtGV0x4aGFJeU9FdzdmcmdPVTdCaEhUWnRBOFBFSXJzcllWRzMwM3BMWXNqMVpjYmxBcUU5UFNXT0FaYXgxTlhtUVhWcUhyUjl6RzB2MFNTZHRfTUhFakpUWE1WMGx2SGdDYUtYRWVCLVBOM0JYYzF3amVCSkRoQQ?oc=5",
-      "domain": "abcnews.com",
-      "publisher": "ABC News - Breaking News, Latest News and Videos",
-      "publisher_url": "https://abcnews.com",
+      "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEFMR2FRM3RkWDAwVWRwMTN5R2xUYkdNQl91TldZdks0YUIxbmZBRHlMWXJqVDV1VnVHTWxwRzJuYjREd0t0MGRZVVU0WlljZkkwUEtfdmI3RlZncWVJcEJGUk0tMzlYUlhuZlp1SXN6Z3ViclRxMnBVT3BFNGh1WDdUOE1qY3k1Wlk5LU1VazVlMFE1YVNXWG9xdzJTR2JIY0tnUjVwdVlibFl0S092ckN2aU_SAboBQVVfeXFMTldQT1dKcW1HZ3FlTUw0LVlUNWY0UTdkV3IxZnVocWZ6Y2hHLVp2dVVrNkZBemgyWUl2aHhXeXA2RjdoSnp1b0RFeDl0blVpdy1pTkQta0FkQ1ZQN2E0cmlvcFZBaDlva2V6RWZfeVNxYTY3SjNkZG1UdXY0MVZBaFJQM20wUkcyd0QzdENOamZVSXN5aDhxNjY2cUlIWUIyamJDLVhVeU53SGtWd0lNSjZvVGU0ZVhJeVZ3?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
       "language": "",
-      "seendate": "20261013T212406Z",
+      "seendate": "20261014T012908Z",
       "source": "GoogleNews"
     },
     {
@@ -558,7 +558,17 @@
       "publisher": "The Washington Post",
       "publisher_url": "https://www.washingtonpost.com",
       "language": "",
-      "seendate": "20261014T043450Z",
+      "seendate": "20261014T052213Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "EU adopts its largest-ever package of sanctions listings, targeting the industry behind Russia’s war",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYUxUT0hXcWdtNi1OeGNvLWhnZjlYNF9iQnhMSmkyQWhlczRiN0ZFdElZRnhFSDhnWWhGUmpGZ3hjUmNScVlQMTZQTmhxZjhmRWV1RExIb29WdU9hdE8yNE1ja0NqYlJUUFl4cDU3UDNFY3JIcFc0aEdodTNpeW9Yb1FWeHRSdzUxVy1lUVZiSjdEVHhRTlFkdUI3OUNyNGVRX1ctYlZNbEk2dlRxVmt0Q1V0UnR2MFBOTlBsdHJDaXlQc2ZpNTJaUVJJMVVRVDZndTFobURB?oc=5",
+      "domain": "www.eeas.europa.eu",
+      "publisher": "EEAS",
+      "publisher_url": "https://www.eeas.europa.eu",
+      "language": "",
+      "seendate": "20261013T144401Z",
       "source": "GoogleNews"
     },
     {
@@ -572,13 +582,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Supreme Court turns away Kari Lake lawyer’s challenge to sanctions in Arizona voting machine lawsuit",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenhseW1HU2JaRExkZUJaWGlORHUwVmdvVEwtRjU0THpDRU43SHl2bEk5aG1jckVfTXJlMHB1eWdYN21zTGlXMTN4THI4c3l3S0czSks3ZkpJU2RGeU5kb2ZDN2FzNVBDbGZEV1FzdHdGYkFqZGs4TDBIS0NQNVJhM3RYVDBJcGcwWDFMWTFWdUNrc2JVdXYzVHZoWnVjcjFDejMtY1pDLUvSAa4BQVVfeXFMTlY0bTJPUkY1ajFiV2pXTUpwbHlYSm42OW12MFVscE1sQXN0WENDbzRjUE1nN0t2ajBKYl9MbndwT09NQ0RONkNMNjNjWnF2VXJmb0U0eGFhNkptZEpLd01HdEUtNDgwYm9CTEs0WGc3QVl4Y3IzQUZONU9LTlZwVUhmaVRxdFJpdGVNRkZuUmFjN0dzZ1ZkSkZwb3J5OFlzTFphVXprMlpvTTZZa3R3?oc=5",
-      "domain": "thehill.com",
-      "publisher": "The Hill",
-      "publisher_url": "https://thehill.com",
+      "title": "Imposing Sanctions on the International Criminal Court",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObmFDb0ZBanoxeHZFZmNKenBlSWpkOV9SWGJFNG0xcno1NXpaSUtHTEpPQ3FzSjRiS3V5d1U2THJscmxGV1FTSzduMnFZSGMyZ3Y5aVZCT1FLU0dMbVk4VFJJYzdYaExrN0VnN3hpYjh4WXBVUmtqenpvSVE1S2FjUk1GM2Jya2pseVl0eFp2RWlJUkFzb1VkczYyNXk5REYyWC1IMThTZTJsQU9Qb0FBbUVxd1FHdmlB?oc=5",
+      "domain": "www.state.gov",
+      "publisher": "U.S. Department of State (.gov)",
+      "publisher_url": "https://www.state.gov",
       "language": "",
-      "seendate": "20261013T133800Z",
+      "seendate": "20261009T145716Z",
       "source": "GoogleNews"
     },
     {
@@ -592,23 +602,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Imposing Sanctions on the International Criminal Court",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObmFDb0ZBanoxeHZFZmNKenBlSWpkOV9SWGJFNG0xcno1NXpaSUtHTEpPQ3FzSjRiS3V5d1U2THJscmxGV1FTSzduMnFZSGMyZ3Y5aVZCT1FLU0dMbVk4VFJJYzdYaExrN0VnN3hpYjh4WXBVUmtqenpvSVE1S2FjUk1GM2Jya2pseVl0eFp2RWlJUkFzb1VkczYyNXk5REYyWC1IMThTZTJsQU9Qb0FBbUVxd1FHdmlB?oc=5",
-      "domain": "www.state.gov",
-      "publisher": "U.S. Department of State (.gov)",
-      "publisher_url": "https://www.state.gov",
+      "title": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDdnT3JDZVFPaDNiNDlmcW85MXhtQmlLRGp2dWZ0UGtTOS14RkRBRWFZM0h4em8yLUJWNHpfUmkxTXZxZ1FIa3N2THZEdTNXY3B5bkRFNVp5aFhmR0psS01jT3lKekEzc2ZwdTh0QmI2SGFCaVlLeF9ZaG9mbkZIRkNydw?oc=5",
+      "domain": "www.nytimes.com",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
       "language": "",
-      "seendate": "20261009T145716Z",
+      "seendate": "20261014T080325Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Russia’s Leading Sanctions Evasion Tool Is a New Kind of Illicit Finance Threat",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRk44MTIta0h5dUxHa1dGSXpwTGhzOFk5bE5FVTNSREN5eDVkMEFrcXU2ZGZ5TkZTTmhqM1NadHpSbVM5RnZBQk1TaDd4ZUwxUmF1SGtWbFFVYkNZZkhpYjVoMTZHU3o3WGFNcmJxTktWcWJyZXdOZVM3Um4xZ2FGNEY1Qmk1VlRjbjg0dnMzS284bnpFSEtEQW5ITE1YcTR4RDJ1TC1NV0ZLV1lf?oc=5",
-      "domain": "www.fdd.org",
-      "publisher": "Foundation for Defense of Democracies",
-      "publisher_url": "https://www.fdd.org",
+      "title": "Treasury fines Bank of America $1.2B for violating money laundering, sanctions law",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00Z3pwamtKUjQ4a2lmdEg4YjJuRkdiWnZlV21WRWEwOWF3dHR1VzV1ZXlTLVE5c19NTDFZVW1hcGlXVWFyLTIyTkNqRUR5YmFJUTZoZm1FLUpWa21KMVhjUktwNzRFZkdKQXVJd3p5Sm1mUdIBd0FVX3lxTFAtZ2VTbEFmaGlfTm5RdXcwOHN2Y2w2SFpJLXZiUHRQeVBKd09sOW1qaUtfX0s5LUJRY1JPYXZodkhiYkIyMlBNS0FnNmliTU8wN016enY5dkVSTjB5Y3AyVzR6Y25SRkdnbjFQSERWUU9memQtRHgw?oc=5",
+      "domain": "thehill.com",
+      "publisher": "The Hill",
+      "publisher_url": "https://thehill.com",
       "language": "",
-      "seendate": "20261014T005834Z",
+      "seendate": "20261013T214500Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "EU's Dombrovskis on diesel deal: Now is not the time to ease Russian sanctions",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2wzam12ci10NGxscWpnMkU3SE0tM2FJMmVoUkswRUprb1JJUmxIcjlpZGtUMTZiZUZKdmwwZHBhaENSWFZHLWlUZTR5ODVoU2lYdlRXQndoSl9icG54U3BnQk5WVUk0OUxTT1hjZzAwNnJ5ZFo4OXhlVVhMb3lFRldmTmhwU1RjQW9aQzdEYlNCVVZEREliVlVpVERhSWVjemRmMEhTTkRKUQ?oc=5",
+      "domain": "www.cnbc.com",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
+      "language": "",
+      "seendate": "20261014T081658Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Bank of America Fined $1.2B+ Over Sanctions and Money Laundering Violations",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkh1M1R4MHY0eHpfWFd0R2poNGU2bjlNSTJIbVJDVUdRdUpJWXJlMFRZa2hrRGtha1FpbHBYMkhpUDc2MEt4Um5sNXl2LWVtSGE2LVpGSk5feE1LSk42RWFXS0VuanVLT0RYbjF0WXZ1QTJuMkUxeUlUYkZNbjhaQVNDOVdBUGtBYklpRTE0X1g0dGFaMUlTeUR1RjdQTll1ZThqQk5Ra3NCNXl4cXc?oc=5",
+      "domain": "iranwire.com",
+      "publisher": "IranWire",
+      "publisher_url": "https://iranwire.com",
+      "language": "",
+      "seendate": "20261014T100911Z",
       "source": "GoogleNews"
     },
     {
@@ -618,7 +648,7 @@
       "publisher": "Time Magazine",
       "publisher_url": "https://time.com",
       "language": "",
-      "seendate": "20261013T203153Z",
+      "seendate": "20261013T212215Z",
       "source": "GoogleNews"
     },
     {
@@ -632,53 +662,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Russia’s war of aggression against Ukraine: EU agrees largest-ever package of listings targeting almost 1600 individuals and entities in Russia’s military-industrial complex",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPWHNlczJqY1VHMDg3NEFKaXNMTkN5eVJSdXB5VE5ZR21CRWpoYm1GeVVLVkl2VjkzUk15RGtEZXRKMG80ZlQ0elBzSWR2M1Z4MmItR2p4WVQyZk43SHFYNGZ5c0JodTFxVmdVTU52VzhWM0tGSHZjcFdZUVE0Sl9td2dnd1BoUUN3R3RzbFAtRWwzUk01d1VsUzg3Q0RzLUowY1ZibnBYbjZnaUFnclFuREw5S2ljajB4UU9qWWRFWXpITUE3a0k5enh2X2JQSEFBSkZadmpZRDVuZy01UGR1bWY0Vk9CenJ5LUhRV0ZjaWljaXhsWjJvS0VnbEU1SUhQcWdUOXBHWkRncWRXZXY2end4MmM3TEZfQlpEZ2ZneTRhU25NX3B2LVl3Nzk4dkJxa2o4NFJjYTVTejBwRFZXRGFNc01BNG9RaU1sZHgwTFpQZXB3Y0RUa00yWEE?oc=5",
-      "domain": "www.consilium.europa.eu",
-      "publisher": "Consilium.europa.eu",
-      "publisher_url": "https://www.consilium.europa.eu",
+      "title": "How do Iranians move money abroad to avoid US sanctions?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FTWFZtUnRrQlJZdEd2dGZraWo5SXdkZnptUjQ3TFJLblJOVkFLRDRrbGgyZ0dQRkEtTG40M2lEWUdqVDNGREpMZFRVZGFkTVIwMG1yclVWWnE1UjZpbDBuUHNubTJRVm83cDRGYVk5V0NlTTRxZFJTdlhmRHBZcG5hOTNlSkJ1Yl9aM2xRWFpCTzJjczV4Ym4wUWZnd9IBowFBVV95cUxOVERJM0JGcjlvSFBoX2RjUGZYczQ4dlBqWVAyajRhM3VUcDkxM0l3dEFLX2tjOTc4b3FSX1c2OGp4dS1Cb1prMFctU2dWN3pGWmVCMGdFc2NKWGZyWXk5dnJfdTRBS3Z2UWpheFl4OHBVNEQyVjBsek9odkRYdzdmbmtSc0F2WlZxc1ZTbGZfZGl5ZVlhNzFoM0c3eTl3bVZCQlpJ?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
       "language": "",
-      "seendate": "20261012T103733Z",
+      "seendate": "20261014T082954Z",
       "source": "GoogleNews"
     },
     {
-      "title": "U.S. Court Blocks Enforcement of ICC Sanctions against Groups Advocating for Palestinian Rights",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcE41bkJ4czJ1NnFOWnZoOVhJbGoydjZhUnQ1ZHNEd2MtVnI3SHRsUXBJRzYzMzN5WFc1TDZmcEtZdFQ4SnUzQjJPQXlZMXkxRWk3VmlsT1FmZ1F5OWxCTUd1Ni1uR05mN3c4NU5kZlJqSVhzcVBsYlFTSVZXckhrTDFUSDlYbkw4LVNETDRWaXFzTWx4cGhOQWVkeDRaTlJoMWwyU1JlcFJkMXdNeTlTZ2RBSmRfUFU?oc=5",
-      "domain": "dawnmena.org",
-      "publisher": "Democracy for the Arab World Now",
-      "publisher_url": "https://dawnmena.org",
-      "language": "",
-      "seendate": "20261013T220633Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "PSG’s Luis Enrique Hopes Man City Avoids Sanctions After Financial Rules Verdict",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYjIyTjJiN2RSMVBtTC1zNHd6ZXRjQzc5NHhUMXNtdWNKV0tTVFpNV0dibTdLTE5sVmpRdE9CYll0TjhrQno0d3haMW5fVFZRWkZfWnN2emdIOENyR2dFQlRQdzR3YjJQWDN0NlYwNVBkb0dodXQwSGZTX0RYbUpfd0tSS2dMdlprbnEwUURZMUk2MzEzdzZzQ3ViSHV0NWJ5T0xZeTRMNzNuSkd6LVZKaVZISm5DdlpocjVXSlJVOWFZMVlmZmc?oc=5",
-      "domain": "www.foxsports.com",
-      "publisher": "FOX Sports",
-      "publisher_url": "https://www.foxsports.com",
-      "language": "",
-      "seendate": "20261013T193613Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US fines Bank of America US$1.2 billion for alleged money laundering",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPREVzMUJHSEFiVUN2ejE5RWF6eTBFdWhHTWg4NjNWbnVidlRRa19JOG9NZDVvbmNwQzNYcDZHYVNiYVZ2Wkc4cGJ6QlFweGRNX3ktdU1nXzhNdnc2cHdTYUNyaGR0NWxldXVJNGNGOHZJNkhuTUtsbzBGQWhRQmtXX21kcGZOb2d6bG9lTVR5U2RJd0cxdVM0MXR6QkNQYnlHbDY5Y2tKOWZpTzlHeGJfMlA2WElJa0hBSnNPTDdFbTJrMjdVVzRUcDF2bFpDRE5lcTI5UXluRkZLOF9OVXZSVnpSdHYyMTg?oc=5",
-      "domain": "www.scmp.com",
-      "publisher": "South China Morning Post",
-      "publisher_url": "https://www.scmp.com",
-      "language": "",
-      "seendate": "20261013T235549Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US sanctions Mexican cartel CDN's horse-racing, business network",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGM2dm9HNmlqTkdMODFpV09LT2YxRWloWXUtTk5KaFV1NTVxWDMtNlRwZDY3Z2M3WFBpZ2JVS2tsVUY5eko1Mldtd3RPMTM3aFFaNGZYS3dZbkZvbjZLelNISHB1dlk1Z3B2Zy1xWVJudzhIaXVXeWNjQkxIX2x5VThzUnZ1Y25HTjV5eHBVNm1jSlk3S1c2Qm90ZkZLUkRpU3JHX18tdld4U0U0R2hhVHdwZw?oc=5",
+      "title": "EU adopts nearly 1,600 new sanctions listings targeting Russia",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHU4aWdseGJQNDlHSkY2bVlVakhtNG9qSWo2eHl0MV9WSTRoc1lqdUdTcHlXeWdCVU1nZ3V6c2Z2dV9FMmRXdGlmMjhOOVpENE9ZRkY1UkRxM1ZzUTBaLTE0OUhEUE9nVzFVd1pUQUlJcjljeWhjNEJvSk55VlhobmU5Q0F2S2lKb0M0Z2lLcjg1Y1J2bG8zUU8xUXdLUV93WUpOMG5DSE11dzJmdklv?oc=5",
       "domain": "www.reuters.com",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
       "language": "",
-      "seendate": "20261013T182851Z",
+      "seendate": "20261012T082344Z",
       "source": "GoogleNews"
     }
   ],
