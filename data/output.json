@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-10-15T04:24:32.764390+00:00",
+    "generated": "2026-10-15T11:18:26.519305+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "35"
+      "value": "37"
     }
   ],
   "live_data": {
@@ -36,16 +36,6 @@
         "publisher_url": "https://www.reuters.com",
         "language": "",
         "seendate": "20261015T000600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US lifts sanctions on Venezuela’s top legislator",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0JrTm5MQXNmZ3ZtaFJUbFVmV2g5VFphdndpLUEydTVmUEpWTDJ6ZEJwSWJJZWFMNzdDQ3pRZDZyVmRWNFhqbENQVnhFTnl4bXRjdV9xZTlxMVhwYTV5MlRqenN2dGI5aGkxdTl6dk9XS3pyaUJnQVFkT1pGRTZfeklJcE1fWWFYU2NjRG5IcVBPM1HSAZgBQVVfeXFMTk9wWnk1ZXF4RmVBMURxbmxjNURrY0hVb0FfTGhyOWFKYVZoRmZMU3NEdEpTbmtScmRIS3lBNklqVVRzUFEyY3NGSW11MlA2RWtTYVFJdE85c1lETWdfbUQ1YnNfTjRIcW1OYjZMZWlvODhEb2swUzJTNnBpSjl0LThHenFhNWJJNEl1V0NWa3VUZUJLYzloUGI?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261014T195712Z",
         "source": "GoogleNews"
       },
       {
@@ -69,6 +59,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "US lifts sanctions on Venezuela’s top legislator",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0JrTm5MQXNmZ3ZtaFJUbFVmV2g5VFphdndpLUEydTVmUEpWTDJ6ZEJwSWJJZWFMNzdDQ3pRZDZyVmRWNFhqbENQVnhFTnl4bXRjdV9xZTlxMVhwYTV5MlRqenN2dGI5aGkxdTl6dk9XS3pyaUJnQVFkT1pGRTZfeklJcE1fWWFYU2NjRG5IcVBPM1HSAZgBQVVfeXFMTk9wWnk1ZXF4RmVBMURxbmxjNURrY0hVb0FfTGhyOWFKYVZoRmZMU3NEdEpTbmtScmRIS3lBNklqVVRzUFEyY3NGSW11MlA2RWtTYVFJdE85c1lETWdfbUQ1YnNfTjRIcW1OYjZMZWlvODhEb2swUzJTNnBpSjl0LThHenFhNWJJNEl1V0NWa3VUZUJLYzloUGI?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261014T195712Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Following the Adoption of a UN Security Council Resolution on Haiti Sanctions",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXFjekZJTV9RSk4xa3lyMEJJeG8xbWl3d1ZMd1FhWEVEelpVUjI4eGpGWDMtanhlU05zRjdneWtRQUMtZk00MWRYNS1VdjgtT0phejZ0bHlBemo0OHFnTy1nU1ZmSXR4YjRHeDZVLUJfOE1ibFV1T25OdmV2RTBOME83RkNaajU3cEpoZ2lZc3NVS1I2UXZIU2l2VXdKRmJ4MnpDYnNCYTM?oc=5",
         "domain": "usun.usmission.gov",
@@ -76,26 +76,6 @@
         "publisher_url": "https://usun.usmission.gov",
         "language": "",
         "seendate": "20261014T144613Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C.",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDdnT3JDZVFPaDNiNDlmcW85MXhtQmlLRGp2dWZ0UGtTOS14RkRBRWFZM0h4em8yLUJWNHpfUmkxTXZxZ1FIa3N2THZEdTNXY3B5bkRFNVp5aFhmR0psS01jT3lKekEzc2ZwdTh0QmI2SGFCaVlLeF9ZaG9mbkZIRkNydw?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261014T162119Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEliUkhCMHk0akh2VTJvYWg4a3dmYU4tejlMQWtnM2RLMG1ncEZuVDdvN1pTd3lwZnIzN2JHV0FmeDVPZGZrX3g0TnNGdWdNMVpyemRGU3M5M0pSOWRQWjVqV19jbS16NFJ3anJVb3hOQjRoRHozRjFsaHY3eDF0VXd3YlhYZmV1c2NSdA?oc=5",
-        "domain": "krebsonsecurity.com",
-        "publisher": "Krebs on Security",
-        "publisher_url": "https://krebsonsecurity.com",
-        "language": "",
-        "seendate": "20261014T143047Z",
         "source": "GoogleNews"
       },
       {
@@ -109,16 +89,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "U.S. lifts sanctions on Venezuela's National Assembly president",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU1iSUxicXZRcE1zT1JLUExiTUhBeGF3RHZCUW5yX0ktWlViQ1poX3pmY2lNX29Wa09SWmhDdm1YekI4aUNBMTNjVlhUZDY1MjFIVmNWdUlmS0lGd2Zsd01ZRkQ0ZGJGY2VTMkVMZnl6dnRYdzlNTmlwclNTLXlkRi1nUnNIem1rcnNNRkFKUDRxZmJYbnBjONIBngFBVV95cUxPOXkxa0pzRlNOcFFfOWFFUmpOdVJRVmRQTFFJY180NkNtbnotbElTSkI2NWgyUXd0eTBJSnUtc192aWN5YzFreUdfQlEwY2VJb1lYX2s0bFhKRDl4TEpnNmlDeTJRaC1pTmIyQzRZMmdweHVsQXkwM3FUaXl4MlNiN1lpMnI0aEJXeTl5bk9yejFsWklyZUUyT1BnejhHZw?oc=5",
-        "domain": "www.upi.com",
-        "publisher": "upi",
-        "publisher_url": "https://www.upi.com",
-        "language": "",
-        "seendate": "20261014T182408Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Russia’s war of aggression against Ukraine: EU agrees largest-ever package of listings targeting almost 1600 individuals and entities in Russia’s military-industrial complex",
         "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPWHNlczJqY1VHMDg3NEFKaXNMTkN5eVJSdXB5VE5ZR21CRWpoYm1GeVVLVkl2VjkzUk15RGtEZXRKMG80ZlQ0elBzSWR2M1Z4MmItR2p4WVQyZk43SHFYNGZ5c0JodTFxVmdVTU52VzhWM0tGSHZjcFdZUVE0Sl9td2dnd1BoUUN3R3RzbFAtRWwzUk01d1VsUzg3Q0RzLUowY1ZibnBYbjZnaUFnclFuREw5S2ljajB4UU9qWWRFWXpITUE3a0k5enh2X2JQSEFBSkZadmpZRDVuZy01UGR1bWY0Vk9CenJ5LUhRV0ZjaWljaXhsWjJvS0VnbEU1SUhQcWdUOXBHWkRncWRXZXY2end4MmM3TEZfQlpEZ2ZneTRhU25NX3B2LVl3Nzk4dkJxa2o4NFJjYTVTejBwRFZXRGFNc01BNG9RaU1sZHgwTFpQZXB3Y0RUa00yWEE?oc=5",
         "domain": "www.consilium.europa.eu",
@@ -129,43 +99,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US Lifts Sanctions on Venezuela’s Top Lawmaker as Relations Thaw",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOazhhdGZDbDRkc2k2RjZRTmxfa0J1NlV4cTU4eGNfMWljaDlTd2pnLVFRa2J1ZDdOWEJoMDdMSlFzS3NuQXhkb2lINUVlNDhJZjhfbURhYXJyVXBOTDJjbWc4WVlxcnVOVERuZ3JZNE9YWVVIRW1zd3RhQV9DVF9lMkNvMnRoRHgzZXhrQmpueGpZY1VCMGpiM3BhcjJlTThjbFdpbUg5LWs2QWpWangxOU01YjVqZw?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg.com",
-        "publisher_url": "https://www.bloomberg.com",
+        "title": "UK finance chief calls for tougher economic sanctions on Russia during visit to Thailand",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXZXckg2aUdkcHNmbGZJZ1ZmaTFOUmc1alN6SFgxdmpvb0JZMXZCejc3VnJual9JVkctTzc0dG1xWDFkcEdDZ0U5dU16NGJQS3ZGLXBLbDNZSHgyV3NMNDJoNkN6UTNVbW1hNDQ4ZldYdUxfVzJEZ0U5MFhKSmRDLXNUaFgwZw?oc=5",
+        "domain": "www.yahoo.com",
+        "publisher": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
         "language": "",
-        "seendate": "20261014T142042Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump Administration Imposes Sweeping Sanctions on the International Criminal Court, Threatening Global Justice and Civil Society",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb2xqcWNQYWhxeWtWVFlGbnl2NzY1bVBvWnpndldkVHlDR1VSUG5TZURkSkM3QUhmc2FGcF9lRTBGend4VVc3ZFAxa0ttQkFLQkNHWDJ2WGxYQU1VbnBQMms4X1pHUUNYMHAwVmd6TkVKV25GNG45OVdMbWZEazBBTm00RDNnQ3JEX0NhemlQSFFFRlNLUEtrWmV3dzdqTDJRbU84b0QtNlRzWmFVb1p5cUpPX1dxYnFDVGhUZTBWQ3J4bDJId2tBYldPRzlKcDVfazhraTdLcnY1bjFjd2dwY0x4WmMxb3dVbW16TEVGSDl6UVhyNGdwVQ?oc=5",
-        "domain": "charityandsecurity.org",
-        "publisher": "Charity & Security Network",
-        "publisher_url": "https://charityandsecurity.org",
-        "language": "",
-        "seendate": "20261014T192730Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Reimposed Sanctions Raise Questions Over Iran's Nuclear Program",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GUC03S1BYWHRITVJLUC1aczdxRzJNb1U0ZW1kT2xrVUVYblRHWkhFX1U1VlczVjZEdkIwblpxaHZPUEZVSEhDbFp5aHh1QlpOaWVlMlVzNl9WenRVZVBIWlhwUjNScGpHNDhkdWZCd0JZSnlB?oc=5",
-        "domain": "legis1.com",
-        "publisher": "Legis1",
-        "publisher_url": "https://legis1.com",
-        "language": "",
-        "seendate": "20261014T144404Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "New U.K. Sanctions on West Bank Settlement Activity Take Effect Thursday",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQalRVMmlVNWk0cXZPemMwakNFRHVaMnAzT0ZuYXlmUnZXWW90UE1tQ3llUFNPODNOUVd6WDNfNng0S01iMlh0MmJaeTcwRm1tMk5qUWFTanRZWGoyWWxicjdMbk1ZcUNjSU9rTVBWOVl0bm5oLXh0Zzl0ekxpVzFqV1VjS3dJdXpRLXlwY1NVUDRvWXc3XzFHR0gwTzAxVEhGLVdqMFRyR0ZxMkRWUFhsUnJPdjZmZFdVZFMyTnRreDBoeGxqNjVWU3p3bXhJSkJ6ZERoWVRpLVFmYThlVE5qc2VNRDROdDJMRTdIUDVyRmVyVnJwRmZRT3pmYnJCNWs1MzZr?oc=5",
-        "domain": "www.haaretz.com",
-        "publisher": "Haaretz",
-        "publisher_url": "https://www.haaretz.com",
-        "language": "",
-        "seendate": "20261014T224700Z",
+        "seendate": "20261015T065100Z",
         "source": "GoogleNews"
       },
       {
@@ -179,6 +119,36 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Judge blocks sanctions against two US-based human rights orgs. over working with ICC against Israel",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IQUZlRy1YcW0wNHh3QXNzSkJLMzJ6M0tyZi1mTkMwRVEwZkY5RlBSWmdYZm13OUhXbmwwOXh5Nk5CQnVNc2s0TlVqSDVRa0k1MWp3SGRiRGpBbDF3OHZB?oc=5",
+        "domain": "www.jpost.com",
+        "publisher": "The Jerusalem Post",
+        "publisher_url": "https://www.jpost.com",
+        "language": "",
+        "seendate": "20261015T084149Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. lifts sanctions on Venezuela's National Assembly president",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU1iSUxicXZRcE1zT1JLUExiTUhBeGF3RHZCUW5yX0ktWlViQ1poX3pmY2lNX29Wa09SWmhDdm1YekI4aUNBMTNjVlhUZDY1MjFIVmNWdUlmS0lGd2Zsd01ZRkQ0ZGJGY2VTMkVMZnl6dnRYdzlNTmlwclNTLXlkRi1nUnNIem1rcnNNRkFKUDRxZmJYbnBjONIBngFBVV95cUxPOXkxa0pzRlNOcFFfOWFFUmpOdVJRVmRQTFFJY180NkNtbnotbElTSkI2NWgyUXd0eTBJSnUtc192aWN5YzFreUdfQlEwY2VJb1lYX2s0bFhKRDl4TEpnNmlDeTJRaC1pTmIyQzRZMmdweHVsQXkwM3FUaXl4MlNiN1lpMnI0aEJXeTl5bk9yejFsWklyZUUyT1BnejhHZw?oc=5",
+        "domain": "www.upi.com",
+        "publisher": "upi",
+        "publisher_url": "https://www.upi.com",
+        "language": "",
+        "seendate": "20261014T182408Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEliUkhCMHk0akh2VTJvYWg4a3dmYU4tejlMQWtnM2RLMG1ncEZuVDdvN1pTd3lwZnIzN2JHV0FmeDVPZGZrX3g0TnNGdWdNMVpyemRGU3M5M0pSOWRQWjVqV19jbS16NFJ3anJVb3hOQjRoRHozRjFsaHY3eDF0VXd3YlhYZmV1c2NSdA?oc=5",
+        "domain": "krebsonsecurity.com",
+        "publisher": "Krebs on Security",
+        "publisher_url": "https://krebsonsecurity.com",
+        "language": "",
+        "seendate": "20261014T143047Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "US lifts sanctions on head of Venezuela legislature",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVXFnM3A0T3lJeVdPVnZrVlZHT3l6dlBUbjZkZGdmYTd4NTFkZEE1TkpOVkNxaXpoZVBiQUNSNWhrRGl4cXZxS2VWeHN5aVVfbEpSR2doM0xwR1JiZHA5VjdkLVhrVHhBMTlNQmQ1ZGNOSGd1bDhFOEFFQlpveFRpcG43MUZ1OEwwWGxqeXFrLUNwakUxOTU5R19rZEFTQQ?oc=5",
         "domain": "www.reuters.com",
@@ -189,13 +159,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "EU adopts its largest-ever package of sanctions listings, targeting the industry behind Russia’s war",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYUxUT0hXcWdtNi1OeGNvLWhnZjlYNF9iQnhMSmkyQWhlczRiN0ZFdElZRnhFSDhnWWhGUmpGZ3hjUmNScVlQMTZQTmhxZjhmRWV1RExIb29WdU9hdE8yNE1ja0NqYlJUUFl4cDU3UDNFY3JIcFc0aEdodTNpeW9Yb1FWeHRSdzUxVy1lUVZiSjdEVHhRTlFkdUI3OUNyNGVRX1ctYlZNbEk2dlRxVmt0Q1V0UnR2MFBOTlBsdHJDaXlQc2ZpNTJaUVJJMVVRVDZndTFobURB?oc=5",
-        "domain": "www.eeas.europa.eu",
-        "publisher": "EEAS",
-        "publisher_url": "https://www.eeas.europa.eu",
+        "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEFMR2FRM3RkWDAwVWRwMTN5R2xUYkdNQl91TldZdks0YUIxbmZBRHlMWXJqVDV1VnVHTWxwRzJuYjREd0t0MGRZVVU0WlljZkkwUEtfdmI3RlZncWVJcEJGUk0tMzlYUlhuZlp1SXN6Z3ViclRxMnBVT3BFNGh1WDdUOE1qY3k1Wlk5LU1VazVlMFE1YVNXWG9xdzJTR2JIY0tnUjVwdVlibFl0S092ckN2aU_SAboBQVVfeXFMTldQT1dKcW1HZ3FlTUw0LVlUNWY0UTdkV3IxZnVocWZ6Y2hHLVp2dVVrNkZBemgyWUl2aHhXeXA2RjdoSnp1b0RFeDl0blVpdy1pTkQta0FkQ1ZQN2E0cmlvcFZBaDlva2V6RWZfeVNxYTY3SjNkZG1UdXY0MVZBaFJQM20wUkcyd0QzdENOamZVSXN5aDhxNjY2cUlIWUIyamJDLVhVeU53SGtWd0lNSjZvVGU0ZVhJeVZ3?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261013T144401Z",
+        "seendate": "20261014T012908Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UK finance minister calls for tighter Russian shipping sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0tMZUNxemw4Z1ZyYzl0cE5QMjltbGIzOHMxYUJUUW5Wb2NOdFgtX215ODM4YWcySG9WbnNOY1RyU3hfTWs4RTY5RGktSGtRa2VlNG5WWWZ4RDQ3UkVSMUNJd3hFZGdQb1lreTNUWkhESV9xODBhaXJTbUNNWWRMRXE2V3BheVBwSU1iekpHWEoyQUQ2aHhBVmp2WUZKdmw5eXpfZ3p4MW4?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261015T014600Z",
         "source": "GoogleNews"
       },
       {
@@ -219,6 +199,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Oil prices slide as US weighs easing sanctions on 'shadow fleet'",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNLWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261015T013000Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "EU adopts nearly 1,600 new sanctions listings targeting Russia",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHU4aWdseGJQNDlHSkY2bVlVakhtNG9qSWo2eHl0MV9WSTRoc1lqdUdTcHlXeWdCVU1nZ3V6c2Z2dV9FMmRXdGlmMjhOOVpENE9ZRkY1UkRxM1ZzUTBaLTE0OUhEUE9nVzFVd1pUQUlJcjljeWhjNEJvSk55VlhobmU5Q0F2S2lKb0M0Z2lLcjg1Y1J2bG8zUU8xUXdLUV93WUpOMG5DSE11dzJmdklv?oc=5",
         "domain": "www.reuters.com",
@@ -226,26 +216,6 @@
         "publisher_url": "https://www.reuters.com",
         "language": "",
         "seendate": "20261012T082344Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "UK finance minister calls for tighter Russian shipping sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9STVlWcGZERlM1TkVnU2RGVFRQcUpWSEdzdFdybURST09UdDNOSXlsbG52OGI2dmpiclQ4MF9NODF1dVhwWjZoWVZ4MzMwMDg1VEh1eENIVUtQLTBaYlFN?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "language": "",
-        "seendate": "20261015T015837Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Treasury Department imposes $1.2 billion penalty against Bank of America",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZXczb1FqbVhjUGNlT0JVRnFUaURYUDJkYjNFQjJ0MEUyX1pqbzNRVTFCS1ZqeS0taW1FOVg5NVpEckowZ3FUQ1EtY2hudWF3bHg5SkJvR2wzX2RoNzBJbTFMU2lqYVE4ZVBKY3Q2ZU9oUHNwd2lBSU9HNkI4LW04MzF0LWFQOWVSZGF0Nzd6Q1JLSFVheXBjc0szVDlJMk1OSTB6RWstZw?oc=5",
-        "domain": "www.washingtonpost.com",
-        "publisher": "The Washington Post",
-        "publisher_url": "https://www.washingtonpost.com",
-        "language": "",
-        "seendate": "20261014T052213Z",
         "source": "GoogleNews"
       },
       {
@@ -259,13 +229,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEFMR2FRM3RkWDAwVWRwMTN5R2xUYkdNQl91TldZdks0YUIxbmZBRHlMWXJqVDV1VnVHTWxwRzJuYjREd0t0MGRZVVU0WlljZkkwUEtfdmI3RlZncWVJcEJGUk0tMzlYUlhuZlp1SXN6Z3ViclRxMnBVT3BFNGh1WDdUOE1qY3k1Wlk5LU1VazVlMFE1YVNXWG9xdzJTR2JIY0tnUjVwdVlibFl0S092ckN2aU_SAboBQVVfeXFMTldQT1dKcW1HZ3FlTUw0LVlUNWY0UTdkV3IxZnVocWZ6Y2hHLVp2dVVrNkZBemgyWUl2aHhXeXA2RjdoSnp1b0RFeDl0blVpdy1pTkQta0FkQ1ZQN2E0cmlvcFZBaDlva2V6RWZfeVNxYTY3SjNkZG1UdXY0MVZBaFJQM20wUkcyd0QzdENOamZVSXN5aDhxNjY2cUlIWUIyamJDLVhVeU53SGtWd0lNSjZvVGU0ZVhJeVZ3?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "US weighs easing sanctions on ‘shadow fleet’ tankers",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1Z4SFhkOWhob2RIZmw4bTJVdEdzeVR0emFYY2hpWkpERWZGelhDS20yeDU4dTdDVklYYnF5VEJCbTE5bEpLU3h5bmZHb19KcG9uMmZqLUFrbkNPVDRrNzFMYmhTNGNZQzVZampIM1hnTWtGaGVTOG1VSG9wSUlMWm42c0RZeGlTaFB2alVOZULSAZYBQVVfeXFMT1kyOU1HT2FVVGh6VnBJVDZvYllrem1meXlRckJYSktYYTlZaVFJdGtJYlZ1YnQxaHQ1aUxHR2xKUlN6TWhTdWhpUlN3ZTBHdlp4RGllQ1I3MDRHWXY0SmxrZUhucS1kLXpNbkVyc0V4dVQzaWhFS2JhdHJCS0E2SnpWOG81MXBNYVRoaVNhVk5TTXgtSmRR?oc=5",
+        "domain": "meduza.io",
+        "publisher": "Meduza",
+        "publisher_url": "https://meduza.io",
         "language": "",
-        "seendate": "20261014T012908Z",
+        "seendate": "20261015T080900Z",
         "source": "GoogleNews"
       },
       {
@@ -279,33 +249,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US House candidates in Iowa’s 4th district agree on Russian diesel embargo",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTMyTEg1c01MQ0hkTVFFWUhUdTc1dXNfV2dicmZFbTVmVzFaR2N3QUxCMV9TV1Bzbm11Y3RyOWtOcWZpOTVRZzliZktVZThkcC1ZTFVxci03ODRYajRYX2lITjZpRFBWZF92VmxoUkFhSGs3NV92clZOajhNNG1VaVNPRXZtMV8tUEcxTHBLQ1NYVnRnVS0tZDhqQU1fUHV5SnczZ0MxLXlUOWE1Y1hVdw?oc=5",
-        "domain": "www.radioiowa.com",
-        "publisher": "Radio Iowa",
-        "publisher_url": "https://www.radioiowa.com",
+        "title": "Trump Administration Imposes Sweeping Sanctions on the International Criminal Court, Threatening Global Justice and Civil Society",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb2xqcWNQYWhxeWtWVFlGbnl2NzY1bVBvWnpndldkVHlDR1VSUG5TZURkSkM3QUhmc2FGcF9lRTBGend4VVc3ZFAxa0ttQkFLQkNHWDJ2WGxYQU1VbnBQMms4X1pHUUNYMHAwVmd6TkVKV25GNG45OVdMbWZEazBBTm00RDNnQ3JEX0NhemlQSFFFRlNLUEtrWmV3dzdqTDJRbU84b0QtNlRzWmFVb1p5cUpPX1dxYnFDVGhUZTBWQ3J4bDJId2tBYldPRzlKcDVfazhraTdLcnY1bjFjd2dwY0x4WmMxb3dVbW16TEVGSDl6UVhyNGdwVQ?oc=5",
+        "domain": "charityandsecurity.org",
+        "publisher": "Charity & Security Network",
+        "publisher_url": "https://charityandsecurity.org",
         "language": "",
-        "seendate": "20261015T031926Z",
+        "seendate": "20261014T192730Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Cuba accuses Rubio of pressuring countries ahead of UN embargo vote",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObjBQNXFZTGRWV3J6M3dna3BKYTgzUkJyZjZpSTBmMlljdzJWR1I1a1NqYWtsMWtpbURuVmFOMkk0MXRWcVp4WmJrQkhGUWRmWkJnSmRHSjV6U3dZOVRxT0hkWjdTaE9FY1FFa3lJcXRvQVRqM2dPLVU3YkE3amhUZGpkZ3RQMEwySjdlT0w3VWZlT0Zad000S3NHMVNvRktza1VrLXRCOGZlQjhvT1E?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
+        "title": "Trump Weighs Easing Shadow Fleet Sanctions to Lower Oil Shipping Costs",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfSHUtckw2bDRHM3kwOTc1V0JDT1JOc1VwTHM2ZlNqZzdPdklIWFZZUWIyWVljY0xnRzZuNE0xWnBqUjZyNU9DcXFGTQ?oc=5",
+        "domain": "www.kyivpost.com",
+        "publisher": "Kyiv Post",
+        "publisher_url": "https://www.kyivpost.com",
         "language": "",
-        "seendate": "20261014T184107Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Morning Risk Report: Bank of America to Pay $1.2 Billion to Settle Violations of Money Laundering, Sanctions Laws",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaTdQMkNEdjdvMnNPM2xIYzRIejU4WVVBWFliMElFTGdham1QajNKalo0Z1Y0b0s1RFUxdFR6VFVabmk2TDczd1hBYThxcFJyT0EzZHpYMGZkVUowSC1zMTBmZ2N4NW5sUVlTVW9GLVF2SXVnbXVIWm5lZmt1ek16T2tBdC13NjlLQS15bURoNXV5X0xES0hVVjZ0ZVdzRnRXMVJya3c1ejlvbXpVeVdtQ1VpY2V0Q3JrNjI4WUNPX08zTzhtTVVFWVBsaWJFQWY3MXlQM1hWOVFkMF9PeHVVVWxHSnVIQnYyWjhaLV91aEpCMTV5ek9xYXVtTQ?oc=5",
-        "domain": "www.wsj.com",
-        "publisher": "WSJ",
-        "publisher_url": "https://www.wsj.com",
-        "language": "",
-        "seendate": "20261014T114500Z",
+        "seendate": "20261015T053319Z",
         "source": "GoogleNews"
       },
       {
@@ -319,6 +279,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "US lifts sanctions on Venezuela's National Assembly leader",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTlvMUpXbDJXOFQ2QXFGcm03VjFVMEx6anJzUkZIc2c1Ml84dWU5SkFKODUzelpWbnQ3UnIxY3NYZWpNaFcxV01jaTZwckZyLVlBRll1b1kxUGhseGpoV0M0RERCNlJQLWNmRnl0SFFWT2JRanlpQXJjZlNycWc5ZUhTMA?oc=5",
+        "domain": "www.afp.com",
+        "publisher": "AFP.com",
+        "publisher_url": "https://www.afp.com",
+        "language": "",
+        "seendate": "20261014T162237Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Belarus EU Sanctions Renewal – Making Love To a Despot Again?",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBack1MbWdjZDVhTlozelFEUjh1VTltYTB1VHpYWnJ4dGNoaFA1ZVJIQ01oSV9GM09fX3RYbFUyaDM1eS1XeXkzang0bVlfTXA2LUNaT193eGM2d01rQjNOUXlETnk5VUZUekxVUHVyeEg4STFhWUd3?oc=5",
+        "domain": "visegradinsight.eu",
+        "publisher": "Visegrad Insight",
+        "publisher_url": "https://visegradinsight.eu",
+        "language": "",
+        "seendate": "20261015T063352Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Supreme Court turns away Kari Lake lawyer’s challenge to sanctions in Arizona voting machine lawsuit",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenhseW1HU2JaRExkZUJaWGlORHUwVmdvVEwtRjU0THpDRU43SHl2bEk5aG1jckVfTXJlMHB1eWdYN21zTGlXMTN4THI4c3l3S0czSks3ZkpJU2RGeU5kb2ZDN2FzNVBDbGZEV1FzdHdGYkFqZGs4TDBIS0NQNVJhM3RYVDBJcGcwWDFMWTFWdUNrc2JVdXYzVHZoWnVjcjFDejMtY1pDLUvSAa4BQVVfeXFMTlY0bTJPUkY1ajFiV2pXTUpwbHlYSm42OW12MFVscE1sQXN0WENDbzRjUE1nN0t2ajBKYl9MbndwT09NQ0RONkNMNjNjWnF2VXJmb0U0eGFhNkptZEpLd01HdEUtNDgwYm9CTEs0WGc3QVl4Y3IzQUZONU9LTlZwVUhmaVRxdFJpdGVNRkZuUmFjN0dzZ1ZkSkZwb3J5OFlzTFphVXprMlpvTTZZa3R3?oc=5",
         "domain": "thehill.com",
@@ -326,46 +306,6 @@
         "publisher_url": "https://thehill.com",
         "language": "",
         "seendate": "20261013T133800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "EU to Lift Sanction on Chinese Firm to Save an ASML Supplier",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2lUQllVYjVsZFEtVnBjdHNGYXZxUzhwOTVtNnk5OENHUktsbUFaLVhXMUswYVNKa0dDYmF4a1gyM05MWEgyb3BTLTdJeS1pMXJnZlFIUmozelVVS2ROQTkyNWtCdTQxVXp5bGFKWmVpZU1EN0VyMXZ3TU1aN3puSTc1bTFLdGY2TmxIR0hOY3dCSHRFbVlLVWQ0YnhLbDE2YTdCWHpLamJyeHVUTWpybk5n?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg.com",
-        "publisher_url": "https://www.bloomberg.com",
-        "language": "",
-        "seendate": "20261014T104414Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "UN Security Council renews Haiti sanctions regime for another year",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUG83NEJkREJleDlXTV8zcUZYUDFVSTVTaFhZQXZxR2hPMlpnNHpOYlZQVWJzUU10eHloa3pRbG9LOUR4SEFYbzFwQVhHeXU4WnlJY2hObzNVdmdQaXlRUFk3Y2JnMnE0d0lvMzUyS1ROMjVkMnFTVnVtS1JMc2pUQi1Bb0dKMmJIdWRXcGk4eGdLdVJSSnc4S0Q5bWdoWm9nbndMOXFBNHhkSWY1?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
-        "language": "",
-        "seendate": "20261014T164009Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US removes head of Venezuela's National Assembly from sanctions list",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWtTUkFqUXhjc3ZiNFU2alh2VWhvY2RnUkhiODEzNXdCbERfbm9wMWhCWXV1anhZMU4yNXFqYnB0cnFGNlREZndna3JmRDVpSFRQaDdVNzZKbXNXYmJsemluOGZVb1JFTms1SmJtQjRyUzRmQ0loSzZ3dElvdDNJbWpyWU5JSUY3YXlrWWNPY3oyQzZHQkE3bktjQXVwRzFNYmFkM2FkVGd5S2t3WXc?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
-        "language": "",
-        "seendate": "20261014T181544Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. lifts sanctions on Delcy Rodríguez’s brother amid Venezuela controversy",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbnRHUkVQbE5kUUpnb21teWZmVUl3V3doX2p5Yk1NM25NaFhxNUZ1LVhmZHJ4TWJpRzN5Z0lwZ0VMTFdoOG1ZNy1RMWRuNUVWd3pjaUZjWDFvcnVMcjdRcUtxRVFjeHp5UUljcUhKVURHNlZrVVJBVDVvdktTcXRtdlFwOWtJMGhUX25iVnZZQkdHMWh0Q3dz0gGXAUFVX3lxTE43b0llZU9wREd3aWxYR1FiNjFqTk5HY0J2Z1NIb0xjaldHYWFuanE0R3dkR1k5RkcxZ2w2XzlVU0xWZl9Sa3daUFJpTFhFbHY5bnRmWEYzOHZreERrTjRKb3dhRTAyemRNd0xmOFR5N3hocDIzN2plbkJHcWlVUmp0bldJSzRvOGtaaW9CSGVsbU56ZHZWdWc?oc=5",
-        "domain": "www.miamiherald.com",
-        "publisher": "Miami Herald",
-        "publisher_url": "https://www.miamiherald.com",
-        "language": "",
-        "seendate": "20261014T173812Z",
         "source": "GoogleNews"
       },
       {
@@ -379,6 +319,56 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C.",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDdnT3JDZVFPaDNiNDlmcW85MXhtQmlLRGp2dWZ0UGtTOS14RkRBRWFZM0h4em8yLUJWNHpfUmkxTXZxZ1FIa3N2THZEdTNXY3B5bkRFNVp5aFhmR0psS01jT3lKekEzc2ZwdTh0QmI2SGFCaVlLeF9ZaG9mbkZIRkNydw?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20261014T080325Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US Lifts Sanctions on Venezuela’s Top Lawmaker as Relations Thaw",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOazhhdGZDbDRkc2k2RjZRTmxfa0J1NlV4cTU4eGNfMWljaDlTd2pnLVFRa2J1ZDdOWEJoMDdMSlFzS3NuQXhkb2lINUVlNDhJZjhfbURhYXJyVXBOTDJjbWc4WVlxcnVOVERuZ3JZNE9YWVVIRW1zd3RhQV9DVF9lMkNvMnRoRHgzZXhrQmpueGpZY1VCMGpiM3BhcjJlTThjbFdpbUg5LWs2QWpWangxOU01YjVqZw?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
+        "language": "",
+        "seendate": "20261014T142042Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump Eyes Sanctions Relief for Russian Shadow Fleet as Oil Freight Costs Surge",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRHEtUnhkX1VsYjllRktpdWtKbUVWM0pYRDBuOGF6RE11bExjeFdlQ3lXSXNJMWdVQmllWW9uNVUwYTVjQ3N6RTVobDJ3QkR1WFY1bGVQa0VISEJKRzhISXp3Rmxva3RldkxoaV95dmVITnBVc1pzeHk3ZUI3cGhOUzllRnpfUW9kRUxORGczRUd1Z0VldU1fVTdvVmMtbW5HR2I4QzRLRWZfSW9jM1NvX1IzRHlHak1G?oc=5",
+        "domain": "united24media.com",
+        "publisher": "UNITED24 Media",
+        "publisher_url": "https://united24media.com",
+        "language": "",
+        "seendate": "20261015T074001Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New U.K. Regulations Allowing West Bank Sanctions Take Effect Thursday",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQalRVMmlVNWk0cXZPemMwakNFRHVaMnAzT0ZuYXlmUnZXWW90UE1tQ3llUFNPODNOUVd6WDNfNng0S01iMlh0MmJaeTcwRm1tMk5qUWFTanRZWGoyWWxicjdMbk1ZcUNjSU9rTVBWOVl0bm5oLXh0Zzl0ekxpVzFqV1VjS3dJdXpRLXlwY1NVUDRvWXc3XzFHR0gwTzAxVEhGLVdqMFRyR0ZxMkRWUFhsUnJPdjZmZFdVZFMyTnRreDBoeGxqNjVWU3p3bXhJSkJ6ZERoWVRpLVFmYThlVE5qc2VNRDROdDJMRTdIUDVyRmVyVnJwRmZRT3pmYnJCNWs1MzZr?oc=5",
+        "domain": "www.haaretz.com",
+        "publisher": "Haaretz",
+        "publisher_url": "https://www.haaretz.com",
+        "language": "",
+        "seendate": "20261014T224700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Reimposed Sanctions Raise Questions Over Iran's Nuclear Program",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GUC03S1BYWHRITVJLUC1aczdxRzJNb1U0ZW1kT2xrVUVYblRHWkhFX1U1VlczVjZEdkIwblpxaHZPUEZVSEhDbFp5aHh1QlpOaWVlMlVzNl9WenRVZVBIWlhwUjNScGpHNDhkdWZCd0JZSnlB?oc=5",
+        "domain": "legis1.com",
+        "publisher": "Legis1",
+        "publisher_url": "https://legis1.com",
+        "language": "",
+        "seendate": "20261014T144404Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "The ICC strongly rejects US sanctions against the institution",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVZwUEMzamgxUzl4TTJ6aVdJWTJpbEpUc2RqR0IxTXg5MmV1QkVjRmhnb2x2blVDdGRyM2dFNkhQZHBObFlwZUlBXzg0U3VNV3NPNUdScEh5bHBMVzRVSWxrZjNIUmZNdVpmUmdwLWFZTlJNbjUyd2xUWi14SXJlSTM2Y3BTS2VHRXc?oc=5",
         "domain": "www.icc-cpi.int",
@@ -389,23 +379,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "EU to Lift Sanctions on Chinese Firm in Deal With Beijing Over ASML Supplier",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjZIMjRVUTZ5U0tleVlZSzNIX0ZFNngzM3JfSWpZc3NJOVpSNDFJRHVXem9zSVhpX0JQM1dHb1ZEdV9faDh0N1BWR1pSR3FLTTNCSC1md3BIZmlJSkVRc3NtYVhKUzZoaGJ6RWY2VVZ6Sl9paGJRU21ndHo0dmQ1bDIyNEtIbkxfYldBYzg2ZG9icmVMZUVWaDI5Q3dPMnBvQ3N5Q19YbUJzcUlSSEUtTUlxajM?oc=5",
-        "domain": "united24media.com",
-        "publisher": "UNITED24 Media",
-        "publisher_url": "https://united24media.com",
+        "title": "The US removes sanctions on Jorge Rodríguez, president of Venezuela’s National Assembly. The Treasury gave no reason",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYU54WEZ0OGpxRVpTdlNaLTdLTlpCUEVObi1BamQ4Z25mXy1wRm55LVpvd0JsLWlNVExTOHg5S1dvTUxzMkZ3Yjg4WGhOVV91enpMZDhxaXFQeXJvLXpQOXRhRWV1THhIZjUxY0VtTXhkQzlXOGZTNlZnaHVob3ZDVXpGSURkVURHSTNKUjV0aElwWENRY2xpTmhqV2dfS2s4YzBnY25FbkN4c2xJbkZIUHJTdHZmT1NFR1ZQeUh4V0ZZU09sWU1IWkEwUXBKX1dDRkh3ZEFLbklRSUdkbWNiY3BwSjI5ckpoOVJqTFQwRXNNdw?oc=5",
+        "domain": "www.plataformamedia.com",
+        "publisher": "Plataforma Media",
+        "publisher_url": "https://www.plataformamedia.com",
         "language": "",
-        "seendate": "20261014T151721Z",
+        "seendate": "20261015T101157Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Russia’s Turn to China Under Sanctions: Sanctions Decay, Substitution Elasticity, and the Challenge of Sustaining Pressure",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94clA1ZGhqd0k5a0tjVHlnd0U2V0hPMWJtR2F6UzJETVZvNmtmd0NWMXdjb1RqOWNsd2JCU3FhZjduSFlvTE5OYjdQRDBuM19jVVQtRFZ2d0g2alNtZWpXZzNKREozVWctZG5zV1lpaUdRdw?oc=5",
-        "domain": "www.csis.org",
-        "publisher": "CSIS | Center for Strategic and International Studies",
-        "publisher_url": "https://www.csis.org",
+        "title": "US Weighs Easing Shadow Fleet Sanctions to Cut Shipping Costs...",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaXBPSXNKbnhxMloyQTVrR2xaamZQY3NmbHlvQVphSm9RUmN1Ul8tWUt2QzdiNVVfbjlQdmduU25aSGZnOVc0U29kcmtRWXNfcUE1Qk9NUWZwekxqaTNEd0NnTnNfTnBMblpiYVJUbW1Rc21GaW1SZ3gwQUIzTjdyTDA2MU1tU0NiSkk0Yk5EVERKZnJyVVBaOGFrTWowNHNMN2xNbHhSNUNoZTRXSkE?oc=5",
+        "domain": "www.jordannews.jo",
+        "publisher": "Jordan News",
+        "publisher_url": "https://www.jordannews.jo",
         "language": "",
-        "seendate": "20261009T184714Z",
+        "seendate": "20261015T082401Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Eritrea’s Coming Crisis? How the Lifting of US Sanctions Might Spell Trouble for Africa’s Most Opaque State",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYV9nTzNmMTV0dkxpaEVROXI5TEhFLUlyMUhWUHdJUGpia1dRNkd2WjdyYkxtMWJtVExmTTZ5LWdqN0xDekN1Y0lSZnV3WThRTVo3RDBHWDN5a0NlREJYRkljcndhMHBEbGJrSnVOVEF4WDlyR2xvY0ZETGRTaDFveG84MXRjQVdvUVZyQ0JEazdkaTJZSFhZcWtpbGFTU1VhUC14UTVMdFV6OTVLUFRPY25sX0gtem5sR3RzQUY2c3pVTGxCZS1rc0dBbUl2WHhpdTdUYVVXNXN4dw?oc=5",
+        "domain": "africanarguments.org",
+        "publisher": "African Arguments",
+        "publisher_url": "https://africanarguments.org",
+        "language": "",
+        "seendate": "20261015T100355Z",
         "source": "GoogleNews"
       },
       {
@@ -419,13 +419,63 @@
         "source": "GoogleNews"
       },
       {
-        "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkQ5TFA5MWRza05HQ1o1aVFjSWppTVdLSzQzU1R6M2UxdzAwY2JRWjFoMGdlNFFJS3BtaWNEcll2YW9jdElRWEFrR3NsOVJmeDRRUmw2R2Z2d29DUzhkYk1pcE1lWUFlSGlCV1ZsVTc5cGxlZHBlYmE3ZVQ0eVFaYXc4cWRNLW5EMGNxQlpEMmJDZFRSeFdQNmRRMmdLYW1nd1HSAacBQVVfeXFMTkRLVzZyaUZsM1hYVkNVelYteGdsVlBTVlJWWDZUSU9CRFdzWURSVXY0NHhQUXRGN1otaGFFbVpTWjc2amQySzBGRE5pNjBGSWdqM2JVRFdSTnlLelkteXloaU0wYnk0UWtfTmUyRzEtWFlLNXJkelRvaWlpeGdWQkVSdXlfUTlSZ2lzRUN0RC1PY2hsbGZlVzNPSjRibldfb0pqSkN1U1k?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "Russia’s Turn to China Under Sanctions: Sanctions Decay, Substitution Elasticity, and the Challenge of Sustaining Pressure",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94clA1ZGhqd0k5a0tjVHlnd0U2V0hPMWJtR2F6UzJETVZvNmtmd0NWMXdjb1RqOWNsd2JCU3FhZjduSFlvTE5OYjdQRDBuM19jVVQtRFZ2d0g2alNtZWpXZzNKREozVWctZG5zV1lpaUdRdw?oc=5",
+        "domain": "www.csis.org",
+        "publisher": "CSIS | Center for Strategic and International Studies",
+        "publisher_url": "https://www.csis.org",
         "language": "",
-        "seendate": "20261012T050147Z",
+        "seendate": "20261009T184714Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US House candidates in Iowa’s 4th district agree on Russian diesel embargo",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTMyTEg1c01MQ0hkTVFFWUhUdTc1dXNfV2dicmZFbTVmVzFaR2N3QUxCMV9TV1Bzbm11Y3RyOWtOcWZpOTVRZzliZktVZThkcC1ZTFVxci03ODRYajRYX2lITjZpRFBWZF92VmxoUkFhSGs3NV92clZOajhNNG1VaVNPRXZtMV8tUEcxTHBLQ1NYVnRnVS0tZDhqQU1fUHV5SnczZ0MxLXlUOWE1Y1hVdw?oc=5",
+        "domain": "www.radioiowa.com",
+        "publisher": "Radio Iowa",
+        "publisher_url": "https://www.radioiowa.com",
+        "language": "",
+        "seendate": "20261015T031926Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU to Lift Sanction on Chinese Firm to Save an ASML Supplier",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2lUQllVYjVsZFEtVnBjdHNGYXZxUzhwOTVtNnk5OENHUktsbUFaLVhXMUswYVNKa0dDYmF4a1gyM05MWEgyb3BTLTdJeS1pMXJnZlFIUmozelVVS2ROQTkyNWtCdTQxVXp5bGFKWmVpZU1EN0VyMXZ3TU1aN3puSTc1bTFLdGY2TmxIR0hOY3dCSHRFbVlLVWQ0YnhLbDE2YTdCWHpLamJyeHVUTWpybk5n?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
+        "language": "",
+        "seendate": "20261014T143643Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US lifts sanctions on Venezuela's National Assembly president",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qSVYzekFPbDFMOURubDIzXzNWWUNRUUlXZUFFWGRqbVVhUEp5NkRQM05WZWFwaHhJbm96TFJCZ1pvOHJpNXlqMEpWODRGZVVfeWg1TDhjVk0?oc=5",
+        "domain": "www.chinadailyasia.com",
+        "publisher": "chinadailyhk",
+        "publisher_url": "https://www.chinadailyasia.com",
+        "language": "",
+        "seendate": "20261015T073336Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeEoxSlNfelFqU1VHenNVZ1lBa3p3eHVYNXNKZWhBM0R1TS1PR1VDWjhSVTEyV19CZWZ6T1dZTl9mTC1GaEZnVnFMMWxyVFhYX1pYUkFWMTllcmljRXpyaDRldDNFN0dsc3FmYnRpbldOWmU4U1N6dUhQTmxKZTdaSmtuV1plVGtPRWk2R0FxODlROVdzTVBWM2ZFbmwyenN6UHl2aDhXY3E4N1NiWGw3V2lNQklVdDY4MUotT2RLbktfVGZMc2lFeFczRdIB0AFBVV95cUxNalNGbThISW5hVlRHMzJSNGFVa1JfLTY5LVl6Znh2QUJyOHJXLU9QMURmUnFMaWVwZ3ljTFUta1BxX1RPaFRkaV8tSHN4UlZQeEFGMGk3aWVOYUZpSjFHejRMbGtPTUgtbGY0RS1mQ3dXTzNBQ3JPUTlYb0pibDN3ZGRmUmhhUFQxeE1sRkMwZzVnbUt6LU1kc1N6NURIaFp0Yk9JRi1Udlh0TDdJemNWdjJ2THZLc3laOW9KNTY1TlZsU201SmlpeVFhcHJaSUZa?oc=5",
+        "domain": "oilprice.com",
+        "publisher": "Crude Oil Prices Today | OilPrice.com",
+        "publisher_url": "https://oilprice.com",
+        "language": "",
+        "seendate": "20261015T051907Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cuba accuses Rubio of pressuring countries ahead of UN embargo vote",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObjBQNXFZTGRWV3J6M3dna3BKYTgzUkJyZjZpSTBmMlljdzJWR1I1a1NqYWtsMWtpbURuVmFOMkk0MXRWcVp4WmJrQkhGUWRmWkJnSmRHSjV6U3dZOVRxT0hkWjdTaE9FY1FFa3lJcXRvQVRqM2dPLVU3YkE3amhUZGpkZ3RQMEwySjdlT0w3VWZlT0Zad000S3NHMVNvRktza1VrLXRCOGZlQjhvT1E?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
+        "language": "",
+        "seendate": "20261014T184107Z",
         "source": "GoogleNews"
       },
       {
@@ -439,36 +489,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "How do Iranians move money abroad to avoid US sanctions?",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FTWFZtUnRrQlJZdEd2dGZraWo5SXdkZnptUjQ3TFJLblJOVkFLRDRrbGgyZ0dQRkEtTG40M2lEWUdqVDNGREpMZFRVZGFkTVIwMG1yclVWWnE1UjZpbDBuUHNubTJRVm83cDRGYVk5V0NlTTRxZFJTdlhmRHBZcG5hOTNlSkJ1Yl9aM2xRWFpCTzJjczV4Ym4wUWZnd9IBowFBVV95cUxOVERJM0JGcjlvSFBoX2RjUGZYczQ4dlBqWVAyajRhM3VUcDkxM0l3dEFLX2tjOTc4b3FSX1c2OGp4dS1Cb1prMFctU2dWN3pGWmVCMGdFc2NKWGZyWXk5dnJfdTRBS3Z2UWpheFl4OHBVNEQyVjBsek9odkRYdzdmbmtSc0F2WlZxc1ZTbGZfZGl5ZVlhNzFoM0c3eTl3bVZCQlpJ?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261014T082954Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bend's young flag football players look toward high school after Oregon sanctions girls sport",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXl5TklLU29Gdy1VTXl1dzlBN2R3bkFXSUt5dFdiMGtLd3NCV19YeHlOU3lDSk9QWkozQXk1SXBrNGdfRFktODNpTHhvYWdGcWJ3QkdLNUhFaDVnNkxnSFBEaDFHWk1PLWEtcUN1eFhOaGVXQV9DcEhqUEJlMlZCS2dMbGVybWc5Z000bGViOTFUUnhNU2EwU0Q2QU1PNjlzOWFlQ2RaLXNuaUR0blhPYU5NQlo4a1VDM2RyWHRORV9HdDBqQ3NtNEdUSTY0Vmo1Rm4wSXJRVDhfUWdKTmFlVm15bjZjWWd6UGtEUVFhOFJEQjBBMk1XU2tvcnZIRXNGdTNwWHNB?oc=5",
-        "domain": "www.centraloregondaily.com",
-        "publisher": "Central Oregon Daily",
-        "publisher_url": "https://www.centraloregondaily.com",
-        "language": "",
-        "seendate": "20261015T022600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Two Targets, One Tactic as US Sanctions ICC and Silences #DisInfo2026",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbU9tdXQ4ZC1Lcjg4ZGV0RXZBMUFzd3lTUEVZeWl2V3NXa2NUWmotaFJxSTRHLUNxQi1mWDYwTW5EQ3cta2dOcldwb2w2UHFKZG5sZU52eTBhX0xSd3ZVM3VmUXZBM0NLc3hVUEFkdEh0UExqNHM1ak5iU2d2ZXEwaUNZQm4zUHNGTnl0WDBxSTNkNEdIOUo0?oc=5",
-        "domain": "techpolicy.press",
-        "publisher": "Tech Policy Press",
-        "publisher_url": "https://techpolicy.press",
-        "language": "",
-        "seendate": "20261014T163443Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbTB3TGU4cm8tNFhlSWRLeVlydl95WXA3RlMxdFhpd1NaNDY0MUZZaDFRQ0g5VVprZV9ERkNMV0lMTWRUc1ZYQlpYdEdiTG1vQjVkR2ZpZmlGT2h0RFppaHh2MTV2djZzQXp5Y0NJenRodENaSHp1djhFTWY4YXRfc3hZSDJTaEnSAYwBQVVfeXFMUEI4blVkNFA2U0p3ZV85TURQRFNFQm1WYjBXQWpVNW1TN05fWEpEcUFXdTVpQUV6c3htcndpcElIUzdKUG9RUjNUa3dVWFpsLUdFRnpHV1p4VExfLWUwM2YxVGZwT2ZsRHRZSFFVNGhVd0N4Wm1KcDNDNTFIM1lMNXpxNldMczA3Z19rcE0?oc=5",
         "domain": "www.cnbc.com",
@@ -479,23 +499,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "5 AM Embargo Lets Get to Work Wisconsin Bus Wrap (2).pdf - 1",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOak9HSXJwNUpwZEx2MjF5VngySEtRLXBTLVAyOHFCMG1YQ0EwdWtzX0dtTjRDM09zR092eEQ0SW9LX1phRFU2c2x2VEFfdW1yaTFWSEZ1UW5zRzZ2LV9uUHNEdTBGRDVjcGVxSzU4WmRBczJ6c0JXRzlfbWFVc2taaWxMQmx4eUF1OXpiQ2U3UThjN2pScEk1bXlMLUJOVWdZSTBxODcteFI5cURna3JhbGl5NlRycjE3U0tkbEthYmxGYUIxNmc?oc=5",
-        "domain": "captimes.com",
-        "publisher": "The Capital Times",
-        "publisher_url": "https://captimes.com",
+        "title": "“An economic risk of a magnitude we have never encountered before”: The sanctions threat facing Israel",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DdGgwcjNGSU43WC1NSzJDbllOalJYLXNqZVFaV2p3SFJCUUsyOFktd0thY1dBaUhvdjRkNGtaRGotRDRtZy1sTE9kWGhrYVdmQjJkcWRqLUtNN0sxMC1qN0JvR0Y3Y1k?oc=5",
+        "domain": "www.calcalistech.com",
+        "publisher": "CTech",
+        "publisher_url": "https://www.calcalistech.com",
         "language": "",
-        "seendate": "20261014T233900Z",
+        "seendate": "20261015T095800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Bank of America Fined $1.2B+ Over Sanctions and Money Laundering Violations",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkh1M1R4MHY0eHpfWFd0R2poNGU2bjlNSTJIbVJDVUdRdUpJWXJlMFRZa2hrRGtha1FpbHBYMkhpUDc2MEt4Um5sNXl2LWVtSGE2LVpGSk5feE1LSk42RWFXS0VuanVLT0RYbjF0WXZ1QTJuMkUxeUlUYkZNbjhaQVNDOVdBUGtBYklpRTE0X1g0dGFaMUlTeUR1RjdQTll1ZThqQk5Ra3NCNXl4cXc?oc=5",
-        "domain": "iranwire.com",
-        "publisher": "IranWire",
-        "publisher_url": "https://iranwire.com",
+        "title": "US removes head of Venezuela's National Assembly from sanctions list",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWtTUkFqUXhjc3ZiNFU2alh2VWhvY2RnUkhiODEzNXdCbERfbm9wMWhCWXV1anhZMU4yNXFqYnB0cnFGNlREZndna3JmRDVpSFRQaDdVNzZKbXNXYmJsemluOGZVb1JFTms1SmJtQjRyUzRmQ0loSzZ3dElvdDNJbWpyWU5JSUY3YXlrWWNPY3oyQzZHQkE3bktjQXVwRzFNYmFkM2FkVGd5S2t3WXc?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
         "language": "",
-        "seendate": "20261014T100911Z",
+        "seendate": "20261014T181544Z",
         "source": "GoogleNews"
       },
       {
@@ -506,26 +526,6 @@
         "publisher_url": "https://www.politico.com",
         "language": "",
         "seendate": "20261009T164400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Treasury fines Bank of America $1.2B for violating money laundering, sanctions law",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00Z3pwamtKUjQ4a2lmdEg4YjJuRkdiWnZlV21WRWEwOWF3dHR1VzV1ZXlTLVE5c19NTDFZVW1hcGlXVWFyLTIyTkNqRUR5YmFJUTZoZm1FLUpWa21KMVhjUktwNzRFZkdKQXVJd3p5Sm1mUQ?oc=5",
-        "domain": "thehill.com",
-        "publisher": "The Hill",
-        "publisher_url": "https://thehill.com",
-        "language": "",
-        "seendate": "20261013T214500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. sanctions Mexican cartel’s horse racing and business network",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWJpdGJwYVFVbFJEVEQ0ZUlFSmVSeW50cjRLaTFncV9Pd3JtMG5aWFQ0Mm9UVXlwc3NHaVBwcDRwZHY5cHBBLUpVcHViMnB6aTVsUUFhclpxWWxpQ1YxUllrTlcwb0NBMURBVlBRWlB6RmNwb2NQWklvZmtFYTdCQVR4VnI1WGIyYTZpUm03Y21SY2plZzRZbnRZWU1Md0g3bXRxYg?oc=5",
-        "domain": "bnonews.com",
-        "publisher": "BNO News",
-        "publisher_url": "https://bnonews.com",
-        "language": "",
-        "seendate": "20261014T220954Z",
         "source": "GoogleNews"
       }
     ]
@@ -539,16 +539,6 @@
       "publisher_url": "https://www.reuters.com",
       "language": "",
       "seendate": "20261015T000600Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US lifts sanctions on Venezuela’s top legislator",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0JrTm5MQXNmZ3ZtaFJUbFVmV2g5VFphdndpLUEydTVmUEpWTDJ6ZEJwSWJJZWFMNzdDQ3pRZDZyVmRWNFhqbENQVnhFTnl4bXRjdV9xZTlxMVhwYTV5MlRqenN2dGI5aGkxdTl6dk9XS3pyaUJnQVFkT1pGRTZfeklJcE1fWWFYU2NjRG5IcVBPM1HSAZgBQVVfeXFMTk9wWnk1ZXF4RmVBMURxbmxjNURrY0hVb0FfTGhyOWFKYVZoRmZMU3NEdEpTbmtScmRIS3lBNklqVVRzUFEyY3NGSW11MlA2RWtTYVFJdE85c1lETWdfbUQ1YnNfTjRIcW1OYjZMZWlvODhEb2swUzJTNnBpSjl0LThHenFhNWJJNEl1V0NWa3VUZUJLYzloUGI?oc=5",
-      "domain": "www.aljazeera.com",
-      "publisher": "Al Jazeera",
-      "publisher_url": "https://www.aljazeera.com",
-      "language": "",
-      "seendate": "20261014T195712Z",
       "source": "GoogleNews"
     },
     {
@@ -572,6 +562,16 @@
       "source": "GoogleNews"
     },
     {
+      "title": "US lifts sanctions on Venezuela’s top legislator",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0JrTm5MQXNmZ3ZtaFJUbFVmV2g5VFphdndpLUEydTVmUEpWTDJ6ZEJwSWJJZWFMNzdDQ3pRZDZyVmRWNFhqbENQVnhFTnl4bXRjdV9xZTlxMVhwYTV5MlRqenN2dGI5aGkxdTl6dk9XS3pyaUJnQVFkT1pGRTZfeklJcE1fWWFYU2NjRG5IcVBPM1HSAZgBQVVfeXFMTk9wWnk1ZXF4RmVBMURxbmxjNURrY0hVb0FfTGhyOWFKYVZoRmZMU3NEdEpTbmtScmRIS3lBNklqVVRzUFEyY3NGSW11MlA2RWtTYVFJdE85c1lETWdfbUQ1YnNfTjRIcW1OYjZMZWlvODhEb2swUzJTNnBpSjl0LThHenFhNWJJNEl1V0NWa3VUZUJLYzloUGI?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
+      "language": "",
+      "seendate": "20261014T195712Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Following the Adoption of a UN Security Council Resolution on Haiti Sanctions",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXFjekZJTV9RSk4xa3lyMEJJeG8xbWl3d1ZMd1FhWEVEelpVUjI4eGpGWDMtanhlU05zRjdneWtRQUMtZk00MWRYNS1VdjgtT0phejZ0bHlBemo0OHFnTy1nU1ZmSXR4YjRHeDZVLUJfOE1ibFV1T25OdmV2RTBOME83RkNaajU3cEpoZ2lZc3NVS1I2UXZIU2l2VXdKRmJ4MnpDYnNCYTM?oc=5",
       "domain": "usun.usmission.gov",
@@ -579,26 +579,6 @@
       "publisher_url": "https://usun.usmission.gov",
       "language": "",
       "seendate": "20261014T144613Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDdnT3JDZVFPaDNiNDlmcW85MXhtQmlLRGp2dWZ0UGtTOS14RkRBRWFZM0h4em8yLUJWNHpfUmkxTXZxZ1FIa3N2THZEdTNXY3B5bkRFNVp5aFhmR0psS01jT3lKekEzc2ZwdTh0QmI2SGFCaVlLeF9ZaG9mbkZIRkNydw?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "language": "",
-      "seendate": "20261014T162119Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEliUkhCMHk0akh2VTJvYWg4a3dmYU4tejlMQWtnM2RLMG1ncEZuVDdvN1pTd3lwZnIzN2JHV0FmeDVPZGZrX3g0TnNGdWdNMVpyemRGU3M5M0pSOWRQWjVqV19jbS16NFJ3anJVb3hOQjRoRHozRjFsaHY3eDF0VXd3YlhYZmV1c2NSdA?oc=5",
-      "domain": "krebsonsecurity.com",
-      "publisher": "Krebs on Security",
-      "publisher_url": "https://krebsonsecurity.com",
-      "language": "",
-      "seendate": "20261014T143047Z",
       "source": "GoogleNews"
     },
     {
@@ -612,16 +592,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "U.S. lifts sanctions on Venezuela's National Assembly president",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU1iSUxicXZRcE1zT1JLUExiTUhBeGF3RHZCUW5yX0ktWlViQ1poX3pmY2lNX29Wa09SWmhDdm1YekI4aUNBMTNjVlhUZDY1MjFIVmNWdUlmS0lGd2Zsd01ZRkQ0ZGJGY2VTMkVMZnl6dnRYdzlNTmlwclNTLXlkRi1nUnNIem1rcnNNRkFKUDRxZmJYbnBjONIBngFBVV95cUxPOXkxa0pzRlNOcFFfOWFFUmpOdVJRVmRQTFFJY180NkNtbnotbElTSkI2NWgyUXd0eTBJSnUtc192aWN5YzFreUdfQlEwY2VJb1lYX2s0bFhKRDl4TEpnNmlDeTJRaC1pTmIyQzRZMmdweHVsQXkwM3FUaXl4MlNiN1lpMnI0aEJXeTl5bk9yejFsWklyZUUyT1BnejhHZw?oc=5",
-      "domain": "www.upi.com",
-      "publisher": "upi",
-      "publisher_url": "https://www.upi.com",
-      "language": "",
-      "seendate": "20261014T182408Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Russia’s war of aggression against Ukraine: EU agrees largest-ever package of listings targeting almost 1600 individuals and entities in Russia’s military-industrial complex",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPWHNlczJqY1VHMDg3NEFKaXNMTkN5eVJSdXB5VE5ZR21CRWpoYm1GeVVLVkl2VjkzUk15RGtEZXRKMG80ZlQ0elBzSWR2M1Z4MmItR2p4WVQyZk43SHFYNGZ5c0JodTFxVmdVTU52VzhWM0tGSHZjcFdZUVE0Sl9td2dnd1BoUUN3R3RzbFAtRWwzUk01d1VsUzg3Q0RzLUowY1ZibnBYbjZnaUFnclFuREw5S2ljajB4UU9qWWRFWXpITUE3a0k5enh2X2JQSEFBSkZadmpZRDVuZy01UGR1bWY0Vk9CenJ5LUhRV0ZjaWljaXhsWjJvS0VnbEU1SUhQcWdUOXBHWkRncWRXZXY2end4MmM3TEZfQlpEZ2ZneTRhU25NX3B2LVl3Nzk4dkJxa2o4NFJjYTVTejBwRFZXRGFNc01BNG9RaU1sZHgwTFpQZXB3Y0RUa00yWEE?oc=5",
       "domain": "www.consilium.europa.eu",
@@ -632,43 +602,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "US Lifts Sanctions on Venezuela’s Top Lawmaker as Relations Thaw",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOazhhdGZDbDRkc2k2RjZRTmxfa0J1NlV4cTU4eGNfMWljaDlTd2pnLVFRa2J1ZDdOWEJoMDdMSlFzS3NuQXhkb2lINUVlNDhJZjhfbURhYXJyVXBOTDJjbWc4WVlxcnVOVERuZ3JZNE9YWVVIRW1zd3RhQV9DVF9lMkNvMnRoRHgzZXhrQmpueGpZY1VCMGpiM3BhcjJlTThjbFdpbUg5LWs2QWpWangxOU01YjVqZw?oc=5",
-      "domain": "www.bloomberg.com",
-      "publisher": "Bloomberg.com",
-      "publisher_url": "https://www.bloomberg.com",
+      "title": "UK finance chief calls for tougher economic sanctions on Russia during visit to Thailand",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXZXckg2aUdkcHNmbGZJZ1ZmaTFOUmc1alN6SFgxdmpvb0JZMXZCejc3VnJual9JVkctTzc0dG1xWDFkcEdDZ0U5dU16NGJQS3ZGLXBLbDNZSHgyV3NMNDJoNkN6UTNVbW1hNDQ4ZldYdUxfVzJEZ0U5MFhKSmRDLXNUaFgwZw?oc=5",
+      "domain": "www.yahoo.com",
+      "publisher": "Yahoo",
+      "publisher_url": "https://www.yahoo.com",
       "language": "",
-      "seendate": "20261014T142042Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Trump Administration Imposes Sweeping Sanctions on the International Criminal Court, Threatening Global Justice and Civil Society",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb2xqcWNQYWhxeWtWVFlGbnl2NzY1bVBvWnpndldkVHlDR1VSUG5TZURkSkM3QUhmc2FGcF9lRTBGend4VVc3ZFAxa0ttQkFLQkNHWDJ2WGxYQU1VbnBQMms4X1pHUUNYMHAwVmd6TkVKV25GNG45OVdMbWZEazBBTm00RDNnQ3JEX0NhemlQSFFFRlNLUEtrWmV3dzdqTDJRbU84b0QtNlRzWmFVb1p5cUpPX1dxYnFDVGhUZTBWQ3J4bDJId2tBYldPRzlKcDVfazhraTdLcnY1bjFjd2dwY0x4WmMxb3dVbW16TEVGSDl6UVhyNGdwVQ?oc=5",
-      "domain": "charityandsecurity.org",
-      "publisher": "Charity & Security Network",
-      "publisher_url": "https://charityandsecurity.org",
-      "language": "",
-      "seendate": "20261014T192730Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Reimposed Sanctions Raise Questions Over Iran's Nuclear Program",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GUC03S1BYWHRITVJLUC1aczdxRzJNb1U0ZW1kT2xrVUVYblRHWkhFX1U1VlczVjZEdkIwblpxaHZPUEZVSEhDbFp5aHh1QlpOaWVlMlVzNl9WenRVZVBIWlhwUjNScGpHNDhkdWZCd0JZSnlB?oc=5",
-      "domain": "legis1.com",
-      "publisher": "Legis1",
-      "publisher_url": "https://legis1.com",
-      "language": "",
-      "seendate": "20261014T144404Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "New U.K. Sanctions on West Bank Settlement Activity Take Effect Thursday",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQalRVMmlVNWk0cXZPemMwakNFRHVaMnAzT0ZuYXlmUnZXWW90UE1tQ3llUFNPODNOUVd6WDNfNng0S01iMlh0MmJaeTcwRm1tMk5qUWFTanRZWGoyWWxicjdMbk1ZcUNjSU9rTVBWOVl0bm5oLXh0Zzl0ekxpVzFqV1VjS3dJdXpRLXlwY1NVUDRvWXc3XzFHR0gwTzAxVEhGLVdqMFRyR0ZxMkRWUFhsUnJPdjZmZFdVZFMyTnRreDBoeGxqNjVWU3p3bXhJSkJ6ZERoWVRpLVFmYThlVE5qc2VNRDROdDJMRTdIUDVyRmVyVnJwRmZRT3pmYnJCNWs1MzZr?oc=5",
-      "domain": "www.haaretz.com",
-      "publisher": "Haaretz",
-      "publisher_url": "https://www.haaretz.com",
-      "language": "",
-      "seendate": "20261014T224700Z",
+      "seendate": "20261015T065100Z",
       "source": "GoogleNews"
     },
     {
@@ -679,6 +619,66 @@
       "publisher_url": "https://www.nbcnews.com",
       "language": "",
       "seendate": "20261013T201510Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Judge blocks sanctions against two US-based human rights orgs. over working with ICC against Israel",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IQUZlRy1YcW0wNHh3QXNzSkJLMzJ6M0tyZi1mTkMwRVEwZkY5RlBSWmdYZm13OUhXbmwwOXh5Nk5CQnVNc2s0TlVqSDVRa0k1MWp3SGRiRGpBbDF3OHZB?oc=5",
+      "domain": "www.jpost.com",
+      "publisher": "The Jerusalem Post",
+      "publisher_url": "https://www.jpost.com",
+      "language": "",
+      "seendate": "20261015T084149Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "U.S. lifts sanctions on Venezuela's National Assembly president",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU1iSUxicXZRcE1zT1JLUExiTUhBeGF3RHZCUW5yX0ktWlViQ1poX3pmY2lNX29Wa09SWmhDdm1YekI4aUNBMTNjVlhUZDY1MjFIVmNWdUlmS0lGd2Zsd01ZRkQ0ZGJGY2VTMkVMZnl6dnRYdzlNTmlwclNTLXlkRi1nUnNIem1rcnNNRkFKUDRxZmJYbnBjONIBngFBVV95cUxPOXkxa0pzRlNOcFFfOWFFUmpOdVJRVmRQTFFJY180NkNtbnotbElTSkI2NWgyUXd0eTBJSnUtc192aWN5YzFreUdfQlEwY2VJb1lYX2s0bFhKRDl4TEpnNmlDeTJRaC1pTmIyQzRZMmdweHVsQXkwM3FUaXl4MlNiN1lpMnI0aEJXeTl5bk9yejFsWklyZUUyT1BnejhHZw?oc=5",
+      "domain": "www.upi.com",
+      "publisher": "upi",
+      "publisher_url": "https://www.upi.com",
+      "language": "",
+      "seendate": "20261014T182408Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEliUkhCMHk0akh2VTJvYWg4a3dmYU4tejlMQWtnM2RLMG1ncEZuVDdvN1pTd3lwZnIzN2JHV0FmeDVPZGZrX3g0TnNGdWdNMVpyemRGU3M5M0pSOWRQWjVqV19jbS16NFJ3anJVb3hOQjRoRHozRjFsaHY3eDF0VXd3YlhYZmV1c2NSdA?oc=5",
+      "domain": "krebsonsecurity.com",
+      "publisher": "Krebs on Security",
+      "publisher_url": "https://krebsonsecurity.com",
+      "language": "",
+      "seendate": "20261014T143047Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US lifts sanctions on head of Venezuela legislature",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVXFnM3A0T3lJeVdPVnZrVlZHT3l6dlBUbjZkZGdmYTd4NTFkZEE1TkpOVkNxaXpoZVBiQUNSNWhrRGl4cXZxS2VWeHN5aVVfbEpSR2doM0xwR1JiZHA5VjdkLVhrVHhBMTlNQmQ1ZGNOSGd1bDhFOEFFQlpveFRpcG43MUZ1OEwwWGxqeXFrLUNwakUxOTU5R19rZEFTQQ?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20261014T162549Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEFMR2FRM3RkWDAwVWRwMTN5R2xUYkdNQl91TldZdks0YUIxbmZBRHlMWXJqVDV1VnVHTWxwRzJuYjREd0t0MGRZVVU0WlljZkkwUEtfdmI3RlZncWVJcEJGUk0tMzlYUlhuZlp1SXN6Z3ViclRxMnBVT3BFNGh1WDdUOE1qY3k1Wlk5LU1VazVlMFE1YVNXWG9xdzJTR2JIY0tnUjVwdVlibFl0S092ckN2aU_SAboBQVVfeXFMTldQT1dKcW1HZ3FlTUw0LVlUNWY0UTdkV3IxZnVocWZ6Y2hHLVp2dVVrNkZBemgyWUl2aHhXeXA2RjdoSnp1b0RFeDl0blVpdy1pTkQta0FkQ1ZQN2E0cmlvcFZBaDlva2V6RWZfeVNxYTY3SjNkZG1UdXY0MVZBaFJQM20wUkcyd0QzdENOamZVSXN5aDhxNjY2cUlIWUIyamJDLVhVeU53SGtWd0lNSjZvVGU0ZVhJeVZ3?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
+      "language": "",
+      "seendate": "20261014T012908Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "UK finance minister calls for tighter Russian shipping sanctions",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0tMZUNxemw4Z1ZyYzl0cE5QMjltbGIzOHMxYUJUUW5Wb2NOdFgtX215ODM4YWcySG9WbnNOY1RyU3hfTWs4RTY5RGktSGtRa2VlNG5WWWZ4RDQ3UkVSMUNJd3hFZGdQb1lreTNUWkhESV9xODBhaXJTbUNNWWRMRXE2V3BheVBwSU1iekpHWEoyQUQ2aHhBVmp2WUZKdmw5eXpfZ3p4MW4?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20261015T014600Z",
       "source": "GoogleNews"
     }
   ],
