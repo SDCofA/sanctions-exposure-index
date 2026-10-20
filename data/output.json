@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-10-19T22:16:08.993109+00:00",
+    "generated": "2026-10-20T04:37:51.331966+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,19 +23,19 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "29"
+      "value": "34"
     }
   ],
   "live_data": {
     "news_articles": [
       {
-        "title": "Imposing Sanctions to Protect Americans from Intellectual Property Theft Fact Sheet",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa2NDN2hlQjJxX0dTTkdLQmpzNDhWSTRUTXh2bWJsSTNXLVF6RkNpbnhCM1VMdVlnRTByNDlqOUdzaUVxQVlRZ3VfNDk0c0ZyQ3JnaHRKdE5WblFPWTFiSlFpcTBuLXpxYTN1MWtxSERsbjFsYU1IQ3dsSDR3TW5ObUpqMVF4eXJSNU45ODdDQUFacFVDMUlSMnRrU0ROZlJmVFRCQV9yYzZmRkJFaGZCalVUOFBnaFdJRTJJaWdMYkg0ZVZmbG56TUpaSXVVQTJKcEZycV80eFBUREt4MWRNeA?oc=5",
-        "domain": "www.state.gov",
-        "publisher": "U.S. Department of State (.gov)",
-        "publisher_url": "https://www.state.gov",
+        "title": "Trump faces bipartisan backlash over waiving Russia sanctions",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVW5KeFN2cWxTOGpmS3RNdkl4WVhBTTJnbDYzNjJCWUpxSXAzYUdxSG9VYTVyc0s5YjZvdGgySF96X0tuY1lqeGRPb2lHMXNVYWdXTW1Da0FrNGFIWGFMUFhkV1ktejdSXzV6OU1CQjdkM3hGOG5STDhGZ0N1eERiZGtMUTBwYUpIMEJBZ1FsMTVpdzZWblE?oc=5",
+        "domain": "www.cbsnews.com",
+        "publisher": "CBS News",
+        "publisher_url": "https://www.cbsnews.com",
         "language": "",
-        "seendate": "20261019T145423Z",
+        "seendate": "20261019T210000Z",
         "source": "GoogleNews"
       },
       {
@@ -49,6 +49,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "President Trump waives new sanctions on Russia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTeDFnZks4Sy1yYkZ3MU5MczEtRzhXZVMyMllYQ3FQaXUwU1VDWGhucU5fMm05S3FnajFOdUxTQkhGQUZuaUJhWU9rTTdsWXlHWUtNa1NGd1VvMVNpUDhhbmxVa3J5d1ZxYzJTUlcwd2RXclNpdjN1cTY1RQ?oc=5",
+        "domain": "www.kcra.com",
+        "publisher": "KCRA",
+        "publisher_url": "https://www.kcra.com",
+        "language": "",
+        "seendate": "20261019T115300Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1JDdGd6aEZHMGQ5OXppVnA5d3FlSzNmbDdjOURNajl2Sjg3T0VrRzRLSC1DdVpLekQ5ZHBVdjQ1eV9UcF81anZNVklVYjZnQlNfQUlWRVMtNzEwVVVDQWlYTmQtU29FOU5xTFlGYTFUVV90bXI3dXU5UU5IUG9ZNjNYVHNUdzNjT3JXb244bm84d240TG56ZDVLbXNhMWpucjVTZXdtaTZQYjViOFU3bDZnZlFEQjduUDBfMWdwMVBXUFl3VFRJ?oc=5",
         "domain": "www.reuters.com",
@@ -59,43 +69,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump faces bipartisan backlash over waiving Russia sanctions",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVW5KeFN2cWxTOGpmS3RNdkl4WVhBTTJnbDYzNjJCWUpxSXAzYUdxSG9VYTVyc0s5YjZvdGgySF96X0tuY1lqeGRPb2lHMXNVYWdXTW1Da0FrNGFIWGFMUFhkV1ktejdSXzV6OU1CQjdkM3hGOG5STDhGZ0N1eERiZGtMUTBwYUpIMEJBZ1FsMTVpdzZWblE?oc=5",
-        "domain": "www.cbsnews.com",
-        "publisher": "CBS News",
-        "publisher_url": "https://www.cbsnews.com",
+        "title": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUlXRzA1YVNhSkh4U0dNMjVIZko0VHFqZHFaTlptUUdPTlFzU25TeFl3dXVnLVBMSGFXWExCMkpQRFpncV9VSjNncEVTTnl2SHB5R0ZmVGJnWUhBQUJXM1hibzdNVk1QVFdrOW1LVjBXQmVzNkN6bi01NFNPeHMtb1R3RkpLbl9XMkVWc2xrOTRKd3ZNUnBVUGdYeTdrNFZ5NEtiVDJ2Mm5tLWQwLTJkeDRuMkRaTU94anFQODZma0VlX0JIa1hzbmlQLXNIVWlYa1VJ0gHTAUFVX3lxTFB3SGxmMDdDZUNibnhKc1RHTGhSNzJZZFptRUh5NmlqRnlmUUE0bTAwMmMyNk15dUN1cTRFUmNqeDB3Nnh6VjdqSThnM3Q5ZmNxdDFRX0ptSjhDUnJLX1AtTEpBWWQwRFA2VzBJX2V6TWJna0IxWVdjVlVjMFpmZ3pVcWtzRV9aazdPeXpMSjcwMUN6NU9IRzZBcFdBeXZBWjlGQUJ6aHUwZEpHRFBmX19lOXg4Z3U3X1E3a3poX2ZGYVRvQ1VGMnhBZ29XZkJMWktuMG8?oc=5",
+        "domain": "www.scmp.com",
+        "publisher": "South China Morning Post",
+        "publisher_url": "https://www.scmp.com",
         "language": "",
-        "seendate": "20261019T210000Z",
+        "seendate": "20261019T223607Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump defends waiving Russia sanctions, says it keeps Moscow at negotiating table",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1lydjdUUEZncFpMZlkyQ3JoQnFZdWVYS09PVXhLYTBYcktaY0ZMc0ZsZG5GWlRwazN5cnpwLTdIM0RxbWZkbGNpRmh2MFljSzBicmdReDhjWmlMZ24yVGR0RVlkcDJWR29KT2JHeTIxcGwwMnZ2T21rdXFCaFRmV0Y1UlYwVktVcENLd3dZb2tYellqQjBCcDlZWjlNQdIBowFBVV95cUxOazNPcGJpbEhtOUh6d0RWMEhWMHNoeURoeFJzMWxhM3ZTTUpUcmxhb2p6UUEtbUJnMi01dHVJNkRMOWdlWDZ1Y1h6VTl4d0h1WEpDRDZIbHRJMDZpa0I1UVlxM0NtemdhZjhJU2tsaTNQVlUxU3MxWG4tN0dYVGY2cnliYThxSXFLQWxpME5tU0p1cnRLaEhfXzVVa0Zkb3lPbE9V?oc=5",
-        "domain": "thehill.com",
-        "publisher": "The Hill",
-        "publisher_url": "https://thehill.com",
+        "title": "Imposing Sanctions to Protect Americans from Intellectual Property Theft Fact Sheet",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSnZLODNPMmE2cDBOeV9fT0xLRnMyMTFLUVJLYTJSSzlHSVN0MHpqQ3Itc1VLYVc0aEdZakl6d1YwYlBPNVZKLTJGQlhJR2hXQTJHUlRfbmNXNU1QamFQc0gyMEwtZHdNMGhMOFBaVkhLeXU1blg0TUEyTmNfTzdNZkh5X2g1a1JYRFltWWVIdzE1S3MxekNiMXIwY1hpakQ4alpIODNkNF9mVHloX3UzQ090djUxV1N3T0ZUdENHRFhBbHlkZW4ySS1wN2JQUkM0dVZpY1V1ZlBYRUU4cFNn?oc=5",
+        "domain": "www.state.gov",
+        "publisher": "U.S. Department of State (.gov)",
+        "publisher_url": "https://www.state.gov",
         "language": "",
-        "seendate": "20261019T145700Z",
+        "seendate": "20261019T145423Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump defends easing sanctions on Russia amid rising anger in Congress",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFk3ZDRLdU5TX19PbmN3NUc0aDdGUkRSZ2dXYUNNRXJxdWNpdzdmNzBTWGt3djkyelcyVlFsMTNjMmZzMjdEXy1RVVlyWldQd2N3QU9ZNUFjQTZUS0UzU1E0Z1hDSmhpOGhMNmdabzBkeVlBanlDazF1b1JFdVZKdUh2ay1zeDJHM3drUnZleXJzVWE1c19VZDMtT3RpaDhoOFFhMkNSTm5LbHR2WFZwbw?oc=5",
-        "domain": "www.usatoday.com",
-        "publisher": "USA Today",
-        "publisher_url": "https://www.usatoday.com",
+        "title": "Trump signs executive order waiving Russia sanctions",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53QzBwWmRMY0dQaFpPMV95c1NENDVhZ3Atd0xtTUQ5ekg5T2JwYVBJMmJaXzRDY3EzazlscnVGb3FzT1ZBNUVGYVNzdjNqRXNGS3NsbEhWNG4tVndOcXZXLXdiZlh1dklUOWxxZ2RGdW9NY2s?oc=5",
+        "domain": "www.wbur.org",
+        "publisher": "WBUR",
+        "publisher_url": "https://www.wbur.org",
         "language": "",
-        "seendate": "20261019T115900Z",
+        "seendate": "20261019T205623Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Zelenskyy urges support for new US sanctions on Russia put on hold by Trump",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGNSbDZNbm5wY2VNaTRTRDZiMHFqMW9rbnpvNk1tU0JBdjlTQng0YXhGQTN4bWtRaUNPUUdxY0dHVEhOajRFem5jUFdSVm5QYnkyU1QtcGZuM3BBQnBqTnFYdlBrTHYyampsUEtDMDB5RUdIYVpJZVY5eHBlank0T1BhLW1OSWo5bnNNVUdCR0FJQjRRLVEtNVFqeHlZQjc2Mm1n?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
+        "title": "Pres. Trump defends decision to pause sanctions",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMF9Sd2lSa0thckRMaGFiV3FlVXpzZm5Ed0dsMElBODlkWDY5VWxLRENYLVZadTJrVmx5VkRuU1lPczhjY0VSMDVHSU4yVkNoNXU2VW55c2VZT3pnVDBBcmV2WFZhUUphemQ0Zkp2NHBEbHNacDlCazJ0VFBvM1ZxTFNSRHdMdXJJVUtXNzlJTW1sRnZUOWc?oc=5",
+        "domain": "www.localnewslive.com",
+        "publisher": "Gray TV",
+        "publisher_url": "https://www.localnewslive.com",
         "language": "",
-        "seendate": "20261018T000600Z",
+        "seendate": "20261019T221200Z",
         "source": "GoogleNews"
       },
       {
@@ -119,36 +129,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNzZONHNudUlsZUZGN1c5dVZtaTRIXzZlVVJDRkpock9WVEExbmNKdl9JLWZhSjQxVHpDLUJ6M3hnNXJIeFJNTWJSWnJQc3duc2VvcDJ0QzRpbzZlZ3lJVnJDQi1hbkY1cF9QbG5vc2ZhNVBacVBBVUhBN3JnamR2b1NjSi02UzZDQXJ0TTFKVmpQUXAtQ0RYSGdQNU9TZ0hkdkNQeXZKUG9hRFFlblpBNTdid1Nzc0UwZi1nd09HRDA1QdIBxwFBVV95cUxQSm94MFV3UHdyM2dGSHBlajNTS2lYLUhtUHlNVkFrdW9XYUhQUDJjaFM3WlByc3pxb3FMWHVwY0xFMUlSWE5EYTZQaENxNEZEUXVVdVcteWFHeU51QjFTVEJsQi03YmhsM2h6NFczZk5MUjN3UWxEd0VaN3YzQ3paa25uUEVNVVM1S3YxN3B3UVpWaGhfcmF0cWRQdFpodVBfV2NZaklHOVRlX285V3RvelEtOVRIN25Ra1lUZk53bEdmTWFwZmIw?oc=5",
-        "domain": "www.pbs.org",
-        "publisher": "PBS",
-        "publisher_url": "https://www.pbs.org",
-        "language": "",
-        "seendate": "20261017T155710Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump Defends Plans to Ease Russia Sanctions and Hints at a Hostage Deal",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWsySUdqRXczLV83Nmpna2E0aGNFVUo2YnlQV2pkdTFSeUI5ZmRSTHhZWjh1WnpBeG95WmFhNkl0bW92MkEzcHRhZ04wdUVOTDd3OXhkOFpzT19YdnJocmlOSkZzMHlNRlFRemlOci1OTEVUZG85OTJrZHZQS0cxUXA4T1lZZTlxUmhFMjlqNGtEZTNOTVY5NHozOA?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261019T000508Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US waives Russia sanctions as Gulf oil shipments face renewed disruption",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY2x2RDB2SV8zZEpHNHcxNzBGMXlaRnBIUmhNajlWc1hwWjVsSnEtXzBJREYtZEE4TVRUUkxVX1VWYmQ1Tk9Za2plZ1BUMmtqZmJ3VTh6MlF5NEJuUS1STXl5NTRydkUwSHFLamtadkxPNHdaYk1UR3l0b0xrV1lPVldCRWcyUWxidVI3X3JrWEhPSUotUkRwSTlkQ09qUDFQTTJTZ3FZNmswNGRNV25vMm40TXNPcHZLeGRPaUZkTmhidGRsekZHazdyakJDVldvYjVXUzhyM1E?oc=5",
-        "domain": "www.ogj.com",
-        "publisher": "Oil & Gas Journal",
-        "publisher_url": "https://www.ogj.com",
-        "language": "",
-        "seendate": "20261019T174956Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Trump doubles down after waiving new Russia sanctions, calling it a ‘very good decision’",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUF6amxpY2lMcWdiQ09tRkNjZjZGWjFyemRBN2kyQmx3RUl2ZlN6cDJLN3ZOeFBYZEJucUpHNWpNRHpsZFh4UmkxMFZ6ak1OQ1pVemhGaEtSOGJENXljeVItbGlZUUxMNG5LSmNacXZHSjVoOTRyLTZrcTJmZ2prSWctNkE2eEYwcG15bWJnQVlWUkNKdUZKODVZSHhYellTLWNFZnkzMEFiT1FKak1adHVqV25DLUFWWC1uMDIyc0dYX0lSVFRmdDRnUVlEd094?oc=5",
         "domain": "www.nbcnews.com",
@@ -156,16 +136,6 @@
         "publisher_url": "https://www.nbcnews.com",
         "language": "",
         "seendate": "20261017T185400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXVUc3p5OTNTUjNYTVkyMzd1bHMwMGhyRkw5Y2xMRmZMQS1qMGxuMUFnYWpJdzVLU2JUeFgyNkZzb2dIVU9QOXppTDFTcnNmbHBvWjlGVnVobnlhMnFFME12ZERqR0JUVUxuQ09sUGFuV1lnZlBHQ1p5V296RWdrcGs2bmlTTUIzS1NZQ21ILTR1eVdBcEN5V0xINmhoRXFYLVh5YldINNIBrAFBVV95cUxQazNtdU5PdWJ0Yko0YVFxaFJ0d1E0NUktYnVYSVJDc2J4TVNpWWZFTFA4aWg4MVB5SERmekpnQlFBbkFmSnlsVktsN01sNmlyTTFrNENkaHRPSEU4WEtDZ0RtTlpPV2ZGMElQeUFOMzRzTHRkQ2h0dndsSjl6U1NfX3RWSjZxZFlCMEhjM0paS1R2Zzg1U3dQOW9QWVVhQ2JRWGVsQXF3VVZDMUZO?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261019T031545Z",
         "source": "GoogleNews"
       },
       {
@@ -179,103 +149,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US, Cuba trade barbs at UN ahead of sanctions vote",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0VYTGZPd2RmZlZvZWJBZmRHbEsxWFdtYXF3b1ZJVU9FZmRncmoxSERRWldzS0Z0TTJsbVRoLThDT2FfZi1XVHB2QkhmemJGX0M2S3RsUVBTSnN1engtaURsamc3TGxRa0E2RmpVaEJOdVFCQlVhaDJWaG5qQzVCNkRYckxRMmdOZElvLU1zZjROb1p2X1AxYUVB?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261019T210543Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MGlLYl9jeVFRcDdiaWJaSWtUdkpoUHJaczN0bldDUDY3ZW52TEh2QmZZOHU1X1JmVVNNMm9YbjdlaDNGUDFxYjAxdGlsYWxuRllHanZGMXhUWmtCUy1oZjcybFNhRnlJdnRJT0dVaXJ2UQ?oc=5",
-        "domain": "www.npr.org",
-        "publisher": "NPR",
-        "publisher_url": "https://www.npr.org",
-        "language": "",
-        "seendate": "20261017T142510Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Johnson says he warned White House of ‘unintended consequences’ from Russia sanctions waiver",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNlIwTmE2ck5CcWdJUFZFYWp1ZENnc2ZHS003SGRVQmVtTU1TbmlwVU9ITmNGNlBwTk5TeVVzRFQxU19wVVpFYUtNN2xfTFZlNXoyVFJDa2JTMkJubWQ4cVYwRGlaR3dJaVhObml4VUJLdnhybUFqVlFtX0MxZk1ad283WjByYjDSAYwBQVVfeXFMUDRVMS04cUh5OUI1S3NoT18wTWNOZVpKMF9VTXNvNlFRRE85WjdGMndQR1pjd29ZLVpqQklXQTBja21hNmFQQUdaRzZuc0JibmxacWZmZkVPX0kyZTlXUEZoR1FLNjY4RFlkRmhaVWpYdzZKUXpKZWhLYlM4WUlidmRGSzZhYjk5NDYybks?oc=5",
+        "title": "Trump defends waiving Russia sanctions, says it keeps Moscow at negotiating table",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1lydjdUUEZncFpMZlkyQ3JoQnFZdWVYS09PVXhLYTBYcktaY0ZMc0ZsZG5GWlRwazN5cnpwLTdIM0RxbWZkbGNpRmh2MFljSzBicmdReDhjWmlMZ24yVGR0RVlkcDJWR29KT2JHeTIxcGwwMnZ2T21rdXFCaFRmV0Y1UlYwVktVcENLd3dZb2tYellqQjBCcDlZWjlNQdIBowFBVV95cUxOazNPcGJpbEhtOUh6d0RWMEhWMHNoeURoeFJzMWxhM3ZTTUpUcmxhb2p6UUEtbUJnMi01dHVJNkRMOWdlWDZ1Y1h6VTl4d0h1WEpDRDZIbHRJMDZpa0I1UVlxM0NtemdhZjhJU2tsaTNQVlUxU3MxWG4tN0dYVGY2cnliYThxSXFLQWxpME5tU0p1cnRLaEhfXzVVa0Zkb3lPbE9V?oc=5",
         "domain": "thehill.com",
         "publisher": "The Hill",
         "publisher_url": "https://thehill.com",
         "language": "",
-        "seendate": "20261019T140300Z",
+        "seendate": "20261019T145700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump waives Russia sanctions. Where does that leave Congress?",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYzZnOXo0MGJHMmxPOXl1RE1NMFB1OXA1RFFrenNzUTQyZkJSb0dwSlEwRmQwdDdJOUQ4M252MzBkUGxkdFpRVjFRNDIwYkV0aV9TVFF1TGNwcjhtZVlraGprUTc0eWpBWWNFbUhiczZzc0VfOEVSMmVPaUtTS18xdHBQUWcxNHVhQjdqNS1IVXF6OV9HVXVkc1hHdEd2WDhvTFhrUDdrZEI?oc=5",
+        "title": "Trump defends easing sanctions on Russia amid rising anger in Congress",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFk3ZDRLdU5TX19PbmN3NUc0aDdGUkRSZ2dXYUNNRXJxdWNpdzdmNzBTWGt3djkyelcyVlFsMTNjMmZzMjdEXy1RVVlyWldQd2N3QU9ZNUFjQTZUS0UzU1E0Z1hDSmhpOGhMNmdabzBkeVlBanlDazF1b1JFdVZKdUh2ay1zeDJHM3drUnZleXJzVWE1c19VZDMtT3RpaDhoOFFhMkNSTm5LbHR2WFZwbw?oc=5",
+        "domain": "www.usatoday.com",
+        "publisher": "USA Today",
+        "publisher_url": "https://www.usatoday.com",
+        "language": "",
+        "seendate": "20261019T115900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Rep. Don Beyer, D-Va., on Trump waiving sanctions on Russia",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1FhWGsxa3oydzB1MVI2YkIwQXNVQVFJZ3Q1bWVVUTJvTUNUY281UEpoUXBYZjhhQUZNWUVNSk85UjFxaF81Q09NWkRPdmlSbVBTMl90T0oyMUtXX1RDY3FzNHlCcmhXOFZxY3FXY1hBSHVxUTdJV0tqZlRYaW5FWDRQNlhMX2tkUkc1Z2FvSl9PNmRLYTkwUlZuRnVMY2ZZQVE?oc=5",
         "domain": "www.npr.org",
         "publisher": "NPR",
         "publisher_url": "https://www.npr.org",
         "language": "",
-        "seendate": "20261018T213909Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Morning Bid: Markets left to figure out sanctions",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Zk9kSXZkOVBJMWZjbXNlSmI2a2F6VG5EUFFfcHlMUjhaX25qaW1qWGNCVFpRaUlMN042UHdTNEh1eHY0MUFmS2RLZTJOd2VLRTlkX082UFNjTHdSZjBlQTB4b0hpeXlzY2UzZXlTNWoyX1pOVi1RTVV6UEhtOG8?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261019T043100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GOP senator: Reagan, Graham would be ‘ashamed’ of Trump waiving Russia sanctions",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lSVE0SXljMTAtM29iSnZHSWdEWHN1eFh0N2NRc3JXUjNmbFU3UUdRWGpQcGJXSkN3b3VMaGJuRkVLcmQ0eENWQWRqcHkzY3lKZV82R2dBSVlJeHh0SzJQV2t3aEZ1TjRnUDBZeHJWeV9meGJucWI2STlpNHR6NXM?oc=5",
-        "domain": "thehill.com",
-        "publisher": "The Hill",
-        "publisher_url": "https://thehill.com",
-        "language": "",
-        "seendate": "20261019T202200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump signs executive order waiving Russia sanctions",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53QzBwWmRMY0dQaFpPMV95c1NENDVhZ3Atd0xtTUQ5ekg5T2JwYVBJMmJaXzRDY3EzazlscnVGb3FzT1ZBNUVGYVNzdjNqRXNGS3NsbEhWNG4tVndOcXZXLXdiZlh1dklUOWxxZ2RGdW9NY2s?oc=5",
-        "domain": "www.wbur.org",
-        "publisher": "WBUR",
-        "publisher_url": "https://www.wbur.org",
-        "language": "",
-        "seendate": "20261019T161432Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong'",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261017T143922Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump gives reason for waiving sanctions against Russia",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnJMejZIR001RHY1bkQtTTJjNDFKSVJSbXhFNTJLTktnWXlfS0dDUWpHeVRNZWo2NkFHZVN1ZGVBTUhiSF9SSXpRNjBkVFZqZThGby1UbzVfNl9QMUtKSGgzUTRNNDBiQjhNbXdXVFFicGdqdzBZdGJMLTFkOHlCRUtwMGtDMGZEdUhTSnRDcw?oc=5",
-        "domain": "www.cbsnews.com",
-        "publisher": "CBS News",
-        "publisher_url": "https://www.cbsnews.com",
-        "language": "",
-        "seendate": "20261019T131100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US and Cuba clash at UN as Washington seeks to sway annual vote on economic embargo",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnAzMmN1M2s2LWtuaGhmamlhV1AzSERJOHhnR1RTdHRTbkxqTUVrV2Y5dWNpSE50TFNibzNzeU5FWUdoV3c0c2hzVTJuc1dPVk14UmRYbXAyc2dTTHpjYWc5TUpQUTgyWVBFTW92VG85Tlg4di1XZTlZOGFCRktfZlpJRFFXdzU5bFNuWkNDdUJXUTRF?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
-        "language": "",
-        "seendate": "20261019T205912Z",
+        "seendate": "20261019T103756Z",
         "source": "GoogleNews"
       },
       {
@@ -289,6 +189,36 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Trump waives Russia sanctions. Where does that leave Congress?",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYzZnOXo0MGJHMmxPOXl1RE1NMFB1OXA1RFFrenNzUTQyZkJSb0dwSlEwRmQwdDdJOUQ4M252MzBkUGxkdFpRVjFRNDIwYkV0aV9TVFF1TGNwcjhtZVlraGprUTc0eWpBWWNFbUhiczZzc0VfOEVSMmVPaUtTS18xdHBQUWcxNHVhQjdqNS1IVXF6OV9HVXVkc1hHdEd2WDhvTFhrUDdrZEI?oc=5",
+        "domain": "www.npr.org",
+        "publisher": "NPR",
+        "publisher_url": "https://www.npr.org",
+        "language": "",
+        "seendate": "20261018T213909Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong'",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261017T143922Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MGlLYl9jeVFRcDdiaWJaSWtUdkpoUHJaczN0bldDUDY3ZW52TEh2QmZZOHU1X1JmVVNNMm9YbjdlaDNGUDFxYjAxdGlsYWxuRllHanZGMXhUWmtCUy1oZjcybFNhRnlJdnRJT0dVaXJ2UQ?oc=5",
+        "domain": "www.npr.org",
+        "publisher": "NPR",
+        "publisher_url": "https://www.npr.org",
+        "language": "",
+        "seendate": "20261017T142510Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5",
         "domain": "www.reuters.com",
@@ -299,53 +229,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "We need more economic sanctions against Russia",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPS3pjUmd5eHI1TTZXX1c3aWo1X3FUdlFvYlMxTHNKNU11Y1RKbURFVnNTUWl6WVlJUUIyNWVLMUV5LVpBc1FHYW13bTR4OTdHMzNRemtnQ2xGS0J5eUdPem9NcjVMemhDejJLMVFuWDE1NUtzREtGc0ZuQlJNU3FWZGx2TERDUWEwQkpsTVFrQzczb19XRXRjcFlzZHJEa1dXLXNLQ3p6bXZmTHZ4YzZ6TWtMeTU0WXNWaXpZbGtFeUxScUkyRXhjblIzeTZvdElIV3ZYbTl6TmJ5VHBXU0JwbVYyeFFBMUppWG4ySG1BUzNDV3c?oc=5",
-        "domain": "www.columbiamissourian.com",
-        "publisher": "Columbia Missourian",
-        "publisher_url": "https://www.columbiamissourian.com",
+        "title": "Pres. Trump defends decision to pause sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEN6WDhvWHRuaUlYR1liTkxqSTJUdHBwMjUxVEtHY253d0ZLdVZUTnMzQkpzQk5QTmFlNGl2RmpnSGJIdnc0YkhLTlRnVWdtQWpXZUlNcXhnZVFoREYyYkNoVUJxNS1FdUtTQVUybGNEb1dKc0VMeVpSZU1zWmUxNGFSbzRLMURmdnc?oc=5",
+        "domain": "www.wafb.com",
+        "publisher": "WAFB",
+        "publisher_url": "https://www.wafb.com",
         "language": "",
-        "seendate": "20261019T170000Z",
+        "seendate": "20261019T221200Z",
         "source": "GoogleNews"
       },
       {
-        "title": "President Trump Defends Waiving Russian Sanctions and Blames Zelensky For Not Ending the War",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWHpBTzRnaE5WeWMxdmhQMXVqT1R1Q0RlMWg3eGV2T0Q0MV9NWTlYVmJ6RUVwVUJoclo3WWZ6cVBvTVF6Mk9pY1RpRkJZZk5MN2lUNWNQM0J4UG5Sa2d0WExIamtRZmRUdWVyMnZkNEd1a05kMzBwSDFZQUtjQVN3RW5qbl8tQmNKb09ycnplY3NiaUlvYjcyN2QtSFZzRnUxN01xMFF5akFJenBRQmJpaTlMLVJVUjlRQjdWcnFpMHZNaVNBLXRsRkRnUzRGcW41NDlsVDljR3lPNGJHRnBz?oc=5",
-        "domain": "www.c-span.org",
-        "publisher": "C-SPAN",
-        "publisher_url": "https://www.c-span.org",
+        "title": "Johnson says he warned White House of ‘unintended consequences’ from Russia sanctions waiver",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNlIwTmE2ck5CcWdJUFZFYWp1ZENnc2ZHS003SGRVQmVtTU1TbmlwVU9ITmNGNlBwTk5TeVVzRFQxU19wVVpFYUtNN2xfTFZlNXoyVFJDa2JTMkJubWQ4cVYwRGlaR3dJaVhObml4VUJLdnhybUFqVlFtX0MxZk1ad283WjByYjDSAYwBQVVfeXFMUDRVMS04cUh5OUI1S3NoT18wTWNOZVpKMF9VTXNvNlFRRE85WjdGMndQR1pjd29ZLVpqQklXQTBja21hNmFQQUdaRzZuc0JibmxacWZmZkVPX0kyZTlXUEZoR1FLNjY4RFlkRmhaVWpYdzZKUXpKZWhLYlM4WUlidmRGSzZhYjk5NDYybks?oc=5",
+        "domain": "thehill.com",
+        "publisher": "The Hill",
+        "publisher_url": "https://thehill.com",
         "language": "",
-        "seendate": "20261019T205101Z",
+        "seendate": "20261019T140300Z",
         "source": "GoogleNews"
       },
       {
-        "title": "President Trump waives new Russia sanctions",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wcm1jMi16WVBLTjljLWhNLXgzQjA5ZzhxNmNPU3RXaGhQUEdkTFZrcDV2QkpHT09nMGg1THRSdlBZdVVrM0VRa01IRUNULU9yUDFmUWdmVV9VT3M2NjE5RkFFc2dNZmM1eDVuRF9qdkdTLTNhekVkLURxMA?oc=5",
-        "domain": "www.wisn.com",
-        "publisher": "WISN",
-        "publisher_url": "https://www.wisn.com",
+        "title": "Trump Defends Plans to Ease Russia Sanctions and Hints at a Hostage Deal",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWsySUdqRXczLV83Nmpna2E0aGNFVUo2YnlQV2pkdTFSeUI5ZmRSTHhZWjh1WnpBeG95WmFhNkl0bW92MkEzcHRhZ04wdUVOTDd3OXhkOFpzT19YdnJocmlOSkZzMHlNRlFRemlOci1OTEVUZG85OTJrZHZQS0cxUXA4T1lZZTlxUmhFMjlqNGtEZTNOTVY5NHozOA?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20261019T115300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUGhWanJQQmg3UlEwNlI3MDRGLWRxV2NyQ0dyOXRScjhQYllENXdEZWVjM2xwYjdlR2pqNGh2b1VVZ2FLbXA2d24tZjRBWUtFd0pqYi1XUndMWWVTSkFnNkdfV25zZzJnY01kcVZ2UUR5RDd4eDNfYk5sdE9sQllPTGQxRWpJU1NrbnppeW1xVWF6cUd5UUtNbGhmQmdkYldJU0J2dzBickprdTDSAbABQVVfeXFMTkFwd09KUmJOQjVPYzl3V2M2Z0dKQUt1N29nbDBockdxMzdtMWNjQkFiRkMxT1Nta0kydzgyN2R3VVo1Rm1MOE55WVo0Q01JT1lfVktNcFFpVUwzeGkwV2taZDlSclRVdGtvU3RkRDliNVhfRk1lTjQ0ajJHSkpwNFhqUV9tSUxwRmJOeWo4ME9ndHYxZVZ2dW5xd2RJWm53S21tTDhuZE5mWVRTQVIwSTU?oc=5",
-        "domain": "www.cnbc.com",
-        "publisher": "CNBC",
-        "publisher_url": "https://www.cnbc.com",
-        "language": "",
-        "seendate": "20261017T061620Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump's unexpected move to stop new Russian sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRW5HQ2duc25PMEEtV2s1OGZMVFVBWFI4d1lBbFE1YUZCdUxFcEtDNlFScjFkRVdnTFV0Q0RjaXh6VFJKdkdaN01XeGg0aW1hdDc1LU9palp1YUZOOGVTNnRXb3BBTnFVa01sd0ZHWWN4bXhXUmY5ajR4S2ZGcEQxamlwOVFFc0c1S2pJ?oc=5",
-        "domain": "www.cbsnews.com",
-        "publisher": "CBS News",
-        "publisher_url": "https://www.cbsnews.com",
-        "language": "",
-        "seendate": "20261019T113100Z",
+        "seendate": "20261019T000508Z",
         "source": "GoogleNews"
       },
       {
@@ -359,16 +269,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Appeals court threatens sanctions against Jack Campbell for email related to leaked Hope Florida report",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMDlUUnNEOEhZbVowVWlFVXpGSi1pdy1tXzE3MGMwaENaYVpyNkRGVVUzaWx2Y2JPalNzOU5UZExINHBsdjBmeTc5TjlIWjFwSC1pOTk0RWJDcVI2Wi1fWlpZVXAzcDFScWJpNzMwUzJYZU1wUXFVRFZzWlBSd3BKbHg4Q2J1MlVLeHFQeFJjYVhjR2lVMEhZWE9ITWxtUGNPWGEydlFLZWdBaG5oQ1gySnluWmpERGVuRjZiRFI0eUo3YmsxOHpn?oc=5",
-        "domain": "www.wctv.tv",
-        "publisher": "WCTV",
-        "publisher_url": "https://www.wctv.tv",
-        "language": "",
-        "seendate": "20261019T195500Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "What Trump’s Waiver of New Russia Sanctions Means for Ukraine",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV21aTUJQWE4xclNZRExrLVpPNVFmRUljaERRT2tVZi1RejdpV0U5LXRmek5ZcDA1aXBBS181SXVhNTVramFiSGhFTzllaGxkbXNkbWJ6VVJ0VzZ6TW8zclFuWk51NUdHMVBYVUVZZ3FFSXlYeGR5VktrdHg2d1l4d3lnSm1DWEtBVjBwbWp2WTdxSFNZR1gwM2NGa0ZiblU?oc=5",
         "domain": "time.com",
@@ -379,23 +279,63 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Ukraine’s Zelenskyy criticizes President Trump’s decision to suspend new sanctions on Russia",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0dpQTVMYzZLSUYwVlRjMVc5dHNKTTV0RzRtaGVhNkhEaHJkSXVFeTA3NW0taGVwYkFkbXVVZ3o2cjJlUHhFVW16VmNhQnYxZHd5cUo0eDR2UFE2djRfdkw5OEpMVjFfcXJGeXgtazFyUzRvMnFWbjh1RkZ5WDcwdjVMaklCZGVEeFp4bXNsZTdwVmE2Nk5fS2lzUV9NalB6cDRHVTR2SU8tbEdoRTZmVVRZd1JxTWlpSkNycERPMHM0ejFURkFWWGVJLXVFUQ?oc=5",
+        "title": "Connecticut lawmakers challenge Trump’s decision to waive Russia sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdzVRa1NjOVQ3X01WWU5aV0wwWVR6el9MQmZCT0gzVlU5SkNwR0VwZDNhRVFIMUdJc2FJeHd0UFIwdkt1QXJaQUlrSl93RU5OQ2RlM3hSWlJHVF9rM2ZXc2MxdDI4TFY2VDlOeDRibEVGTVowb3VYNkh5dnQwdDVBUVBvYTVreGRjSHlQdnJ6em14eUJhSy1HSGx4UGdLZVRtRE5F?oc=5",
+        "domain": "www.ctinsider.com",
+        "publisher": "CT Insider",
+        "publisher_url": "https://www.ctinsider.com",
+        "language": "",
+        "seendate": "20261019T193725Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUGhWanJQQmg3UlEwNlI3MDRGLWRxV2NyQ0dyOXRScjhQYllENXdEZWVjM2xwYjdlR2pqNGh2b1VVZ2FLbXA2d24tZjRBWUtFd0pqYi1XUndMWWVTSkFnNkdfV25zZzJnY01kcVZ2UUR5RDd4eDNfYk5sdE9sQllPTGQxRWpJU1NrbnppeW1xVWF6cUd5UUtNbGhmQmdkYldJU0J2dzBickprdTDSAbABQVVfeXFMTkFwd09KUmJOQjVPYzl3V2M2Z0dKQUt1N29nbDBockdxMzdtMWNjQkFiRkMxT1Nta0kydzgyN2R3VVo1Rm1MOE55WVo0Q01JT1lfVktNcFFpVUwzeGkwV2taZDlSclRVdGtvU3RkRDliNVhfRk1lTjQ0ajJHSkpwNFhqUV9tSUxwRmJOeWo4ME9ndHYxZVZ2dW5xd2RJWm53S21tTDhuZE5mWVRTQVIwSTU?oc=5",
         "domain": "www.cnbc.com",
         "publisher": "CNBC",
         "publisher_url": "https://www.cnbc.com",
         "language": "",
-        "seendate": "20261019T153609Z",
+        "seendate": "20261017T061620Z",
         "source": "GoogleNews"
       },
       {
-        "title": "European stocks fall after violent protests in France, while oil drops as Trump puts Russia sanctions on hold",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVHdHemJLdnpkTmhiVzBXb01VYXBUTHhCT1R4Sm9PUTNiM0pqN3VwM0IxV1hVS1hBWnd1alJPUUd5b2pjUGQyTzR3UXAyZlVvU091R1dOR0lxdVEydVpvRlNVT1hYdjFQTFRZR2xIRF80NUh0ck1hQ2pYR01nSDFNdzlDYlZhdw?oc=5",
-        "domain": "fortune.com",
-        "publisher": "Fortune",
-        "publisher_url": "https://fortune.com",
+        "title": "Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOajJTMG0wVEVWZVhtV0oyWmY5Y0ZhRjhvMGdPdXVTYWo0NS1MZG8xX3gydlV2cGtUbFlrUVRLSVR6QTdDTTJZUWMwU3pGbS11T0d4eENSdlZrSzVkWGQ4Y3c3S19oOFp5S2kwNkMyZklzd0Z4QkVDZ0JuMXZ0VFNXcEQ0TWYyVUVhZGsxbUhiRzk2aG5rak9RZW8tdnc5VndpRmZmWlVQVzNHT0FXNE1YNnJ3?oc=5",
+        "domain": "www.wcax.com",
+        "publisher": "WCAX",
+        "publisher_url": "https://www.wcax.com",
         "language": "",
-        "seendate": "20261019T140900Z",
+        "seendate": "20261019T170400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US waives Russia sanctions as Gulf oil shipments face renewed disruption",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY2x2RDB2SV8zZEpHNHcxNzBGMXlaRnBIUmhNajlWc1hwWjVsSnEtXzBJREYtZEE4TVRUUkxVX1VWYmQ1Tk9Za2plZ1BUMmtqZmJ3VTh6MlF5NEJuUS1STXl5NTRydkUwSHFLamtadkxPNHdaYk1UR3l0b0xrV1lPVldCRWcyUWxidVI3X3JrWEhPSUotUkRwSTlkQ09qUDFQTTJTZ3FZNmswNGRNV25vMm40TXNPcHZLeGRPaUZkTmhidGRsekZHazdyakJDVldvYjVXUzhyM1E?oc=5",
+        "domain": "www.ogj.com",
+        "publisher": "Oil & Gas Journal",
+        "publisher_url": "https://www.ogj.com",
+        "language": "",
+        "seendate": "20261019T174956Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump Eases Russia Sanctions, Midterm Campaign Money, Violent Protests In France",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWVnTEI3QnlaS2tfNE9XZE85TFNmMTJDdGZNeWNRaUJNOU02Z3UwRmoybmxCdlpRbU9IOGtNaVVsNlJVRjNJRFZJY2NWbXRuUWNqLWxndEk0WUMxLXlxLTMwVVMyLXlpT0pTWXZqdk4zUW01SWNqX2pNQ3hXdVFRYUg0cW9FMWJFOGRKeFVieF9NYlJpVjl3YVFZX0d2UlQtU3NXd28tVzRCZjlLbnNwSkNfMld6SXZjRWJMNEVxRU4?oc=5",
+        "domain": "www.npr.org",
+        "publisher": "NPR",
+        "publisher_url": "https://www.npr.org",
+        "language": "",
+        "seendate": "20261019T100649Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US and Cuba clash at UN as Washington seeks to sway annual vote on economic embargo",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnAzMmN1M2s2LWtuaGhmamlhV1AzSERJOHhnR1RTdHRTbkxqTUVrV2Y5dWNpSE50TFNibzNzeU5FWUdoV3c0c2hzVTJuc1dPVk14UmRYbXAyc2dTTHpjYWc5TUpQUTgyWVBFTW92VG85Tlg4di1XZTlZOGFCRktfZlpJRFFXdzU5bFNuWkNDdUJXUTRF?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
+        "language": "",
+        "seendate": "20261019T224900Z",
         "source": "GoogleNews"
       },
       {
@@ -409,6 +349,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Trump gives reason for waiving sanctions against Russia",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnJMejZIR001RHY1bkQtTTJjNDFKSVJSbXhFNTJLTktnWXlfS0dDUWpHeVRNZWo2NkFHZVN1ZGVBTUhiSF9SSXpRNjBkVFZqZThGby1UbzVfNl9QMUtKSGgzUTRNNDBiQjhNbXdXVFFicGdqdzBZdGJMLTFkOHlCRUtwMGtDMGZEdUhTSnRDcw?oc=5",
+        "domain": "www.cbsnews.com",
+        "publisher": "CBS News",
+        "publisher_url": "https://www.cbsnews.com",
+        "language": "",
+        "seendate": "20261019T131100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Pres. Trump defends decision to pause sanctions",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0d5M1dYWXZxNDRpdVpYcm10MWZqal9uUFFvUWNoYmgwb3FXVzc0YVY3aGdhZUNDUjN2MGZXbjliNWpObm1qbWZZQnpWRzIyYm9SMWJPMlcydTdHaUtoSmVfV1FENTBOUGVGVzlKVGtiUEhGT2xfZlBxN2tNYW9ZaEFfMWdQNUIyS0swbWt3?oc=5",
+        "domain": "www.fox10tv.com",
+        "publisher": "fox10tv.com",
+        "publisher_url": "https://www.fox10tv.com",
+        "language": "",
+        "seendate": "20261019T221200Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Trump Signs Order Exempting Russia From Sanctions Law",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjBtZHJzaWs1Q0M1VEQ3LVg3VTRvdkdwTFNKY2xwbG82X0ZYZGR1X3ZYZk1uOGRqWFdhcl90YUNTVlQ5dWNjV0Y1bmpYcWo4TENqdnhTMy1VQVV6MEtpM2ZlQXRuN2o3TS11UUNrR0F3Vnp4T0NqNHBiTndVY1ZGMU1sT2Nka2c?oc=5",
         "domain": "www.nytimes.com",
@@ -419,23 +379,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Secy. Of State Marco Rubio Justifies U.S. Waiving Russian Sanctions, Citing Global Energy and Economic Needs",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSUVhdDFzdFN3Y2ZHMU9KYXlqbU9UODNaWmxpNzlpRmhIcDlYMVBWc1RDLWVDTXlrcmNfeW80aDhQVEs4LVFEb1Z2RzJYWkNiclpISmVkSlVWdFd0NW1rYzBDai1uTHBCTWhaLWJBdnQ5UjU0bFd1N3RIZ3A0aVNFRm5MLWN6elplX0tUTkdRVWROaUc0bmxqekdIMTd6WXUzQUJRSnF4U0gwODdqaFFXcHpLdmc4WDRGcnZiQkRDRTg2blBNcW9HOWFGZTNMeUM0cU1nWkxoemtjbGJadmUzXzV2VHNGeUdTbjVYLQ?oc=5",
-        "domain": "www.c-span.org",
-        "publisher": "C-SPAN",
-        "publisher_url": "https://www.c-span.org",
+        "title": "List of Republicans Breaking With Trump on Russia Sanctions Waiver",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVExBbEh5MmZzXzM1cDN4UVROODF4eGdYcFhuWENuMUZ4TlRuZVYwVThBRmE2WEtmWGsxaUVaMmxUaDFSdEN6OC1WOW5RNTBNUURubEhWVUVFWG4wandIRV9iZ0VSU0JLaVlLTGc4RWdoUUlCOXB2WlE4TGt0Z1JHNXFqVkw2Y2haMG0tR2VIRlg1NW8?oc=5",
+        "domain": "www.newsweek.com",
+        "publisher": "Newsweek",
+        "publisher_url": "https://www.newsweek.com",
         "language": "",
-        "seendate": "20261019T163612Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzV3OUN4YUtURHoxVG1sTV9uMjVTdFU0Tmlqc2hod0trU1hzQnMzUTc5UE12TGJsMVJmOVU1VEFxWXVSOEJxOU5sR3FwUFc2OFY0b2NKczZOR3pjX0xTWlJacDZSdWk1SmgxVjJvVTRWQVZyckd3MW14dFRiM0RJb3F6bG15MGNyTFJtOU1IVDVLeTNHSjZsMzl2aFB1azZZRG5TajhNTUVGUQ?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
-        "language": "",
-        "seendate": "20261018T001600Z",
+        "seendate": "20261019T225200Z",
         "source": "GoogleNews"
       },
       {
@@ -445,37 +395,27 @@
         "publisher": "Politico",
         "publisher_url": "https://www.politico.com",
         "language": "",
-        "seendate": "20261017T165200Z",
+        "seendate": "20261017T180900Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Graham Breaks With Trump Over Russia Sanctions Law Her Brother Championed",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN0xxdGlST1lPUUZIZzZ1NGkwWS1kSzA5cVBBNUFSMi1vdGtha2Uya2ZVdFNodWtKR3EwZ0pPREZJM2Y0YUZ5TW85ZDBVVHFWZVljSkRmN0k3RndvVm1vbFB1eHBoM015SXpsRkVrWENYYnE0ZzFpdWlaUUNaeHdwS1hULUxpZVdiQ3paZEp3?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
+        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jTzFvVzZoMldNWlJEVTc2bUg5OEh5dmxlWEJvLVA2LWQxVks4c0pNVzBQVTFmZGhKYTFDZHZ5MGZIT1laODhMMHhNWV9qd3VXajRiU1Z0U2MzaDQ?oc=5",
+        "domain": "www.bbc.com",
+        "publisher": "BBC",
+        "publisher_url": "https://www.bbc.com",
         "language": "",
-        "seendate": "20261017T201401Z",
+        "seendate": "20261018T232015Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2luakxEaEVyTXo5MTktaTdoVzd4Zk1EX1NoYk8zZGE4bDNoYVpBS3FZeXJnMU1jazRhVkVfT2hSZ3pPY1JmSlotWVY3LWFjcDdGeDV2eU12bHhMM2E3QWI1aVczdmxiYjhBNlhGU1RCeE9hakdKN3hmTlZvTEgwSmxQam1lNVdJOUVFemlueXNwcFVUS3hYckNfb0UwbVJrZ0ticnctYmlueFR0MHRBR0cwZ1ZJc3VlNVFNcGw5SndCczR4VVhrNndabWptMGcwMF9aVQ?oc=5",
-        "domain": "www.theguardian.com",
-        "publisher": "The Guardian",
-        "publisher_url": "https://www.theguardian.com",
+        "title": "Pres. Trump defends decision to pause sanctions",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUI3b3NLWFlDaFlsYTdGNnFsOVEzZVJqamNVMlp5a3dnenB4TDhKRVNkN09WdkJtZWZLZDlPSnhwUWZoTG5lRW5LdnpqTnZVZGMzakMyQWhaVGdSUjczZkdtNnlTS2RkcDV4YWdfNk02SkRsSWtDV2ZmTnRKLWJFLTZ4NXg2am9kX3dSdg?oc=5",
+        "domain": "www.kfvs12.com",
+        "publisher": "KFVS12",
+        "publisher_url": "https://www.kfvs12.com",
         "language": "",
-        "seendate": "20261017T080400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaExZUlBtbDZ3YXN2cGZ0Z0RMRVcxT3hlaG8xMnRiSm16d0pSdnBHUzJzSHB1YVVFUXNSMUFGTXZHRE4yb3JyTHczam54WFAxQjRLSjcwTlBuY0pKUGVTbGtjdE5PWVlSdXVFZ1FtUlBLXy1DZUhYRVhEOEZnTHJZTWZQb2J0ejZ3bG9DU0g0cnYyVU9XUllQenJTVkdJc2xucG5r0gGoAUFVX3lxTE00QU9Jbml5eUQxemhUMzRMLVhWLVNGM05PNEp6eGtVaF94RmFmaTJ0WGVxdGVNR2dySDR6QXJtaVpIUFN6N3dnSDB3bkp1T3IteU5HZ1VYbFpPU0tYNVJxd25mQ0xqcVVXOF9NTmFvem14R3NLTkhsTy1pay1XZzRVUEk5eldiY3NFcU03RXVicTQxZ0l5MkFuRmtwbE54TzAxMVltaXNJRA?oc=5",
-        "domain": "abcnews.com",
-        "publisher": "ABC News - Breaking News, Latest News and Videos",
-        "publisher_url": "https://abcnews.com",
-        "language": "",
-        "seendate": "20261017T174416Z",
+        "seendate": "20261019T221200Z",
         "source": "GoogleNews"
       },
       {
@@ -489,6 +429,86 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2luakxEaEVyTXo5MTktaTdoVzd4Zk1EX1NoYk8zZGE4bDNoYVpBS3FZeXJnMU1jazRhVkVfT2hSZ3pPY1JmSlotWVY3LWFjcDdGeDV2eU12bHhMM2E3QWI1aVczdmxiYjhBNlhGU1RCeE9hakdKN3hmTlZvTEgwSmxQam1lNVdJOUVFemlueXNwcFVUS3hYckNfb0UwbVJrZ0ticnctYmlueFR0MHRBR0cwZ1ZJc3VlNVFNcGw5SndCczR4VVhrNndabWptMGcwMF9aVQ?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
+        "language": "",
+        "seendate": "20261017T080400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Graham Breaks With Trump Over Russia Sanctions Law Her Brother Championed",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN0xxdGlST1lPUUZIZzZ1NGkwWS1kSzA5cVBBNUFSMi1vdGtha2Uya2ZVdFNodWtKR3EwZ0pPREZJM2Y0YUZ5TW85ZDBVVHFWZVljSkRmN0k3RndvVm1vbFB1eHBoM015SXpsRkVrWENYYnE0ZzFpdWlaUUNaeHdwS1hULUxpZVdiQ3paZEp3?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20261017T201401Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnJQRmxjVThxTzVHd0pFZ1kwcWtlM0Z1SWUxNVBnRDFFNzBsZmp0TmNFYkEwai0xSW8xcDNvbXpMRU5rU2hoZk1DZ2FuemtfdGVYTlpXN3QwZjV5emVoQlhZa0tDQ0tXM2d1emJRNjJvSHFJYTkwc0pBc1NYc2VyaVVrb2tEb0VEUW9Ka0dhRjM1WER1?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
+        "language": "",
+        "seendate": "20261017T031800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Appeals court threatens sanctions against Jack Campbell for email related to leaked Hope Florida report",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMDlUUnNEOEhZbVowVWlFVXpGSi1pdy1tXzE3MGMwaENaYVpyNkRGVVUzaWx2Y2JPalNzOU5UZExINHBsdjBmeTc5TjlIWjFwSC1pOTk0RWJDcVI2Wi1fWlpZVXAzcDFScWJpNzMwUzJYZU1wUXFVRFZzWlBSd3BKbHg4Q2J1MlVLeHFQeFJjYVhjR2lVMEhZWE9ITWxtUGNPWGEydlFLZWdBaG5oQ1gySnluWmpERGVuRjZiRFI0eUo3YmsxOHpn?oc=5",
+        "domain": "www.wctv.tv",
+        "publisher": "WCTV",
+        "publisher_url": "https://www.wctv.tv",
+        "language": "",
+        "seendate": "20261019T195500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaExZUlBtbDZ3YXN2cGZ0Z0RMRVcxT3hlaG8xMnRiSm16d0pSdnBHUzJzSHB1YVVFUXNSMUFGTXZHRE4yb3JyTHczam54WFAxQjRLSjcwTlBuY0pKUGVTbGtjdE5PWVlSdXVFZ1FtUlBLXy1DZUhYRVhEOEZnTHJZTWZQb2J0ejZ3bG9DU0g0cnYyVU9XUllQenJTVkdJc2xucG5r0gGoAUFVX3lxTE00QU9Jbml5eUQxemhUMzRMLVhWLVNGM05PNEp6eGtVaF94RmFmaTJ0WGVxdGVNR2dySDR6QXJtaVpIUFN6N3dnSDB3bkp1T3IteU5HZ1VYbFpPU0tYNVJxd25mQ0xqcVVXOF9NTmFvem14R3NLTkhsTy1pay1XZzRVUEk5eldiY3NFcU03RXVicTQxZ0l5MkFuRmtwbE54TzAxMVltaXNJRA?oc=5",
+        "domain": "abcnews.com",
+        "publisher": "ABC News - Breaking News, Latest News and Videos",
+        "publisher_url": "https://abcnews.com",
+        "language": "",
+        "seendate": "20261017T174416Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Pres. Trump defends decision to pause sanctions",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRXVldkRyWU9BRGhNN1VyT2U2Z1pTTkQ4WGlTYTVuV1VVUnZja01CS1BOLS05UzNmZjM1Mk1pZUtURmZLOEhkWkVZOVNhM3hpTUN3ZFdzaUlkOHJOd0dLaVhnVWp4MUxlMlZHem81UEo1c2xMNnd3Z1VPVnh3Qm1XRzF6OWxhM3VkZXVkSmVfLUQyZEk?oc=5",
+        "domain": "www.foxcarolina.com",
+        "publisher": "FOX Carolina News",
+        "publisher_url": "https://www.foxcarolina.com",
+        "language": "",
+        "seendate": "20261019T221200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Pres. Trump defends decision to pause sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcF9QOTE1akFFeFAzY2dlR1JPZ0ZoQ2VWcGFuUkstWnZMTXVzYjUyMG1EWTU1eTlEV2NvbTdUbmdrMXpxd0syMV9QMDZ3S054aU8tSUgzMFBIWll2VXVZclhvZVlHSDNUd2tSMkpRT3M2QXowcEl3S0pGUVAxOVpTa050S3dIelRNb2c?oc=5",
+        "domain": "www.wect.com",
+        "publisher": "WECT",
+        "publisher_url": "https://www.wect.com",
+        "language": "",
+        "seendate": "20261019T221200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. and Cuba clash at the U.N. over ‘Cuba Libre’ event ahead of embargo vote",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQy1ERTRWYUZTZUotZVFmU1hxSGkwZlAxNG13VkxMQVMtZ2VSaUc3R2NUeXd2Q2VXSGdXeU1FZVJOb0tEZllyaVFXamZEN2NuZlJrTTlwZFFBbkY4MF9NTGFVSlBfaWVHOTcxQldfWHBwQUhOM1JqNzF4bWoyaTRKQV9idUJNMVdQWFRvU2RYUWLSAZABQVVfeXFMTUNNMFNZU2hUeVJaM0JLeklOTU91ZklPUzdlcnVCTzd5czdBY1NyVnFOLWR1TnRZQXFkMlkyRFJVMG9ueW9iWWRIVW1USklfSUlYcmMxMU1TazQ0eVdFbXRGdm0zSnZkQTVuN2JFZ09HTkxwOUhaNGZJdWxFSjF6Z1JHcGxpXzR2ZmZGNzd0V1J1?oc=5",
+        "domain": "www.miamiherald.com",
+        "publisher": "Miami Herald",
+        "publisher_url": "https://www.miamiherald.com",
+        "language": "",
+        "seendate": "20261019T214029Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHR3SlkxeDNvT0xQbzhMNVJiekNEekNpWUN5RXo2T29maGFUVUR4NlJBT29seHlCQ2JBbGxPbEdHQkg3R2JodG5Ob2k2QU9wbXhRRVZSZHhPeVdhU0tydmNwRENSQzQzZDJsRkxIWFhHbF8yV184dnVCNUVUOTV2TUVnUFpEQm1HUnM3WWVHNUdTM0ItN0JLVjh2N3Z1VFYyZGR2ddIBqgFBVV95cUxNTXhoMnV2c2JEMGZtdEJfNXdTbUtzMDFwQzVyNlphZmRWak14RUQtSjFBVkZZZEktaDk3UndPTWVVQmRCX1p3YXlMcUdzeUdOSFJIakxrSWxlS0ZnQzREYkFCcXY2Y1hJckQySUxSVEpDelZUcldub0JZaXpQNWhCT0Y0T0VEUHpDYmVVUTVZLVBMTmpRQVlTM0hNSWxoSmlDQzNHUFBBQ1VPdw?oc=5",
         "domain": "www.aljazeera.com",
@@ -499,46 +519,26 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump’s waiver of sanctions on Russia stirs bipartisan outrage",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5",
-        "domain": "www.washingtonpost.com",
-        "publisher": "The Washington Post",
-        "publisher_url": "https://www.washingtonpost.com",
+        "title": "GOP senator: Reagan, Graham would be ‘ashamed’ of Trump waiving Russia sanctions",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lSVE0SXljMTAtM29iSnZHSWdEWHN1eFh0N2NRc3JXUjNmbFU3UUdRWGpQcGJXSkN3b3VMaGJuRkVLcmQ0eENWQWRqcHkzY3lKZV82R2dBSVlJeHh0SzJQV2t3aEZ1TjRnUDBZeHJWeV9meGJucWI2STlpNHR6NXPSAYQBQVVfeXFMTTdleG1udVpKRUpub1pSZXZQR3RpcU5iTF9ZNFZSLXM2TTJvMG05NGhRSWhzOVFJcV9UTlRJdGVnR1l6SGx5eEk3N3NiZEhwdV81MXBSbVE3SFpNajFCdFpzQkY5STBmS1doenJlWjUzS3N4bGMxSGIxVWdhOWRkV2F4QTR2?oc=5",
+        "domain": "thehill.com",
+        "publisher": "The Hill",
+        "publisher_url": "https://thehill.com",
         "language": "",
-        "seendate": "20261018T041600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Connecticut lawmakers challenge Trump’s decision to waive Russia sanctions",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUW9QVzlJT0VFaWVNNXpIUVZ1VU1tVUVLRERHblctQUl5LUpwODczaGpzVkhyVmp1bF9xRmg1cXZCUjgza1lQOHROUFRJbEgtS3BfMFpvY0tTUWdDaFF4NUc1LUlrT0FrZXNpTlZiSUZodlR3Q19IMEk3d2NScU5QU3gwU2VZcmR5bThpTThhcFh1b2VuOGNNdG1GS2JLR0UyVEswYw?oc=5",
-        "domain": "www.nhregister.com",
-        "publisher": "New Haven Register",
-        "publisher_url": "https://www.nhregister.com",
-        "language": "",
-        "seendate": "20261019T193517Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Canada Issues New Guidance on Deemed Ownership Under Its Economic Sanctions Regime",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ1RUZ3U4cUdVa1FYYVp5Vjh2d1JiQ1ZPZUhVaDZGSE5Bc1NBeUtDaUI3TTFtbW5VSGlFLTZaMUJTNFJ1QjVPVEhITGxLS1pJRWx3ODloOWVZbHgyNV9iS2t5YWFxcldJUW1Ld2U2cGRMN2ZsY1ZLNUpGQm1fdUdub2s5MFp0NkZYNWo2R0VTYkRjRXVjRDZ0TWRtWko0TzJuNGpkR3IyYXJ2eUM1WGo0SjV5ZGlZaVEyd2h6MzZMZmw?oc=5",
-        "domain": "sanctionsnews.bakermckenzie.com",
-        "publisher": "Global Sanctions and Export Controls Blog",
-        "publisher_url": "https://sanctionsnews.bakermckenzie.com",
-        "language": "",
-        "seendate": "20261019T153511Z",
+        "seendate": "20261019T202200Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
-      "title": "Imposing Sanctions to Protect Americans from Intellectual Property Theft Fact Sheet",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa2NDN2hlQjJxX0dTTkdLQmpzNDhWSTRUTXh2bWJsSTNXLVF6RkNpbnhCM1VMdVlnRTByNDlqOUdzaUVxQVlRZ3VfNDk0c0ZyQ3JnaHRKdE5WblFPWTFiSlFpcTBuLXpxYTN1MWtxSERsbjFsYU1IQ3dsSDR3TW5ObUpqMVF4eXJSNU45ODdDQUFacFVDMUlSMnRrU0ROZlJmVFRCQV9yYzZmRkJFaGZCalVUOFBnaFdJRTJJaWdMYkg0ZVZmbG56TUpaSXVVQTJKcEZycV80eFBUREt4MWRNeA?oc=5",
-      "domain": "www.state.gov",
-      "publisher": "U.S. Department of State (.gov)",
-      "publisher_url": "https://www.state.gov",
+      "title": "Trump faces bipartisan backlash over waiving Russia sanctions",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVW5KeFN2cWxTOGpmS3RNdkl4WVhBTTJnbDYzNjJCWUpxSXAzYUdxSG9VYTVyc0s5YjZvdGgySF96X0tuY1lqeGRPb2lHMXNVYWdXTW1Da0FrNGFIWGFMUFhkV1ktejdSXzV6OU1CQjdkM3hGOG5STDhGZ0N1eERiZGtMUTBwYUpIMEJBZ1FsMTVpdzZWblE?oc=5",
+      "domain": "www.cbsnews.com",
+      "publisher": "CBS News",
+      "publisher_url": "https://www.cbsnews.com",
       "language": "",
-      "seendate": "20261019T145423Z",
+      "seendate": "20261019T210000Z",
       "source": "GoogleNews"
     },
     {
@@ -552,6 +552,16 @@
       "source": "GoogleNews"
     },
     {
+      "title": "President Trump waives new sanctions on Russia",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTeDFnZks4Sy1yYkZ3MU5MczEtRzhXZVMyMllYQ3FQaXUwU1VDWGhucU5fMm05S3FnajFOdUxTQkhGQUZuaUJhWU9rTTdsWXlHWUtNa1NGd1VvMVNpUDhhbmxVa3J5d1ZxYzJTUlcwd2RXclNpdjN1cTY1RQ?oc=5",
+      "domain": "www.kcra.com",
+      "publisher": "KCRA",
+      "publisher_url": "https://www.kcra.com",
+      "language": "",
+      "seendate": "20261019T115300Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1JDdGd6aEZHMGQ5OXppVnA5d3FlSzNmbDdjOURNajl2Sjg3T0VrRzRLSC1DdVpLekQ5ZHBVdjQ1eV9UcF81anZNVklVYjZnQlNfQUlWRVMtNzEwVVVDQWlYTmQtU29FOU5xTFlGYTFUVV90bXI3dXU5UU5IUG9ZNjNYVHNUdzNjT3JXb244bm84d240TG56ZDVLbXNhMWpucjVTZXdtaTZQYjViOFU3bDZnZlFEQjduUDBfMWdwMVBXUFl3VFRJ?oc=5",
       "domain": "www.reuters.com",
@@ -562,43 +572,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Trump faces bipartisan backlash over waiving Russia sanctions",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVW5KeFN2cWxTOGpmS3RNdkl4WVhBTTJnbDYzNjJCWUpxSXAzYUdxSG9VYTVyc0s5YjZvdGgySF96X0tuY1lqeGRPb2lHMXNVYWdXTW1Da0FrNGFIWGFMUFhkV1ktejdSXzV6OU1CQjdkM3hGOG5STDhGZ0N1eERiZGtMUTBwYUpIMEJBZ1FsMTVpdzZWblE?oc=5",
-      "domain": "www.cbsnews.com",
-      "publisher": "CBS News",
-      "publisher_url": "https://www.cbsnews.com",
+      "title": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUlXRzA1YVNhSkh4U0dNMjVIZko0VHFqZHFaTlptUUdPTlFzU25TeFl3dXVnLVBMSGFXWExCMkpQRFpncV9VSjNncEVTTnl2SHB5R0ZmVGJnWUhBQUJXM1hibzdNVk1QVFdrOW1LVjBXQmVzNkN6bi01NFNPeHMtb1R3RkpLbl9XMkVWc2xrOTRKd3ZNUnBVUGdYeTdrNFZ5NEtiVDJ2Mm5tLWQwLTJkeDRuMkRaTU94anFQODZma0VlX0JIa1hzbmlQLXNIVWlYa1VJ0gHTAUFVX3lxTFB3SGxmMDdDZUNibnhKc1RHTGhSNzJZZFptRUh5NmlqRnlmUUE0bTAwMmMyNk15dUN1cTRFUmNqeDB3Nnh6VjdqSThnM3Q5ZmNxdDFRX0ptSjhDUnJLX1AtTEpBWWQwRFA2VzBJX2V6TWJna0IxWVdjVlVjMFpmZ3pVcWtzRV9aazdPeXpMSjcwMUN6NU9IRzZBcFdBeXZBWjlGQUJ6aHUwZEpHRFBmX19lOXg4Z3U3X1E3a3poX2ZGYVRvQ1VGMnhBZ29XZkJMWktuMG8?oc=5",
+      "domain": "www.scmp.com",
+      "publisher": "South China Morning Post",
+      "publisher_url": "https://www.scmp.com",
       "language": "",
-      "seendate": "20261019T210000Z",
+      "seendate": "20261019T223607Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Trump defends waiving Russia sanctions, says it keeps Moscow at negotiating table",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1lydjdUUEZncFpMZlkyQ3JoQnFZdWVYS09PVXhLYTBYcktaY0ZMc0ZsZG5GWlRwazN5cnpwLTdIM0RxbWZkbGNpRmh2MFljSzBicmdReDhjWmlMZ24yVGR0RVlkcDJWR29KT2JHeTIxcGwwMnZ2T21rdXFCaFRmV0Y1UlYwVktVcENLd3dZb2tYellqQjBCcDlZWjlNQdIBowFBVV95cUxOazNPcGJpbEhtOUh6d0RWMEhWMHNoeURoeFJzMWxhM3ZTTUpUcmxhb2p6UUEtbUJnMi01dHVJNkRMOWdlWDZ1Y1h6VTl4d0h1WEpDRDZIbHRJMDZpa0I1UVlxM0NtemdhZjhJU2tsaTNQVlUxU3MxWG4tN0dYVGY2cnliYThxSXFLQWxpME5tU0p1cnRLaEhfXzVVa0Zkb3lPbE9V?oc=5",
-      "domain": "thehill.com",
-      "publisher": "The Hill",
-      "publisher_url": "https://thehill.com",
+      "title": "Imposing Sanctions to Protect Americans from Intellectual Property Theft Fact Sheet",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSnZLODNPMmE2cDBOeV9fT0xLRnMyMTFLUVJLYTJSSzlHSVN0MHpqQ3Itc1VLYVc0aEdZakl6d1YwYlBPNVZKLTJGQlhJR2hXQTJHUlRfbmNXNU1QamFQc0gyMEwtZHdNMGhMOFBaVkhLeXU1blg0TUEyTmNfTzdNZkh5X2g1a1JYRFltWWVIdzE1S3MxekNiMXIwY1hpakQ4alpIODNkNF9mVHloX3UzQ090djUxV1N3T0ZUdENHRFhBbHlkZW4ySS1wN2JQUkM0dVZpY1V1ZlBYRUU4cFNn?oc=5",
+      "domain": "www.state.gov",
+      "publisher": "U.S. Department of State (.gov)",
+      "publisher_url": "https://www.state.gov",
       "language": "",
-      "seendate": "20261019T145700Z",
+      "seendate": "20261019T145423Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Trump defends easing sanctions on Russia amid rising anger in Congress",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFk3ZDRLdU5TX19PbmN3NUc0aDdGUkRSZ2dXYUNNRXJxdWNpdzdmNzBTWGt3djkyelcyVlFsMTNjMmZzMjdEXy1RVVlyWldQd2N3QU9ZNUFjQTZUS0UzU1E0Z1hDSmhpOGhMNmdabzBkeVlBanlDazF1b1JFdVZKdUh2ay1zeDJHM3drUnZleXJzVWE1c19VZDMtT3RpaDhoOFFhMkNSTm5LbHR2WFZwbw?oc=5",
-      "domain": "www.usatoday.com",
-      "publisher": "USA Today",
-      "publisher_url": "https://www.usatoday.com",
+      "title": "Trump signs executive order waiving Russia sanctions",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53QzBwWmRMY0dQaFpPMV95c1NENDVhZ3Atd0xtTUQ5ekg5T2JwYVBJMmJaXzRDY3EzazlscnVGb3FzT1ZBNUVGYVNzdjNqRXNGS3NsbEhWNG4tVndOcXZXLXdiZlh1dklUOWxxZ2RGdW9NY2s?oc=5",
+      "domain": "www.wbur.org",
+      "publisher": "WBUR",
+      "publisher_url": "https://www.wbur.org",
       "language": "",
-      "seendate": "20261019T115900Z",
+      "seendate": "20261019T205623Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Zelenskyy urges support for new US sanctions on Russia put on hold by Trump",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGNSbDZNbm5wY2VNaTRTRDZiMHFqMW9rbnpvNk1tU0JBdjlTQng0YXhGQTN4bWtRaUNPUUdxY0dHVEhOajRFem5jUFdSVm5QYnkyU1QtcGZuM3BBQnBqTnFYdlBrTHYyampsUEtDMDB5RUdIYVpJZVY5eHBlank0T1BhLW1OSWo5bnNNVUdCR0FJQjRRLVEtNVFqeHlZQjc2Mm1n?oc=5",
-      "domain": "apnews.com",
-      "publisher": "AP News",
-      "publisher_url": "https://apnews.com",
+      "title": "Pres. Trump defends decision to pause sanctions",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMF9Sd2lSa0thckRMaGFiV3FlVXpzZm5Ed0dsMElBODlkWDY5VWxLRENYLVZadTJrVmx5VkRuU1lPczhjY0VSMDVHSU4yVkNoNXU2VW55c2VZT3pnVDBBcmV2WFZhUUphemQ0Zkp2NHBEbHNacDlCazJ0VFBvM1ZxTFNSRHdMdXJJVUtXNzlJTW1sRnZUOWc?oc=5",
+      "domain": "www.localnewslive.com",
+      "publisher": "Gray TV",
+      "publisher_url": "https://www.localnewslive.com",
       "language": "",
-      "seendate": "20261018T000600Z",
+      "seendate": "20261019T221200Z",
       "source": "GoogleNews"
     },
     {
@@ -622,36 +632,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNzZONHNudUlsZUZGN1c5dVZtaTRIXzZlVVJDRkpock9WVEExbmNKdl9JLWZhSjQxVHpDLUJ6M3hnNXJIeFJNTWJSWnJQc3duc2VvcDJ0QzRpbzZlZ3lJVnJDQi1hbkY1cF9QbG5vc2ZhNVBacVBBVUhBN3JnamR2b1NjSi02UzZDQXJ0TTFKVmpQUXAtQ0RYSGdQNU9TZ0hkdkNQeXZKUG9hRFFlblpBNTdid1Nzc0UwZi1nd09HRDA1QdIBxwFBVV95cUxQSm94MFV3UHdyM2dGSHBlajNTS2lYLUhtUHlNVkFrdW9XYUhQUDJjaFM3WlByc3pxb3FMWHVwY0xFMUlSWE5EYTZQaENxNEZEUXVVdVcteWFHeU51QjFTVEJsQi03YmhsM2h6NFczZk5MUjN3UWxEd0VaN3YzQ3paa25uUEVNVVM1S3YxN3B3UVpWaGhfcmF0cWRQdFpodVBfV2NZaklHOVRlX285V3RvelEtOVRIN25Ra1lUZk53bEdmTWFwZmIw?oc=5",
-      "domain": "www.pbs.org",
-      "publisher": "PBS",
-      "publisher_url": "https://www.pbs.org",
-      "language": "",
-      "seendate": "20261017T155710Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Trump Defends Plans to Ease Russia Sanctions and Hints at a Hostage Deal",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWsySUdqRXczLV83Nmpna2E0aGNFVUo2YnlQV2pkdTFSeUI5ZmRSTHhZWjh1WnpBeG95WmFhNkl0bW92MkEzcHRhZ04wdUVOTDd3OXhkOFpzT19YdnJocmlOSkZzMHlNRlFRemlOci1OTEVUZG85OTJrZHZQS0cxUXA4T1lZZTlxUmhFMjlqNGtEZTNOTVY5NHozOA?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
-      "language": "",
-      "seendate": "20261019T000508Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US waives Russia sanctions as Gulf oil shipments face renewed disruption",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY2x2RDB2SV8zZEpHNHcxNzBGMXlaRnBIUmhNajlWc1hwWjVsSnEtXzBJREYtZEE4TVRUUkxVX1VWYmQ1Tk9Za2plZ1BUMmtqZmJ3VTh6MlF5NEJuUS1STXl5NTRydkUwSHFLamtadkxPNHdaYk1UR3l0b0xrV1lPVldCRWcyUWxidVI3X3JrWEhPSUotUkRwSTlkQ09qUDFQTTJTZ3FZNmswNGRNV25vMm40TXNPcHZLeGRPaUZkTmhidGRsekZHazdyakJDVldvYjVXUzhyM1E?oc=5",
-      "domain": "www.ogj.com",
-      "publisher": "Oil & Gas Journal",
-      "publisher_url": "https://www.ogj.com",
-      "language": "",
-      "seendate": "20261019T174956Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Trump doubles down after waiving new Russia sanctions, calling it a ‘very good decision’",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUF6amxpY2lMcWdiQ09tRkNjZjZGWjFyemRBN2kyQmx3RUl2ZlN6cDJLN3ZOeFBYZEJucUpHNWpNRHpsZFh4UmkxMFZ6ak1OQ1pVemhGaEtSOGJENXljeVItbGlZUUxMNG5LSmNacXZHSjVoOTRyLTZrcTJmZ2prSWctNkE2eEYwcG15bWJnQVlWUkNKdUZKODVZSHhYellTLWNFZnkzMEFiT1FKak1adHVqV25DLUFWWC1uMDIyc0dYX0lSVFRmdDRnUVlEd094?oc=5",
       "domain": "www.nbcnews.com",
@@ -662,16 +642,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXVUc3p5OTNTUjNYTVkyMzd1bHMwMGhyRkw5Y2xMRmZMQS1qMGxuMUFnYWpJdzVLU2JUeFgyNkZzb2dIVU9QOXppTDFTcnNmbHBvWjlGVnVobnlhMnFFME12ZERqR0JUVUxuQ09sUGFuV1lnZlBHQ1p5V296RWdrcGs2bmlTTUIzS1NZQ21ILTR1eVdBcEN5V0xINmhoRXFYLVh5YldINNIBrAFBVV95cUxQazNtdU5PdWJ0Yko0YVFxaFJ0d1E0NUktYnVYSVJDc2J4TVNpWWZFTFA4aWg4MVB5SERmekpnQlFBbkFmSnlsVktsN01sNmlyTTFrNENkaHRPSEU4WEtDZ0RtTlpPV2ZGMElQeUFOMzRzTHRkQ2h0dndsSjl6U1NfX3RWSjZxZFlCMEhjM0paS1R2Zzg1U3dQOW9QWVVhQ2JRWGVsQXF3VVZDMUZO?oc=5",
-      "domain": "www.aljazeera.com",
-      "publisher": "Al Jazeera",
-      "publisher_url": "https://www.aljazeera.com",
-      "language": "",
-      "seendate": "20261019T031545Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Trump suspends Russia sanctions as deadly attacks plunge Ukraine into darkness",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWM0U1pSZlpoaXBTT1dYNnhMTXZqSHFBZ2tBSFk5ai1wNTEzNXBnbzJnX2pvRTFib0lxSjFPSE5mWnd1NDItelJMYlNuOFBBMU4tcUdDYUFUQ1IyNEZubTJQZ1FrREhNaVBFRER5V1ZLRGwzOVA3Vkl2RWNjVjJSbVRyRXZ0X19OWVZZcGV3?oc=5",
       "domain": "www.vaticannews.va",
@@ -679,6 +649,36 @@
       "publisher_url": "https://www.vaticannews.va",
       "language": "",
       "seendate": "20261017T153152Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump defends waiving Russia sanctions, says it keeps Moscow at negotiating table",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1lydjdUUEZncFpMZlkyQ3JoQnFZdWVYS09PVXhLYTBYcktaY0ZMc0ZsZG5GWlRwazN5cnpwLTdIM0RxbWZkbGNpRmh2MFljSzBicmdReDhjWmlMZ24yVGR0RVlkcDJWR29KT2JHeTIxcGwwMnZ2T21rdXFCaFRmV0Y1UlYwVktVcENLd3dZb2tYellqQjBCcDlZWjlNQdIBowFBVV95cUxOazNPcGJpbEhtOUh6d0RWMEhWMHNoeURoeFJzMWxhM3ZTTUpUcmxhb2p6UUEtbUJnMi01dHVJNkRMOWdlWDZ1Y1h6VTl4d0h1WEpDRDZIbHRJMDZpa0I1UVlxM0NtemdhZjhJU2tsaTNQVlUxU3MxWG4tN0dYVGY2cnliYThxSXFLQWxpME5tU0p1cnRLaEhfXzVVa0Zkb3lPbE9V?oc=5",
+      "domain": "thehill.com",
+      "publisher": "The Hill",
+      "publisher_url": "https://thehill.com",
+      "language": "",
+      "seendate": "20261019T145700Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump defends easing sanctions on Russia amid rising anger in Congress",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFk3ZDRLdU5TX19PbmN3NUc0aDdGUkRSZ2dXYUNNRXJxdWNpdzdmNzBTWGt3djkyelcyVlFsMTNjMmZzMjdEXy1RVVlyWldQd2N3QU9ZNUFjQTZUS0UzU1E0Z1hDSmhpOGhMNmdabzBkeVlBanlDazF1b1JFdVZKdUh2ay1zeDJHM3drUnZleXJzVWE1c19VZDMtT3RpaDhoOFFhMkNSTm5LbHR2WFZwbw?oc=5",
+      "domain": "www.usatoday.com",
+      "publisher": "USA Today",
+      "publisher_url": "https://www.usatoday.com",
+      "language": "",
+      "seendate": "20261019T115900Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Rep. Don Beyer, D-Va., on Trump waiving sanctions on Russia",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1FhWGsxa3oydzB1MVI2YkIwQXNVQVFJZ3Q1bWVVUTJvTUNUY281UEpoUXBYZjhhQUZNWUVNSk85UjFxaF81Q09NWkRPdmlSbVBTMl90T0oyMUtXX1RDY3FzNHlCcmhXOFZxY3FXY1hBSHVxUTdJV0tqZlRYaW5FWDRQNlhMX2tkUkc1Z2FvSl9PNmRLYTkwUlZuRnVMY2ZZQVE?oc=5",
+      "domain": "www.npr.org",
+      "publisher": "NPR",
+      "publisher_url": "https://www.npr.org",
+      "language": "",
+      "seendate": "20261019T103756Z",
       "source": "GoogleNews"
     }
   ],
