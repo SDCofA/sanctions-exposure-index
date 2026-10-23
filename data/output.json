@@ -1,12 +1,14 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-10-23T04:34:29.435531+00:00",
-    "mode": "live",
+    "generated": "2026-10-23T11:28:33.318733+00:00",
+    "mode": "partial",
     "sources": [
       "news_articles"
     ],
-    "source_notes": [],
+    "source_notes": [
+      "News fetch failed; showing a retained sample less than 24 hours old."
+    ],
     "version": "2.0.0",
     "methodology": {
       "scope": "topical news sample",
