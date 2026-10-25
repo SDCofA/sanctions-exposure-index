@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-10-25T16:00:53.473719+00:00",
+    "generated": "2026-10-25T20:44:01.752649+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "37"
+      "value": "36"
     }
   ],
   "live_data": {
@@ -49,13 +49,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Ukrainian civilians killed in Russian attacks following Trump’s easing of sanctions",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR2x0QTZJZXFVT0Y3YW1tazVQeUU5TUcwd3NJcGU5YURnSVBLSWlFd2tSalpTdjVOV002SDB3b29XOUwxVUxJUC1rSXluQWdYREsxVzE1VHhIVS15ZEdYNUdkbDFZSXJqeDZXTlJSandRZHp0MldiTmxfS3djSFlpTEZfbFNzdUZlN2JHTG51Wkd6aG9UenFQaDFiUVFNNm94ckg4dWs3TlZkYmx1ZzB1NVJESGktbk9leEVDVTJWZGY1QVd1dTVCdEdJVmpwN3JrT2lTQzNEVTZOcVJZV3hHd1oxT211QWt3U2tWbFlzdw?oc=5",
-        "domain": "www.scrippsnews.com",
-        "publisher": "Scripps News",
-        "publisher_url": "https://www.scrippsnews.com",
+        "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1JxQlNveTZSckpqLVR5eFJsci1WWF8xQVZteUV0ZFhqd0JWa1JaaGUtUmNyM00tRlVQcHdfcWZCRUFpTFdpVDN1TF9BazN6T2xXOHFPYmYzam4wUFNvMXNIWXBYRTdTU2xWQUtmTXlfcEZhQU9YN1N4cU43aWNjRDFreGZlRUpOM3BuWUE1VHhhODZSX2dlVm9JeEk5VXM5R19VSlh3b29sQXFa0gGyAUFVX3lxTE1PSXBpQXVLOTJkbW1jTkUtRGN2LXpoNkZkWjREYjZKNTlqTUdva1F6YnJTbFJNZUZUdVhsVHp6U2lxc0FRNDVpaFI3VkxOSWxQamgzcG52VlkxWEx4MGxoN2xHSDBjbzRjWDI0NUxxUG1KMjMxQUZYMnRmenZjSHJHeTExNzVrUzM5eHFyTk1oYWtjSm1hVG5aZ3dYTGVFdTRyNUcxOVFabW9PUHdXMl84SEE?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261025T131243Z",
+        "seendate": "20261025T145113Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cryptocurrencies cannot circumvent sanctions: Bank of Israel responds to Netanyahu",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMzk5VkZIQ25BSXB6emdUay1lemhuQS1lRHRTOTZab09PVzFmcG5RVm1keTRqZF8wZjVqazhzUHdEdWl2Tm5tR2JLd1FKYW1IY0tOYnN5X0RSUGsyeEgtTnZhWUN4ZlFkQ3JyM0dJTWN2c3dnX2QzT0g4aUxvZWNuZWl4RzFpUTBXZ3h1dWtEdkRBeTZnRDBScFRZLXhTQzdXS19aUUNXVy1qQ2l1N1NGVDJ4Q0ZFeU5ibFI5a3Z5QUNvRmJa?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
+        "language": "",
+        "seendate": "20261025T074555Z",
         "source": "GoogleNews"
       },
       {
@@ -79,33 +89,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUF9ySjNjakdaNi0yUV9paGtjNlAxbGN5S1ducXEwRVZoNlpMWlZIclVpYWlzUUY0YndKUWhFNF91YWJUaHdIU0hoQWtGTkRzZUxQMEg3MFVzNUxGWjQ4Z2RxOVFELUdxVzJkbGp3WExNSEhKeS0yYUxaQUxhZUlVWVJmUjRaTzdydjk4RUNfVnZaUW54SUMxSjB3d2R0M1NPXzNOc0QwTzBELWvSAbABQVVfeXFMTlFUeF9iUDRPTk1rQUhRb01EdDBteGt4T0RKb0VfeWJxZVRmX3VMdHJqeExWVlRfMHJsMm5yUnNsMURQYUkwaU1DaDlYSGlHNEdvcjMyX0dvYkZqTXhXYmJhMWdWTjNPdnV4NUFvWnhSWnN6MDZibEtUblJuZTlJeFpUQUNtSjNFY29KbnFDNEI3S0dKYUxRc1Q5a0dRZi16aFc3RnRmYkJzc3gzT00yZlI?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "‘Irreversible damage’: Top economists ‘gravely concerned’ at Netanyahu touting crypto to beat sanctions",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbHB5Q2Y3cF96b3RVbDNHZm04NkRwNmRZR0RtM2ZQUFlFNkd5TUVvMlZqZXYtRk4yVDBTQV9yMkNEdG9PZ2NmUm1tWGJTbjlhX3pyR0ZQRTd3ejF3NURMMHZoRFUxbzcyNU1VQmhyZGFYckFJbGx5ZndibGdVaG1Ob3ZQRGN2RG1ENGdzYXY5Z2xpUzRDNEZ1aDhSR1ZEMDVMdGpNTElZU1UtSlF2S1HSAbMBQVVfeXFMTmQ5RnhENjNtb3Zjem9TWVBTVlBsRjlQUzd3b1pIaGFua1FtMnkxRnVUZjlPMEdieTA2bFo3cDY0b01JWE5Qc0JUa2l2XzhOMTlfbDJRUDM3bFRKMWJ1Z1hhUl9WeWZCXzR6T2lyYWZnM2ZpdlRjTWEyd1A0OHBIQmJiUnMxOEtDenpDVVA3QzRaT0ZhR0czN3BITmxpSWJybENiRUhSS0Y4QkRNaUtNalUxNDA?oc=5",
+        "domain": "www.timesofisrael.com",
+        "publisher": "The Times of Israel",
+        "publisher_url": "https://www.timesofisrael.com",
         "language": "",
-        "seendate": "20261021T195444Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Cryptocurrencies cannot circumvent sanctions: Bank of Israel responds to Netanyahu",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMzk5VkZIQ25BSXB6emdUay1lemhuQS1lRHRTOTZab09PVzFmcG5RVm1keTRqZF8wZjVqazhzUHdEdWl2Tm5tR2JLd1FKYW1IY0tOYnN5X0RSUGsyeEgtTnZhWUN4ZlFkQ3JyM0dJTWN2c3dnX2QzT0g4aUxvZWNuZWl4RzFpUTBXZ3h1dWtEdkRBeTZnRDBScFRZLXhTQzdXS19aUUNXVy1qQ2l1N1NGVDJ4Q0ZFeU5ibFI5a3Z5QUNvRmJa?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
-        "language": "",
-        "seendate": "20261025T074555Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ex-sanctions architect: Israel can’t out-crypto Iran",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2NFa1RNMlVjQ2UxWWppbHZnSk1qYmo5NnVuTTNId2gwSWhMU2tfbnR4MmlYMDN4WDhnMzI1QkhNRkwxVWstdFE2ejhEenNMaG5jU3ZiZldMcnN3NDhBRHJqbGVHLW8yNFVqVkxkTWliRExTemZSNzdNeWFZeEpMR0F6SXpRQ0F3N3BYZXI1ejhVZw?oc=5",
-        "domain": "www.israelhayom.com",
-        "publisher": "www.israelhayom.com",
-        "publisher_url": "https://www.israelhayom.com",
-        "language": "",
-        "seendate": "20261025T133044Z",
+        "seendate": "20261025T131617Z",
         "source": "GoogleNews"
       },
       {
@@ -119,6 +109,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Ex-sanctions architect: Israel can’t out-crypto Iran",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2NFa1RNMlVjQ2UxWWppbHZnSk1qYmo5NnVuTTNId2gwSWhMU2tfbnR4MmlYMDN4WDhnMzI1QkhNRkwxVWstdFE2ejhEenNMaG5jU3ZiZldMcnN3NDhBRHJqbGVHLW8yNFVqVkxkTWliRExTemZSNzdNeWFZeEpMR0F6SXpRQ0F3N3BYZXI1ejhVZw?oc=5",
+        "domain": "www.israelhayom.com",
+        "publisher": "www.israelhayom.com",
+        "publisher_url": "https://www.israelhayom.com",
+        "language": "",
+        "seendate": "20261025T133044Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "ICC prosecutor says court making ‘significant progress’ despite US sanctions",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzZDWVBLT0diMGZ3Ymk4TTRvUFV6SU1BemJNc2k0ODN4OW1lTDhyeTlabXVGQUFvajRhSEF2eWJpMTNUQWphdzZ5dkVQQloxSEl4amR4OHFwYnRuNkZ3WUpHWkE2RHhLbThVN1M0X3E3VldJQzRlT003VDZZOXN6LURJOV93TE9fa0czVnFyUWFET2RYUS1vOXZrdGY1Nmhyc0FTcW4tSzNXMkxiaEhr?oc=5",
         "domain": "www.theguardian.com",
@@ -129,13 +129,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "“Immense and irreversible damage”: Economists warn Netanyahu over sanctions remarks",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PenVIRk1rX2pBS3Bna0VNWVQyREkxRzcyZjZsdkJTekhtbTZsV1RNQ0Fub0poMTJHU3RIZUlNQXdZM1RZVVdOVDZENnhnbWRLNjRDMm0tLVV4VFhGLWVEa1lUOC1EVzQ?oc=5",
-        "domain": "www.calcalistech.com",
-        "publisher": "CTech",
-        "publisher_url": "https://www.calcalistech.com",
+        "title": "Netanyahu's crypto remarks fuel Israeli election fearmongering",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4ODNrWUF5Q05UUTVBSjlYOWZMYTV3S2VRNHFZbHNCXzhwajd1YWFTYUhra1RYV090Q3lXRGg0SldlTVQ3OFAzaWw2QjNJdUh6cGVhaTlrOF9EMFps?oc=5",
+        "domain": "www.jpost.com",
+        "publisher": "The Jerusalem Post",
+        "publisher_url": "https://www.jpost.com",
         "language": "",
-        "seendate": "20261025T085200Z",
+        "seendate": "20261025T175003Z",
         "source": "GoogleNews"
       },
       {
@@ -149,23 +149,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Netanyahu Seeks Blockchain Backup as Israel Warns of Banking Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSnk4Qms0bHlKNExoQTRkSXltbWE2cjFScTdWYlM3b3MzdlhmWEwtOFRON1NNdHpKVXZ4LWt1bGFyaGpnWlVsTjdjNUtua21SUVhINjg3S3dPWGlLZ25ic0lNUWdUSkRTQ0dpajFObm83dEJoYjBvS3lSWDBDNkZwMm4yM3R3cktBQU8wQ3lFWVo3UU5iclBBQWVDdmF5YWUyTTNLeHU5UThWdm9wQzcybVYyQ1c2Wi0zYkhHUTNwQQ?oc=5",
-        "domain": "bitcoinfoundation.org",
-        "publisher": "Bitcoin Foundation",
-        "publisher_url": "https://bitcoinfoundation.org",
+        "title": "“Immense and irreversible damage”: Economists warn Netanyahu over sanctions remarks",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PenVIRk1rX2pBS3Bna0VNWVQyREkxRzcyZjZsdkJTekhtbTZsV1RNQ0Fub0poMTJHU3RIZUlNQXdZM1RZVVdOVDZENnhnbWRLNjRDMm0tLVV4VFhGLWVEa1lUOC1EVzQ?oc=5",
+        "domain": "www.calcalistech.com",
+        "publisher": "CTech",
+        "publisher_url": "https://www.calcalistech.com",
         "language": "",
-        "seendate": "20261025T084458Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Netanyahu: Israel should ready for global sanctions, use blockchain to circumvent them",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUi1PLVNNZWZQMUFaMXlfZVA2Y3Z6aHFBcmM4T1ZVbmdSYkJKV0xVd2dBNDduZElvdGF1TkI0dVlwXzhiZGExbGZkZUJpYjVNcDRNakRjOVhkQTFqZ3FjaFM3NGRjYmxrTlJjWHBtZ1hUUXNwUC1rTk9ES2t6aEdMQjFXNEZSQ0FNdDNWUERocThTeWdiM3VBUkRRY0dlQWdudE0zcjZTb1NmRmdmN2ZsMFczTDBoQdIBuwFBVV95cUxNdjNhSU9mZVkzUjhhb09hd1JCcUNZelk3VkJLZGhMSVBfN2JhV0NPMzFYSTl1RU1VSTJKT1FoeldCUWQ3Vzd1ZXpJTUFCVnFGWmFOb0NyaUxUajQ4UUhrMUotejJ3VGFnLXVxVW82S3VWaGVueFpkWWlSSHoyZWFZc0pWcVQ2X0l6aUpHVGdvVjNjdjZ4cnZvNExQQzVhNUlYYy1GWnFZRGFtNlJqMFJNTnJtZGp3T3drQ1Ew?oc=5",
-        "domain": "www.timesofisrael.com",
-        "publisher": "The Times of Israel",
-        "publisher_url": "https://www.timesofisrael.com",
-        "language": "",
-        "seendate": "20261023T205100Z",
+        "seendate": "20261025T085200Z",
         "source": "GoogleNews"
       },
       {
@@ -175,17 +165,17 @@
         "publisher": "Jerusalem Center for Security and Foreign Affairs",
         "publisher_url": "https://jcfa.org",
         "language": "",
-        "seendate": "20261025T115307Z",
+        "seendate": "20261025T120002Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Bank of Israel rejects Netanyahu’s suggestion to circumvent sanctions with cryptocurrency",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQmJsWWQ4ZW0tTFo2NjN0ZW90SkVrMXdiVTRhX0ZIQmQwRld6Y1hqRnRPTDR6cWlGUXE1bGdYZmdhRHRNNUJPck1Fd3ppUjhNSDFiLVBIUkZhMlJLRHhVTkNPM0pzcnVJWVRTWndYcmtKYlhfQWpXQXNQZkllZ2RZaEtxaE1FeTZDS2FtaDBzRDBxc2RKRElJNFlJdk9HZVU?oc=5",
-        "domain": "jewishinsider.com",
-        "publisher": "Jewish Insider",
-        "publisher_url": "https://jewishinsider.com",
+        "title": "Experts worried by Netanyahu proposal to use crypto to evade sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSHpJSW1HX3NGcnhZU2huUGtiRG1wLTVEU2FBRmx0WHBUR1NPb1J6aWgwVVpPT2lVelA3RW02ZkFGVnM4WEVYenpMcEtrMG54TzRWWkdWMjhaT28yS3l5N1RUMDQtc2F3YVd5UW5qMGhuUjlGYi1XWmx6R2ZWZjRPY3A4RjVhV0tOUzlKQ1o3VDNEY0RTMWl3VlpCSWFPdjNpWGhv?oc=5",
+        "domain": "www.yahoo.com",
+        "publisher": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
         "language": "",
-        "seendate": "20261025T115452Z",
+        "seendate": "20261025T101839Z",
         "source": "GoogleNews"
       },
       {
@@ -199,13 +189,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Bank of Israel, opposition heads pan Netanyahu’s proposal to use crypto to evade sanctions",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzZseW5SYWdYR0hrUjB4ZW1jQ056bVUtbTByOG12S2lUUklwV1BrUzZpNTBsaW1YNjlwZEJtMnF6Vno3NDMtTzFjTnNVSGFualZPNGdVRlhZNElid192c2U1ME45My1IeUZZQ0xjYXFVdWFkMk52YndxR0dwVm9YU1V5SGExb0ZUcTM0YWs2TWJwYksxSWJRQ1VCLXBsT3RfQzFsZF9VOXV5RGRmRXlOMkVB0gG3AUFVX3lxTE9jNXV4WE5nVUJjYno0dFF2ZUNRcF8wcEtMaHhfeVA4a1JsVUVPQnpIV2t0bjk0VDZ5UndyQkxnSEV6Q1lnWUZFdllERTl3WGVGb09hR0pJTlA4aXJVZ0d3TjhpYm1GUldScHM0NjExY0VzdG9GNUxvTUF6Z21TMk1GNWh5MWFXaU91ZkpNWWpQSXNyZ3hFQlljamZXUk1WYi0xSmtsWUlZRjItbndJanVzX2FZNVhPWQ?oc=5",
+        "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUF9ySjNjakdaNi0yUV9paGtjNlAxbGN5S1ducXEwRVZoNlpMWlZIclVpYWlzUUY0YndKUWhFNF91YWJUaHdIU0hoQWtGTkRzZUxQMEg3MFVzNUxGWjQ4Z2RxOVFELUdxVzJkbGp3WExNSEhKeS0yYUxaQUxhZUlVWVJmUjRaTzdydjk4RUNfVnZaUW54SUMxSjB3d2R0M1NPXzNOc0QwTzBELWvSAbABQVVfeXFMTlFUeF9iUDRPTk1rQUhRb01EdDBteGt4T0RKb0VfeWJxZVRmX3VMdHJqeExWVlRfMHJsMm5yUnNsMURQYUkwaU1DaDlYSGlHNEdvcjMyX0dvYkZqTXhXYmJhMWdWTjNPdnV4NUFvWnhSWnN6MDZibEtUblJuZTlJeFpUQUNtSjNFY29KbnFDNEI3S0dKYUxRc1Q5a0dRZi16aFc3RnRmYkJzc3gzT00yZlI?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261021T195444Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "‘Catastrophe’: Former Israeli chief banker slams Netanyahu’s warning about sanctions",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWkVMSGVhZzgtcE82LUF3dmtfbWZNTGJOZHlxRkhSc01meXJNaDNuN3lNQW1sY1hVQ25DdXdEdEp1RlUzWFl1bTlQR250Wkh2eUloSm1tUEFGa1N2by1YVjRCT2JHMjFkLTRXNDU2TFBRWm4tUzB2SUhkOFVuNFpVUzRwWWt6S01HTmNLdmRxTE1XYWg1eUliWm5HbnN1ZktPRDRVZDZ3R3pMWUJNNmJMdmZDaHFwb28tNFR1QmZPaHVaSHZo?oc=5",
         "domain": "www.timesofisrael.com",
         "publisher": "The Times of Israel",
         "publisher_url": "https://www.timesofisrael.com",
         "language": "",
-        "seendate": "20261024T190000Z",
+        "seendate": "20261025T195842Z",
         "source": "GoogleNews"
       },
       {
@@ -219,13 +219,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Israeli central bank rejects Benjamin Netanyahu’s plan to use crypto to evade sanctions",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUo3Rnllc2dMYUJwa2U1anpZUEVrbTZzNy1vWU5mZ005ZVJtUGJ3Rzl6Y1NodkZhNGNmYUxEQ3g1dU10WTJZNVVOOWRuU0gySlIxVm9qQ1pYZ2RfMEt0WHRIbnR6NWhrVENjRlhvRjlzZkxLQUoyOFVpRzFXcTItdmNtNWQ?oc=5",
-        "domain": "www.ft.com",
-        "publisher": "Financial Times",
-        "publisher_url": "https://www.ft.com",
+        "title": "Netanyahu: Israel should ready for global sanctions, use blockchain to circumvent them",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUi1PLVNNZWZQMUFaMXlfZVA2Y3Z6aHFBcmM4T1ZVbmdSYkJKV0xVd2dBNDduZElvdGF1TkI0dVlwXzhiZGExbGZkZUJpYjVNcDRNakRjOVhkQTFqZ3FjaFM3NGRjYmxrTlJjWHBtZ1hUUXNwUC1rTk9ES2t6aEdMQjFXNEZSQ0FNdDNWUERocThTeWdiM3VBUkRRY0dlQWdudE0zcjZTb1NmRmdmN2ZsMFczTDBoQdIBuwFBVV95cUxNdjNhSU9mZVkzUjhhb09hd1JCcUNZelk3VkJLZGhMSVBfN2JhV0NPMzFYSTl1RU1VSTJKT1FoeldCUWQ3Vzd1ZXpJTUFCVnFGWmFOb0NyaUxUajQ4UUhrMUotejJ3VGFnLXVxVW82S3VWaGVueFpkWWlSSHoyZWFZc0pWcVQ2X0l6aUpHVGdvVjNjdjZ4cnZvNExQQzVhNUlYYy1GWnFZRGFtNlJqMFJNTnJtZGp3T3drQ1Ew?oc=5",
+        "domain": "www.timesofisrael.com",
+        "publisher": "The Times of Israel",
+        "publisher_url": "https://www.timesofisrael.com",
         "language": "",
-        "seendate": "20261024T191948Z",
+        "seendate": "20261023T205100Z",
         "source": "GoogleNews"
       },
       {
@@ -239,16 +239,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Fears grip Israeli markets after Netanyahu's banking sanctions warning",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlFlTXFMMGFPRHRaU3RrcWZHU3FFSkRIWG9HX1N0YkJ1UlZha2tHaTdaX3draEg4TTA1cUl5dE9wYTJsYmZzdFY3QWRCem5oOXhNVzRGejVGM25GMWF1LVktLTZ2eDlvVkFiQjgxeVRBeG1OQ3pDYTh1NlkwUkRTZWNBdm5mTk53amItUUFSSVRNZFp0TGhqLXRKSnRLVXdzb20zSUs1Si13eXZnRFE?oc=5",
-        "domain": "www.israelhayom.com",
-        "publisher": "www.israelhayom.com",
-        "publisher_url": "https://www.israelhayom.com",
-        "language": "",
-        "seendate": "20261025T045051Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "US sanctions law firm, shipping operators over Iran trade",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GenFyNGsxcEVpV0doQ2NqTnI0Y2h5a1NyaTNhLTRVMDNJT2NoSVlNMDVtVzR2UnQ5ZGRwS1dOb3B0d1ctM1ZVd1FvX0ZoOXpkUnc?oc=5",
         "domain": "www.iranintl.com",
@@ -256,16 +246,6 @@
         "publisher_url": "https://www.iranintl.com",
         "language": "",
         "seendate": "20261021T173827Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261019T043041Z",
         "source": "GoogleNews"
       },
       {
@@ -289,33 +269,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Rubio Defends Trump Diesel Sanctions Relief as ‘Very Wise’",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pUUQ3dU1PZlc4bnlvQkxMdDdGWUNmQVIyRktTOVdWemJIRlQtcTZaRzI1a2xxcjZsalJEV0tSUUE2RzV5bjNER2ZBVQ?oc=5",
-        "domain": "www.kyivpost.com",
-        "publisher": "Kyiv Post",
-        "publisher_url": "https://www.kyivpost.com",
+        "title": "Netanyahu Seeks Blockchain Backup as Israel Warns of Banking Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSnk4Qms0bHlKNExoQTRkSXltbWE2cjFScTdWYlM3b3MzdlhmWEwtOFRON1NNdHpKVXZ4LWt1bGFyaGpnWlVsTjdjNUtua21SUVhINjg3S3dPWGlLZ25ic0lNUWdUSkRTQ0dpajFObm83dEJoYjBvS3lSWDBDNkZwMm4yM3R3cktBQU8wQ3lFWVo3UU5iclBBQWVDdmF5YWUyTTNLeHU5UThWdm9wQzcybVYyQ1c2Wi0zYkhHUTNwQQ?oc=5",
+        "domain": "bitcoinfoundation.org",
+        "publisher": "Bitcoin Foundation",
+        "publisher_url": "https://bitcoinfoundation.org",
         "language": "",
-        "seendate": "20261025T072545Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Experts worried by Netanyahu proposal to use crypto to evade sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSHpJSW1HX3NGcnhZU2huUGtiRG1wLTVEU2FBRmx0WHBUR1NPb1J6aWgwVVpPT2lVelA3RW02ZkFGVnM4WEVYenpMcEtrMG54TzRWWkdWMjhaT28yS3l5N1RUMDQtc2F3YVd5UW5qMGhuUjlGYi1XWmx6R2ZWZjRPY3A4RjVhV0tOUzlKQ1o3VDNEY0RTMWl3VlpCSWFPdjNpWGhv?oc=5",
-        "domain": "www.yahoo.com",
-        "publisher": "Yahoo",
-        "publisher_url": "https://www.yahoo.com",
-        "language": "",
-        "seendate": "20261025T101839Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Netanyahu Eyes Crypto 'Bypass Economy' as Israel Sanctions Loom",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoczVHaUltVUxjbDdmbU85aVByanl4ZHhTRi00X0JIRndxckloNGdPcGo0RGQwNTJXZTRkaFhMS3V1eTBZVWNoZ2gyTWtwalNGNEpvVVhyanJhek1pOWpvaGdpdzM?oc=5",
-        "domain": "bitbo.io",
-        "publisher": "Bitbo",
-        "publisher_url": "https://bitbo.io",
-        "language": "",
-        "seendate": "20261025T115500Z",
+        "seendate": "20261025T084458Z",
         "source": "GoogleNews"
       },
       {
@@ -339,6 +299,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNzZONHNudUlsZUZGN1c5dVZtaTRIXzZlVVJDRkpock9WVEExbmNKdl9JLWZhSjQxVHpDLUJ6M3hnNXJIeFJNTWJSWnJQc3duc2VvcDJ0QzRpbzZlZ3lJVnJDQi1hbkY1cF9QbG5vc2ZhNVBacVBBVUhBN3JnamR2b1NjSi02UzZDQXJ0TTFKVmpQUXAtQ0RYSGdQNU9TZ0hkdkNQeXZKUG9hRFFlblpBNTdid1Nzc0UwZi1nd09HRDA1QdIBxwFBVV95cUxQSm94MFV3UHdyM2dGSHBlajNTS2lYLUhtUHlNVkFrdW9XYUhQUDJjaFM3WlByc3pxb3FMWHVwY0xFMUlSWE5EYTZQaENxNEZEUXVVdVcteWFHeU51QjFTVEJsQi03YmhsM2h6NFczZk5MUjN3UWxEd0VaN3YzQ3paa25uUEVNVVM1S3YxN3B3UVpWaGhfcmF0cWRQdFpodVBfV2NZaklHOVRlX285V3RvelEtOVRIN25Ra1lUZk53bEdmTWFwZmIw?oc=5",
+        "domain": "www.pbs.org",
+        "publisher": "PBS",
+        "publisher_url": "https://www.pbs.org",
+        "language": "",
+        "seendate": "20261017T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Israel’s Netanyahu defends crypto sanctions plan – ‘I do what I think is right’",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVGZURUxxZWVQMENyMURiUzJMZm9RRW1QNEF0UXM5TzY5SktFNUJnOUs1dEp5YzBPQ2MxSjExYXJvZXQyV2JNeC1DZ2g4U0RicC03bHZGczFPeEFDVXM1c0tNcXNpSVROVHBWSzJaamlIR3ZUbGxjSV9pd094YkkzUWR6LW1DNGpocFFMaTU1SjJrcTRablN4RmVjTnpGZw?oc=5",
+        "domain": "ambcrypto.com",
+        "publisher": "AMBCrypto",
+        "publisher_url": "https://ambcrypto.com",
+        "language": "",
+        "seendate": "20261025T150043Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Discussing Implementation of UN Charter, Sixth Committee Touches on Sanctions, Peaceful Dispute Settlement",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04V1lLT3g1dFk5U2Y1M1E1cXkzR19NaGtSYXJtSzl2RkhaUEthMjJKc29rRWVxbm9pLVA3blpraFlDR0JtRnRvX2Q4ckYyR0JnalNFVEtNbw?oc=5",
         "domain": "press.un.org",
@@ -349,13 +329,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Bank of Israel Rejects Netanyahu Cryptocurrency Plan To Bypass Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjJDZlRscE9oc3hUdEVRTjA0dzhzakxQV25vMVhCUTFUYkRfeW5BOUdJeGx6MDRrYUVHbXFFRmUtUHVvNk15OU9uVzFsSWkzbUdUVnR5VnJZU3djZllVRjh5YnVGeUgtUGJhQzJ5ZWhxa3A4QldwdzhUUWx5VS05WHdPck00NF83cGFwdXR2NWJEaTBmdk01cWVYT2tUQzZRSm5QSFJ4dWdHT0oz?oc=5",
-        "domain": "themedialine.org",
-        "publisher": "The Media Line",
-        "publisher_url": "https://themedialine.org",
+        "title": "Rubio Defends Trump Diesel Sanctions Relief as ‘Very Wise’",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pUUQ3dU1PZlc4bnlvQkxMdDdGWUNmQVIyRktTOVdWemJIRlQtcTZaRzI1a2xxcjZsalJEV0tSUUE2RzV5bjNER2ZBVQ?oc=5",
+        "domain": "www.kyivpost.com",
+        "publisher": "Kyiv Post",
+        "publisher_url": "https://www.kyivpost.com",
         "language": "",
-        "seendate": "20261024T191619Z",
+        "seendate": "20261025T072545Z",
         "source": "GoogleNews"
       },
       {
@@ -369,6 +349,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Fears grip Israeli markets after Netanyahu's banking sanctions warning",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlFlTXFMMGFPRHRaU3RrcWZHU3FFSkRIWG9HX1N0YkJ1UlZha2tHaTdaX3draEg4TTA1cUl5dE9wYTJsYmZzdFY3QWRCem5oOXhNVzRGejVGM25GMWF1LVktLTZ2eDlvVkFiQjgxeVRBeG1OQ3pDYTh1NlkwUkRTZWNBdm5mTk53amItUUFSSVRNZFp0TGhqLXRKSnRLVXdzb20zSUs1Si13eXZnRFE?oc=5",
+        "domain": "www.israelhayom.com",
+        "publisher": "www.israelhayom.com",
+        "publisher_url": "https://www.israelhayom.com",
+        "language": "",
+        "seendate": "20261025T045051Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Man City Sanctions: Would Arsenal Fans Be Happy With Relegation?",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRjdSV0tkZHBUYzdlZ05ITFlyUXd0bXZpbVp5aDlCaW5KN3I4T210Z0oyVm9rNEpHelo0ejd4S0ZtQTcwMWdiRHNCTTRya2tFaGozZ3A4S0xZWHJNZHdHQW9NUmFnVThpaVRKTThndzFsbDh3SGtZYm03eHJWZ1lBMDVhUzBQMW8?oc=5",
         "domain": "sports.yahoo.com",
@@ -379,123 +369,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNzZONHNudUlsZUZGN1c5dVZtaTRIXzZlVVJDRkpock9WVEExbmNKdl9JLWZhSjQxVHpDLUJ6M3hnNXJIeFJNTWJSWnJQc3duc2VvcDJ0QzRpbzZlZ3lJVnJDQi1hbkY1cF9QbG5vc2ZhNVBacVBBVUhBN3JnamR2b1NjSi02UzZDQXJ0TTFKVmpQUXAtQ0RYSGdQNU9TZ0hkdkNQeXZKUG9hRFFlblpBNTdid1Nzc0UwZi1nd09HRDA1QdIBxwFBVV95cUxQSm94MFV3UHdyM2dGSHBlajNTS2lYLUhtUHlNVkFrdW9XYUhQUDJjaFM3WlByc3pxb3FMWHVwY0xFMUlSWE5EYTZQaENxNEZEUXVVdVcteWFHeU51QjFTVEJsQi03YmhsM2h6NFczZk5MUjN3UWxEd0VaN3YzQ3paa25uUEVNVVM1S3YxN3B3UVpWaGhfcmF0cWRQdFpodVBfV2NZaklHOVRlX285V3RvelEtOVRIN25Ra1lUZk53bEdmTWFwZmIw?oc=5",
-        "domain": "www.pbs.org",
-        "publisher": "PBS",
-        "publisher_url": "https://www.pbs.org",
+        "title": "Bank of Israel rejects Netanyahu’s suggestion to circumvent sanctions with cryptocurrency",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQmJsWWQ4ZW0tTFo2NjN0ZW90SkVrMXdiVTRhX0ZIQmQwRld6Y1hqRnRPTDR6cWlGUXE1bGdYZmdhRHRNNUJPck1Fd3ppUjhNSDFiLVBIUkZhMlJLRHhVTkNPM0pzcnVJWVRTWndYcmtKYlhfQWpXQXNQZkllZ2RZaEtxaE1FeTZDS2FtaDBzRDBxc2RKRElJNFlJdk9HZVU?oc=5",
+        "domain": "jewishinsider.com",
+        "publisher": "Jewish Insider",
+        "publisher_url": "https://jewishinsider.com",
         "language": "",
-        "seendate": "20261017T070000Z",
+        "seendate": "20261025T115452Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump doubles down after waiving new Russia sanctions, calling it a ‘very good decision’",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUF6amxpY2lMcWdiQ09tRkNjZjZGWjFyemRBN2kyQmx3RUl2ZlN6cDJLN3ZOeFBYZEJucUpHNWpNRHpsZFh4UmkxMFZ6ak1OQ1pVemhGaEtSOGJENXljeVItbGlZUUxMNG5LSmNacXZHSjVoOTRyLTZrcTJmZ2prSWctNkE2eEYwcG15bWJnQVlWUkNKdUZKODVZSHhYellTLWNFZnkzMEFiT1FKak1adHVqV25DLUFWWC1uMDIyc0dYX0lSVFRmdDRnUVlEd094?oc=5",
-        "domain": "www.nbcnews.com",
-        "publisher": "NBC News",
-        "publisher_url": "https://www.nbcnews.com",
-        "language": "",
-        "seendate": "20261017T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "UK urged to impose 'full sanctions and political isolation' of Israel over situation in West Bank",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOODM1dmNZLUFXTHBYWXppSTlxdFNheU82TDdsV0U3Szc5V2NRVU1JeUpaUk1YcXBINC0xUGgxMU5CVi03MmdqX0VLS1ZYMnF0M0h2bklTQkF2M0tyaTZwc2VONi1Zb1dKeUtVNU1hcW9aVDBVT2VqdjdxOHlwTGxOOERyQjRBaDN6MlNrRXZkeGlxNXVzMGo0Z3BqWjFFUVZOSGN5V0ZNU09PNTl2SU9RWEhJTElDMm9XRXJSVjN2TkhSRHR6VG83VzZ6dk13Y0Vy?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
-        "language": "",
-        "seendate": "20261025T040808Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Defense Ministry sanctions UK registered company after transfer of fuel to Hezbollah-owned company",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pd2xuUENtcnVQMzdPb1NHWnRsc3JndmZwTnM0WFVEMmpKX1FiTTJTalk4RXRyQVp6ZmM2V1BCZTJQRG5OQmdlYjZEMk1SWUVKb2k1Y01GYU1PRVBq?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "language": "",
-        "seendate": "20261022T160942Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU05rd1A4S2U0czlXZEV5Zkt1c3RsUTV3R2tYUmRsMmpPTEVVdDlzZkVKLWozQmNpVERiaGgzMGVJZ1dnZ3VoUE5UVlNubTZxd2h6Z2MzaC1fLVJ6RHV4YU9PZnZpQjZLZ3ZvVERtd2dFbC1YNVhOT2k5MFZaSzhjVFBLZjgydjlUZXRRcno0SGdYNDZRM19wU1ZPQVoxZXRoNGgzb0IwMDVleXNXRHM4WHdlbkxXXzJxcEHSAb8BQVVfeXFMT2hnazdQZDBMaThLMlcxUHluaXZKMHNUV1U5NXcyM3h3elV3MFNSVWt4V0tvNm9kSEVPMVJBTmR4UXc4alZYVXpxNFBEcHR2VjZmMVQ3UmVMWmdjVHQ0VGdWSDE4ejdUVlAxMTF3dEJUOGVRVVZTd2tfaEN2a19YX3dONVQ0TXdOYmVYbVByNjNCbWktcjVyd0pxUEJxVzNCeEg3bGtfcEo2SFA3aHJEcVpyRDhud19kMl8yWVJ5MXc?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261023T100141Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Nicki Minaj Asks Judge to Reject Ex-Employee's $3,900 Sanctions Request in Assault Lawsuit",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMkduRmREYWh3SDlaNEN5SDA1aC1EcUloQzFsVFRvZ1pKSy1UMV9DOVR0NC1jNEFfMU4wLXdPVHdQd3l3UWNiaWQwaVFIU2lHd0tCd1BYaHNOZzdqclFZSVo5dGkzVWt5bG91QUJwUVJ4Skp3SDZhYWVJZ1lWd2kwcEJOX1B4bUhoblJnanZ5Z255UTNWMGsxNV95VmpkZkNhMmJFelNEaHctREpwaGc2azJ5RTlSZ1N5bW9VTjNXSFI1N19wbFdiVjJualRFc21aM3I4?oc=5",
-        "domain": "www.dancehallmag.com",
-        "publisher": "DancehallMag",
-        "publisher_url": "https://www.dancehallmag.com",
-        "language": "",
-        "seendate": "20261025T122939Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bank of Israel against Netanyahu: Crypto cannot be used to circumvent sanctions",
-        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPNnpGUmFZZUpkZHhDRGJOMkhaQjhaQ3VETFI0V0Z0U25OelhvUVhWU3lPMUo3a2tFTzVMNXpyby1tUW1RRmNtWEhSUHhzQ3Y4aWNWVTZmOUdQWmdRRkpvaXlNMUpxQ0VqNGhtUWRKZWt6LU5xc19LTDdkZzRmM3FzTnZxcE9XMVZMQ2FaQkxYN1RuNUxZcEIxTlBHYm50Y1hzMkU2STk0WHlWcXhfazM5ck53UThvdG9ReE9LOXN5SEdOa0htbDByejhyM2dlQVV4Ry1FdmE3RmtrZW9HVEtQVDdRcFctQng1NElld0FXUFB3VDNpWjJiVHhad2pJRnJlUUhLQkpiRkdsZko5b3pIYzRYODZKa0MyM29sdVZPdElPT2hWcUNzVm9GejFvNko2?oc=5",
-        "domain": "www.haaretz.com",
-        "publisher": "Haaretz",
-        "publisher_url": "https://www.haaretz.com",
-        "language": "",
-        "seendate": "20261024T192400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Netanyahu: Israel needs to prep ‘alternate economy’ to circumvent any global sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUzZuUTN3MGctZ3ZXYnRyanNKVWRydGhBUXFmYXVLOVExVWw4Z2FtU0h3ZEU0d2tQUHBKbm9WZ0xEcFNVOUpWY3dJWC1SQUtrWnE1dTdQWGtXSmdnOWktZTc2cGxrQTBJR3cwR2xQcFROUmtWZ2JXVDRQeFdyZnpud05PZ1c1VndWb29ueXc3NTNnbnZiU2xQdWU1Q05lMDhVWmtBaTQ4dVRueDhsYVhfRUhtU3BiOHhJbXpmY1J6MmZRb2NJWkM4RQ?oc=5",
+        "title": "Bank of Israel, opposition heads pan Netanyahu’s proposal to use crypto to evade sanctions",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzZseW5SYWdYR0hrUjB4ZW1jQ056bVUtbTByOG12S2lUUklwV1BrUzZpNTBsaW1YNjlwZEJtMnF6Vno3NDMtTzFjTnNVSGFualZPNGdVRlhZNElid192c2U1ME45My1IeUZZQ0xjYXFVdWFkMk52YndxR0dwVm9YU1V5SGExb0ZUcTM0YWs2TWJwYksxSWJRQ1VCLXBsT3RfQzFsZF9VOXV5RGRmRXlOMkVB0gG3AUFVX3lxTE9jNXV4WE5nVUJjYno0dFF2ZUNRcF8wcEtMaHhfeVA4a1JsVUVPQnpIV2t0bjk0VDZ5UndyQkxnSEV6Q1lnWUZFdllERTl3WGVGb09hR0pJTlA4aXJVZ0d3TjhpYm1GUldScHM0NjExY0VzdG9GNUxvTUF6Z21TMk1GNWh5MWFXaU91ZkpNWWpQSXNyZ3hFQlljamZXUk1WYi0xSmtsWUlZRjItbndJanVzX2FZNVhPWQ?oc=5",
         "domain": "www.timesofisrael.com",
         "publisher": "The Times of Israel",
         "publisher_url": "https://www.timesofisrael.com",
         "language": "",
-        "seendate": "20261023T154000Z",
+        "seendate": "20261024T190000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump’s Words Used Against Him in Alaska Lawsuit, DOJ Sanctions Sought",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOckROVHNyZFZMS3JLMFhmeTJhelpzS0F5S2pZLTI1N09tQXctVGI3Znpma1l1Zi12TExaTnUyMFV1SU41YlVHWG9nZ3JRVlRvdGxrZFJiTVRzb0x4MGxncFdaSE1mYkhaVHVnbW9lTENyOXNVVURwMVB3Q0xOME1tMDNTU2ZsdE5aMVRRQ0QwTlB6eVJsQ3h2X2R6M3E4ZWJRcFJUeg?oc=5",
-        "domain": "www.newsweek.com",
-        "publisher": "Newsweek",
-        "publisher_url": "https://www.newsweek.com",
+        "title": "Putin acknowledged the painful impact of Western sanctions on Russia's economy",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNazdHS20zYTRJTXg0dFVybFluVGVRenZFUXEtbURjYk1KQWNtbm11cldjVlB0QUEtVWllaDVCblZhSWFvSDF1OWZIZmYzYWEwU013ck9BOXZDbEtaN3VNeVplRWtVdlFac3lqcjJiTnExdjZNN09ULWpyTGJITlVQUC1La3otM0pCRVIzRjl3QkpIcDVxOGtwVk1RTzV2Zw?oc=5",
+        "domain": "ua.news",
+        "publisher": "UA.NEWS",
+        "publisher_url": "https://ua.news",
         "language": "",
-        "seendate": "20261024T124300Z",
+        "seendate": "20261025T143916Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Top economists express 'grave concern and anxiety' over Netanyahu’s proposal to use crypto to evade potential sanctions",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS3hlMndhaUhHcGU0Q09KbUM3aUo2OE1wVFNMNWZQUjVIVjctZEhDdUJMMFZ2d0wyZllGc21FQ2ljUkJxWUwyVHJ1YmUtaGtSa2FLTVFxZkFCc2xzWDVlSGpkNGh5VFNBajNMNDg0dzdUNWMwWXBfeW1QX1pVUG50VzJYVDZ4N3Mtc3dkMzgtYVMxMGlaWEtVZmMwXzJPenF1b0pRSTRhYU1OQXJHVmc5dm9sd2dFTnpGT2pxS2duYU1ESXBxU2treU5QRi15al82Mjd3M240Y2piZC04VWpkd2FoMVJVRDZCQWFnZmVwbG03TUF6?oc=5",
-        "domain": "www.timesofisrael.com",
-        "publisher": "The Times of Israel",
-        "publisher_url": "https://www.timesofisrael.com",
+        "title": "Netanyahu Eyes Crypto 'Bypass Economy' as Israel Sanctions Loom",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoczVHaUltVUxjbDdmbU85aVByanl4ZHhTRi00X0JIRndxckloNGdPcGo0RGQwNTJXZTRkaFhMS3V1eTBZVWNoZ2gyTWtwalNGNEpvVVhyanJhek1pOWpvaGdpdzM?oc=5",
+        "domain": "bitbo.io",
+        "publisher": "Bitbo",
+        "publisher_url": "https://bitbo.io",
         "language": "",
-        "seendate": "20261025T082105Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MGlLYl9jeVFRcDdiaWJaSWtUdkpoUHJaczN0bldDUDY3ZW52TEh2QmZZOHU1X1JmVVNNMm9YbjdlaDNGUDFxYjAxdGlsYWxuRllHanZGMXhUWmtCUy1oZjcybFNhRnlJdnRJT0dVaXJ2UQ?oc=5",
-        "domain": "www.npr.org",
-        "publisher": "NPR",
-        "publisher_url": "https://www.npr.org",
-        "language": "",
-        "seendate": "20261017T070000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Executive Order Implements, and Immediately Waives, New Graham Act Sanctions and Tariffs Targeting Russia",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX1k5dE9mT2FSRWpzZm1KSUx0QXI4aWVFeENScFFXai1VM2trbExNRmxWaEtORmY2bTdEQU9mcVpRdEhyRWhkQ3UtYllhZzlPQlM0YkFKeE1ZSnFnRHZkTHpTNWw2a0lwelVobzdWdExWTnJqdWJ5UWlCa05kd0piSjY5LXBnVmJ3SzU0aXdLVGZoZDNGQUFBSmhMRXNIeXVic0dvUERvdHRYMklsNlh2a2tvby01TFBpblVtOVgtSE5raWtoclZPTXlCZ0VGWGRNU0xDdQ?oc=5",
-        "domain": "www.swlaw.com",
-        "publisher": "Snell & Wilmer",
-        "publisher_url": "https://www.swlaw.com",
-        "language": "",
-        "seendate": "20261023T201511Z",
+        "seendate": "20261025T115500Z",
         "source": "GoogleNews"
       },
       {
@@ -509,6 +419,86 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Trump doubles down after waiving new Russia sanctions, calling it a ‘very good decision’",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUF6amxpY2lMcWdiQ09tRkNjZjZGWjFyemRBN2kyQmx3RUl2ZlN6cDJLN3ZOeFBYZEJucUpHNWpNRHpsZFh4UmkxMFZ6ak1OQ1pVemhGaEtSOGJENXljeVItbGlZUUxMNG5LSmNacXZHSjVoOTRyLTZrcTJmZ2prSWctNkE2eEYwcG15bWJnQVlWUkNKdUZKODVZSHhYellTLWNFZnkzMEFiT1FKak1adHVqV25DLUFWWC1uMDIyc0dYX0lSVFRmdDRnUVlEd094?oc=5",
+        "domain": "www.nbcnews.com",
+        "publisher": "NBC News",
+        "publisher_url": "https://www.nbcnews.com",
+        "language": "",
+        "seendate": "20261017T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Defense Ministry sanctions UK registered company after transfer of fuel to Hezbollah-owned company",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pd2xuUENtcnVQMzdPb1NHWnRsc3JndmZwTnM0WFVEMmpKX1FiTTJTalk4RXRyQVp6ZmM2V1BCZTJQRG5OQmdlYjZEMk1SWUVKb2k1Y01GYU1PRVBq?oc=5",
+        "domain": "www.jpost.com",
+        "publisher": "The Jerusalem Post",
+        "publisher_url": "https://www.jpost.com",
+        "language": "",
+        "seendate": "20261022T160942Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "'BibiCoin policy': Netanyahu faces backlash over plan to use crypto to bypass sanctions",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSDNKQURaRFlReV93T0JGV3ZNcVA4WDJueGFMWWlHbnNxRW0yckRRRDJwQmgzemtOT05Fd2hlalpldnJPQ3pYcWdwWTRGaEtiRF9hUlBPVFMzV1FSWUptbFU5alFka0dYZUtkdFIxN0pjc0dYMXJwUGtuQWZEbzVNQlJ5V2JlU3pub3A1dHpqMTJnWTN6eXAwSTQwX3kzLWowMFZ2VjJqek1WMUpsUlQwT1ltQkg2LXY1YVEzQjJOcmRud19rOWtNdlRxQTFWWXVfVFpZZkxsVVo5R1VXNjJRaElpUVBkRjNBSVdoM2s3SU1mSGlxS0lv0gH8AUFVX3lxTE54enVhb2ZKX05CQ3A4OXRhMjVjdlpKRHVoV1NyRW1wb3pwVDRzaGNSM3BDS0w2aFBVazNGZEdyUFFCSzh0OW9lRHJVeWR1eWRQSXVmcnJNOG1rdWFWNi1NcnFnZDVjOTZLMlZVTXF6Y00tcTNVZzJhRG5jRV9tY2JXaE1FTVpNR3VQSll4WmxKMVB6aWFiUm9LeGhkeE1JYklqcW4tWUUzczdoQmt1NGpSdE1mSDBzbU1Sb0NtTnFvQWtoZXZzN3NlNnR1aWJrT3ZBQkp4R3AzdTlnQ1g0aVc5U2ZhVU9WSEZVaXZVTTBDVDF6dk1WaWp0UTZHWQ?oc=5",
+        "domain": "timesofindia.indiatimes.com",
+        "publisher": "The Times of India",
+        "publisher_url": "https://timesofindia.indiatimes.com",
+        "language": "",
+        "seendate": "20261025T163700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Israeli central bank rejects Benjamin Netanyahu’s plan to use crypto to evade sanctions",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUo3Rnllc2dMYUJwa2U1anpZUEVrbTZzNy1vWU5mZ005ZVJtUGJ3Rzl6Y1NodkZhNGNmYUxEQ3g1dU10WTJZNVVOOWRuU0gySlIxVm9qQ1pYZ2RfMEt0WHRIbnR6NWhrVENjRlhvRjlzZkxLQUoyOFVpRzFXcTItdmNtNWQ?oc=5",
+        "domain": "www.ft.com",
+        "publisher": "Financial Times",
+        "publisher_url": "https://www.ft.com",
+        "language": "",
+        "seendate": "20261024T191948Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump’s Words Used Against Him in Alaska Lawsuit, DOJ Sanctions Sought",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOckROVHNyZFZMS3JLMFhmeTJhelpzS0F5S2pZLTI1N09tQXctVGI3Znpma1l1Zi12TExaTnUyMFV1SU41YlVHWG9nZ3JRVlRvdGxrZFJiTVRzb0x4MGxncFdaSE1mYkhaVHVnbW9lTENyOXNVVURwMVB3Q0xOME1tMDNTU2ZsdE5aMVRRQ0QwTlB6eVJsQ3h2X2R6M3E4ZWJRcFJUeg?oc=5",
+        "domain": "www.newsweek.com",
+        "publisher": "Newsweek",
+        "publisher_url": "https://www.newsweek.com",
+        "language": "",
+        "seendate": "20261024T124300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Netanyahu: Israel needs to prep ‘alternate economy’ to circumvent any global sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUzZuUTN3MGctZ3ZXYnRyanNKVWRydGhBUXFmYXVLOVExVWw4Z2FtU0h3ZEU0d2tQUHBKbm9WZ0xEcFNVOUpWY3dJWC1SQUtrWnE1dTdQWGtXSmdnOWktZTc2cGxrQTBJR3cwR2xQcFROUmtWZ2JXVDRQeFdyZnpud05PZ1c1VndWb29ueXc3NTNnbnZiU2xQdWU1Q05lMDhVWmtBaTQ4dVRueDhsYVhfRUhtU3BiOHhJbXpmY1J6MmZRb2NJWkM4RQ?oc=5",
+        "domain": "www.timesofisrael.com",
+        "publisher": "The Times of Israel",
+        "publisher_url": "https://www.timesofisrael.com",
+        "language": "",
+        "seendate": "20261023T154000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU05rd1A4S2U0czlXZEV5Zkt1c3RsUTV3R2tYUmRsMmpPTEVVdDlzZkVKLWozQmNpVERiaGgzMGVJZ1dnZ3VoUE5UVlNubTZxd2h6Z2MzaC1fLVJ6RHV4YU9PZnZpQjZLZ3ZvVERtd2dFbC1YNVhOT2k5MFZaSzhjVFBLZjgydjlUZXRRcno0SGdYNDZRM19wU1ZPQVoxZXRoNGgzb0IwMDVleXNXRHM4WHdlbkxXXzJxcEHSAb8BQVVfeXFMT2hnazdQZDBMaThLMlcxUHluaXZKMHNUV1U5NXcyM3h3elV3MFNSVWt4V0tvNm9kSEVPMVJBTmR4UXc4alZYVXpxNFBEcHR2VjZmMVQ3UmVMWmdjVHQ0VGdWSDE4ejdUVlAxMTF3dEJUOGVRVVZTd2tfaEN2a19YX3dONVQ0TXdOYmVYbVByNjNCbWktcjVyd0pxUEJxVzNCeEg3bGtfcEo2SFA3aHJEcVpyRDhud19kMl8yWVJ5MXc?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261023T100141Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Executive Order Implements, and Immediately Waives, New Graham Act Sanctions and Tariffs Targeting Russia",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX1k5dE9mT2FSRWpzZm1KSUx0QXI4aWVFeENScFFXai1VM2trbExNRmxWaEtORmY2bTdEQU9mcVpRdEhyRWhkQ3UtYllhZzlPQlM0YkFKeE1ZSnFnRHZkTHpTNWw2a0lwelVobzdWdExWTnJqdWJ5UWlCa05kd0piSjY5LXBnVmJ3SzU0aXdLVGZoZDNGQUFBSmhMRXNIeXVic0dvUERvdHRYMklsNlh2a2tvby01TFBpblVtOVgtSE5raWtoclZPTXlCZ0VGWGRNU0xDdQ?oc=5",
+        "domain": "www.swlaw.com",
+        "publisher": "Snell & Wilmer",
+        "publisher_url": "https://www.swlaw.com",
+        "language": "",
+        "seendate": "20261023T201511Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Trump puts new Russia sanctions that he recently signed into law on hold, citing national interest",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnJQRmxjVThxTzVHd0pFZ1kwcWtlM0Z1SWUxNVBnRDFFNzBsZmp0TmNFYkEwai0xSW8xcDNvbXpMRU5rU2hoZk1DZ2FuemtfdGVYTlpXN3QwZjV5emVoQlhZa0tDQ0tXM2d1emJRNjJvSHFJYTkwc0pBc1NYc2VyaVVrb2tEb0VEUW9Ka0dhRjM1WER1?oc=5",
         "domain": "apnews.com",
@@ -519,13 +509,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "4th District candidate Robert Murray not convinced Russia sanctions effective",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ2hVTUg0RnJaMVlIS3JGZzNHdUs5NEZJM3VTYjB5ZFlGQ0R2cnQtVGtHQUliRERXanU0RGcwekFTWmJja0pQQUtvVGlqdDk5X013QkczSTRhUUN0aHUtNHZnSW5wVHdwcm5GNjlOUUhhdUl4TW9WRldoN3U3ci1CVENnOTJOaG43emdSRmhlM0VCY0dhakllUG13RXZSVjZpSjNncWo5T19OQQ?oc=5",
-        "domain": "www.wtvr.com",
-        "publisher": "WTVR.com",
-        "publisher_url": "https://www.wtvr.com",
+        "title": "Nicki Minaj Asks Judge to Reject Ex-Employee's $3,900 Sanctions Request in Assault Lawsuit",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMkduRmREYWh3SDlaNEN5SDA1aC1EcUloQzFsVFRvZ1pKSy1UMV9DOVR0NC1jNEFfMU4wLXdPVHdQd3l3UWNiaWQwaVFIU2lHd0tCd1BYaHNOZzdqclFZSVo5dGkzVWt5bG91QUJwUVJ4Skp3SDZhYWVJZ1lWd2kwcEJOX1B4bUhoblJnanZ5Z255UTNWMGsxNV95VmpkZkNhMmJFelNEaHctREpwaGc2azJ5RTlSZ1N5bW9VTjNXSFI1N19wbFdiVjJualRFc21aM3I4?oc=5",
+        "domain": "www.dancehallmag.com",
+        "publisher": "DancehallMag",
+        "publisher_url": "https://www.dancehallmag.com",
         "language": "",
-        "seendate": "20261024T173625Z",
+        "seendate": "20261025T122939Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump suspends Russia sanctions as deadly attacks plunge Ukraine into darkness",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWM0U1pSZlpoaXBTT1dYNnhMTXZqSHFBZ2tBSFk5ai1wNTEzNXBnbzJnX2pvRTFib0lxSjFPSE5mWnd1NDItelJMYlNuOFBBMU4tcUdDYUFUQ1IyNEZubTJQZ1FrREhNaVBFRER5V1ZLRGwzOVA3Vkl2RWNjVjJSbVRyRXZ0X19OWVZZcGV3?oc=5",
+        "domain": "www.vaticannews.va",
+        "publisher": "Vatican News",
+        "publisher_url": "https://www.vaticannews.va",
+        "language": "",
+        "seendate": "20261017T070000Z",
         "source": "GoogleNews"
       }
     ]
@@ -552,13 +552,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Ukrainian civilians killed in Russian attacks following Trump’s easing of sanctions",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR2x0QTZJZXFVT0Y3YW1tazVQeUU5TUcwd3NJcGU5YURnSVBLSWlFd2tSalpTdjVOV002SDB3b29XOUwxVUxJUC1rSXluQWdYREsxVzE1VHhIVS15ZEdYNUdkbDFZSXJqeDZXTlJSandRZHp0MldiTmxfS3djSFlpTEZfbFNzdUZlN2JHTG51Wkd6aG9UenFQaDFiUVFNNm94ckg4dWs3TlZkYmx1ZzB1NVJESGktbk9leEVDVTJWZGY1QVd1dTVCdEdJVmpwN3JrT2lTQzNEVTZOcVJZV3hHd1oxT211QWt3U2tWbFlzdw?oc=5",
-      "domain": "www.scrippsnews.com",
-      "publisher": "Scripps News",
-      "publisher_url": "https://www.scrippsnews.com",
+      "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1JxQlNveTZSckpqLVR5eFJsci1WWF8xQVZteUV0ZFhqd0JWa1JaaGUtUmNyM00tRlVQcHdfcWZCRUFpTFdpVDN1TF9BazN6T2xXOHFPYmYzam4wUFNvMXNIWXBYRTdTU2xWQUtmTXlfcEZhQU9YN1N4cU43aWNjRDFreGZlRUpOM3BuWUE1VHhhODZSX2dlVm9JeEk5VXM5R19VSlh3b29sQXFa0gGyAUFVX3lxTE1PSXBpQXVLOTJkbW1jTkUtRGN2LXpoNkZkWjREYjZKNTlqTUdva1F6YnJTbFJNZUZUdVhsVHp6U2lxc0FRNDVpaFI3VkxOSWxQamgzcG52VlkxWEx4MGxoN2xHSDBjbzRjWDI0NUxxUG1KMjMxQUZYMnRmenZjSHJHeTExNzVrUzM5eHFyTk1oYWtjSm1hVG5aZ3dYTGVFdTRyNUcxOVFabW9PUHdXMl84SEE?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
       "language": "",
-      "seendate": "20261025T131243Z",
+      "seendate": "20261025T145113Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Cryptocurrencies cannot circumvent sanctions: Bank of Israel responds to Netanyahu",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMzk5VkZIQ25BSXB6emdUay1lemhuQS1lRHRTOTZab09PVzFmcG5RVm1keTRqZF8wZjVqazhzUHdEdWl2Tm5tR2JLd1FKYW1IY0tOYnN5X0RSUGsyeEgtTnZhWUN4ZlFkQ3JyM0dJTWN2c3dnX2QzT0g4aUxvZWNuZWl4RzFpUTBXZ3h1dWtEdkRBeTZnRDBScFRZLXhTQzdXS19aUUNXVy1qQ2l1N1NGVDJ4Q0ZFeU5ibFI5a3Z5QUNvRmJa?oc=5",
+      "domain": "www.aa.com.tr",
+      "publisher": "Anadolu Ajansı",
+      "publisher_url": "https://www.aa.com.tr",
+      "language": "",
+      "seendate": "20261025T074555Z",
       "source": "GoogleNews"
     },
     {
@@ -582,33 +592,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUF9ySjNjakdaNi0yUV9paGtjNlAxbGN5S1ducXEwRVZoNlpMWlZIclVpYWlzUUY0YndKUWhFNF91YWJUaHdIU0hoQWtGTkRzZUxQMEg3MFVzNUxGWjQ4Z2RxOVFELUdxVzJkbGp3WExNSEhKeS0yYUxaQUxhZUlVWVJmUjRaTzdydjk4RUNfVnZaUW54SUMxSjB3d2R0M1NPXzNOc0QwTzBELWvSAbABQVVfeXFMTlFUeF9iUDRPTk1rQUhRb01EdDBteGt4T0RKb0VfeWJxZVRmX3VMdHJqeExWVlRfMHJsMm5yUnNsMURQYUkwaU1DaDlYSGlHNEdvcjMyX0dvYkZqTXhXYmJhMWdWTjNPdnV4NUFvWnhSWnN6MDZibEtUblJuZTlJeFpUQUNtSjNFY29KbnFDNEI3S0dKYUxRc1Q5a0dRZi16aFc3RnRmYkJzc3gzT00yZlI?oc=5",
-      "domain": "www.aljazeera.com",
-      "publisher": "Al Jazeera",
-      "publisher_url": "https://www.aljazeera.com",
+      "title": "‘Irreversible damage’: Top economists ‘gravely concerned’ at Netanyahu touting crypto to beat sanctions",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbHB5Q2Y3cF96b3RVbDNHZm04NkRwNmRZR0RtM2ZQUFlFNkd5TUVvMlZqZXYtRk4yVDBTQV9yMkNEdG9PZ2NmUm1tWGJTbjlhX3pyR0ZQRTd3ejF3NURMMHZoRFUxbzcyNU1VQmhyZGFYckFJbGx5ZndibGdVaG1Ob3ZQRGN2RG1ENGdzYXY5Z2xpUzRDNEZ1aDhSR1ZEMDVMdGpNTElZU1UtSlF2S1HSAbMBQVVfeXFMTmQ5RnhENjNtb3Zjem9TWVBTVlBsRjlQUzd3b1pIaGFua1FtMnkxRnVUZjlPMEdieTA2bFo3cDY0b01JWE5Qc0JUa2l2XzhOMTlfbDJRUDM3bFRKMWJ1Z1hhUl9WeWZCXzR6T2lyYWZnM2ZpdlRjTWEyd1A0OHBIQmJiUnMxOEtDenpDVVA3QzRaT0ZhR0czN3BITmxpSWJybENiRUhSS0Y4QkRNaUtNalUxNDA?oc=5",
+      "domain": "www.timesofisrael.com",
+      "publisher": "The Times of Israel",
+      "publisher_url": "https://www.timesofisrael.com",
       "language": "",
-      "seendate": "20261021T195444Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Cryptocurrencies cannot circumvent sanctions: Bank of Israel responds to Netanyahu",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMzk5VkZIQ25BSXB6emdUay1lemhuQS1lRHRTOTZab09PVzFmcG5RVm1keTRqZF8wZjVqazhzUHdEdWl2Tm5tR2JLd1FKYW1IY0tOYnN5X0RSUGsyeEgtTnZhWUN4ZlFkQ3JyM0dJTWN2c3dnX2QzT0g4aUxvZWNuZWl4RzFpUTBXZ3h1dWtEdkRBeTZnRDBScFRZLXhTQzdXS19aUUNXVy1qQ2l1N1NGVDJ4Q0ZFeU5ibFI5a3Z5QUNvRmJa?oc=5",
-      "domain": "www.aa.com.tr",
-      "publisher": "Anadolu Ajansı",
-      "publisher_url": "https://www.aa.com.tr",
-      "language": "",
-      "seendate": "20261025T074555Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Ex-sanctions architect: Israel can’t out-crypto Iran",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2NFa1RNMlVjQ2UxWWppbHZnSk1qYmo5NnVuTTNId2gwSWhMU2tfbnR4MmlYMDN4WDhnMzI1QkhNRkwxVWstdFE2ejhEenNMaG5jU3ZiZldMcnN3NDhBRHJqbGVHLW8yNFVqVkxkTWliRExTemZSNzdNeWFZeEpMR0F6SXpRQ0F3N3BYZXI1ejhVZw?oc=5",
-      "domain": "www.israelhayom.com",
-      "publisher": "www.israelhayom.com",
-      "publisher_url": "https://www.israelhayom.com",
-      "language": "",
-      "seendate": "20261025T133044Z",
+      "seendate": "20261025T131617Z",
       "source": "GoogleNews"
     },
     {
@@ -622,6 +612,16 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Ex-sanctions architect: Israel can’t out-crypto Iran",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2NFa1RNMlVjQ2UxWWppbHZnSk1qYmo5NnVuTTNId2gwSWhMU2tfbnR4MmlYMDN4WDhnMzI1QkhNRkwxVWstdFE2ejhEenNMaG5jU3ZiZldMcnN3NDhBRHJqbGVHLW8yNFVqVkxkTWliRExTemZSNzdNeWFZeEpMR0F6SXpRQ0F3N3BYZXI1ejhVZw?oc=5",
+      "domain": "www.israelhayom.com",
+      "publisher": "www.israelhayom.com",
+      "publisher_url": "https://www.israelhayom.com",
+      "language": "",
+      "seendate": "20261025T133044Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "ICC prosecutor says court making ‘significant progress’ despite US sanctions",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzZDWVBLT0diMGZ3Ymk4TTRvUFV6SU1BemJNc2k0ODN4OW1lTDhyeTlabXVGQUFvajRhSEF2eWJpMTNUQWphdzZ5dkVQQloxSEl4amR4OHFwYnRuNkZ3WUpHWkE2RHhLbThVN1M0X3E3VldJQzRlT003VDZZOXN6LURJOV93TE9fa0czVnFyUWFET2RYUS1vOXZrdGY1Nmhyc0FTcW4tSzNXMkxiaEhr?oc=5",
       "domain": "www.theguardian.com",
@@ -632,13 +632,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "“Immense and irreversible damage”: Economists warn Netanyahu over sanctions remarks",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PenVIRk1rX2pBS3Bna0VNWVQyREkxRzcyZjZsdkJTekhtbTZsV1RNQ0Fub0poMTJHU3RIZUlNQXdZM1RZVVdOVDZENnhnbWRLNjRDMm0tLVV4VFhGLWVEa1lUOC1EVzQ?oc=5",
-      "domain": "www.calcalistech.com",
-      "publisher": "CTech",
-      "publisher_url": "https://www.calcalistech.com",
+      "title": "Netanyahu's crypto remarks fuel Israeli election fearmongering",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4ODNrWUF5Q05UUTVBSjlYOWZMYTV3S2VRNHFZbHNCXzhwajd1YWFTYUhra1RYV090Q3lXRGg0SldlTVQ3OFAzaWw2QjNJdUh6cGVhaTlrOF9EMFps?oc=5",
+      "domain": "www.jpost.com",
+      "publisher": "The Jerusalem Post",
+      "publisher_url": "https://www.jpost.com",
       "language": "",
-      "seendate": "20261025T085200Z",
+      "seendate": "20261025T175003Z",
       "source": "GoogleNews"
     },
     {
@@ -652,23 +652,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Netanyahu Seeks Blockchain Backup as Israel Warns of Banking Sanctions",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSnk4Qms0bHlKNExoQTRkSXltbWE2cjFScTdWYlM3b3MzdlhmWEwtOFRON1NNdHpKVXZ4LWt1bGFyaGpnWlVsTjdjNUtua21SUVhINjg3S3dPWGlLZ25ic0lNUWdUSkRTQ0dpajFObm83dEJoYjBvS3lSWDBDNkZwMm4yM3R3cktBQU8wQ3lFWVo3UU5iclBBQWVDdmF5YWUyTTNLeHU5UThWdm9wQzcybVYyQ1c2Wi0zYkhHUTNwQQ?oc=5",
-      "domain": "bitcoinfoundation.org",
-      "publisher": "Bitcoin Foundation",
-      "publisher_url": "https://bitcoinfoundation.org",
+      "title": "“Immense and irreversible damage”: Economists warn Netanyahu over sanctions remarks",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PenVIRk1rX2pBS3Bna0VNWVQyREkxRzcyZjZsdkJTekhtbTZsV1RNQ0Fub0poMTJHU3RIZUlNQXdZM1RZVVdOVDZENnhnbWRLNjRDMm0tLVV4VFhGLWVEa1lUOC1EVzQ?oc=5",
+      "domain": "www.calcalistech.com",
+      "publisher": "CTech",
+      "publisher_url": "https://www.calcalistech.com",
       "language": "",
-      "seendate": "20261025T084458Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Netanyahu: Israel should ready for global sanctions, use blockchain to circumvent them",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUi1PLVNNZWZQMUFaMXlfZVA2Y3Z6aHFBcmM4T1ZVbmdSYkJKV0xVd2dBNDduZElvdGF1TkI0dVlwXzhiZGExbGZkZUJpYjVNcDRNakRjOVhkQTFqZ3FjaFM3NGRjYmxrTlJjWHBtZ1hUUXNwUC1rTk9ES2t6aEdMQjFXNEZSQ0FNdDNWUERocThTeWdiM3VBUkRRY0dlQWdudE0zcjZTb1NmRmdmN2ZsMFczTDBoQdIBuwFBVV95cUxNdjNhSU9mZVkzUjhhb09hd1JCcUNZelk3VkJLZGhMSVBfN2JhV0NPMzFYSTl1RU1VSTJKT1FoeldCUWQ3Vzd1ZXpJTUFCVnFGWmFOb0NyaUxUajQ4UUhrMUotejJ3VGFnLXVxVW82S3VWaGVueFpkWWlSSHoyZWFZc0pWcVQ2X0l6aUpHVGdvVjNjdjZ4cnZvNExQQzVhNUlYYy1GWnFZRGFtNlJqMFJNTnJtZGp3T3drQ1Ew?oc=5",
-      "domain": "www.timesofisrael.com",
-      "publisher": "The Times of Israel",
-      "publisher_url": "https://www.timesofisrael.com",
-      "language": "",
-      "seendate": "20261023T205100Z",
+      "seendate": "20261025T085200Z",
       "source": "GoogleNews"
     },
     {
@@ -678,7 +668,17 @@
       "publisher": "Jerusalem Center for Security and Foreign Affairs",
       "publisher_url": "https://jcfa.org",
       "language": "",
-      "seendate": "20261025T115307Z",
+      "seendate": "20261025T120002Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Experts worried by Netanyahu proposal to use crypto to evade sanctions",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSHpJSW1HX3NGcnhZU2huUGtiRG1wLTVEU2FBRmx0WHBUR1NPb1J6aWgwVVpPT2lVelA3RW02ZkFGVnM4WEVYenpMcEtrMG54TzRWWkdWMjhaT28yS3l5N1RUMDQtc2F3YVd5UW5qMGhuUjlGYi1XWmx6R2ZWZjRPY3A4RjVhV0tOUzlKQ1o3VDNEY0RTMWl3VlpCSWFPdjNpWGhv?oc=5",
+      "domain": "www.yahoo.com",
+      "publisher": "Yahoo",
+      "publisher_url": "https://www.yahoo.com",
+      "language": "",
+      "seendate": "20261025T101839Z",
       "source": "GoogleNews"
     }
   ],
