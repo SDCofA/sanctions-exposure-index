@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-10-27T17:53:44.387455+00:00",
+    "generated": "2026-10-27T22:06:00.405457+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,19 +23,39 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "47"
+      "value": "43"
     }
   ],
   "live_data": {
     "news_articles": [
       {
-        "title": "US, Cuba clash at UN General Assembly on trade embargo",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaGVBMmdCNENuYjlMOENQWWlaNFlkTGVDN01vb3Y4MGxBX21ZX0NjdnR1M183bDBjamVnMUNRRUZCVkwzbFRENEVRM0dRMll3YzRGdTI2RWpUSE9tczdXT0RqRVV5RWR5TzlPWmw4ZTZ5S2wxOFlnRmNDX1Q3VC1jNmdpMkpqeE1NTGt6UTV1bkhWX1lCS2VMeEtUOA?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
+        "title": "The U.S. Called It Putin’s ‘Slush Fund.’ Now Trump May Drop Sanctions on It.",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHZ2c2JMQTZCSDJGZWdLc1B3dkNlQW5Ici16QUU2LXdkQURUZnA3YzFHcVFZVmtMcHdXT3ZDMGZBZzZ3LVZlNFN1RDVRTU50bnUxYWhvOXI0WkxQTHFzQS10MkFJNmVFYXZzc0pNTjFNeTNaR1VLQTN4R2Z0c0oxMU9aUDBCdw?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20261027T164950Z",
+        "seendate": "20261027T173052Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mR2QwT0g0NVZldTVvd25jU1MwZHlQekpuVlR0WlM2TE1xXy1GelVrMmd3aHJFMDFjYVZuR1J3NENXYmFBeVVzaEVKNm00dlB4QmJtTGpaRQ?oc=5",
+        "domain": "news.un.org",
+        "publisher": "UN News",
+        "publisher_url": "https://news.un.org",
+        "language": "",
+        "seendate": "20261027T213002Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US and Cuban officials engage in a shouting match during a UN debate over the economic embargo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanNBZWJFV01HNTRuQ3gyRUFWYTVEVjE1Ym9wLWRLSEM4U2VGWXRBRU9OTW5JUFlRaG44UVJ4UFB4ajR6UXhEUXVoTEFTMUlaaDFRVXVmVlZsV3Q0OW1MUkI1VGVsdzdJcFRjdHNKZm1IWXc5UFhULUdFVEtfN0Y2NGU1ZVA5SmNGX3VBdklBNzQzXzMzdV9xbmZaam16RWh30gGmAUFVX3lxTE9qb2FXN0Yyb3Vxb2VWR19xaGdsbThLclcyRWpaLVhWeXZEN0pEMFAzRG0ySVhjMzhUSnVxVGhBcDBPTGZ2OENGeWt2T3NJSXpfSWxGbktMTU9DaXd2SU5VTXNuNDlrUTVHNnJka3NuOTljX2lwUy14NXo0QXp6RFloWktiQnpCMm9HcGhnblcycWUwTGVnQ3Y1RTV4aHVnYmtkd2ZwRlE?oc=5",
+        "domain": "abcnews.com",
+        "publisher": "ABC News - Breaking News, Latest News and Videos",
+        "publisher_url": "https://abcnews.com",
+        "language": "",
+        "seendate": "20261027T204036Z",
         "source": "GoogleNews"
       },
       {
@@ -49,23 +69,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "The U.S. Called It Putin’s ‘Slush Fund.’ Now Trump May Drop Sanctions on It.",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHZ2c2JMQTZCSDJGZWdLc1B3dkNlQW5Ici16QUU2LXdkQURUZnA3YzFHcVFZVmtMcHdXT3ZDMGZBZzZ3LVZlNFN1RDVRTU50bnUxYWhvOXI0WkxQTHFzQS10MkFJNmVFYXZzc0pNTjFNeTNaR1VLQTN4R2Z0c0oxMU9aUDBCdw?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
+        "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261027T173052Z",
+        "seendate": "20261025T121533Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Rosatom advances nuclear projects abroad as sanctions gaps and wartime ties draw scrutiny",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVkNhVkJocHB1c0hZbmlWSjFjMUtISnVaR1c2RWxiMGZPX2t3bkZZMDZya1QySFdUTURjOG1FM09mWGFjLURfQWx1NXFpZU9EX1dBazFzLVdZTVRoajZGNWZmUjcxVm8yaDdPS1VrN2xvMERhZ2pQUndKb3o2SmppZDJYY2ZjOF83VEhHU016NFlyVVFPZUk1dU1SRDVLakxYUXBfN1RqYjFydURBZHFjZkRWcWYxcS02Zmpxb2MzM0FyQzZ6OHM0ZUpmUXEwVllaaFVJ?oc=5",
-        "domain": "bellona.org",
-        "publisher": "Bellona Foundation",
-        "publisher_url": "https://bellona.org",
+        "title": "U.S., Cuban diplomats clash at U.N. over embargo",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2kydjU1a0FuaklnTjdKa09NTk84N2VhWlBvUW56MFI1Uzk4RHd1QTdYTG1GdFZEWmVWLWVCbU5hSENtaUFRWS00Qk1reW04QVZmUFRJMVg0Z1FCd3ZSMThiNFMyUG1RaGhPazg5SUxfVkhkQnVhUVFCMWtPZ1lsZTBQTThZeHNNMU45WXItX0NvbVFrelpSWjgweHh1VFdmYjMxdW04SXBFRmU40gGyAUFVX3lxTE5XUGlLNlFkS2xDUXRfRXEyZDJjWlB2SVAzaHNjSzJYM1JDT1JmSGdGTlA3Um5zOFRVbVlwYVdQbHIzN2V4N2dKMWRpMkc3dGhuNVBXSS1jQ19IcmNFRVVLa2dmRjZ5MWlFQ2hvb0xrQV92S1pvSEdXSTlKTVAwMlhyS3d3YjA3dUp4OWFzZjFYYzV3bUVqZmkwVFg3Z25sa0xhaHRxVEk4Nnh5VUU0anJIMEE?oc=5",
+        "domain": "www.upi.com",
+        "publisher": "upi",
+        "publisher_url": "https://www.upi.com",
         "language": "",
-        "seendate": "20261027T150034Z",
+        "seendate": "20261027T183138Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US, Cuba clash at UN General Assembly on trade embargo",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaGVBMmdCNENuYjlMOENQWWlaNFlkTGVDN01vb3Y4MGxBX21ZX0NjdnR1M183bDBjamVnMUNRRUZCVkwzbFRENEVRM0dRMll3YzRGdTI2RWpUSE9tczdXT0RqRVV5RWR5TzlPWmw4ZTZ5S2wxOFlnRmNDX1Q3VC1jNmdpMkpqeE1NTGt6UTV1bkhWX1lCS2VMeEtUOA?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
+        "language": "",
+        "seendate": "20261027T164950Z",
         "source": "GoogleNews"
       },
       {
@@ -79,13 +109,63 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump’s sanctions against the International Criminal Court undermine justice",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpTW9qQVFqcmFTNkRhc3l5dFQtbzRiSllIY19ELUZ0ajZsaUdjM0JjbjRUeGx5T3NwekRzNjNZWlF1ZDVVUkcwZmNuMi0xZFotZUoteXU5aHpVdk5uZFdhWS0zUEwxQUNpczFFVnJmT1VUNHNZSkJ0SFVR0gF_QVVfeXFMT1lIUjItWjZyTFo0YU1wcnk1X1ZLcGhNcGlfSzh2c2J4VzNfbmwwc0FDMVhhakphZGVlVk9jVmxJRnEzM1VCOXBoWV9jeWJJVkhxOXdJVDRKeXJVTTZBM0VJS25tUk5PZ2dUZFRjajg0UThHdEY5Y1FLRGN1X3N1UQ?oc=5",
-        "domain": "thehill.com",
-        "publisher": "The Hill",
-        "publisher_url": "https://thehill.com",
+        "title": "What’s next for Deer Valley football, athletics after NCS sanctions?",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWwzcm1uZmF1VWxZNXFLZ1hqNWZPZmhJa1BSbGFSa1UyeUNlalFaQnowY1N6V3RyOFRwOFlLd3ltLWdUY2JXRGJhSlktZ2VMT2tLMWduZllCendwdXZzUHRibjliek1IMWRZWUhIMzY1QW5leHpMOGxZTldyMXZpcGNseGxHMUR3SHA1QW4tcWptMDVlVmNULWhmM2JiOUN5X0ZxekRXa0o?oc=5",
+        "domain": "www.mercurynews.com",
+        "publisher": "The Mercury News",
+        "publisher_url": "https://www.mercurynews.com",
         "language": "",
-        "seendate": "20261027T143000Z",
+        "seendate": "20261027T215828Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Rosatom advances nuclear projects abroad as sanctions gaps and wartime ties draw scrutiny",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVkNhVkJocHB1c0hZbmlWSjFjMUtISnVaR1c2RWxiMGZPX2t3bkZZMDZya1QySFdUTURjOG1FM09mWGFjLURfQWx1NXFpZU9EX1dBazFzLVdZTVRoajZGNWZmUjcxVm8yaDdPS1VrN2xvMERhZ2pQUndKb3o2SmppZDJYY2ZjOF83VEhHU016NFlyVVFPZUk1dU1SRDVLakxYUXBfN1RqYjFydURBZHFjZkRWcWYxcS02Zmpxb2MzM0FyQzZ6OHM0ZUpmUXEwVllaaFVJ?oc=5",
+        "domain": "bellona.org",
+        "publisher": "Bellona Foundation",
+        "publisher_url": "https://bellona.org",
+        "language": "",
+        "seendate": "20261027T150027Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU sanctions against ISIL/Da’esh and Al-Qaeda: Council renews regime until 2027",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTUN3RzRPTXF3R0t4R0FjUVRDTDVFTVFBRV9qNnBwWXpmbmJKNnpWUTRYNVUzUXgwZGpKNTJfWkVJTnlJOXI4SWNyanFVMGdmVVFlSXBXU0ZHcDItS3VnLUpNWjZvWWJ0WVR5dXl4MFFOclU2OXRsRmRjbmdvaThRdUp5TGtzdElYS0wwZFU4LXFpdmMtV01panppNk04UnYwZ2VqcWg3MzdBbGdIcVBUYUl4OUQ2ODY1dEFyaXRoLUh5QnhSUDBONGhpRjhVd1N0UElWa3E5WnNnWVVpd3c?oc=5",
+        "domain": "www.consilium.europa.eu",
+        "publisher": "Council, European Union",
+        "publisher_url": "https://www.consilium.europa.eu",
+        "language": "",
+        "seendate": "20261026T101930Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US Considers Sanctions Relief for Kremlin Investment Fund Amid Diesel Deal",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVpwMW1XRm1Sa1FsZUlhOVptbDNFaVVHYkwyeXZRNW80M3BKMHk3eVBkekxUREp4WGpwMFNWSW5sNGFob21IYUJTY2UyemtGenExR21IMXQtMkJpMUFOamVyY282c21HWWpHZGU4ZDRXYjZuNDZJeUFHZHR6T0NfeXpWVV83WE1DNTdpTXh3MV92UjljNmxHWUNINzNJODkzTGtLYzdVUjNLQ0xBUmZORnVn?oc=5",
+        "domain": "united24media.com",
+        "publisher": "UNITED24 Media",
+        "publisher_url": "https://united24media.com",
+        "language": "",
+        "seendate": "20261027T211825Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US and Cuban officials engage in shouting match during UN debate over economic embargo",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1ZFRjNXbGt3R2sweW5aSlVtYWxUall5YUFkaWc1UkNEYUtZMmF2X2xyNmJJVU00VmlhQ2F0WlV6U0RyZnp2SzNwcUZhTTlWQVhZeUl4dGdWRnJpQUZmdHF1R002YjlidzE2cElCNExlaDhXTFhsU2pVSlVyd2ZxeW9pM1ZhLVVNQXgxR0l3cmwxMTVaVjJUZWFGWlM0c0VTT0xueWVyRTRueHk0ZUNqSEFIR2Zld1VhS2NuOTdrbEc?oc=5",
+        "domain": "www.ksl.com",
+        "publisher": "KSL",
+        "publisher_url": "https://www.ksl.com",
+        "language": "",
+        "seendate": "20261027T211700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump reportedly considering lifting sanctions against Russia's investment fund",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWhmb2oyRmh5TXFJTlJ2TGl3NjRGa1Y3NnBGVVRTMkNYbTQydy1YTTQxekNUOTlyaDV2cjY5aDhadkl5Z0dURGlBYUZDUkREZW5HNlhVTk1ITjVkY1pzX1ZjYXp5MDkwaGZvSmVEZ2lkZkhuYnZkVlczLXhFRWhHeGNkUGJXcko2R3NZbGlwaGVvNWsya3lBaDRXc2hURU5NM080M1p2Zm1wLW8?oc=5",
+        "domain": "kyivindependent.com",
+        "publisher": "The Kyiv Independent",
+        "publisher_url": "https://kyivindependent.com",
+        "language": "",
+        "seendate": "20261027T210125Z",
         "source": "GoogleNews"
       },
       {
@@ -99,6 +179,106 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1JxQlNveTZSckpqLVR5eFJsci1WWF8xQVZteUV0ZFhqd0JWa1JaaGUtUmNyM00tRlVQcHdfcWZCRUFpTFdpVDN1TF9BazN6T2xXOHFPYmYzam4wUFNvMXNIWXBYRTdTU2xWQUtmTXlfcEZhQU9YN1N4cU43aWNjRDFreGZlRUpOM3BuWUE1VHhhODZSX2dlVm9JeEk5VXM5R19VSlh3b29sQXFa0gGyAUFVX3lxTE1PSXBpQXVLOTJkbW1jTkUtRGN2LXpoNkZkWjREYjZKNTlqTUdva1F6YnJTbFJNZUZUdVhsVHp6U2lxc0FRNDVpaFI3VkxOSWxQamgzcG52VlkxWEx4MGxoN2xHSDBjbzRjWDI0NUxxUG1KMjMxQUZYMnRmenZjSHJHeTExNzVrUzM5eHFyTk1oYWtjSm1hVG5aZ3dYTGVFdTRyNUcxOVFabW9PUHdXMl84SEE?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261025T145113Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump weighs lifting sanctions on Russian fund once described by U.S. Treasury as Putin’s ‘slush fund,’ NYT reports",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSUJrQTVaaVU0M1ZLTDJaYnM5ck5oVkNwT2pyNG9wQ3dlSEM0aTlTNG9leWtqN29kbHlUVnJoSlg5bjJkZFh4NE9mLXdYT0llLXJfV3hnRkJPdEtaWWtGemhBZy1nTWQtaEFRc0F2aTZCdzdYOUpnMlpobnI0cGluc0dTcXZCTTVHRDdYX1hZcEt5TEhDeXgxWHpxTGJIeDRWSmdEdW9MTGNnbGFGUFNLcklZRW5wLTIzaXctU0lxeUtsTlNnT0FFYndtVDVUVHNtWEZ6bXhmSHg3T0hxV20yaUNn0gHnAUFVX3lxTE5HTnBobGp5Rzc4WW81b2hPNnVKOTROTW5OM29NTWRyRFlDVnZ2UVZFSXViNVh4dzg5bm1kUUZzTDBOSUswTDZKNFlxeHhQa3ZWekZpVDNrcUY5Vno3NXNFUEZsN0lueHZNVFdWVVA3MTZPeFN3OXhablRtMFA4MVNkSXp5OFpzZVNlbWV0U1dZSi1pRVpVSWoyVG5NRDlhSjY2cHZvYTZsaVZNWEtNTVJWUkZCWTNYQTFCbW9vSTByb1FkZWRQRTU0SEluSFlLZUxNUW1PcGREc0xtZ0tCb29YMmpKeHgwOA?oc=5",
+        "domain": "meduza.io",
+        "publisher": "Meduza",
+        "publisher_url": "https://meduza.io",
+        "language": "",
+        "seendate": "20261027T202700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump’s sanctions against the International Criminal Court undermine justice",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpTW9qQVFqcmFTNkRhc3l5dFQtbzRiSllIY19ELUZ0ajZsaUdjM0JjbjRUeGx5T3NwekRzNjNZWlF1ZDVVUkcwZmNuMi0xZFotZUoteXU5aHpVdk5uZFdhWS0zUEwxQUNpczFFVnJmT1VUNHNZSkJ0SFVR0gF_QVVfeXFMT1lIUjItWjZyTFo0YU1wcnk1X1ZLcGhNcGlfSzh2c2J4VzNfbmwwc0FDMVhhakphZGVlVk9jVmxJRnEzM1VCOXBoWV9jeWJJVkhxOXdJVDRKeXJVTTZBM0VJS25tUk5PZ2dUZFRjajg0UThHdEY5Y1FLRGN1X3N1UQ?oc=5",
+        "domain": "thehill.com",
+        "publisher": "The Hill",
+        "publisher_url": "https://thehill.com",
+        "language": "",
+        "seendate": "20261027T143000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump administration considering lifting sanctions on Russian Direct Investment Fund, NYT says",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16NDg5bmxmVEdoTWQwa25xeXZUVkNjMDFrQmQ1MEdJV29WUTZDU1NrRVl6VGEwZ3lJczRLMkV0bEI1aUhoRHg2NHBKZFBfZmk3ZUxnTWdGbTkxamhIaVJQeFh2RGrSAXBBVV95cUxPNFM5VjdPaFFJT1BXTlpyUGkzTGxnX2ZfczBZcTV3Q2loT3ZhZHh5em5lNDVHekp1eEhiOEVLcGtBNlVFaDlZTTFPMkU3TEN2VjQ0by1vaUVXcmgtRTB0dXlXZG45WllhUzhyY3dNeHYt?oc=5",
+        "domain": "www.pravda.com.ua",
+        "publisher": "Українська правда",
+        "publisher_url": "https://www.pravda.com.ua",
+        "language": "",
+        "seendate": "20261027T191800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Imposing Sanctions to Protect Americans from Intellectual Property Theft Fact Sheet",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSnZLODNPMmE2cDBOeV9fT0xLRnMyMTFLUVJLYTJSSzlHSVN0MHpqQ3Itc1VLYVc0aEdZakl6d1YwYlBPNVZKLTJGQlhJR2hXQTJHUlRfbmNXNU1QamFQc0gyMEwtZHdNMGhMOFBaVkhLeXU1blg0TUEyTmNfTzdNZkh5X2g1a1JYRFltWWVIdzE1S3MxekNiMXIwY1hpakQ4alpIODNkNF9mVHloX3UzQ090djUxV1N3T0ZUdENHRFhBbHlkZW4ySS1wN2JQUkM0dVZpY1V1ZlBYRUU4cFNn?oc=5",
+        "domain": "www.state.gov",
+        "publisher": "U.S. Department of State (.gov)",
+        "publisher_url": "https://www.state.gov",
+        "language": "",
+        "seendate": "20261019T145423Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "France to seek EU sanctions over alleged Russian interference in Africa",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0RJa3RSRGpXWWlYTkZIS1ozNmdUWmxPNzNzMjc5aHZQSEtOaGluUVNqZ3l4cGZWRUxnWGV2d2c4amRQNTF4blVQaVZfbkREc0d4RHJSdC0wQ0JNc1pTbGU5WkhCVVpoSl94dnNGRHNGeTBqMVFWZlpTeHMwaE9ycXYtNUpnTmZtOVlGelJMQkt6UmNhVDVRTEtfb0ZEQnhORVVkR3lEelMwZVVuZ2VPTg?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
+        "language": "",
+        "seendate": "20261027T125637Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Waltz clashes with Cuba over embargo in heated UN exchange",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2UF8wOGlpZE1VTHdPS1pqQlpmMk9ONDBnLWRNck9QbE05TGxEZ1JwRkxNclVXczNfTVB1dHdfZUJvUU9lUXJsbWFBUUhXZjVYM0lNQW5n?oc=5",
+        "domain": "www.foxnews.com",
+        "publisher": "Fox News",
+        "publisher_url": "https://www.foxnews.com",
+        "language": "",
+        "seendate": "20261027T185122Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trinidad PM accuses former CARICOM leaders of hypocrisy over Cuba embargo appeal",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2lLY1d6Q25WQndHbUhSZmI2QkxYLWRqTkVpdnpoNjlhX2pTRC13OUxYbTZrdUdjb01ha0ZKcURWMVRXMEpjZjV6UzNtZngtdkxITjVWbHRtTEI3X2ZsWFdyVWVIcTYwYmJBQWtzLUNDQ1BseUJDUVExMFBGQmtyMTRBczNlZXZkVjZ2cDZyMEQ5U2ROV2VxLVNpS3FiMFpqSDNFU0tta0tZWkJkejFoTXcyRU1BTURMR0YtQlpmb1VzVTRz?oc=5",
+        "domain": "www.caribbeannationalweekly.com",
+        "publisher": "Caribbean National Weekly",
+        "publisher_url": "https://www.caribbeannationalweekly.com",
+        "language": "",
+        "seendate": "20261027T194440Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US weighs lifting sanctions on Russia’s state-backed investment fund after diesel deal: Report",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY2tQOTFzV2NyUkJKSUx1XzRpXzZDYmJFeUluTHNBRmVrUkl2U0FtMVFoUTVLVTFkRWZvYzl3c2JoNUpvZU9IRXFGNVZjbDlad2dTdDliRHBuUTk4N0hLbk9kc1Q0WFRxSDhfeUZibjRTaE94SWtjcVlHWXhQRHdfdDM0LW1SLWE2X2plTmhCYkZFUkllLTFXZkNpeW9hU2ZaeVhBbndwdzhUTkVIbkFWZk1xQlhQLVNvOWE5VzZFb0VydkZlWUtrRl9YSXZGQnJzVW8w0gHYAUFVX3lxTE9BdjdNMHRjbE9oSzFVSDZqWUdiYmljSExNRjFVVHA5YlVPVUVGdkU1LWNmSTlXRjJTVXNGODVRb3dyWnJ6eXgwV0syYlFnR0ZiYlp3ZVRzUmVPeEQ2V3FUckNycmhwN2xNQml5UjQ5N0I0R1dqXy1fekNnQUVHcUZCYi1wUjB4cFk5RTU1cjNGSXJSZ2Y3alN0ZUNNblRNR2ZXc3FhZGF2THg2NXpVNDdtRFdCVUVxUXpoVTBiY2N0LUlKck5pX3lLUkFQSjVIWlI5VFQyRmdjRg?oc=5",
+        "domain": "www.wionews.com",
+        "publisher": "WION",
+        "publisher_url": "https://www.wionews.com",
+        "language": "",
+        "seendate": "20261027T205800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US and Cuba engage in shouting match during UN embargo debate",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXpqeWZoUVVqQ2g5Z012SV8xNDFFNkQza3RWb1ZMclZNWVNMQVQza05rSW45c1h4Yy1pS3gzc09fd0dJSHVuaTdXdTJaWUVpSldsNHYyTHlyczZkaUFIcXBlVnYzYVJLNVRXZlJGM0d0a2QwUEI0SG96cFZQRFh5Q1haa1dINnl3a2p0X0pOVVZTV2QxUjRHSkYtUmVaQ3ZTSG5HdHJ6UkJWeTFzc1E?oc=5",
+        "domain": "www.thenationalnews.com",
+        "publisher": "thenationalnews.com",
+        "publisher_url": "https://www.thenationalnews.com",
+        "language": "",
+        "seendate": "20261027T191643Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Three Russian Diesel Tankers Head to US, Including One Sanctioned in Europe",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFRPd3dWWGZNX3JvYzkzd0daQ3NRVFZkZXRyZUlFSFNkT3NtLUhXczBrUmE2M2hZalo5bHpwU1BzMnNFaVZaTXdXcG9vRUdNbm5uWWhaSG5PRnRtcndaLVltUDB4Uk9Oc19DQWJRMEVDd2lobS1Fckw0ZDlTWU51YTAxMG5fcWxON1pBajJqQWhvTHdzOW52SnZYb3lZdTBKYTllNTNKZlJDUFlzUXBtTHFn?oc=5",
         "domain": "united24media.com",
@@ -109,13 +289,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "Cuba US Embargo",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSml1QkZtY3V0RlZwbVpmOEFCMDJVR2JWbUt0WnJrVzBacmpvblp5aGQ1ZGlINVVXT096QTduaWt3djA2MFhHeXV0V0k2NEh2eUVMNnhzTmdRSEVkcTN1WkpXazZNcjhXdFUxa2Q0TjhDQUE1TmFlMEh1VzN0OW80dFFEa3dhSVJKbVN2V1FYbERYOWhWTF9Xaw?oc=5",
+        "domain": "www.telegraphherald.com",
+        "publisher": "TelegraphHerald.com",
+        "publisher_url": "https://www.telegraphherald.com",
         "language": "",
-        "seendate": "20261025T121533Z",
+        "seendate": "20261027T212524Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "ICC prosecutor says court making ‘significant progress’ despite US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRzZDWVBLT0diMGZ3Ymk4TTRvUFV6SU1BemJNc2k0ODN4OW1lTDhyeTlabXVGQUFvajRhSEF2eWJpMTNUQWphdzZ5dkVQQloxSEl4amR4OHFwYnRuNkZ3WUpHWkE2RHhLbThVN1M0X3E3VldJQzRlT003VDZZOXN6LURJOV93TE9fa0czVnFyUWFET2RYUS1vOXZrdGY1Nmhyc0FTcW4tSzNXMkxiaEhr?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
+        "language": "",
+        "seendate": "20261024T135800Z",
         "source": "GoogleNews"
       },
       {
@@ -139,6 +329,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Tylenol Maker Accuses Plaintiffs' Lawyer of Using Sanctions Appeal to Reassign MDL",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR0xZU3hVcWQxUl9uV0FPSlA4SkRaOUJnN3lfTzZWdWRISjluYUVwX0NPVlpJWXZDZEZJS1lhR1p6TWhrSDcwMjk5N181MXJfS3dVNE1zQkVVakwwVGdDSEhMMk0zYjNRa3NrM0ctYXhXSVVFbVgxcGM3WEdSQkV2cnBiVXF6Vy1ZR0dXbzNOZFdkM0dzd1QtQmppcUU0alNJZFZVNEpHM1loZjktQzBheURuYw?oc=5",
+        "domain": "www.law.com",
+        "publisher": "Law.com",
+        "publisher_url": "https://www.law.com",
+        "language": "",
+        "seendate": "20261027T030303Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US may lift sanctions on Russia's sovereign fund",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlY5bUpPNnZoOW5xOU1yTllkeWNxLThweXFyOUtMRGtGc2hzem1jMGNXLWpYUXNuSC1uMUVTYXhLZnIzRm5XcmtMNi1jZkJ3bHBxQzVWUlJ3ZXVMMk5SWUVrZkJndFRWQ2FvcjQta3BuTmo3WnZlSm9vX0daMVRPMUt4RjR5S0xOOExzdklUakxsWTFXQ1NRcQ?oc=5",
+        "domain": "breakingthenews.net",
+        "publisher": "Breakingthenews.net",
+        "publisher_url": "https://breakingthenews.net",
+        "language": "",
+        "seendate": "20261027T191500Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Americans outraged over Trump’s support of Putin through the sanctions pause and diesel deal—weakening Ukraine’s defense",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONl96eUVSVVJIemdlWEVBcUxoamdCQ0lJeUNPdF84SkV0TGd6YXRtUVlvTnJjZkRZLVkycVd1a3VtWnBvd0ZCamdUUEtWMXlTclVHQ0N0aU0zNi1DM0dGajFhbFVMeEdJVlBQWFBEcHpQdElfaFphYnBONFRCODZxaXNIT25iaGtnem9EalAzRzFQb0JaWUhKdkRod1ljMF8yQmJvM1ZON3p4TmhhY0dzWjVnSGo3Y0tYSUlhbVA0NjFpdWo4d0FTSXMzNlE4NHJpX1R6c0dlclpRU0kzMjgzMW1FeUtyUS1LQjNhTjZHQQ?oc=5",
         "domain": "nevalleynews.org",
@@ -149,43 +359,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "EU sanctions against ISIL/Da’esh and Al-Qaeda: Council renews regime until 2027",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTUN3RzRPTXF3R0t4R0FjUVRDTDVFTVFBRV9qNnBwWXpmbmJKNnpWUTRYNVUzUXgwZGpKNTJfWkVJTnlJOXI4SWNyanFVMGdmVVFlSXBXU0ZHcDItS3VnLUpNWjZvWWJ0WVR5dXl4MFFOclU2OXRsRmRjbmdvaThRdUp5TGtzdElYS0wwZFU4LXFpdmMtV01panppNk04UnYwZ2VqcWg3MzdBbGdIcVBUYUl4OUQ2ODY1dEFyaXRoLUh5QnhSUDBONGhpRjhVd1N0UElWa3E5WnNnWVVpd3c?oc=5",
-        "domain": "www.consilium.europa.eu",
-        "publisher": "Council, European Union",
-        "publisher_url": "https://www.consilium.europa.eu",
+        "title": "The U.S. is considering lifting sanctions against a fund that serves as Putin's wallet — NYT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVS1mQ0tUbkZLV1hOMHkzZXlHc3dST0FneU9hb2VJZnhkMEJRTUJfRHpnOXU0WnNYbjdNbGRPNGs4N2JVZWVsUUdKM3BfMWtPUE5JT2lRb29lUFNWUEM0cnkweENocDQ4WEdXMktBenRiTXBZYUpLVDNLRjRua2wtcWtybzdUUHRoWmRKTkhWd0J1cW1WUDdqemhvR0p5eDYzV3lPM2xUdUJ3bG5Ddmo3TVhwaXk5cWM?oc=5",
+        "domain": "ua.news",
+        "publisher": "UA.NEWS",
+        "publisher_url": "https://ua.news",
         "language": "",
-        "seendate": "20261026T101930Z",
+        "seendate": "20261027T201111Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trinidad PM accuses former CARICOM leaders of hypocrisy over Cuba embargo appeal",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2lLY1d6Q25WQndHbUhSZmI2QkxYLWRqTkVpdnpoNjlhX2pTRC13OUxYbTZrdUdjb01ha0ZKcURWMVRXMEpjZjV6UzNtZngtdkxITjVWbHRtTEI3X2ZsWFdyVWVIcTYwYmJBQWtzLUNDQ1BseUJDUVExMFBGQmtyMTRBczNlZXZkVjZ2cDZyMEQ5U2ROV2VxLVNpS3FiMFpqSDNFU0tta0tZWkJkejFoTXcyRU1BTURMR0YtQlpmb1VzVTRz?oc=5",
-        "domain": "www.caribbeannationalweekly.com",
-        "publisher": "Caribbean National Weekly",
-        "publisher_url": "https://www.caribbeannationalweekly.com",
+        "title": "Imposing Sanctions on the International Criminal Court",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObmFDb0ZBanoxeHZFZmNKenBlSWpkOV9SWGJFNG0xcno1NXpaSUtHTEpPQ3FzSjRiS3V5d1U2THJscmxGV1FTSzduMnFZSGMyZ3Y5aVZCT1FLU0dMbVk4VFJJYzdYaExrN0VnN3hpYjh4WXBVUmtqenpvSVE1S2FjUk1GM2Jya2pseVl0eFp2RWlJUkFzb1VkczYyNXk5REYyWC1IMThTZTJsQU9Qb0FBbUVxd1FHdmlB?oc=5",
+        "domain": "www.state.gov",
+        "publisher": "U.S. Department of State (.gov)",
+        "publisher_url": "https://www.state.gov",
         "language": "",
-        "seendate": "20261027T144903Z",
+        "seendate": "20261009T070000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "France will demand EU sanctions over Russia's actions in Africa",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOC16VUVBLTJZZ1l2YVhrNEt5YzlWNWtMVDYxR1pjYXIwVkpDc01vZ180Smx1OWQ0bGE0eDJBcFVERFQ1cjFmYkxZUUJpYms2U2dvMWE2SHdYNlB4YlBtZUw1OXFEVld6SDhwQUF4SFp4akc3YXVDNWJZRzBTbnZ4X084eFpfZkMtSTJENUNB0gGMAUFVX3lxTE83NlhPclVVV092anRKTjFvRDEyb0YwT1BRcFZ6NnZ2NVN1cHo0d0tfYTQtV3VBUkVNdVJZckVleU14cjB5N0FBQlVjTXc5YWhsZEZEWDFpTXpHMllrVUxWTHZsQTJWR3pGWm1uMDh5MDJHYzVBcjNlcFJUbzZ4b1M0VUdIYVd2NFFHU1E3?oc=5",
-        "domain": "unn.ua",
-        "publisher": "Українські Національні Новини (УНН)",
-        "publisher_url": "https://unn.ua",
+        "title": "U.S. and Cuban representatives clashed at the UN over the trade embargo",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXZwT0lHSXI0b3E0ZEFYTE1mQ1U2b0hXU1ZIcDNzQlAwRnoza2NNRk15dkJqUWhENEpJajJ0WjJIRWNzME51VjhPa1E4RzdtdmlxcjVTZGRNSWkxMGVHZmhWZndQMXR6WjQ2NFJJOElkSm9KT0hMbXhKUkVzbVBIVTljZUlZbFFlbm9kRFpNamwwNk84UG5GVFlsbmpMQzg?oc=5",
+        "domain": "ua.news",
+        "publisher": "UA.NEWS",
+        "publisher_url": "https://ua.news",
         "language": "",
-        "seendate": "20261027T151358Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Panama moves to deregister seven OFAC-sanctioned ships",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0cwTnFjRk5lTnlHR2U1UXpIMW80aE02ZHV2dDUyVGhSNlFDa3RDRVc1N3M4Wm1qRlRRYXo3TFhlekh1bnEwU3dabll1VVNsODBIampJTTIxd0Q2SC03dzQ0VzJvYVVnVFFobWdWTDRBQVJnM044d3NpLVZVTEhsY0ZrWFU?oc=5",
-        "domain": "safety4sea.com",
-        "publisher": "safety4sea",
-        "publisher_url": "https://safety4sea.com",
-        "language": "",
-        "seendate": "20261027T102209Z",
+        "seendate": "20261027T184112Z",
         "source": "GoogleNews"
       },
       {
@@ -199,13 +399,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Tylenol Maker Accuses Plaintiffs' Lawyer of Using Sanctions Appeal to Reassign MDL",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR0xZU3hVcWQxUl9uV0FPSlA4SkRaOUJnN3lfTzZWdWRISjluYUVwX0NPVlpJWXZDZEZJS1lhR1p6TWhrSDcwMjk5N181MXJfS3dVNE1zQkVVakwwVGdDSEhMMk0zYjNRa3NrM0ctYXhXSVVFbVgxcGM3WEdSQkV2cnBiVXF6Vy1ZR0dXbzNOZFdkM0dzd1QtQmppcUU0alNJZFZVNEpHM1loZjktQzBheURuYw?oc=5",
-        "domain": "www.law.com",
-        "publisher": "Law.com",
-        "publisher_url": "https://www.law.com",
+        "title": "Cuba US Embargo",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTW9kc01pNXFwcE40M3ByQkVvTExQZXVsWGpiTnUxb1hISWR5UDhGeDgySUxWSk80d3ZMcWdpU1FpRDcxNGFLTy1LNDVQYjJxWVp2SmpQa0NHT2M1c05KV3JYT2hTZjl4enBsSWpzTkV2MU05eEJXbjdONldJQUt0b3J5ZU5ESVFMOFJyMEpGMUhEODha?oc=5",
+        "domain": "www.timesdaily.com",
+        "publisher": "timesdaily.com",
+        "publisher_url": "https://www.timesdaily.com",
         "language": "",
-        "seendate": "20261027T030303Z",
+        "seendate": "20261027T201200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Panama moves to deregister seven OFAC-sanctioned ships",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0cwTnFjRk5lTnlHR2U1UXpIMW80aE02ZHV2dDUyVGhSNlFDa3RDRVc1N3M4Wm1qRlRRYXo3TFhlekh1bnEwU3dabll1VVNsODBIampJTTIxd0Q2SC03dzQ0VzJvYVVnVFFobWdWTDRBQVJnM044d3NpLVZVTEhsY0ZrWFU?oc=5",
+        "domain": "safety4sea.com",
+        "publisher": "safety4sea",
+        "publisher_url": "https://safety4sea.com",
+        "language": "",
+        "seendate": "20261027T102209Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Serbia’s election-winning Student List movement says it will not impose sanctions on Russia",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdzVQbXo3Zy1SeC1QN1FPalp5R3NVTDlKWGxaV3dNeG45U2hlQ1RvTEoxMWx5WXZ3OEFFV0JneDVOTGdtdGFWU056VnVURFpJRHlnR0tsaUQ3LTJnXzVkODhtUFU3QWVOUzRWZ3A0ZGZkQ3NmTG9EeGM0aTFRT05NbWlhNGNtcWV0anlJSVE5cU50ZFltbTNNZ0U1VkthSWdINzNiSC1kVjZMZVBuejJDeHlWeFRhcXZ6bnJVTXJhdG9NbVhpb1BfNV8zdGxtSWgtNE53YVpGMUlyd1MxdGfSAeMBQVVfeXFMUEFjLVNSM1N6Z3dwWmJkSHJJREgzSVNqV0ZSWWg1emwzcWw2ZEVoUm96bkppcXBJVXVtQXZDalF4clk1bjMzZkkybU4zOWl4bUVJWk5CUXRvclhneGtYOUtRNmFBVjBsS2VDY2NXZEp5X2VKdzhRZE4zRDVzck0xaUxvUmJVMnhISmJqcWFaZGFITDdwVktaQ3hkMFJRQUtZeHF0bkNWU2NWSmRmY1dDR05RZkVFSThWUmlUcUhBbXdkVWpFTVlyTFpFa3FCUnZSZXhITXZHZUFrcUxKYzBrYjF3NXc?oc=5",
+        "domain": "novayagazeta.eu",
+        "publisher": "Новая газета Европа",
+        "publisher_url": "https://novayagazeta.eu",
+        "language": "",
+        "seendate": "20261027T081525Z",
         "source": "GoogleNews"
       },
       {
@@ -219,43 +439,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "France to seek EU sanctions over alleged Russian interference in Africa",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0RJa3RSRGpXWWlYTkZIS1ozNmdUWmxPNzNzMjc5aHZQSEtOaGluUVNqZ3l4cGZWRUxnWGV2d2c4amRQNTF4blVQaVZfbkREc0d4RHJSdC0wQ0JNc1pTbGU5WkhCVVpoSl94dnNGRHNGeTBqMVFWZlpTeHMwaE9ycXYtNUpnTmZtOVlGelJMQkt6UmNhVDVRTEtfb0ZEQnhORVVkR3lEelMwZVVuZ2VPTg?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
+        "title": "France will demand EU sanctions over Russia's actions in Africa",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOC16VUVBLTJZZ1l2YVhrNEt5YzlWNWtMVDYxR1pjYXIwVkpDc01vZ180Smx1OWQ0bGE0eDJBcFVERFQ1cjFmYkxZUUJpYms2U2dvMWE2SHdYNlB4YlBtZUw1OXFEVld6SDhwQUF4SFp4akc3YXVDNWJZRzBTbnZ4X084eFpfZkMtSTJENUNB0gGMAUFVX3lxTE83NlhPclVVV092anRKTjFvRDEyb0YwT1BRcFZ6NnZ2NVN1cHo0d0tfYTQtV3VBUkVNdVJZckVleU14cjB5N0FBQlVjTXc5YWhsZEZEWDFpTXpHMllrVUxWTHZsQTJWR3pGWm1uMDh5MDJHYzVBcjNlcFJUbzZ4b1M0VUdIYVd2NFFHU1E3?oc=5",
+        "domain": "unn.ua",
+        "publisher": "Українські Національні Новини (УНН)",
+        "publisher_url": "https://unn.ua",
         "language": "",
-        "seendate": "20261027T125637Z",
+        "seendate": "20261027T151358Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Three Russian diesel tankers, including two under sanctions, on the way to U.S. (CL1:COM:Commodity)",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3E2di0wS1RtX0FSVk5RZzliVlh0Ym1aTUptM09oamRCZGFRYXduTDRYMG9IOUNzZm0tUDk4NHBmLWVaOGljN2lLdHZKMFpOUFNvYzRkZUs1TERzRTNIb2NOVlplRzZBU3dqeUU3eEZkR0IzcVk1bVl3SFJSckltQUFHc2FOd2FfRHRJWkN4ck5HNnVOSWVCSXZZSXVNWVA3d0FLT1o4NVlxcUNFNUJxZWVpOA?oc=5",
-        "domain": "seekingalpha.com",
-        "publisher": "Seeking Alpha",
-        "publisher_url": "https://seekingalpha.com",
+        "title": "Trump's team is considering lifting sanctions on a Russian investment fund — NYT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3dMS2Y2QzVuaHU0TDBSY2J6SFlxYUxQYWdsMG0xSmEteTBRX1hTNWM4Wk1oOGpQUGJkZS1ra2Jub21Nb2tHVjgxUzUwRE9xN0t0d21VZUZTcWw1c0ZNU3piQno2TjQyWVlNWGZnYVBWVXZ0WXVPZlpMSDFFT3hjd25vUTJhcDNtaHl5Um5GSGdRckF1dTdHRUx3alNWTDVhREHSAaABQVVfeXFMTkpEVWc5RV9YbjJybEhhREtIaGF5RWtXOE9kZlBYMy1zZTctTG9PelVRTVVqOHgzVkZEU0QwTFRaOVEyMWE4ekFRNzFXTkp6OFpVd2JXc2V3cjhvOTBWcUp1VUM4VVBfcmZNUFNuNlFtLTJWdWRkamNKVHN5QWo2X3RNcHZDZjR6WGFGc2dGamFLaEd5dGNJNUZnTzdFT1Q2bQ?oc=5",
+        "domain": "unn.ua",
+        "publisher": "Українські Національні Новини (УНН)",
+        "publisher_url": "https://unn.ua",
         "language": "",
-        "seendate": "20261027T144058Z",
+        "seendate": "20261027T205252Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Iran Air Attempts Unprecedented Boeing 747 Overhaul Amid Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJLU1XRkQwa2JiQ2xKNVVqN1gwY29ZYW9qaTVKLThLRW1kS1ZtNVM3WEdrd1ptdjZRU0xPR2RTRW5JN0tMVWZuTXJnbVI1RkFpWXNuOHBxZExXSF9zN2JEVDV0SVJhRTljaHBKWVE1Yw?oc=5",
-        "domain": "simpleflying.com",
-        "publisher": "Simple Flying",
-        "publisher_url": "https://simpleflying.com",
+        "title": "Trump administration ‘monitoring’ leftist organizers ignoring new terrorism sanctions: State Department official",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPY1NFVExPbnN1VTdEV0tXZGlQaV9HVV9hNWtGLXpFVHpjT2k4RWVZNmkwa3YtM1pIMjBpVFVrV3kyOTA4eEVsYVU4SkY5OERWQ2l0MXV4cmliWUN1R2wwTkk3UnhKWkh4UF9lb1JoSHFEcUNkdWc4dXN2NElOQThMZnZNLVFUblFBQ0NLLUI4U3FxM0kwQTk3dWdPZ05taHFQQjg1azJ4QlNpam15M1BpS0szWHlUa3BuOWdMaWhna0VpOWUzaU5aanhFbm9SOG85UTdpUlRsM3FFTTRxVWdsMVJ4REJsNU5ubTZtVmxjMFlaNmE1TzdrVG9EUXo1cUlsbDlZ?oc=5",
+        "domain": "www.washingtonexaminer.com",
+        "publisher": "Washington Examiner",
+        "publisher_url": "https://www.washingtonexaminer.com",
         "language": "",
-        "seendate": "20261027T105728Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Gives Iraq Until June 2027 to Disarm Armed Groups or Face Sanctions: Farhad Atrushi",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOHZvdWtaQUFfMGVVTzFORHVHOERUV3E0NjE3bFJXdHdkTmthWS1DTDJ2N2ZvTjdPUVJGR2ZXMk1HSW0yb29xWFZUempNcHl0aVI5Tnh1d0EzM1Q1eDFxa2RjR0tGdF84UWJKN3hFTGxVVVJBQTFaamVzcEh1YzUtZnJRSldrenBSMVdaMjVZbWtFMTBzNHM2R1JLUVI2bldZMGxvMVZqcjFBa0Z1eTFwVjhST1ptcXlfdkZjUzNReVhxZUJLRWVsUw?oc=5",
-        "domain": "www.kurdistan24.net",
-        "publisher": "Kurdistan24",
-        "publisher_url": "https://www.kurdistan24.net",
-        "language": "",
-        "seendate": "20261027T165238Z",
+        "seendate": "20261027T181237Z",
         "source": "GoogleNews"
       },
       {
@@ -269,113 +479,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1JxQlNveTZSckpqLVR5eFJsci1WWF8xQVZteUV0ZFhqd0JWa1JaaGUtUmNyM00tRlVQcHdfcWZCRUFpTFdpVDN1TF9BazN6T2xXOHFPYmYzam4wUFNvMXNIWXBYRTdTU2xWQUtmTXlfcEZhQU9YN1N4cU43aWNjRDFreGZlRUpOM3BuWUE1VHhhODZSX2dlVm9JeEk5VXM5R19VSlh3b29sQXFa0gGyAUFVX3lxTE1PSXBpQXVLOTJkbW1jTkUtRGN2LXpoNkZkWjREYjZKNTlqTUdva1F6YnJTbFJNZUZUdVhsVHp6U2lxc0FRNDVpaFI3VkxOSWxQamgzcG52VlkxWEx4MGxoN2xHSDBjbzRjWDI0NUxxUG1KMjMxQUZYMnRmenZjSHJHeTExNzVrUzM5eHFyTk1oYWtjSm1hVG5aZ3dYTGVFdTRyNUcxOVFabW9PUHdXMl84SEE?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "As Russia’s War on Ukraine Drags On, Sanctions Remain Essential",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUM1X0xKM0dmcjRPVFhnUEhNVWJsRlgyQlVHX2RvZjdTTFpsQnZmbWVJdmJRRU1MeGJGMHNEOUlLa2szQ1ZxTG0wbExvOXZQM0FhbDdHbVBuay1GN25pRnlsOWZDVG5hVHJSRW54UDI1OE9vZWppamg1MnF0dlRQSl9lRG5WTHY0MGU2UC0tc3Z6TXhoLVhBNmE2dk4tTld4Y2ljQUFncDk3Z2Q0?oc=5",
+        "domain": "www.hudson.org",
+        "publisher": "Hudson Institute",
+        "publisher_url": "https://www.hudson.org",
         "language": "",
-        "seendate": "20261025T145113Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Executive Order Implements, and Immediately Waives, New Graham Act Sanctions and Tariffs Targeting Russia",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX1k5dE9mT2FSRWpzZm1KSUx0QXI4aWVFeENScFFXai1VM2trbExNRmxWaEtORmY2bTdEQU9mcVpRdEhyRWhkQ3UtYllhZzlPQlM0YkFKeE1ZSnFnRHZkTHpTNWw2a0lwelVobzdWdExWTnJqdWJ5UWlCa05kd0piSjY5LXBnVmJ3SzU0aXdLVGZoZDNGQUFBSmhMRXNIeXVic0dvUERvdHRYMklsNlh2a2tvby01TFBpblVtOVgtSE5raWtoclZPTXlCZ0VGWGRNU0xDdQ?oc=5",
-        "domain": "www.swlaw.com",
-        "publisher": "Snell & Wilmer",
-        "publisher_url": "https://www.swlaw.com",
-        "language": "",
-        "seendate": "20261025T223701Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Why Mongolia’s president visited Minsk: Lukashenka’s hunt for new allies and sanctions loopholes",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUdnSk9oNmR2S2xpc1NMOUw4Z2s4cTNxb3JiNTJxcW9pUHo0UmczNnZveUlWeFp5eWkwUGpIaW43Q3ktTWw5NEFKSjZIalozcllJbzlQb1RYTTBjelVwRlFPOTRkOHNtVDhKQTY4U3ozQnZHTWd1UFYxQjNnMmIzMWtOQmVaYVV3eVVoaVc0N0labU9xSHA4Q3B5TDRmdGFoNU1UY2lla1owX05xSDZoR2lqSzZqM3VnX3VPUExwTjE?oc=5",
-        "domain": "en.belsat.eu",
-        "publisher": "Belsat",
-        "publisher_url": "https://en.belsat.eu",
-        "language": "",
-        "seendate": "20261027T130000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GTA 6 File Size, Review Embargo Lift Revealed",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fNndQZDByQS1LbDE3RlBjRG1rWDYzeFpYZ0k4clI0a2VjRm1hYVAxRl9QQ1VJY3FGLXVDWlJ3UVVveEJkWEJWc0xRb0RXNk5QREtnV1RqN1BQaVJmVm1sOHJRWEYwX0lwNUFzM2g4ZHg4YTJfQ1E?oc=5",
-        "domain": "mp1st.com",
-        "publisher": "MP1st",
-        "publisher_url": "https://mp1st.com",
-        "language": "",
-        "seendate": "20261027T174822Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France to seek EU sanctions over alleged Russian interference in Africa",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRm1NTWQyV1RhVFpFVjRhNzA4VmlDZU9ndm10MU5JdTJvZngzM05OQWl6ZG1udHFtTGgxeDZqUjJLS1c1a3JoSVNBSFJKeURLNVRFQUxDazY5emZGZ0YyelpvQ2Zwd1h4WmVtaWtia0s4LTgtejNQZE12OVF1aTFoMGJiMk8wMTNzNVhTNGZWYUluZXRUSkIxdng4QzFJMzBnTFdZdW5wZHFkT2NQbTRTNUUtc9IBuAFBVV95cUxPWU1RTVZ0dEQyTThhMDZFa3JSSmtfRXcxbDh2ZGJMQ2RUMWJLNk5rSFJzM18ySGtPOUF4M2t2dUoyRVFyUFllZFJGOTk1TUxOYzgxSXJyVFd5Z0dmbHQtdEpYeGs3X1NRam9LaWxnZTJPTnRiX0FmbmMtNFZ0ZEd4OWFVYVFvcXFwaFRqbFJWTWlSazEzT0RvdFl4UEIySy0zaDlDQW81dC0yOVJvV01pRDlIWWxacWly?oc=5",
-        "domain": "www.anews.com.tr",
-        "publisher": "A News",
-        "publisher_url": "https://www.anews.com.tr",
-        "language": "",
-        "seendate": "20261027T130413Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Moscow is selling Washington an energy mirage: the key points of the diesel deal that circumvents the 2022 sanctions without easing pressure on the market",
-        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQRVdnak01aEI3NmxWeGo1dmpGLUVFNUg0alhHM2VnT0pBOVZQLVZpaWpHTTBjcnJ0dG9oSjNobUJYdHJGRm5udDdtbzVmMHlhRzB4cHlSRXVhSHVhVWtHb2VDdndDZzdzOUtZQkZzZUIzYnVnanl3YmxjQkNKa1NTbDNBSk5fOVNMcC01OTZpLVRoVVFRY0FNT0pWQ1l4U3RXeTF2OEhuNVhyZi1Idmt3aFVHVWpwT1EydnRibTBmN2hublZJZmZsR1BkTWFmOWVDbXZsR1pwZUpBWDZ1QTlVZnFWSGtlZ0VjaXNMcmEza3ZDV3pzejkyS3VyLURocnI2d3F0T3Mzbm5aUFFBbW5LMG5KS0dJUENwNGh6ejhwNTVZQ1p1VVVTOEZPN2l3aWo1UXRSSm1qRHVQMWdNUVlMNUd0UGVvOVRP?oc=5",
-        "domain": "www.atalayar.com",
-        "publisher": "Atalayar",
-        "publisher_url": "https://www.atalayar.com",
-        "language": "",
-        "seendate": "20261027T083000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "🇮🇷 IRAN SAYS SANCTIONS HAVEN’T STOPPED IT FROM BECOMING ONE OF THE WORLD’S BIGGEST GAS PRODUCERS. President Pezeshkian says Iran has pushed annual gas production to around 300 billion cubic meters, putting the country firmly in",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WLXBhdFY3Skcwa09jRWZpXzlWLWVkakwtTGZ5TlhPYmUwZmhBek1NRFkzYi1hVHB6XzJLMnNPa2hnVkxPR21jSzZESXoyTGxGUUx2OURvQ3VSclhRb3hHZ3lSQ0VJWVloaEdydA?oc=5",
-        "domain": "x.com",
-        "publisher": "X",
-        "publisher_url": "https://x.com",
-        "language": "",
-        "seendate": "20261027T160500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. Congresswoman Calls for Full Arms Embargo on Israel",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDVKN0h2MmRvTUZRbVV6NlMtTUgtbEtVWGNoSTc5UDdLZjJwQlktcTN4M29HYXpyek13MGZYVm5rejQ0c1JGVV9sUjJJb0FuZWhfLVA0OTRvUWo5MkZ3NDdKTUlRaHBVVEtQOGVNZ3c0WWx1TjhaeFRDQUk0YnVQdUpaSFc?oc=5",
-        "domain": "8am.media",
-        "publisher": "8AM Media",
-        "publisher_url": "https://8am.media",
-        "language": "",
-        "seendate": "20261027T101057Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A Sanctions Reprieve",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zSDAtQzB3U0xQU3FxbGhEWjhoX0NGUmZZb3NLbC1IRjAyRzNXVHdYLWZNUWFMMHBBVl9sVWdhQXQzcHl2OEZIX0NSREFTQQ?oc=5",
-        "domain": "ridl.io",
-        "publisher": "Riddle Russia",
-        "publisher_url": "https://ridl.io",
-        "language": "",
-        "seendate": "20261026T185634Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France intends to ask the European Union to impose sanctions on Russian officials",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSElUZ3ROU1B6U3pVeTJPVGUyWkdtSUI4c2lDMmpuSjdITXE0TUtJeU5hZE1hODg2SThEQXdhNS1oX3VNWjF2Um1RR0xFclZhQTBPMDN1WnczOW5OYTZtbWdIWGk3alpiRmpBMHp6MmZVM3dhU1dPck5Nc1RKQlZrZFQyanVMQ2J1SHpaSWRMTUw2ZTZuXzB0aU5YSUdaT005dm9HektlOGNDQnhCMTBjM2NMd3FVUHJEOUhmS2sxdUhtbjhMMHE3MmlaNzE2Zw?oc=5",
-        "domain": "www.voiceofemirates.com",
-        "publisher": "صوت الإمارات",
-        "publisher_url": "https://www.voiceofemirates.com",
-        "language": "",
-        "seendate": "20261027T142823Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Letters",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WYVliUC0xckI4bFh6U1ZsazBYeHVuTS1aZVBrRE1rZkN6cG9WY2l2U29KSEljQ3gyTDNWd1RYUk1Ub2d1WEM1ckROSjZlU2JjanhqSkpyVXowWFpINmxleg?oc=5",
-        "domain": "www.nwaonline.com",
-        "publisher": "Northwest Arkansas Democrat-Gazette",
-        "publisher_url": "https://www.nwaonline.com",
-        "language": "",
-        "seendate": "20261027T073000Z",
+        "seendate": "20261026T142843Z",
         "source": "GoogleNews"
       },
       {
@@ -389,156 +499,66 @@
         "source": "GoogleNews"
       },
       {
-        "title": "UK sanctions Sudan commanders for sexual violence in El-Fasher",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGI5cnJEaGtzNl9fbmV4RUpCenNQVFZ2UTZjeWxYMEF5TVpzUmJvVmZWTThYdk5maU1GbGo5M0VmZl9uTUhDRmMzYlViQUtUdEJleWg0dU0xZUlNOXRoeUMydE41elpmY0RyTURXbW5PVl9yMnVUazljOGZRUlhQY3VTUlYtVWF3WVItSA?oc=5",
-        "domain": "www.newarab.com",
-        "publisher": "The New Arab",
-        "publisher_url": "https://www.newarab.com",
+        "title": "Bank of Israel, opposition heads pan Netanyahu’s proposal to use crypto to evade sanctions",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzZseW5SYWdYR0hrUjB4ZW1jQ056bVUtbTByOG12S2lUUklwV1BrUzZpNTBsaW1YNjlwZEJtMnF6Vno3NDMtTzFjTnNVSGFualZPNGdVRlhZNElid192c2U1ME45My1IeUZZQ0xjYXFVdWFkMk52YndxR0dwVm9YU1V5SGExb0ZUcTM0YWs2TWJwYksxSWJRQ1VCLXBsT3RfQzFsZF9VOXV5RGRmRXlOMkVB0gG3AUFVX3lxTE9jNXV4WE5nVUJjYno0dFF2ZUNRcF8wcEtMaHhfeVA4a1JsVUVPQnpIV2t0bjk0VDZ5UndyQkxnSEV6Q1lnWUZFdllERTl3WGVGb09hR0pJTlA4aXJVZ0d3TjhpYm1GUldScHM0NjExY0VzdG9GNUxvTUF6Z21TMk1GNWh5MWFXaU91ZkpNWWpQSXNyZ3hFQlljamZXUk1WYi0xSmtsWUlZRjItbndJanVzX2FZNVhPWQ?oc=5",
+        "domain": "www.timesofisrael.com",
+        "publisher": "The Times of Israel",
+        "publisher_url": "https://www.timesofisrael.com",
         "language": "",
-        "seendate": "20261027T160615Z",
+        "seendate": "20261024T190000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "As Russia’s War on Ukraine Drags On, Sanctions Remain Essential",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUM1X0xKM0dmcjRPVFhnUEhNVWJsRlgyQlVHX2RvZjdTTFpsQnZmbWVJdmJRRU1MeGJGMHNEOUlLa2szQ1ZxTG0wbExvOXZQM0FhbDdHbVBuay1GN25pRnlsOWZDVG5hVHJSRW54UDI1OE9vZWppamg1MnF0dlRQSl9lRG5WTHY0MGU2UC0tc3Z6TXhoLVhBNmE2dk4tTld4Y2ljQUFncDk3Z2Q0?oc=5",
-        "domain": "www.hudson.org",
-        "publisher": "Hudson Institute",
-        "publisher_url": "https://www.hudson.org",
+        "title": "Why Mongolia’s president visited Minsk: Lukashenka’s hunt for new allies and sanctions loopholes",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUdnSk9oNmR2S2xpc1NMOUw4Z2s4cTNxb3JiNTJxcW9pUHo0UmczNnZveUlWeFp5eWkwUGpIaW43Q3ktTWw5NEFKSjZIalozcllJbzlQb1RYTTBjelVwRlFPOTRkOHNtVDhKQTY4U3ozQnZHTWd1UFYxQjNnMmIzMWtOQmVaYVV3eVVoaVc0N0labU9xSHA4Q3B5TDRmdGFoNU1UY2lla1owX05xSDZoR2lqSzZqM3VnX3VPUExwTjE?oc=5",
+        "domain": "en.belsat.eu",
+        "publisher": "Belsat",
+        "publisher_url": "https://en.belsat.eu",
         "language": "",
-        "seendate": "20261026T142843Z",
+        "seendate": "20261027T130000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Pro-Pyongyang official re-enters Japan despite sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LVUFLOXN2eDZuNlNFZm1fcUFfR01CcVRBX2IzRjdtMGRES2hoeTVwVWdzR2sxNzc2eUZLTzFsaHlCVGdzcE1JdHFIc1RPdDNqdUhjTnpR?oc=5",
-        "domain": "www.asahi.com",
-        "publisher": "朝日新聞",
-        "publisher_url": "https://www.asahi.com",
+        "title": "Three Russian diesel tankers, including two under sanctions, on the way to U.S. (CL1:COM:Commodity)",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3E2di0wS1RtX0FSVk5RZzliVlh0Ym1aTUptM09oamRCZGFRYXduTDRYMG9IOUNzZm0tUDk4NHBmLWVaOGljN2lLdHZKMFpOUFNvYzRkZUs1TERzRTNIb2NOVlplRzZBU3dqeUU3eEZkR0IzcVk1bVl3SFJSckltQUFHc2FOd2FfRHRJWkN4ck5HNnVOSWVCSXZZSXVNWVA3d0FLT1o4NVlxcUNFNUJxZWVpOA?oc=5",
+        "domain": "seekingalpha.com",
+        "publisher": "Seeking Alpha",
+        "publisher_url": "https://seekingalpha.com",
         "language": "",
-        "seendate": "20261027T075300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "GTA VI Review Copies Reportedly Sent Out as Rockstar Keeps November 18 Embargo",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWtxNzJIbjFFSUNJem1NTkZDMDNCQnFCRTh2ZXB4UXFGejZ0NDFfVGhCazQ1amdPeWFHZkRsZ2s0QjgwWXlrQTVhT1d1UHJ3czltRWxaZEUxUFh3U2I0LXk4b0V1T3FuelY2dTRHZVpERkdVWDhNZV8zanNscktJRVBfTV8xUVJqQ0M1Z3NqWnJqS18yMEljVDQ3a0l4b2pqZGFtb2p6WS1lQQ?oc=5",
-        "domain": "www.gamewatcher.com",
-        "publisher": "GameWatcher",
-        "publisher_url": "https://www.gamewatcher.com",
-        "language": "",
-        "seendate": "20261027T113000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg.com",
-        "publisher_url": "https://www.bloomberg.com",
-        "language": "",
-        "seendate": "20261025T102844Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russian diesel being transported to U.S. by tanker subject to sanctions from EU, U.K., and Canada — FT",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNzFsMl9ya0I4UDNFVHNwcXRqX2RDYUJjaXlhTDBGZmxZSEF5Y3lxcU1GcXlLX1AtangybE8zR2pzRFNmc09IRHZ1enhYbUpFQmFiQ21JenBxSk5CNm9wcEhkU2p5OVpYeWF6eXplVm5SY0Y4Y3RCM1h0R055Q1VIVC1ZQUk3Um1ZVXpER3RWLVdQVU5lWUF6TGFpNm55MDdHVnV1R3J0MWhmQUtPMjJJMlhXSVEzQTc5UmFFbjkyWVo0SW1YdE85UU1WbDVqT1JMbUHSAdcBQVVfeXFMTnZMQU1XaUVURS1MVUtwcDZPWmtoeUVXbjkyUFk4MmJ4SHNkemtoMy1rTjJHNVdKMlYyUklJWEpvTkcxZUV0NjJNaWtSOXNoLV91d1dlU1p6bVhtMUhoekIwTkFTal9HRlVVZ2RzbnlJalMwWlZtZTVMTzJHa3hxUEdzeWZaSU5DaURONWtxcUxPOGRFMWxGZHdrakt5X1dUd1U4aVRfaXg1ZjRmQVk1YnBWVm1GcnRoRlZZM1NwUTJiNTMtOFN4SlR4QjE4T2FYeldUWXZPOVU?oc=5",
-        "domain": "ukranews.com",
-        "publisher": "Ukrainian news",
-        "publisher_url": "https://ukranews.com",
-        "language": "",
-        "seendate": "20261027T143300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Uniting BSA, Sanctions Compliance As Treasury Targets Iran",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNlBqRHhOdkUzQnRoVFNvcDBhUDRoUXNFZnd6QnI4U05Qdk1QVjVYODBFZG5idk1jYXRtZHl5bFBTOWdHY1poVU5NZGUxTU44OEFUN0VfOEVYRnJpdG5ldTJGMVJ2UVNyWXRFM2JVaHVtTE91YllVYVRjUnlBckM1dnRfQTVnN2FoS2F2Z3BCc3lKNHdqMjJES3ZkcjlQQdIBVkFVX3lxTE9maUVJdVJTeDQ4R2dEVnNuMEU3OXZYZENyaXVaUXhfdF82UEdPZHJLTmNCNU9lVXJKSy1LMk51VWIyaFBCMDgweWpDQ3dNeG95eEJBU09B?oc=5",
-        "domain": "www.law360.com",
-        "publisher": "Law360",
-        "publisher_url": "https://www.law360.com",
-        "language": "",
-        "seendate": "20261026T204408Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Florida seeks sanctions against Pine View teacher that could cost her license",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBURFc5TUg3cFEzSF9RWHVacGotM0NQRThBYUl6RFJDSzc5UXhFcWduQkpsQ2ZYTzdiQndjU1dyRTkxcVlWbTNfLTFkUnZERV9rNHc5OXVDdnQ1X3ZNT0JRTjY2Qi1Ib284UE15MVRrZkxWb2J1VWhrZjRBVk5RUQ?oc=5",
-        "domain": "suncoastsearchlight.org",
-        "publisher": "Suncoast Searchlight",
-        "publisher_url": "https://suncoastsearchlight.org",
-        "language": "",
-        "seendate": "20261026T231215Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The UK’s sanctions on Israel must cover the whole occupation of Palestine",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUEk4aElXTUdnenNhclBDaUU1VXlnSjh3RWs0NFgwc3dWTkJEYmlLSFpMdlZ5YnpJTTdOR2ZMbjJhMUd3SG1zUTZvdmZkVDlZeWU2YnBneXhnc00yOEt4UkJJUmdCNlNLZkNoRzFORnFia1N3a0YwSGZ1ZzB0MG5VSUw4bW8yZk5UcUZvT3RKSDRNaE9pQlhBVlA1dWRvaG9fLTgzMWlMSFgtdw?oc=5",
-        "domain": "www.globaljustice.org.uk",
-        "publisher": "Global Justice Now",
-        "publisher_url": "https://www.globaljustice.org.uk",
-        "language": "",
-        "seendate": "20261027T144902Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Bracewell Nets SDNY National Security and Sanctions Prosecutor",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVWlHTWlUTjVScmc5UF80aVdxVDVFRENCa0MwMTZwTmxfR01HeGR6UllMR1FlTmRkb3lvQTBtWWNNQlFGZk5yZ29VdVBMcHJELVZwTWZFb1EtU053cVpUcm1GQkQ0d0c5QkRfTkp1dmdfMjJDVEtRZllHSkt3MmpNNUdkekFVZkNHbllmMnRxZXRtLUhHYTRuWjlES3ROMjZuYUNmQ1dNTTl1U1FxakJuNVdfSXQ?oc=5",
-        "domain": "news.bloomberglaw.com",
-        "publisher": "Bloomberg Law News",
-        "publisher_url": "https://news.bloomberglaw.com",
-        "language": "",
-        "seendate": "20261026T180500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Europe's New Financial Firewall: Closing the Door on Iranian Terror Financing and Russian Sanctions Evasion",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa1I0bDVCNWF3MnlDYnRRcG5kT2VDTlBHajltR3Y5ZnR2bmdZLU45dmROQUJIbkF5eVFmWmltR3RtS1JrVUxMSi1fYnpYd243OFpDeG1mNHF6YXhJVDQyd29IX19mMG9kcjRDZEdYX2RkME1NRk5CRTNwQ1h1bVAxNEFXOW9kb2FUSVNSdllzT3QyNWFiLTRBZW1ZODFldFgxS3NUVkxIQkxfWmtjSnpfNnRXb1l0eEUwVXRwa1pBLXA?oc=5",
-        "domain": "jcfa.org",
-        "publisher": "Jerusalem Center for Security and Foreign Affairs",
-        "publisher_url": "https://jcfa.org",
-        "language": "",
-        "seendate": "20261026T212038Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US lifts sanctions on Belarus potash chief as Minsk seeks help with EU",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV0lqQ0xtZVZrNWpTUjhEaE11YWt5T1FMejlZWk1YMXVvRndLUlFQanZBN0wtM1hDcjJWbzRmcUdVRXpuOG9XSkhudWxLa3hpUUZGMlpSbGNqQnZtajFFYUlLZ2VDdjZ3VFh4SDlpUmdxc3dGbS02alZYMWd6RFpQdFp6akFBLXJxcnd6YTZ6UXhtb2RvVFkxNTRTNzh3SnJZM2Y0enhCR2V0dw?oc=5",
-        "domain": "www.intellinews.com",
-        "publisher": "IntelliNews",
-        "publisher_url": "https://www.intellinews.com",
-        "language": "",
-        "seendate": "20261027T021158Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Scott Bessent says Iran's economy is 'collapsing' as Treasury tightens financial vise",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0FEeExrX3U1WXlHVmFYZnpzcFFIemNmMk1ZMncybXJSb1BsdDIwMkl6TS1QcFFBZGdSTjV4V1NwckhGMnBOc0lPWDJrV1ZPbW4xb0dQOUxBYWZyd3BhRldrM0tqTEk3QWd6Q3ZOcXB4ZUxRQ2FOYnZJdUxtX3UwNDJXSHhPSHJSTDVZNXpaQTVlZkFhVjdLODdmdk80TEpMdThwMzlKSy1JMWtFdmVj0gG0AUFVX3lxTE01S0dQTXMteXV4XzdqaUVyNDducWlYZC15UE1kUnhXR0J3QjZpV0hlc3dVX2VvUzBTYjFRNFNpZ0l4ZExzb1lKQUdadGhTRmVoRFhzYzJFNzFFLUJjdk5hdzFMQTJiV09zUndETnViOTVWZ1JQUlNFSURCdnc4X0RsaDE3N1M5SGl6YVB0Q3lZLXN3REM4b2hGc1RRMWxTUjFSTWtHMDI4NTRvckNidktIVkhIZg?oc=5",
-        "domain": "www.foxbusiness.com",
-        "publisher": "Fox Business",
-        "publisher_url": "https://www.foxbusiness.com",
-        "language": "",
-        "seendate": "20261026T185100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Czech President Pavel urges tougher sanctions on Russia, aid for Kyiv",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT3VYd0xPb1FqV2hIMUZKMFRreEdDR1lXeGR0bnpQTXFpQ21NWlhRZndCV3J6Qkc4SERLamdtNVhaZDZiNVFPQzVRZHZXNkR6X3BIcWVZZE5fRXI1OGg1SHgxa3RjcGprbV83UWktVW80bGdsejlEMHdmaXNyUWtkUWF6OW8wVktRVHpwVVp5ei1WMHlpakY3MHhZTkJxejR0VElpMkFIUVBNX1dMdEFaa2YtTnZUV0JMc2c?oc=5",
-        "domain": "aroundprague.cz",
-        "publisher": "Around Prague",
-        "publisher_url": "https://aroundprague.cz",
-        "language": "",
-        "seendate": "20261027T173823Z",
+        "seendate": "20261027T144058Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
-      "title": "US, Cuba clash at UN General Assembly on trade embargo",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaGVBMmdCNENuYjlMOENQWWlaNFlkTGVDN01vb3Y4MGxBX21ZX0NjdnR1M183bDBjamVnMUNRRUZCVkwzbFRENEVRM0dRMll3YzRGdTI2RWpUSE9tczdXT0RqRVV5RWR5TzlPWmw4ZTZ5S2wxOFlnRmNDX1Q3VC1jNmdpMkpqeE1NTGt6UTV1bkhWX1lCS2VMeEtUOA?oc=5",
-      "domain": "www.aa.com.tr",
-      "publisher": "Anadolu Ajansı",
-      "publisher_url": "https://www.aa.com.tr",
+      "title": "The U.S. Called It Putin’s ‘Slush Fund.’ Now Trump May Drop Sanctions on It.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHZ2c2JMQTZCSDJGZWdLc1B3dkNlQW5Ici16QUU2LXdkQURUZnA3YzFHcVFZVmtMcHdXT3ZDMGZBZzZ3LVZlNFN1RDVRTU50bnUxYWhvOXI0WkxQTHFzQS10MkFJNmVFYXZzc0pNTjFNeTNaR1VLQTN4R2Z0c0oxMU9aUDBCdw?oc=5",
+      "domain": "www.nytimes.com",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
       "language": "",
-      "seendate": "20261027T164950Z",
+      "seendate": "20261027T173052Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mR2QwT0g0NVZldTVvd25jU1MwZHlQekpuVlR0WlM2TE1xXy1GelVrMmd3aHJFMDFjYVZuR1J3NENXYmFBeVVzaEVKNm00dlB4QmJtTGpaRQ?oc=5",
+      "domain": "news.un.org",
+      "publisher": "UN News",
+      "publisher_url": "https://news.un.org",
+      "language": "",
+      "seendate": "20261027T213002Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US and Cuban officials engage in a shouting match during a UN debate over the economic embargo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanNBZWJFV01HNTRuQ3gyRUFWYTVEVjE1Ym9wLWRLSEM4U2VGWXRBRU9OTW5JUFlRaG44UVJ4UFB4ajR6UXhEUXVoTEFTMUlaaDFRVXVmVlZsV3Q0OW1MUkI1VGVsdzdJcFRjdHNKZm1IWXc5UFhULUdFVEtfN0Y2NGU1ZVA5SmNGX3VBdklBNzQzXzMzdV9xbmZaam16RWh30gGmAUFVX3lxTE9qb2FXN0Yyb3Vxb2VWR19xaGdsbThLclcyRWpaLVhWeXZEN0pEMFAzRG0ySVhjMzhUSnVxVGhBcDBPTGZ2OENGeWt2T3NJSXpfSWxGbktMTU9DaXd2SU5VTXNuNDlrUTVHNnJka3NuOTljX2lwUy14NXo0QXp6RFloWktiQnpCMm9HcGhnblcycWUwTGVnQ3Y1RTV4aHVnYmtkd2ZwRlE?oc=5",
+      "domain": "abcnews.com",
+      "publisher": "ABC News - Breaking News, Latest News and Videos",
+      "publisher_url": "https://abcnews.com",
+      "language": "",
+      "seendate": "20261027T204036Z",
       "source": "GoogleNews"
     },
     {
@@ -552,23 +572,33 @@
       "source": "GoogleNews"
     },
     {
-      "title": "The U.S. Called It Putin’s ‘Slush Fund.’ Now Trump May Drop Sanctions on It.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHZ2c2JMQTZCSDJGZWdLc1B3dkNlQW5Ici16QUU2LXdkQURUZnA3YzFHcVFZVmtMcHdXT3ZDMGZBZzZ3LVZlNFN1RDVRTU50bnUxYWhvOXI0WkxQTHFzQS10MkFJNmVFYXZzc0pNTjFNeTNaR1VLQTN4R2Z0c0oxMU9aUDBCdw?oc=5",
-      "domain": "www.nytimes.com",
-      "publisher": "The New York Times",
-      "publisher_url": "https://www.nytimes.com",
+      "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
       "language": "",
-      "seendate": "20261027T173052Z",
+      "seendate": "20261025T121533Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Rosatom advances nuclear projects abroad as sanctions gaps and wartime ties draw scrutiny",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVkNhVkJocHB1c0hZbmlWSjFjMUtISnVaR1c2RWxiMGZPX2t3bkZZMDZya1QySFdUTURjOG1FM09mWGFjLURfQWx1NXFpZU9EX1dBazFzLVdZTVRoajZGNWZmUjcxVm8yaDdPS1VrN2xvMERhZ2pQUndKb3o2SmppZDJYY2ZjOF83VEhHU016NFlyVVFPZUk1dU1SRDVLakxYUXBfN1RqYjFydURBZHFjZkRWcWYxcS02Zmpxb2MzM0FyQzZ6OHM0ZUpmUXEwVllaaFVJ?oc=5",
-      "domain": "bellona.org",
-      "publisher": "Bellona Foundation",
-      "publisher_url": "https://bellona.org",
+      "title": "U.S., Cuban diplomats clash at U.N. over embargo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2kydjU1a0FuaklnTjdKa09NTk84N2VhWlBvUW56MFI1Uzk4RHd1QTdYTG1GdFZEWmVWLWVCbU5hSENtaUFRWS00Qk1reW04QVZmUFRJMVg0Z1FCd3ZSMThiNFMyUG1RaGhPazg5SUxfVkhkQnVhUVFCMWtPZ1lsZTBQTThZeHNNMU45WXItX0NvbVFrelpSWjgweHh1VFdmYjMxdW04SXBFRmU40gGyAUFVX3lxTE5XUGlLNlFkS2xDUXRfRXEyZDJjWlB2SVAzaHNjSzJYM1JDT1JmSGdGTlA3Um5zOFRVbVlwYVdQbHIzN2V4N2dKMWRpMkc3dGhuNVBXSS1jQ19IcmNFRVVLa2dmRjZ5MWlFQ2hvb0xrQV92S1pvSEdXSTlKTVAwMlhyS3d3YjA3dUp4OWFzZjFYYzV3bUVqZmkwVFg3Z25sa0xhaHRxVEk4Nnh5VUU0anJIMEE?oc=5",
+      "domain": "www.upi.com",
+      "publisher": "upi",
+      "publisher_url": "https://www.upi.com",
       "language": "",
-      "seendate": "20261027T150034Z",
+      "seendate": "20261027T183138Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US, Cuba clash at UN General Assembly on trade embargo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaGVBMmdCNENuYjlMOENQWWlaNFlkTGVDN01vb3Y4MGxBX21ZX0NjdnR1M183bDBjamVnMUNRRUZCVkwzbFRENEVRM0dRMll3YzRGdTI2RWpUSE9tczdXT0RqRVV5RWR5TzlPWmw4ZTZ5S2wxOFlnRmNDX1Q3VC1jNmdpMkpqeE1NTGt6UTV1bkhWX1lCS2VMeEtUOA?oc=5",
+      "domain": "www.aa.com.tr",
+      "publisher": "Anadolu Ajansı",
+      "publisher_url": "https://www.aa.com.tr",
+      "language": "",
+      "seendate": "20261027T164950Z",
       "source": "GoogleNews"
     },
     {
@@ -582,73 +612,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Trump’s sanctions against the International Criminal Court undermine justice",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpTW9qQVFqcmFTNkRhc3l5dFQtbzRiSllIY19ELUZ0ajZsaUdjM0JjbjRUeGx5T3NwekRzNjNZWlF1ZDVVUkcwZmNuMi0xZFotZUoteXU5aHpVdk5uZFdhWS0zUEwxQUNpczFFVnJmT1VUNHNZSkJ0SFVR0gF_QVVfeXFMT1lIUjItWjZyTFo0YU1wcnk1X1ZLcGhNcGlfSzh2c2J4VzNfbmwwc0FDMVhhakphZGVlVk9jVmxJRnEzM1VCOXBoWV9jeWJJVkhxOXdJVDRKeXJVTTZBM0VJS25tUk5PZ2dUZFRjajg0UThHdEY5Y1FLRGN1X3N1UQ?oc=5",
-      "domain": "thehill.com",
-      "publisher": "The Hill",
-      "publisher_url": "https://thehill.com",
+      "title": "What’s next for Deer Valley football, athletics after NCS sanctions?",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWwzcm1uZmF1VWxZNXFLZ1hqNWZPZmhJa1BSbGFSa1UyeUNlalFaQnowY1N6V3RyOFRwOFlLd3ltLWdUY2JXRGJhSlktZ2VMT2tLMWduZllCendwdXZzUHRibjliek1IMWRZWUhIMzY1QW5leHpMOGxZTldyMXZpcGNseGxHMUR3SHA1QW4tcWptMDVlVmNULWhmM2JiOUN5X0ZxekRXa0o?oc=5",
+      "domain": "www.mercurynews.com",
+      "publisher": "The Mercury News",
+      "publisher_url": "https://www.mercurynews.com",
       "language": "",
-      "seendate": "20261027T143000Z",
+      "seendate": "20261027T215828Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Americans Challenge Trump’s International Criminal Court Sanctions in Federal Court",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRExZcG1Zclh2c3FOWURaQkFmcXlNRFhjRVpucVk5ZFhWMlNKTEJuNnBFNGl6RXNxYUdHWnRwaVBfYW52MGpmeEJ0SjZQSkdmdGdyNVAxcG9aQVQtXy1SSnVzdFNCSlNLRkFteFBWaDYwY0tsOGpGY3VOQ0FPS2NrZGVsUHBwQ1ZqcThSdF9ka24?oc=5",
-      "domain": "www.military.com",
-      "publisher": "Military.com",
-      "publisher_url": "https://www.military.com",
+      "title": "Rosatom advances nuclear projects abroad as sanctions gaps and wartime ties draw scrutiny",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVkNhVkJocHB1c0hZbmlWSjFjMUtISnVaR1c2RWxiMGZPX2t3bkZZMDZya1QySFdUTURjOG1FM09mWGFjLURfQWx1NXFpZU9EX1dBazFzLVdZTVRoajZGNWZmUjcxVm8yaDdPS1VrN2xvMERhZ2pQUndKb3o2SmppZDJYY2ZjOF83VEhHU016NFlyVVFPZUk1dU1SRDVLakxYUXBfN1RqYjFydURBZHFjZkRWcWYxcS02Zmpxb2MzM0FyQzZ6OHM0ZUpmUXEwVllaaFVJ?oc=5",
+      "domain": "bellona.org",
+      "publisher": "Bellona Foundation",
+      "publisher_url": "https://bellona.org",
       "language": "",
-      "seendate": "20261027T090016Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Three Russian Diesel Tankers Head to US, Including One Sanctioned in Europe",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFRPd3dWWGZNX3JvYzkzd0daQ3NRVFZkZXRyZUlFSFNkT3NtLUhXczBrUmE2M2hZalo5bHpwU1BzMnNFaVZaTXdXcG9vRUdNbm5uWWhaSG5PRnRtcndaLVltUDB4Uk9Oc19DQWJRMEVDd2lobS1Fckw0ZDlTWU51YTAxMG5fcWxON1pBajJqQWhvTHdzOW52SnZYb3lZdTBKYTllNTNKZlJDUFlzUXBtTHFn?oc=5",
-      "domain": "united24media.com",
-      "publisher": "UNITED24 Media",
-      "publisher_url": "https://united24media.com",
-      "language": "",
-      "seendate": "20261027T162623Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "language": "",
-      "seendate": "20261025T121533Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Slovakia Seeks to Expand Cooperation with Russia despite EU Sanctions",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcHpYNnYwdkFyWHNOczV1ZUp2c2JfLXlWWmJtWWJybm9hZ3ZRbmpPWUpjbnRZOVpuT1VjSmlna0xCeXFMdThlT2czUi1FdE41c0xnRWNhbjFhR2pmUHJzblAzYUhBWjVVN3ZsTVVER21Jd3doRGNyMHlfWnJGbFM2SEUyRUg4cHpyU0hqWlNNam5SajFwalREd012WXpudmZkOGhOQkFLT29wSTZnamtjVm5KUHY3ZExZ?oc=5",
-      "domain": "www.hungarianconservative.com",
-      "publisher": "Hungarian Conservative",
-      "publisher_url": "https://www.hungarianconservative.com",
-      "language": "",
-      "seendate": "20261027T112050Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Putin Backs Iran’s Criticism of Western Unilateral Sanctions",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZzFWOS1lYkk5bm1CSjVlVldQLUpDMl9VY2xfa0w1Yko4T1VBbHpUdEluTkdFRTE5ZmxYNGs3YmZVRDdlZUNBTDBMdkJlUHRSVERiRnh2T1NseWxycE5RWm9jNFliMTJSOWNyTk1xUklOX2xtNGZWenlyMXR4cWM1c2p1WU9QSWE5aFE?oc=5",
-      "domain": "8am.media",
-      "publisher": "8AM Media",
-      "publisher_url": "https://8am.media",
-      "language": "",
-      "seendate": "20261027T150225Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Americans outraged over Trump’s support of Putin through the sanctions pause and diesel deal—weakening Ukraine’s defense",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONl96eUVSVVJIemdlWEVBcUxoamdCQ0lJeUNPdF84SkV0TGd6YXRtUVlvTnJjZkRZLVkycVd1a3VtWnBvd0ZCamdUUEtWMXlTclVHQ0N0aU0zNi1DM0dGajFhbFVMeEdJVlBQWFBEcHpQdElfaFphYnBONFRCODZxaXNIT25iaGtnem9EalAzRzFQb0JaWUhKdkRod1ljMF8yQmJvM1ZON3p4TmhhY0dzWjVnSGo3Y0tYSUlhbVA0NjFpdWo4d0FTSXMzNlE4NHJpX1R6c0dlclpRU0kzMjgzMW1FeUtyUS1LQjNhTjZHQQ?oc=5",
-      "domain": "nevalleynews.org",
-      "publisher": "Northeast Valley News",
-      "publisher_url": "https://nevalleynews.org",
-      "language": "",
-      "seendate": "20261027T142101Z",
+      "seendate": "20261027T150027Z",
       "source": "GoogleNews"
     },
     {
@@ -662,23 +642,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Trinidad PM accuses former CARICOM leaders of hypocrisy over Cuba embargo appeal",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2lLY1d6Q25WQndHbUhSZmI2QkxYLWRqTkVpdnpoNjlhX2pTRC13OUxYbTZrdUdjb01ha0ZKcURWMVRXMEpjZjV6UzNtZngtdkxITjVWbHRtTEI3X2ZsWFdyVWVIcTYwYmJBQWtzLUNDQ1BseUJDUVExMFBGQmtyMTRBczNlZXZkVjZ2cDZyMEQ5U2ROV2VxLVNpS3FiMFpqSDNFU0tta0tZWkJkejFoTXcyRU1BTURMR0YtQlpmb1VzVTRz?oc=5",
-      "domain": "www.caribbeannationalweekly.com",
-      "publisher": "Caribbean National Weekly",
-      "publisher_url": "https://www.caribbeannationalweekly.com",
+      "title": "US Considers Sanctions Relief for Kremlin Investment Fund Amid Diesel Deal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVpwMW1XRm1Sa1FsZUlhOVptbDNFaVVHYkwyeXZRNW80M3BKMHk3eVBkekxUREp4WGpwMFNWSW5sNGFob21IYUJTY2UyemtGenExR21IMXQtMkJpMUFOamVyY282c21HWWpHZGU4ZDRXYjZuNDZJeUFHZHR6T0NfeXpWVV83WE1DNTdpTXh3MV92UjljNmxHWUNINzNJODkzTGtLYzdVUjNLQ0xBUmZORnVn?oc=5",
+      "domain": "united24media.com",
+      "publisher": "UNITED24 Media",
+      "publisher_url": "https://united24media.com",
       "language": "",
-      "seendate": "20261027T144903Z",
+      "seendate": "20261027T211825Z",
       "source": "GoogleNews"
     },
     {
-      "title": "France will demand EU sanctions over Russia's actions in Africa",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOC16VUVBLTJZZ1l2YVhrNEt5YzlWNWtMVDYxR1pjYXIwVkpDc01vZ180Smx1OWQ0bGE0eDJBcFVERFQ1cjFmYkxZUUJpYms2U2dvMWE2SHdYNlB4YlBtZUw1OXFEVld6SDhwQUF4SFp4akc3YXVDNWJZRzBTbnZ4X084eFpfZkMtSTJENUNB0gGMAUFVX3lxTE83NlhPclVVV092anRKTjFvRDEyb0YwT1BRcFZ6NnZ2NVN1cHo0d0tfYTQtV3VBUkVNdVJZckVleU14cjB5N0FBQlVjTXc5YWhsZEZEWDFpTXpHMllrVUxWTHZsQTJWR3pGWm1uMDh5MDJHYzVBcjNlcFJUbzZ4b1M0VUdIYVd2NFFHU1E3?oc=5",
-      "domain": "unn.ua",
-      "publisher": "Українські Національні Новини (УНН)",
-      "publisher_url": "https://unn.ua",
+      "title": "US and Cuban officials engage in shouting match during UN debate over economic embargo",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1ZFRjNXbGt3R2sweW5aSlVtYWxUall5YUFkaWc1UkNEYUtZMmF2X2xyNmJJVU00VmlhQ2F0WlV6U0RyZnp2SzNwcUZhTTlWQVhZeUl4dGdWRnJpQUZmdHF1R002YjlidzE2cElCNExlaDhXTFhsU2pVSlVyd2ZxeW9pM1ZhLVVNQXgxR0l3cmwxMTVaVjJUZWFGWlM0c0VTT0xueWVyRTRueHk0ZUNqSEFIR2Zld1VhS2NuOTdrbEc?oc=5",
+      "domain": "www.ksl.com",
+      "publisher": "KSL",
+      "publisher_url": "https://www.ksl.com",
       "language": "",
-      "seendate": "20261027T151358Z",
+      "seendate": "20261027T211700Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump reportedly considering lifting sanctions against Russia's investment fund",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWhmb2oyRmh5TXFJTlJ2TGl3NjRGa1Y3NnBGVVRTMkNYbTQydy1YTTQxekNUOTlyaDV2cjY5aDhadkl5Z0dURGlBYUZDUkREZW5HNlhVTk1ITjVkY1pzX1ZjYXp5MDkwaGZvSmVEZ2lkZkhuYnZkVlczLXhFRWhHeGNkUGJXcko2R3NZbGlwaGVvNWsya3lBaDRXc2hURU5NM080M1p2Zm1wLW8?oc=5",
+      "domain": "kyivindependent.com",
+      "publisher": "The Kyiv Independent",
+      "publisher_url": "https://kyivindependent.com",
+      "language": "",
+      "seendate": "20261027T210125Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Americans Challenge Trump’s International Criminal Court Sanctions in Federal Court",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRExZcG1Zclh2c3FOWURaQkFmcXlNRFhjRVpucVk5ZFhWMlNKTEJuNnBFNGl6RXNxYUdHWnRwaVBfYW52MGpmeEJ0SjZQSkdmdGdyNVAxcG9aQVQtXy1SSnVzdFNCSlNLRkFteFBWaDYwY0tsOGpGY3VOQ0FPS2NrZGVsUHBwQ1ZqcThSdF9ka24?oc=5",
+      "domain": "www.military.com",
+      "publisher": "Military.com",
+      "publisher_url": "https://www.military.com",
+      "language": "",
+      "seendate": "20261027T090016Z",
       "source": "GoogleNews"
     }
   ],
