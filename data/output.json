@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-11-07T21:42:41.260826+00:00",
+    "generated": "2026-11-08T05:50:05.492985+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "39"
+      "value": "43"
     }
   ],
   "live_data": {
@@ -36,6 +36,36 @@
         "publisher_url": "https://www.reuters.com",
         "language": "",
         "seendate": "20261106T224657Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US sanctions Canadian money services businesses for helping Iranian regime move money out of the country",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX3kzZTlFMkZiOEVpSms2WmNNLThkcjUydnRiQnpobWFZa1ZfTDEzME5xWEx2SWVGeWozZm9xZVdyVzZTRnhSQk5xQ0tDX0lkSWJWWGh3YkRPcEx1Vms0U3lpWFM3R2FhSklZaE5iVGExSTVYZHlva3Y3WHZkYXhHM2lWdHZoZXNoWXlNSHEwNnJJdG5YYVplNGpuUW9TMUpwSXdyN3Z3d3IwTEtIekR4Q0l4NWtFZ1hRUXRBakVZclZLY1plN3RtUnJCQTdPM0EzX2lweQ?oc=5",
+        "domain": "www.jns.org",
+        "publisher": "JNS.org",
+        "publisher_url": "https://www.jns.org",
+        "language": "",
+        "seendate": "20261108T011124Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russian token moved $102bn. Brussels answers with sanctions office",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNREtodW9xMUM1aWtqUEVhVkRaVWFLRnVTa1dKT3hybGh3QW5QQmk2czdOeEk1dmVJSEVPTlRDYWsyXzdSVTRVa2dfd3JXc3ZERGVza0NnUHpMWWxFUDUxc2JGOEtISkxreWNXTkQ2T3JBOGJHa2dqWHplYXB0X2QtcDlWdGg1Q2VET25SSXBnRTFjQkdXcWE1cGRUMFhtb1Ba?oc=5",
+        "domain": "euperspectives.eu",
+        "publisher": "EU Perspectives",
+        "publisher_url": "https://euperspectives.eu",
+        "language": "",
+        "seendate": "20261108T050029Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Cuba’s Agricultural Decline Linked to Six Decades of U.S. Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSGc1T2V6SXlGYjA3Y2VkOGswLXp1cjI5TnpkMXdwRTdZSU1tT1dlSzN3X2RaVW5YRVNIWEFqOWYzUzhaQUE4TDl4YlFXRF92cUNVTThvTlpmNmNlYnhqWjBpMUVVMGsxVHIyNzBkOG1uWDlfeWFrYkFteWdBQWtvX0xVWjFNTkIwMkl5MkdnMHJQUUVB?oc=5",
+        "domain": "bioengineer.org",
+        "publisher": "Bioengineer.org",
+        "publisher_url": "https://bioengineer.org",
+        "language": "",
+        "seendate": "20261108T042100Z",
         "source": "GoogleNews"
       },
       {
@@ -55,17 +85,7 @@
         "publisher": "The Defiant",
         "publisher_url": "https://thedefiant.io",
         "language": "",
-        "seendate": "20261107T152049Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Treasury Sanctions Canadian Money Services Firms Over Iran-Related Transactions",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSkl3S01mSEZNSm5ENW0xc3pIRjczS1R5bHpvZ3F3MFdRVUR6VXpJbVFUeVpyMG9kX2trZHZKR00tU3J0VXYyNGplanBNeHBjOE85RVZFWHI1b0RFQ3dsX3pfekd0RW51dmZZU0xIZ0RBSnI0Z1JzelRXRWhLNkV2ZXZnUzFUNDZBQjVkSlNwR3VMdGNrTzBNbjRWbllvcFFhOGhNcjdnN0pIMkNRWTBjaVNkWngxVm1nWTI5X2pKbWo?oc=5",
-        "domain": "english.aawsat.com",
-        "publisher": "ASHARQ AL-AWSAT English",
-        "publisher_url": "https://english.aawsat.com",
-        "language": "",
-        "seendate": "20261107T175747Z",
+        "seendate": "20261107T182049Z",
         "source": "GoogleNews"
       },
       {
@@ -79,16 +99,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3FDNDVJS3VUN0RSZ0N4MjN3U3BGbHF1c0U3OGRnWlpVc21LMHM3dWd2TDhNR2lIUHBSOHAxNmZXSks0a01DM25XcjVIMnBMY2FJOHk2a2xXSXdZY3B1dnhaNmpPbW5wT2VoM0dlM1JqQkpXeHk3bURRcWJXTG5iZFRSb2hreDVHaTNwWUxnT08xbEpjVWdqODVFSFFOenZxdDRZSFFRRVBYOGVJRzFBbVpSVFFRQQ?oc=5",
-        "domain": "www.bloomberg.com",
-        "publisher": "Bloomberg.com",
-        "publisher_url": "https://www.bloomberg.com",
-        "language": "",
-        "seendate": "20261107T015400Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Treasury Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime Sanctions Evasion",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcm9lQ09JUkMtNTRRRWdqd1RyTDNhQ3BJRDlPTFVxS0haSjJGVEtwT2p6dGxnZHBxYmswSGJPaGlIZ01sSlZWOTZPd0pjRXR6N0FSbzBHYlphc0VIb3I2M1RiQlFFejRNeGNFbVVDV0wtUDcwRl9QalRmbFgzS0VyVlVuc1Mzb1hCdXB4d0lwNkJtT01DZHpxUERmc3VIelUzV1FyRWJfQ0hJR0VRRGVUN2lCR3dsck9UWHVJeWxmOHN6MXM?oc=5",
         "domain": "ritzherald.com",
@@ -96,6 +106,26 @@
         "publisher_url": "https://ritzherald.com",
         "language": "",
         "seendate": "20261107T195605Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. Sanctions Canadian Money Exchange Businesses Over Iran Crypto Ties",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ3VPOEwydGdLN3l2Q1BYYjB3MWpseGVWZEllTkpjT3VXbTVXSGpPNG1FT0xEdHNrdGdLM19Wa1N4Y0QyYUYwRkp5cVl4bVNHQUZjQjF1VHRwMW05d2kxTjJxT2pkemp3eVd2MzczbG1YVkc0OFRURFl5NFhvQnhoTUJLakVCRURNWEIyNXBnNHk5T00?oc=5",
+        "domain": "www.yahoo.com",
+        "publisher": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
+        "language": "",
+        "seendate": "20261107T234000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US sanctions eight Canadian companies accused of helping Iran evade sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53V2I5ZFBLVFM4ZE15OWtJNDNzZy0wbGFyRGZRS3RiaFlsTVQ4cHZFNUxJNEtZV0xXZUZnR1RNb3BROUZ1TWprSG80Qnkwbmp5clhMeW5QTzVjQQ?oc=5",
+        "domain": "www.israelnationalnews.com",
+        "publisher": "Israel National News",
+        "publisher_url": "https://www.israelnationalnews.com",
+        "language": "",
+        "seendate": "20261108T042807Z",
         "source": "GoogleNews"
       },
       {
@@ -109,63 +139,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Beijing urges US to correct its 'wrongdoings' swiftly after Washington sanctions Chinese companies over Cuba",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaTBFa2h3ZkYtdWJoQzRlYXQxaFk0UHdSOHpjVVdVR3JhRmYzckc3dWZIWkswN19xajc2eGRnQ0lVQmhab2NKOVdwQ0U3THNKelkzTkhKMFVjeG1kUS15M3pRaFpwck5rYmdZaXpIcTBRRXE1OE5sV29PUWM2Qzh4T3h1V3pwcE9aSFM4MUgxSDlFRGpaUVVtd1prbU5LM195T2dCRmo5RU1kNXl3UlhaZVB3dkhvQjJtOXRsQXo4S0pIZndnTXNSVm45bXJjNUFTS3RxZS1qeG96N2toa29lX0JnbU5WaTg?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
+        "title": "US Treasury Sanctions Canadian Money Services Firms Over Iran-Related Transactions",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSkl3S01mSEZNSm5ENW0xc3pIRjczS1R5bHpvZ3F3MFdRVUR6VXpJbVFUeVpyMG9kX2trZHZKR00tU3J0VXYyNGplanBNeHBjOE85RVZFWHI1b0RFQ3dsX3pfekd0RW51dmZZU0xIZ0RBSnI0Z1JzelRXRWhLNkV2ZXZnUzFUNDZBQjVkSlNwR3VMdGNrTzBNbjRWbllvcFFhOGhNcjdnN0pIMkNRWTBjaVNkWngxVm1nWTI5X2pKbWo?oc=5",
+        "domain": "english.aawsat.com",
+        "publisher": "ASHARQ AL-AWSAT English",
+        "publisher_url": "https://english.aawsat.com",
         "language": "",
-        "seendate": "20261107T092205Z",
+        "seendate": "20261107T175747Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Measuring the sanctions fear factor",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qX0RpTlVBVTlQaW9mSHZvTWpwV2NMMTE0bzdfVjhPNlJHVEpBV0R1ZUlVVjlMLWo1VmVlclFVV3ZicnFDRE8zNmY1YnBtNmtuT0NFQlR3aF9kd09uOENfa2o0aXlDZEFtUVE?oc=5",
-        "domain": "en.thebell.io",
-        "publisher": "The Bell",
-        "publisher_url": "https://en.thebell.io",
+        "title": "Trump expands Cuba sanctions, targeting new industries and offshore network",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWno0cTN3cnBPMkMteGNiZzI4dXVQWGRiRG5tblpCcURQcFgtcHA3ZWJLeHI3dnZkZ09CMnN2cjhZdWhwM2wtVkQ5Z3RSVFBfdGNnamtOQkVYS2ZNTGVyZUJfWGFGREE2eWxmemFRVUN3NFRHR3owSnBQNXBWdWJ3VmJKeDJOa3FQVUJ3Y0ZyS1jSAZABQVVfeXFMTU9xQmlHU0FwcmRxQVdNZHlBbVlDdjEwMHllWl9TYnFHU3RBMFZRUGhobF9MLWNaNkZlV1ZkUzctRHpldzc1RDFvOUpQaUJpVWh0VExNWGpuaWRvazZrRGlDTXRnSkx4Ykw0UVM4b3NvVUhnODNPSDRTSGl5MGtieGx1TkdmR0xFQmZ6SGFoZFRI?oc=5",
+        "domain": "www.miamiherald.com",
+        "publisher": "Miami Herald",
+        "publisher_url": "https://www.miamiherald.com",
         "language": "",
-        "seendate": "20261107T121318Z",
+        "seendate": "20261105T222253Z",
         "source": "GoogleNews"
       },
       {
-        "title": "FinCEN Targets Seychelles Exchange, OFAC Hits MSBs in Canada",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPREZseTN0dkxMV05NWE5IbGFvM1RCcjViR2ZnMUVSZWJtLXRjRVhRa01idXE1eE0wbUJrOG1HclJ5RjBrY2ZxZlZqSWctNzU4UFZqVHBKdXB3U1dvaVBORU14X1dIeU95M2Y3NHRZQXR6MkctYUF4bXZvLWVMYjBWRVN4SGJpSW13Tm5UNS1XVQ?oc=5",
-        "domain": "www.acams.org",
-        "publisher": "ACAMS",
-        "publisher_url": "https://www.acams.org",
+        "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3FDNDVJS3VUN0RSZ0N4MjN3U3BGbHF1c0U3OGRnWlpVc21LMHM3dWd2TDhNR2lIUHBSOHAxNmZXSks0a01DM25XcjVIMnBMY2FJOHk2a2xXSXdZY3B1dnhaNmpPbW5wT2VoM0dlM1JqQkpXeHk3bURRcWJXTG5iZFRSb2hreDVHaTNwWUxnT08xbEpjVWdqODVFSFFOenZxdDRZSFFRRVBYOGVJRzFBbVpSVFFRQQ?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg.com",
+        "publisher_url": "https://www.bloomberg.com",
         "language": "",
-        "seendate": "20261107T021404Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Japan eyes early contribution payment to ICC as court faces U.S. sanctions",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONTJ6LUJqbUdLSEYxT1h0N1cwTXdDclhmdldSRjFmejQ1c0J0S2xGNW9oQXU5NDR5NjJnVHpzRnIxemE3YXdleTJ4YVhwUHJqY3NERW0wWmJrZE5qbzd3WVFJOWdGeGU2R19fSTN0Nm9ENEdPMDV5b1lDNGgxY0l6M2ZmbzRYSjVJb21NNHd1U3prbERLUF9IS2N5NWk?oc=5",
-        "domain": "www.japantimes.co.jp",
-        "publisher": "The Japan Times",
-        "publisher_url": "https://www.japantimes.co.jp",
-        "language": "",
-        "seendate": "20261107T042700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "China Defends Cooperation With Cuba Amid Illegal US Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzdySGo0eTFGWmUtUWRyQlAtRzZQWmJTRndEOTFXZ1ctZ0FZUVhncUZNYWxKSFhvUUlMeTczUXJNWGk0OWszd1RCOEhQaktXQ3N0V2NRdW5KWHdjdTgtRllmYTktblZGYUI3QjZNTXBVcWRxRWx1TnJJaHI2M25tVDRReFFRdFN0Qmx4UmNVbG84OGc?oc=5",
-        "domain": "orinocotribune.com",
-        "publisher": "Orinoco Tribune",
-        "publisher_url": "https://orinocotribune.com",
-        "language": "",
-        "seendate": "20261107T182451Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Oregon sanctions girls' flag football as participation soars nationwide",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWFV2a2xsdXJYYWIzUUhodTFJdVBTc3lRX0RXTzZEUnREb3g2c0N0SWtWS0p5Sm81MkRxT2k0bjhHWmY4VG9LYktDei1XTWptUnBVQXpHbUdYS2J2V1diYl9tZEhrbWxQcGlhUnk2NHBpemNuQTFVQ085V3dnbWhqVlBPT000Q2JzWjI0eGZNVjlpUGxLWHVMaGhQQXpZSk9DcXBQUmppNUJCeVFibUV2NkdRRTF0OWliVUJYblpiRWxTYzR0TGppeHZLLTJha0E?oc=5",
-        "domain": "foxnebraska.com",
-        "publisher": "KFXL",
-        "publisher_url": "https://foxnebraska.com",
-        "language": "",
-        "seendate": "20261107T101359Z",
+        "seendate": "20261107T015400Z",
         "source": "GoogleNews"
       },
       {
@@ -179,13 +179,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Further Sanctions on the Cuban Regime’s Foreign Military Support and Illicit Revenue Networks",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNTBSZGRNc2NwcU0wTTJ6MG8wT0N0a0daeTV1OGVodVJDVW5EWkhOTkpEV05UMndwYVVEVzRhNDRyUkt0T3VuWk4xXzl6UFZrMVFRZWFVVG5ZUS01b2Y3c3dYUzJfbW84STd0R0lTSXFlZXR2SGtTZGxFaTdIMW8zeHY1dEYtZ1pCdElMUG0tOXFlQVhSNlFOVGp4bGtqS1NyZ01JMHF1YmJfZGxJWjgtaEN5RXpLMS1TZ1JaQ2ZpWUVyLUc3YzVfdW9VNVBNTzZlc0F0aTBmTkp4NU83dDY0amhCbGpCWlJNS1ZuTA?oc=5",
-        "domain": "www.state.gov",
-        "publisher": "U.S. Department of State (.gov)",
-        "publisher_url": "https://www.state.gov",
+        "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261105T184630Z",
+        "seendate": "20261105T181108Z",
         "source": "GoogleNews"
       },
       {
@@ -199,13 +199,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlhSSm1fRk1ncTdNLVlWRzltV0pWeGd3VFU3V3RvWUdjWnVRQTNGdzlkX2FfNTN0TVMxV1hqOFVFelFTVkYyMERVX0E2ZzZtNmh3S3hmUXhkSmFIZXI2RzNVbF9MZXRaZV9WY3ZlQnRYVlZPbnFpUi1aYWNMZnktNnlGbDFPT0ZQcHZ5SHdsVHI1TkJQQ05XckFKM0RKd0ozWFRiTHNsNkRUR0RBeHBZRms1aUhlLXJK0gG-AUFVX3lxTE9laUh2ODA2a3F6OWo0MDZiVVlUYmNZREpqLUhlRV92SHZJVi1DWG80NnR4N1VXeGdQdF9XeGIwU19kcDlJU0x5MU93RkwzWDFnRnVkQ3ZqUFJ3MVYwTnp4QnNtRTU4RFFkbG1TOWNGUkV2eUxlTE13RGJodmd6Q1ZHY1RCZWFHZlMwS0x5OG5nZ0VINHJuU1FlUHJVUzFTSGpIa19PTDEtaDBDZU53TlAtekZxTGo1THZEY2pIN0E?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261105T181108Z",
+        "seendate": "20261106T084538Z",
         "source": "GoogleNews"
       },
       {
@@ -229,43 +229,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlhSSm1fRk1ncTdNLVlWRzltV0pWeGd3VFU3V3RvWUdjWnVRQTNGdzlkX2FfNTN0TVMxV1hqOFVFelFTVkYyMERVX0E2ZzZtNmh3S3hmUXhkSmFIZXI2RzNVbF9MZXRaZV9WY3ZlQnRYVlZPbnFpUi1aYWNMZnktNnlGbDFPT0ZQcHZ5SHdsVHI1TkJQQ05XckFKM0RKd0ozWFRiTHNsNkRUR0RBeHBZRms1aUhlLXJK0gG-AUFVX3lxTE9laUh2ODA2a3F6OWo0MDZiVVlUYmNZREpqLUhlRV92SHZJVi1DWG80NnR4N1VXeGdQdF9XeGIwU19kcDlJU0x5MU93RkwzWDFnRnVkQ3ZqUFJ3MVYwTnp4QnNtRTU4RFFkbG1TOWNGUkV2eUxlTE13RGJodmd6Q1ZHY1RCZWFHZlMwS0x5OG5nZ0VINHJuU1FlUHJVUzFTSGpIa19PTDEtaDBDZU53TlAtekZxTGo1THZEY2pIN0E?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "Further Sanctions on the Cuban Regime’s Foreign Military Support and Illicit Revenue Networks",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNTBSZGRNc2NwcU0wTTJ6MG8wT0N0a0daeTV1OGVodVJDVW5EWkhOTkpEV05UMndwYVVEVzRhNDRyUkt0T3VuWk4xXzl6UFZrMVFRZWFVVG5ZUS01b2Y3c3dYUzJfbW84STd0R0lTSXFlZXR2SGtTZGxFaTdIMW8zeHY1dEYtZ1pCdElMUG0tOXFlQVhSNlFOVGp4bGtqS1NyZ01JMHF1YmJfZGxJWjgtaEN5RXpLMS1TZ1JaQ2ZpWUVyLUc3YzVfdW9VNVBNTzZlc0F0aTBmTkp4NU83dDY0amhCbGpCWlJNS1ZuTA?oc=5",
+        "domain": "www.state.gov",
+        "publisher": "U.S. Department of State (.gov)",
+        "publisher_url": "https://www.state.gov",
         "language": "",
-        "seendate": "20261106T084538Z",
+        "seendate": "20261105T184630Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Nicaragua Demands End to Unilateral Sanctions, Backs Cooperation Without External Impositions",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWlDN25VT2J4eUZxWXdMZnExYlpqeVR2a0QyUFQ3b0ZKTVlBNXRjTTBhT0x3OVpMSXVjMVpiQVBSTU5DYnNSYjZFYnB4U3dtX3dRUzFDdUtqaTB4WDFkeVVnTmpEWElWUjY5S3l3WlVtT1J1RTdnYV9VekxWSDBLS0V6ME5tYmxGbk9vb3FQTDJMRTZ6RExsMm44LVpHanJfUGVDbmt6QS1zbTl6cjZQWUFNMlFrX3BtRXhWZA?oc=5",
-        "domain": "orinocotribune.com",
-        "publisher": "Orinoco Tribune",
-        "publisher_url": "https://orinocotribune.com",
+        "title": "Measuring the sanctions fear factor",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qX0RpTlVBVTlQaW9mSHZvTWpwV2NMMTE0bzdfVjhPNlJHVEpBV0R1ZUlVVjlMLWo1VmVlclFVV3ZicnFDRE8zNmY1YnBtNmtuT0NFQlR3aF9kd09uOENfa2o0aXlDZEFtUVE?oc=5",
+        "domain": "en.thebell.io",
+        "publisher": "The Bell",
+        "publisher_url": "https://en.thebell.io",
         "language": "",
-        "seendate": "20261107T170128Z",
+        "seendate": "20261107T121318Z",
         "source": "GoogleNews"
       },
       {
-        "title": "OFAC Designates Eight Canadian Money Services Businesses Under Operation Economic Outcast",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQTVzckNOOUNqZWZYS0wxblhzZUptWUVaYXJZcUpBWVF5TW9UckhibjNmN0JBTTZKOGYyWUlCYm9MQWYyb2U3MUV6b05GcTBObEJvN0x6SUUwUkhrVEVjbHNtNVVoTTY0dHItS2RRYTIyaTEzMTY2MGM3Y251LThFUXoxVXZ3aFNES2FzTnhWSTZIOEw0MG5nb1FRMGhtV3hkSXh1QS1vMnY3QWdfLUJKd2t4ZGJQRTNZZXEtMWFSQ0lwTmJVdXVv?oc=5",
-        "domain": "www.trmlabs.com",
-        "publisher": "TRM Labs",
-        "publisher_url": "https://www.trmlabs.com",
+        "title": "Managing U.S. Sanctions, Export Controls, and Trade Compliance Risks In U.S.-Africa Energy Investments",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTlR5SVV3UC1DbExLRGhiLUFEcnUxY0U2b0lsVFAtVGhacUZBVm1yNFowSmllZV9kWmNPc0x0bFlOenpFaW1uVFV6aUxjd05Oc214RjBWZHFFU2xCVTBMU2xRaTVuOS14VV9kRm4wSFpUYjhNeHZ0YjV1cnpPdmU5dER1a1dWd0R2a3RwUXgxbEwwQWFmalR0TXNPVTRBUEMxdnZZank4dUgyQVhNNHZmei1WU3BfS2U2VVF0Q3pYWTdvbHlMUzNmYUNsVHhJYkFSV25B?oc=5",
+        "domain": "panafricanvisions.com",
+        "publisher": "pan african visions",
+        "publisher_url": "https://panafricanvisions.com",
         "language": "",
-        "seendate": "20261107T000520Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "China Protests U.S. Sanctions on Two Companies and Warns of Action",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1FibWFpQjVBUDBibGp2QWFSUk4xR0tTMFVlVW5YN2lBa0I4UHhneXBvazducW04V2JxaDFCbDctd0dhWUZpbnJ4VVJzRXNqeGxVLWwxSDd0TmtOUXJQbTZfVUdfLVhXR0ZUQVpTaFluSC1EekdGbmdKV1psM3B6TjdjYmIxNHZWTnpsY28yWE1Jdw?oc=5",
-        "domain": "www.briefs.co",
-        "publisher": "Briefs Finance",
-        "publisher_url": "https://www.briefs.co",
-        "language": "",
-        "seendate": "20261107T112500Z",
+        "seendate": "20261107T214927Z",
         "source": "GoogleNews"
       },
       {
@@ -279,43 +269,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Argentine Football Association plans to challenge FIFA sanctions at CAS — BBC Sport",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQk4wQ2p3cUVGd0paZmNPTnVJaDFsVnR3cjVPYjJJNFZGZUdOMWNPVVRiTHZnOXY3TTFsU3pXUE5nYk5hb0hRckhXa3NVMi1TbnVJZ3c3MTB0UFBVaEVmRkdwcFRIMm5hdmRnSUVMY1FYUnFvUkdPeWVPd1FJUmhEdWhlZzhKb3c2YUlQdlc4R2NtenBMSmtPN0NwcThPQ0VyNHJUbncwODBwSWhZbmYwUEQ0MzM?oc=5",
-        "domain": "ua.news",
-        "publisher": "UA.NEWS",
-        "publisher_url": "https://ua.news",
+        "title": "Nicaragua Demands End to Unilateral Sanctions, Backs Cooperation Without External Impositions",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWlDN25VT2J4eUZxWXdMZnExYlpqeVR2a0QyUFQ3b0ZKTVlBNXRjTTBhT0x3OVpMSXVjMVpiQVBSTU5DYnNSYjZFYnB4U3dtX3dRUzFDdUtqaTB4WDFkeVVnTmpEWElWUjY5S3l3WlVtT1J1RTdnYV9VekxWSDBLS0V6ME5tYmxGbk9vb3FQTDJMRTZ6RExsMm44LVpHanJfUGVDbmt6QS1zbTl6cjZQWUFNMlFrX3BtRXhWZA?oc=5",
+        "domain": "orinocotribune.com",
+        "publisher": "Orinoco Tribune",
+        "publisher_url": "https://orinocotribune.com",
         "language": "",
-        "seendate": "20261107T201117Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Government Announces Fresh Sanctions Against Cambodia-based Scam Network",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0tiUDNGbWhkUGlPLWhaamlaakE0bW1UN0I5VWRHSWVaOFktVmozd0lzWGhQdnEzRy0zbklGTF85ZUJBdU4wYm8tTDVSOEhSUmlNam9oeG5IdVJCb2tlbWtPb3RlNlJjNUdCOEhkUFdHbG9RUWdfZUROaUVOWjdQaUpmeHRiUzBGOHJhZ1pQRUh0T2ZKWjI1Q2VLYXBXd3lTbjRMVFJUZGp0MFBr?oc=5",
-        "domain": "thediplomat.com",
-        "publisher": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-        "publisher_url": "https://thediplomat.com",
-        "language": "",
-        "seendate": "20261106T114319Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Opportunities under the shadow of sanctions… – Is Russia ready to cooperate with the US?",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFdvMEEzNXNVZnM4NTZrbktzRlNNVlVVb1M3UWJ0V3RjSEFnUjJuYWc0M21VQzFMRi12djZJMDdhZUdGTm1KUVlQb3NPb2h0V3l3ZWl6d2RFVWp2U3NGVjdoV1JlS2NhQnc5ZUp0bk96OVI0RHF3Sl8tdDUwR2locmd4aXFxV1l3RVkxa1U1WVNpdm55bkhkT1AzWWdKSDk5SUt1MkZaTGhvN3lVSTRZajNjTzVUQQ?oc=5",
-        "domain": "todaypress.tv",
-        "publisher": "TodayPress.tv",
-        "publisher_url": "https://todaypress.tv",
-        "language": "",
-        "seendate": "20261107T173400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "China airs ‘serious concern’ over US sanctions ahead of Xi, Trump Apec meeting",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONU02TlFaYk1wWnYxdmdGT2NKX3FpM3h0VmtzZ1o5SlhZelJWZjNpVmM3MWVjMklkNlNFeFFRY1V6d2I2aVA4X3Y2cnVqVUh0NjNoc0RXdlFKR2FCRGRvV3l6RUpRUnJ5a2ItSklEVXhQZVBUd1BZdDdxOTlGR2loMWVxbTBiZlJzNkt5UEN6ZEExeWJYcEhUU0x6MXozQ3UzVVZCTU5DTE9sYlJBM2syTzhvZE5tUXp0aHR2cl9tUWhqVmNrU0VlSnpjMEh6QdIBzgFBVV95cUxNWHBVZmNpdVE0UFU2NExlQzBEUm4xVzJjMDU1VlE1OUY5VGRWU09TNnp0bzg2UDJ2WG1uZXVpc2NsRzlSLTVhVnBkMHVfRVh0cG9jWmc1QnJxa0NTd2NDcnBVREZqcUxjQ2ctNVZFakIyamNFUXdPMGZjOE9uU19uUlVZWDFudkRVaTVwdjUzdDFZOGNxZ295TDFTa1JDV2hUeHBZZjFnWEtnZkJKdXFIX0ZDMEJBTEp2TUFxM3pQb1lrRzlEb0FXVzdROTd2UQ?oc=5",
-        "domain": "www.scmp.com",
-        "publisher": "South China Morning Post",
-        "publisher_url": "https://www.scmp.com",
-        "language": "",
-        "seendate": "20261107T040913Z",
+        "seendate": "20261107T170128Z",
         "source": "GoogleNews"
       },
       {
@@ -329,13 +289,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "U.S. sanctions Canadian money-exchange businesses allegedly connected to Iranian regime, Ryan Wedding",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWEoxMkV4SkN2dHpVdG9ybmRkMDlRMllxR1pia3c4eWtWbXRwUGEtbjZYNlhleEs4V0hfeEQwaVRuWkNuT1VPWmp4QzExNFBtVWNlVkFiUjVVZTh2UDRfZVhta05BbnVEbmMxRVFrWWU3U0ktVkFVdmRlUktBdXdaa1Y3VEdiemNwQjFMWEFEb1RkaTVQdVQ0ZnVRMkU0ZzZBUGlRWg?oc=5",
-        "domain": "www.cbc.ca",
-        "publisher": "CBC",
-        "publisher_url": "https://www.cbc.ca",
+        "title": "Beijing urges US to correct its 'wrongdoings' swiftly after Washington sanctions Chinese companies over Cuba",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaTBFa2h3ZkYtdWJoQzRlYXQxaFk0UHdSOHpjVVdVR3JhRmYzckc3dWZIWkswN19xajc2eGRnQ0lVQmhab2NKOVdwQ0U3THNKelkzTkhKMFVjeG1kUS15M3pRaFpwck5rYmdZaXpIcTBRRXE1OE5sV29PUWM2Qzh4T3h1V3pwcE9aSFM4MUgxSDlFRGpaUVVtd1prbU5LM195T2dCRmo5RU1kNXl3UlhaZVB3dkhvQjJtOXRsQXo4S0pIZndnTXNSVm45bXJjNUFTS3RxZS1qeG96N2toa29lX0JnbU5WaTg?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
         "language": "",
-        "seendate": "20261106T235100Z",
+        "seendate": "20261107T092205Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US Government Announces Fresh Sanctions Against Cambodia-based Scam Network",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0tiUDNGbWhkUGlPLWhaamlaakE0bW1UN0I5VWRHSWVaOFktVmozd0lzWGhQdnEzRy0zbklGTF85ZUJBdU4wYm8tTDVSOEhSUmlNam9oeG5IdVJCb2tlbWtPb3RlNlJjNUdCOEhkUFdHbG9RUWdfZUROaUVOWjdQaUpmeHRiUzBGOHJhZ1pQRUh0T2ZKWjI1Q2VLYXBXd3lTbjRMVFJUZGp0MFBr?oc=5",
+        "domain": "thediplomat.com",
+        "publisher": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+        "publisher_url": "https://thediplomat.com",
+        "language": "",
+        "seendate": "20261106T114319Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "World Liberty Launches Token Buyback as Sun Seeks Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0FnQ3Ywb0tUSjl0LXNMTEhjVVgtakhfa3BGN0s2ZkZuSVlRN3FFSWRPZVdZOTZFSU9rQ3Y5RmhVMlk5bldvblp1b0NVS2pXOWV2UzVYNHpiUUVNZXlpUlhXZUxkVDBKaWgtQl9BZ1JnSnNzV1BqaXFOdDdSY1lMQ1MtQjM4N0l4UFlqeU91RFM3QldOV3hsbm93ZDNMUQ?oc=5",
+        "domain": "cryptorank.io",
+        "publisher": "CryptoRank",
+        "publisher_url": "https://cryptorank.io",
+        "language": "",
+        "seendate": "20261108T004909Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "China Defends Cooperation With Cuba Amid Illegal US Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzdySGo0eTFGWmUtUWRyQlAtRzZQWmJTRndEOTFXZ1ctZ0FZUVhncUZNYWxKSFhvUUlMeTczUXJNWGk0OWszd1RCOEhQaktXQ3N0V2NRdW5KWHdjdTgtRllmYTktblZGYUI3QjZNTXBVcWRxRWx1TnJJaHI2M25tVDRReFFRdFN0Qmx4UmNVbG84OGc?oc=5",
+        "domain": "orinocotribune.com",
+        "publisher": "Orinoco Tribune",
+        "publisher_url": "https://orinocotribune.com",
+        "language": "",
+        "seendate": "20261107T182451Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US calls for coordinated action against N. Korean cyber threats following Binance hack",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDRVB5bm0tbXdNdlJtaXUxTXVIS0d3YjItQWt4S1pxMkxVMFo5QTdZc1huaXlyWmVPdFl6a2QwQzg3OHNDd3BpT0l1UVBHeWotU3hCYl9vWQ?oc=5",
+        "domain": "www.koreaherald.com",
+        "publisher": "The Korea Herald",
+        "publisher_url": "https://www.koreaherald.com",
+        "language": "",
+        "seendate": "20261108T012608Z",
         "source": "GoogleNews"
       },
       {
@@ -349,113 +349,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Middle East war's energy shock twice 1973 oil embargo: Turkish finance minister",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IbC0zMklRSXA5d3l4amdvTVRFODlJd3Foc0pxamdwUHprdmlZNlZiX2l0aUFXT1NMVHl5alNoX3hsMDFWQTduXzdnTGlOSElXaHVOMm5KNG0?oc=5",
-        "domain": "www.trtworld.com",
-        "publisher": "TRT World",
-        "publisher_url": "https://www.trtworld.com",
+        "title": "FinCEN Targets Seychelles Exchange, OFAC Hits MSBs in Canada",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPREZseTN0dkxMV05NWE5IbGFvM1RCcjViR2ZnMUVSZWJtLXRjRVhRa01idXE1eE0wbUJrOG1HclJ5RjBrY2ZxZlZqSWctNzU4UFZqVHBKdXB3U1dvaVBORU14X1dIeU95M2Y3NHRZQXR6MkctYUF4bXZvLWVMYjBWRVN4SGJpSW13Tm5UNS1XVQ?oc=5",
+        "domain": "www.acams.org",
+        "publisher": "ACAMS",
+        "publisher_url": "https://www.acams.org",
         "language": "",
-        "seendate": "20261107T173050Z",
+        "seendate": "20261107T021404Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Best Crypto Presale to Buy in 2026: Scam Sanctions Hit 45 Targets as Buyers Back Audited Pepeto",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlRjYUJuWUZSVk9zWGMweVpTX3o0YVNEbVpiMC1yWVRIakdQV2VpOC0tZXVVWWxCQkpCNWJJRWVNd3JORE5lRTVFZ0Q5cVJUN3JfX1U4bzRDU3dwWXNrZzZkV2R3SEhQblZqZ2lfZFNkUTZqMGNGeWZEby1ZSF8temZZaG9raGhQbzEtT0RyWDlUenlMY3dmSnlaUlh4SkJkbHVwS3Iwa1VjZ19ZWFJhNnEzMmFYcGtzMmpB?oc=5",
-        "domain": "techbullion.com",
-        "publisher": "TechBullion",
-        "publisher_url": "https://techbullion.com",
+        "title": "OFAC Designates Eight Canadian Money Services Businesses Under Operation Economic Outcast",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQTVzckNOOUNqZWZYS0wxblhzZUptWUVaYXJZcUpBWVF5TW9UckhibjNmN0JBTTZKOGYyWUlCYm9MQWYyb2U3MUV6b05GcTBObEJvN0x6SUUwUkhrVEVjbHNtNVVoTTY0dHItS2RRYTIyaTEzMTY2MGM3Y251LThFUXoxVXZ3aFNES2FzTnhWSTZIOEw0MG5nb1FRMGhtV3hkSXh1QS1vMnY3QWdfLUJKd2t4ZGJQRTNZZXEtMWFSQ0lwTmJVdXVv?oc=5",
+        "domain": "www.trmlabs.com",
+        "publisher": "TRM Labs",
+        "publisher_url": "https://www.trmlabs.com",
         "language": "",
-        "seendate": "20261107T200014Z",
+        "seendate": "20261107T000520Z",
         "source": "GoogleNews"
       },
       {
-        "title": "How Russian Developers Manage Western Sanctions and why",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTW05MUF5ZmZHU1RJTWpOc3BpTTNKM2I4WUtNRV92VnliQjlDM0JKd3YtWnFJNklPN2p1UmN4NE5fSkpKWkFFdjZoN3ROSGxxc214WTFWLTFjMGdLSmdPTzV4cDdhUTg0azNTUW9qVl9ZQ0pWbmx6czVlV1RfM2hSdzFpR1FINHlyQ2Etc2NkTEU0cWN6ejlpaFBVaTBydUJwa01V?oc=5",
-        "domain": "www.eureporter.co",
-        "publisher": "EU Reporter",
-        "publisher_url": "https://www.eureporter.co",
+        "title": "Japan considering early ICC funding contribution as court faces U.S. sanctions",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONTJ6LUJqbUdLSEYxT1h0N1cwTXdDclhmdldSRjFmejQ1c0J0S2xGNW9oQXU5NDR5NjJnVHpzRnIxemE3YXdleTJ4YVhwUHJqY3NERW0wWmJrZE5qbzd3WVFJOWdGeGU2R19fSTN0Nm9ENEdPMDV5b1lDNGgxY0l6M2ZmbzRYSjVJb21NNHd1U3prbERLUF9IS2N5NWk?oc=5",
+        "domain": "www.japantimes.co.jp",
+        "publisher": "The Japan Times",
+        "publisher_url": "https://www.japantimes.co.jp",
         "language": "",
-        "seendate": "20261107T141250Z",
+        "seendate": "20261107T042700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US Treasury Sanctions 8 Canadian Crypto Exchange Firms for Helping Iran Evade Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwSGV0S1ZqcjRiMkFuLTB2YmhZRDMxY3JWYnoxUC05VkJFTmpEVDRkOGoxQ19OUVg0RVloN3FXTzkwQm1na29hXzRmd3I1d3FaQzY4cg?oc=5",
-        "domain": "en.bloomingbit.io",
-        "publisher": "bloomingbit",
-        "publisher_url": "https://en.bloomingbit.io",
+        "title": "Oregon sanctions girls' flag football as participation soars nationwide",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWFV2a2xsdXJYYWIzUUhodTFJdVBTc3lRX0RXTzZEUnREb3g2c0N0SWtWS0p5Sm81MkRxT2k0bjhHWmY4VG9LYktDei1XTWptUnBVQXpHbUdYS2J2V1diYl9tZEhrbWxQcGlhUnk2NHBpemNuQTFVQ085V3dnbWhqVlBPT000Q2JzWjI0eGZNVjlpUGxLWHVMaGhQQXpZSk9DcXBQUmppNUJCeVFibUV2NkdRRTF0OWliVUJYblpiRWxTYzR0TGppeHZLLTJha0E?oc=5",
+        "domain": "foxnebraska.com",
+        "publisher": "KFXL",
+        "publisher_url": "https://foxnebraska.com",
         "language": "",
-        "seendate": "20261107T112529Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "China warns of response to US sanctions on firms over alleged Cuba links",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTb2V2eTVock82SE4wdW1pUTRkd29TX0ZjU3hZNUw1VzBtWndaVVM3UXkwOGx2SlpVMXBrYjJLNGh5bTdLTWwyYTBvX1NlN0FDZDJibG5OMnA?oc=5",
-        "domain": "www.trtworld.com",
-        "publisher": "TRT World",
-        "publisher_url": "https://www.trtworld.com",
-        "language": "",
-        "seendate": "20261107T105024Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Beijing opposes US sanctions on 2 Chinese firms",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2I5dUZicFVUbnpsQ3JjLUxEVEZtYmJud3VyOGhGQS1FNjl1U3dfQXctWDk2V2d6c2FEN3Z3dGp3ZFF4YUlBb1VQY3BETnBnbkJHTkxMRlF5NElGVW1aNXBhbGhQU1RaUEJjNHNxeXhwZ3BKajI4MFp0SUwtS3ZNblMwWHh6RGdwY0hheHFibzFnVi1hWnR3?oc=5",
-        "domain": "breakingthenews.net",
-        "publisher": "Breakingthenews.net",
-        "publisher_url": "https://breakingthenews.net",
-        "language": "",
-        "seendate": "20261107T024700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. sanctions eight Canadian entities over alleged Iran-linked crypto conversions",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUQyWmVJTmFlNllaZDN4a0pBS2tBb2dPdmtpV2l5c19pRUFHWTFpUTlGTk5fUldTT0p4c3Z2eVZSVEk5MG1oQTNLcGJoZU9RQUhJWkdiSFhONl9ubWxlVFVMSUF6WS10VXR4b25Bem5UaG02U3JCYzBVaGRSRzVsakNCLVhhYkF3N3hud0k2azhFdw?oc=5",
-        "domain": "www.briefs.co",
-        "publisher": "Briefs Finance",
-        "publisher_url": "https://www.briefs.co",
-        "language": "",
-        "seendate": "20261107T105000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US sanctions 8 Canadian money services businesses for alleged role in Iranian sanctions evasion",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb2E4SjNhaHhyWTBjQm5qUDR6Q0xaMkg3dGlneEFHRHZaazExUE5pTkczQ2lJZng4WXlpdUZ6TEljNzdnVXlSMmVUZmNYa2RqdEZJcG1HVkdRRGFwejBsMlptRWREMVdfOTBPNGFaLURaV2tnSWttM2M2QU9fdHVvaDVVV0lOeXFwMlhtTnVLcDFnMHVZX0N4WXJZOFhCS1VtNlMyNGh2YVRkbjRMc1lBUHM0dzAxVGlTTjRGOFZicUh2WTJJdHhtRG9CcEowdw?oc=5",
-        "domain": "aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://aa.com.tr",
-        "language": "",
-        "seendate": "20261106T221511Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. Treasury imposes sanctions on 8 Canadian businesses connected to Iran",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53ZndDenJ4SWxTdnJnWFA3RF9SdnpZbVFhOVFaQWRJOXBuYWUtUXpNQVc0MkJrRzQtRTVyem5FbzJtWTc3NzBLVHFDcXVjNEdZQUhvQVpZN2xLV1o2dnJxUjV3V0NDMGVTTk9mOTUycW5hVEZBRmhZYVpaVQ?oc=5",
-        "domain": "ca.news.yahoo.com",
-        "publisher": "Yahoo News Canada",
-        "publisher_url": "https://ca.news.yahoo.com",
-        "language": "",
-        "seendate": "20261107T140050Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Sanctions 45 More Targets Linked to Prince Group",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU3J0eFVMMVg5QWNQWURtUXBHUThrSlVCVFI3bXNGLTFQek1hMDFwZGdOMG5ncERQa1NtbVljR2xFRlZkTXpGYm94ZnhDNXRwM29pbGpOUzFzSF9LTDl1dlFsY2N3RnRBMExTSTJ6UWVYMHBKeVUzc01kdjVYQ1hMMXBrQjhlc3I3N2NnNGFqcHdsd2c?oc=5",
-        "domain": "thedefiant.io",
-        "publisher": "The Defiant",
-        "publisher_url": "https://thedefiant.io",
-        "language": "",
-        "seendate": "20261106T235127Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US sanctions eight Canadian money services firms over alleged Iran links",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2w3eVQxVkUwU2xTVFpXTkxyTTNTSHBFR2JwVTlMWG5SbzhseXhIbHhSSjNzVy1wbUxpSW1WOXRxVXRyeXl4b2I5UDBFcUJ1Rm02VWtjdDJFM1JTX1JfS2ctdVctWWZVZ0gzblNvbzZabm5mRHdzRmhqRDlYNzRMMUJRQXNDdmUtLU1FMXAwOXpwQmJScHdZQjF4VVFvbVd3VUh1NkF3U0pTdWZpYWdUZmU5dFhwSUJIM2fSAb8BQVVfeXFMTkpJeG1sQ1YxR2lnaENFM3VsMk9NRTgxTW1pQ1lpT3I0c3lZYmRTN2R3RmhIVHdmenlDbkpvc0RNc2thUVZQekJLR09Sd2lmUG1CaGZFbVdvdU1qLVVxVWkyaXFjZ0dqVm15WHNzX2UxSFRjaTRkeXI5aU9uWmY2QmprcnlaRVBpSEtHVWxSdV9WakxkY3FqaGtfWHpNYlVReG9NTnNvT2ttU1dCMDRtR1RhaUx2T01pYTZEWmJncmc?oc=5",
-        "domain": "www.firstpost.com",
-        "publisher": "Firstpost",
-        "publisher_url": "https://www.firstpost.com",
-        "language": "",
-        "seendate": "20261107T064656Z",
+        "seendate": "20261107T101359Z",
         "source": "GoogleNews"
       },
       {
@@ -479,33 +409,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US sanctions Canadian money-exchange firms over Iran ties",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15VEg4TlhBZmhhd09ZVVpER19oSk5sZU9zT0Q5Z1B1VWlWYV9nQ1BMWG5QaWZjckJYZXdmYk81a3h1WVFmLXpmYm9TX0x0WWNlVksyM25R?oc=5",
-        "domain": "cryptonews.net",
-        "publisher": "Cryptonews.net",
-        "publisher_url": "https://cryptonews.net",
+        "title": "Opportunities under the shadow of sanctions… – Is Russia ready to cooperate with the US?",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFdvMEEzNXNVZnM4NTZrbktzRlNNVlVVb1M3UWJ0V3RjSEFnUjJuYWc0M21VQzFMRi12djZJMDdhZUdGTm1KUVlQb3NPb2h0V3l3ZWl6d2RFVWp2U3NGVjdoV1JlS2NhQnc5ZUp0bk96OVI0RHF3Sl8tdDUwR2locmd4aXFxV1l3RVkxa1U1WVNpdm55bkhkT1AzWWdKSDk5SUt1MkZaTGhvN3lVSTRZajNjTzVUQQ?oc=5",
+        "domain": "todaypress.tv",
+        "publisher": "TodayPress.tv",
+        "publisher_url": "https://todaypress.tv",
         "language": "",
-        "seendate": "20261107T133433Z",
+        "seendate": "20261107T173400Z",
         "source": "GoogleNews"
       },
       {
-        "title": "China opposes US sanctions on Chinese firms, calls them violation of international law",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnQTN6S1dvRDV0S3BNLUdEeW5fQ00yc0k2R1dyd3k2dHYzeGhCMFZDRldLdDlxNmZ1bFZUMEFqQXVIZk96WDdhZ3pjY1k?oc=5",
-        "domain": "sana.sy",
-        "publisher": "سانا",
-        "publisher_url": "https://sana.sy",
+        "title": "US sanctions 8 Canadian money services businesses for alleged role in Iranian sanctions evasion",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb2E4SjNhaHhyWTBjQm5qUDR6Q0xaMkg3dGlneEFHRHZaazExUE5pTkczQ2lJZng4WXlpdUZ6TEljNzdnVXlSMmVUZmNYa2RqdEZJcG1HVkdRRGFwejBsMlptRWREMVdfOTBPNGFaLURaV2tnSWttM2M2QU9fdHVvaDVVV0lOeXFwMlhtTnVLcDFnMHVZX0N4WXJZOFhCS1VtNlMyNGh2YVRkbjRMc1lBUHM0dzAxVGlTTjRGOFZicUh2WTJJdHhtRG9CcEowdw?oc=5",
+        "domain": "aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://aa.com.tr",
         "language": "",
-        "seendate": "20261107T201552Z",
+        "seendate": "20261106T221511Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US targets Canadian money firms in crackdown on Iran sanctions evasion",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LZWtVSnJNbG1neVRpMUVxMlNvTVlaMVd2UHp5Z0tRXzBLM3hTejMwUUtmQ3V3NzJLdHptSnBVcmx5M0lid0RYcy1nTl9kSkR4TTBGTjRqeHE1NmhsWFM4?oc=5",
-        "domain": "www.nationthailand.com",
-        "publisher": "Nation Thailand",
-        "publisher_url": "https://www.nationthailand.com",
+        "title": "China Protests U.S. Sanctions on Two Companies and Warns of Action",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1FibWFpQjVBUDBibGp2QWFSUk4xR0tTMFVlVW5YN2lBa0I4UHhneXBvazducW04V2JxaDFCbDctd0dhWUZpbnJ4VVJzRXNqeGxVLWwxSDd0TmtOUXJQbTZfVUdfLVhXR0ZUQVpTaFluSC1EekdGbmdKV1psM3B6TjdjYmIxNHZWTnpsY28yWE1Jdw?oc=5",
+        "domain": "www.briefs.co",
+        "publisher": "Briefs Finance",
+        "publisher_url": "https://www.briefs.co",
         "language": "",
-        "seendate": "20261107T072800Z",
+        "seendate": "20261107T112500Z",
         "source": "GoogleNews"
       },
       {
@@ -527,6 +457,76 @@
         "language": "",
         "seendate": "20261106T171147Z",
         "source": "GoogleNews"
+      },
+      {
+        "title": "Best Crypto Presale to Buy in 2026: Scam Sanctions Hit 45 Targets as Buyers Back Audited Pepeto",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlRjYUJuWUZSVk9zWGMweVpTX3o0YVNEbVpiMC1yWVRIakdQV2VpOC0tZXVVWWxCQkpCNWJJRWVNd3JORE5lRTVFZ0Q5cVJUN3JfX1U4bzRDU3dwWXNrZzZkV2R3SEhQblZqZ2lfZFNkUTZqMGNGeWZEby1ZSF8temZZaG9raGhQbzEtT0RyWDlUenlMY3dmSnlaUlh4SkJkbHVwS3Iwa1VjZ19ZWFJhNnEzMmFYcGtzMmpB?oc=5",
+        "domain": "techbullion.com",
+        "publisher": "TechBullion",
+        "publisher_url": "https://techbullion.com",
+        "language": "",
+        "seendate": "20261107T200014Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Argentine Football Association plans to challenge FIFA sanctions at CAS — BBC Sport",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQk4wQ2p3cUVGd0paZmNPTnVJaDFsVnR3cjVPYjJJNFZGZUdOMWNPVVRiTHZnOXY3TTFsU3pXUE5nYk5hb0hRckhXa3NVMi1TbnVJZ3c3MTB0UFBVaEVmRkdwcFRIMm5hdmRnSUVMY1FYUnFvUkdPeWVPd1FJUmhEdWhlZzhKb3c2YUlQdlc4R2NtenBMSmtPN0NwcThPQ0VyNHJUbncwODBwSWhZbmYwUEQ0MzM?oc=5",
+        "domain": "ua.news",
+        "publisher": "UA.NEWS",
+        "publisher_url": "https://ua.news",
+        "language": "",
+        "seendate": "20261107T201117Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. sanctions Canadian money-exchange businesses allegedly connected to Iranian regime, Ryan Wedding",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWEoxMkV4SkN2dHpVdG9ybmRkMDlRMllxR1pia3c4eWtWbXRwUGEtbjZYNlhleEs4V0hfeEQwaVRuWkNuT1VPWmp4QzExNFBtVWNlVkFiUjVVZTh2UDRfZVhta05BbnVEbmMxRVFrWWU3U0ktVkFVdmRlUktBdXdaa1Y3VEdiemNwQjFMWEFEb1RkaTVQdVQ0ZnVRMkU0ZzZBUGlRWg?oc=5",
+        "domain": "www.cbc.ca",
+        "publisher": "CBC",
+        "publisher_url": "https://www.cbc.ca",
+        "language": "",
+        "seendate": "20261106T235100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "ICC: Japan mulls early payment to tribunal facing US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0M4WmktWUZsUEh3M1J3eDdvOHk2cGhyS1gzXzlBa0hnaG1nUHJUOW9yb1dOTURCN3VhdTRJN3UtRlNQbExTUkhSU1ZkUHJSQ1pDU2JfRzRUTF85VFlYeXRyWkxIcjlIX1RjUEM4cnhycnFRcktZYlZYeklFdjlLS1ltOU43WEM2OVBUREVEaktFckJzeXNpdzU4RWFETmxidDJiWHRn0gGrAUFVX3lxTE44UHltajVmdkV0OTFfTU4ybUNkWS1KUHBESE9GZU1WUG5YZ0R2MzV3UGFrWmRiQW1NRjlaZ2JEcTVuUTVOZGVfZFFpRGpNUENfbzhiUTA4bHZjUkpQYWs0RXhtOGZNR3NMUjk3eEVMdlRFeFRERTBVYkhpUVppMXVGNlRfNE1pck54WEVnMmFPNmVmaG5KZlR0UnFuLVVxSWJGT3BJTktwdnhOWQ?oc=5",
+        "domain": "cebudailynews.inquirer.net",
+        "publisher": "Cebu Daily News",
+        "publisher_url": "https://cebudailynews.inquirer.net",
+        "language": "",
+        "seendate": "20261108T044700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "How Russian Developers Manage Western Sanctions and why",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTW05MUF5ZmZHU1RJTWpOc3BpTTNKM2I4WUtNRV92VnliQjlDM0JKd3YtWnFJNklPN2p1UmN4NE5fSkpKWkFFdjZoN3ROSGxxc214WTFWLTFjMGdLSmdPTzV4cDdhUTg0azNTUW9qVl9ZQ0pWbmx6czVlV1RfM2hSdzFpR1FINHlyQ2Etc2NkTEU0cWN6ejlpaFBVaTBydUJwa01V?oc=5",
+        "domain": "www.eureporter.co",
+        "publisher": "EU Reporter",
+        "publisher_url": "https://www.eureporter.co",
+        "language": "",
+        "seendate": "20261107T141250Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US sanctions three over Iran air defenses amid reports of Russian arms deal",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41T2ZSWk9NNml4T3M0cVVZYUdmYUtlZDlzcFhTS3lfSEVPeVkzY1loMllqZUFYTF85bExUR0x2bHpYSDh5NXpqOFBQUk5lUGxMbU9tSV9Rc05zQ1dGajZxczVZLWwwa1dCelE?oc=5",
+        "domain": "www.jpost.com",
+        "publisher": "The Jerusalem Post",
+        "publisher_url": "https://www.jpost.com",
+        "language": "",
+        "seendate": "20261105T141535Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US Treasury Sanctions 8 Canadian Crypto Exchange Firms for Helping Iran Evade Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwSGV0S1ZqcjRiMkFuLTB2YmhZRDMxY3JWYnoxUC05VkJFTmpEVDRkOGoxQ19OUVg0RVloN3FXTzkwQm1na29hXzRmd3I1d3FaQzY4cg?oc=5",
+        "domain": "en.bloomingbit.io",
+        "publisher": "bloomingbit",
+        "publisher_url": "https://en.bloomingbit.io",
+        "language": "",
+        "seendate": "20261107T112529Z",
+        "source": "GoogleNews"
       }
     ]
   },
@@ -539,6 +539,36 @@
       "publisher_url": "https://www.reuters.com",
       "language": "",
       "seendate": "20261106T224657Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US sanctions Canadian money services businesses for helping Iranian regime move money out of the country",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX3kzZTlFMkZiOEVpSms2WmNNLThkcjUydnRiQnpobWFZa1ZfTDEzME5xWEx2SWVGeWozZm9xZVdyVzZTRnhSQk5xQ0tDX0lkSWJWWGh3YkRPcEx1Vms0U3lpWFM3R2FhSklZaE5iVGExSTVYZHlva3Y3WHZkYXhHM2lWdHZoZXNoWXlNSHEwNnJJdG5YYVplNGpuUW9TMUpwSXdyN3Z3d3IwTEtIekR4Q0l4NWtFZ1hRUXRBakVZclZLY1plN3RtUnJCQTdPM0EzX2lweQ?oc=5",
+      "domain": "www.jns.org",
+      "publisher": "JNS.org",
+      "publisher_url": "https://www.jns.org",
+      "language": "",
+      "seendate": "20261108T011124Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Russian token moved $102bn. Brussels answers with sanctions office",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNREtodW9xMUM1aWtqUEVhVkRaVWFLRnVTa1dKT3hybGh3QW5QQmk2czdOeEk1dmVJSEVPTlRDYWsyXzdSVTRVa2dfd3JXc3ZERGVza0NnUHpMWWxFUDUxc2JGOEtISkxreWNXTkQ2T3JBOGJHa2dqWHplYXB0X2QtcDlWdGg1Q2VET25SSXBnRTFjQkdXcWE1cGRUMFhtb1Ba?oc=5",
+      "domain": "euperspectives.eu",
+      "publisher": "EU Perspectives",
+      "publisher_url": "https://euperspectives.eu",
+      "language": "",
+      "seendate": "20261108T050029Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Cuba’s Agricultural Decline Linked to Six Decades of U.S. Sanctions",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSGc1T2V6SXlGYjA3Y2VkOGswLXp1cjI5TnpkMXdwRTdZSU1tT1dlSzN3X2RaVW5YRVNIWEFqOWYzUzhaQUE4TDl4YlFXRF92cUNVTThvTlpmNmNlYnhqWjBpMUVVMGsxVHIyNzBkOG1uWDlfeWFrYkFteWdBQWtvX0xVWjFNTkIwMkl5MkdnMHJQUUVB?oc=5",
+      "domain": "bioengineer.org",
+      "publisher": "Bioengineer.org",
+      "publisher_url": "https://bioengineer.org",
+      "language": "",
+      "seendate": "20261108T042100Z",
       "source": "GoogleNews"
     },
     {
@@ -558,17 +588,7 @@
       "publisher": "The Defiant",
       "publisher_url": "https://thedefiant.io",
       "language": "",
-      "seendate": "20261107T152049Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US Treasury Sanctions Canadian Money Services Firms Over Iran-Related Transactions",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSkl3S01mSEZNSm5ENW0xc3pIRjczS1R5bHpvZ3F3MFdRVUR6VXpJbVFUeVpyMG9kX2trZHZKR00tU3J0VXYyNGplanBNeHBjOE85RVZFWHI1b0RFQ3dsX3pfekd0RW51dmZZU0xIZ0RBSnI0Z1JzelRXRWhLNkV2ZXZnUzFUNDZBQjVkSlNwR3VMdGNrTzBNbjRWbllvcFFhOGhNcjdnN0pIMkNRWTBjaVNkWngxVm1nWTI5X2pKbWo?oc=5",
-      "domain": "english.aawsat.com",
-      "publisher": "ASHARQ AL-AWSAT English",
-      "publisher_url": "https://english.aawsat.com",
-      "language": "",
-      "seendate": "20261107T175747Z",
+      "seendate": "20261107T182049Z",
       "source": "GoogleNews"
     },
     {
@@ -582,16 +602,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3FDNDVJS3VUN0RSZ0N4MjN3U3BGbHF1c0U3OGRnWlpVc21LMHM3dWd2TDhNR2lIUHBSOHAxNmZXSks0a01DM25XcjVIMnBMY2FJOHk2a2xXSXdZY3B1dnhaNmpPbW5wT2VoM0dlM1JqQkpXeHk3bURRcWJXTG5iZFRSb2hreDVHaTNwWUxnT08xbEpjVWdqODVFSFFOenZxdDRZSFFRRVBYOGVJRzFBbVpSVFFRQQ?oc=5",
-      "domain": "www.bloomberg.com",
-      "publisher": "Bloomberg.com",
-      "publisher_url": "https://www.bloomberg.com",
-      "language": "",
-      "seendate": "20261107T015400Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "Treasury Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime Sanctions Evasion",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcm9lQ09JUkMtNTRRRWdqd1RyTDNhQ3BJRDlPTFVxS0haSjJGVEtwT2p6dGxnZHBxYmswSGJPaGlIZ01sSlZWOTZPd0pjRXR6N0FSbzBHYlphc0VIb3I2M1RiQlFFejRNeGNFbVVDV0wtUDcwRl9QalRmbFgzS0VyVlVuc1Mzb1hCdXB4d0lwNkJtT01DZHpxUERmc3VIelUzV1FyRWJfQ0hJR0VRRGVUN2lCR3dsck9UWHVJeWxmOHN6MXM?oc=5",
       "domain": "ritzherald.com",
@@ -599,6 +609,26 @@
       "publisher_url": "https://ritzherald.com",
       "language": "",
       "seendate": "20261107T195605Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "U.S. Sanctions Canadian Money Exchange Businesses Over Iran Crypto Ties",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ3VPOEwydGdLN3l2Q1BYYjB3MWpseGVWZEllTkpjT3VXbTVXSGpPNG1FT0xEdHNrdGdLM19Wa1N4Y0QyYUYwRkp5cVl4bVNHQUZjQjF1VHRwMW05d2kxTjJxT2pkemp3eVd2MzczbG1YVkc0OFRURFl5NFhvQnhoTUJLakVCRURNWEIyNXBnNHk5T00?oc=5",
+      "domain": "www.yahoo.com",
+      "publisher": "Yahoo",
+      "publisher_url": "https://www.yahoo.com",
+      "language": "",
+      "seendate": "20261107T234000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US sanctions eight Canadian companies accused of helping Iran evade sanctions",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53V2I5ZFBLVFM4ZE15OWtJNDNzZy0wbGFyRGZRS3RiaFlsTVQ4cHZFNUxJNEtZV0xXZUZnR1RNb3BROUZ1TWprSG80Qnkwbmp5clhMeW5QTzVjQQ?oc=5",
+      "domain": "www.israelnationalnews.com",
+      "publisher": "Israel National News",
+      "publisher_url": "https://www.israelnationalnews.com",
+      "language": "",
+      "seendate": "20261108T042807Z",
       "source": "GoogleNews"
     },
     {
@@ -612,63 +642,33 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Beijing urges US to correct its 'wrongdoings' swiftly after Washington sanctions Chinese companies over Cuba",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaTBFa2h3ZkYtdWJoQzRlYXQxaFk0UHdSOHpjVVdVR3JhRmYzckc3dWZIWkswN19xajc2eGRnQ0lVQmhab2NKOVdwQ0U3THNKelkzTkhKMFVjeG1kUS15M3pRaFpwck5rYmdZaXpIcTBRRXE1OE5sV29PUWM2Qzh4T3h1V3pwcE9aSFM4MUgxSDlFRGpaUVVtd1prbU5LM195T2dCRmo5RU1kNXl3UlhaZVB3dkhvQjJtOXRsQXo4S0pIZndnTXNSVm45bXJjNUFTS3RxZS1qeG96N2toa29lX0JnbU5WaTg?oc=5",
-      "domain": "www.aa.com.tr",
-      "publisher": "Anadolu Ajansı",
-      "publisher_url": "https://www.aa.com.tr",
+      "title": "US Treasury Sanctions Canadian Money Services Firms Over Iran-Related Transactions",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSkl3S01mSEZNSm5ENW0xc3pIRjczS1R5bHpvZ3F3MFdRVUR6VXpJbVFUeVpyMG9kX2trZHZKR00tU3J0VXYyNGplanBNeHBjOE85RVZFWHI1b0RFQ3dsX3pfekd0RW51dmZZU0xIZ0RBSnI0Z1JzelRXRWhLNkV2ZXZnUzFUNDZBQjVkSlNwR3VMdGNrTzBNbjRWbllvcFFhOGhNcjdnN0pIMkNRWTBjaVNkWngxVm1nWTI5X2pKbWo?oc=5",
+      "domain": "english.aawsat.com",
+      "publisher": "ASHARQ AL-AWSAT English",
+      "publisher_url": "https://english.aawsat.com",
       "language": "",
-      "seendate": "20261107T092205Z",
+      "seendate": "20261107T175747Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Measuring the sanctions fear factor",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qX0RpTlVBVTlQaW9mSHZvTWpwV2NMMTE0bzdfVjhPNlJHVEpBV0R1ZUlVVjlMLWo1VmVlclFVV3ZicnFDRE8zNmY1YnBtNmtuT0NFQlR3aF9kd09uOENfa2o0aXlDZEFtUVE?oc=5",
-      "domain": "en.thebell.io",
-      "publisher": "The Bell",
-      "publisher_url": "https://en.thebell.io",
+      "title": "Trump expands Cuba sanctions, targeting new industries and offshore network",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWno0cTN3cnBPMkMteGNiZzI4dXVQWGRiRG5tblpCcURQcFgtcHA3ZWJLeHI3dnZkZ09CMnN2cjhZdWhwM2wtVkQ5Z3RSVFBfdGNnamtOQkVYS2ZNTGVyZUJfWGFGREE2eWxmemFRVUN3NFRHR3owSnBQNXBWdWJ3VmJKeDJOa3FQVUJ3Y0ZyS1jSAZABQVVfeXFMTU9xQmlHU0FwcmRxQVdNZHlBbVlDdjEwMHllWl9TYnFHU3RBMFZRUGhobF9MLWNaNkZlV1ZkUzctRHpldzc1RDFvOUpQaUJpVWh0VExNWGpuaWRvazZrRGlDTXRnSkx4Ykw0UVM4b3NvVUhnODNPSDRTSGl5MGtieGx1TkdmR0xFQmZ6SGFoZFRI?oc=5",
+      "domain": "www.miamiherald.com",
+      "publisher": "Miami Herald",
+      "publisher_url": "https://www.miamiherald.com",
       "language": "",
-      "seendate": "20261107T121318Z",
+      "seendate": "20261105T222253Z",
       "source": "GoogleNews"
     },
     {
-      "title": "FinCEN Targets Seychelles Exchange, OFAC Hits MSBs in Canada",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPREZseTN0dkxMV05NWE5IbGFvM1RCcjViR2ZnMUVSZWJtLXRjRVhRa01idXE1eE0wbUJrOG1HclJ5RjBrY2ZxZlZqSWctNzU4UFZqVHBKdXB3U1dvaVBORU14X1dIeU95M2Y3NHRZQXR6MkctYUF4bXZvLWVMYjBWRVN4SGJpSW13Tm5UNS1XVQ?oc=5",
-      "domain": "www.acams.org",
-      "publisher": "ACAMS",
-      "publisher_url": "https://www.acams.org",
+      "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3FDNDVJS3VUN0RSZ0N4MjN3U3BGbHF1c0U3OGRnWlpVc21LMHM3dWd2TDhNR2lIUHBSOHAxNmZXSks0a01DM25XcjVIMnBMY2FJOHk2a2xXSXdZY3B1dnhaNmpPbW5wT2VoM0dlM1JqQkpXeHk3bURRcWJXTG5iZFRSb2hreDVHaTNwWUxnT08xbEpjVWdqODVFSFFOenZxdDRZSFFRRVBYOGVJRzFBbVpSVFFRQQ?oc=5",
+      "domain": "www.bloomberg.com",
+      "publisher": "Bloomberg.com",
+      "publisher_url": "https://www.bloomberg.com",
       "language": "",
-      "seendate": "20261107T021404Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Japan eyes early contribution payment to ICC as court faces U.S. sanctions",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONTJ6LUJqbUdLSEYxT1h0N1cwTXdDclhmdldSRjFmejQ1c0J0S2xGNW9oQXU5NDR5NjJnVHpzRnIxemE3YXdleTJ4YVhwUHJqY3NERW0wWmJrZE5qbzd3WVFJOWdGeGU2R19fSTN0Nm9ENEdPMDV5b1lDNGgxY0l6M2ZmbzRYSjVJb21NNHd1U3prbERLUF9IS2N5NWk?oc=5",
-      "domain": "www.japantimes.co.jp",
-      "publisher": "The Japan Times",
-      "publisher_url": "https://www.japantimes.co.jp",
-      "language": "",
-      "seendate": "20261107T042700Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "China Defends Cooperation With Cuba Amid Illegal US Sanctions",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzdySGo0eTFGWmUtUWRyQlAtRzZQWmJTRndEOTFXZ1ctZ0FZUVhncUZNYWxKSFhvUUlMeTczUXJNWGk0OWszd1RCOEhQaktXQ3N0V2NRdW5KWHdjdTgtRllmYTktblZGYUI3QjZNTXBVcWRxRWx1TnJJaHI2M25tVDRReFFRdFN0Qmx4UmNVbG84OGc?oc=5",
-      "domain": "orinocotribune.com",
-      "publisher": "Orinoco Tribune",
-      "publisher_url": "https://orinocotribune.com",
-      "language": "",
-      "seendate": "20261107T182451Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Oregon sanctions girls' flag football as participation soars nationwide",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWFV2a2xsdXJYYWIzUUhodTFJdVBTc3lRX0RXTzZEUnREb3g2c0N0SWtWS0p5Sm81MkRxT2k0bjhHWmY4VG9LYktDei1XTWptUnBVQXpHbUdYS2J2V1diYl9tZEhrbWxQcGlhUnk2NHBpemNuQTFVQ085V3dnbWhqVlBPT000Q2JzWjI0eGZNVjlpUGxLWHVMaGhQQXpZSk9DcXBQUmppNUJCeVFibUV2NkdRRTF0OWliVUJYblpiRWxTYzR0TGppeHZLLTJha0E?oc=5",
-      "domain": "foxnebraska.com",
-      "publisher": "KFXL",
-      "publisher_url": "https://foxnebraska.com",
-      "language": "",
-      "seendate": "20261107T101359Z",
+      "seendate": "20261107T015400Z",
       "source": "GoogleNews"
     },
     {
