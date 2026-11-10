@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-11-10T01:26:13.378915+00:00",
+    "generated": "2026-11-10T14:45:02.348333+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,11 +23,31 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "44"
+      "value": "43"
     }
   ],
   "live_data": {
     "news_articles": [
+      {
+        "title": "Canada reimposes sanctions on 11 Iranian entities for contributing to nuclear activities",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUZmREVMbUtQd1F6bVdxUUNDSWx1bThmbXBERGNOSk9JVG9JMVlYNkRvRW5BdVkydEVZQmROcXBVMUptMGUwYmZYQXhtTUpkTmJYQkFUWG41bVBESldpd2ZyWlpJMFNHLTQ5bjIwZEpIWUVVcmhxRVl5Z3QxNEl5SDd2XzJGaGVPRTFIb3ZiN19Kb2hCUEtuenBNbTJMdmhSTXc2a2w2V1FFcktPX1kxR1hreWxKaGFZaUdQZQ?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261110T104657Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jWHRvNTRYTnpDandQOUdCbC1EOHVmOUVER1JJWnNhRGFld2FlUkxXd2lRMklQb3ZWeTY0V2UxVUVCRWlFZC1XNHpVWm03TU5keXRndGl2aXV2VkRyWF9IYUxWVFFuSUFrZEpPRmJLbEVaMmlXNzln?oc=5",
+        "domain": "www.cnbc.com",
+        "publisher": "CNBC",
+        "publisher_url": "https://www.cnbc.com",
+        "language": "",
+        "seendate": "20261110T093424Z",
+        "source": "GoogleNews"
+      },
       {
         "title": "U.S. Sanctions Cripple Financial Networks Sustaining the Iranian Regime",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNckhvTWNpWldaWm9pTEF5TloteElYN25uTGNmaEtPSlFZMWpKdlVWRFpHMWVhSFNKeWJybFFLQnJSMzMwemd6LTJEdkxSdnVncEtRT0ZBODZqcjNFT0VrQS1NX2JsVXJyWUVTSzdzcG5RbVZQRFpkNUNBV0RjNHYtS0FWVDBCV0pmclk0NTNlODBzeTBWeGFyZkdheVA?oc=5",
@@ -35,7 +55,17 @@
         "publisher": "U.S. Virtual Embassy Iran (.gov)",
         "publisher_url": "https://ir.usembassy.gov",
         "language": "",
-        "seendate": "20261109T214858Z",
+        "seendate": "20261109T214807Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Canada reimposes sanctions on Iran nuclear entities",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0ZWMzZnI5cmtNalBwU2pibVRNUTBXNTZ2T3lBd3pFT3hXRlZITGVVdEVPMWlnN25fTU11ZXlHMzN2OXhMZXczeEdxNHhtVWdnWHdHcHdLcjJWSGpMYjdEY1dlaXctOUFkRWc?oc=5",
+        "domain": "www.jpost.com",
+        "publisher": "The Jerusalem Post",
+        "publisher_url": "https://www.jpost.com",
+        "language": "",
+        "seendate": "20261110T113336Z",
         "source": "GoogleNews"
       },
       {
@@ -49,6 +79,136 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Canada reimposes sanctions against 11 Iranian companies: statement",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TcHZhTEJxMHdiQ29zdFRiWlpWVWxQMWFkLTBKRHZ4U0xkUjJhWUk1Z0s3ZmQ4RHZWOGJOMk9uX2VRaTR5bzRpZk9Vb0VIYU5Fa2hsanZMUQ?oc=5",
+        "domain": "www.koreaherald.com",
+        "publisher": "The Korea Herald",
+        "publisher_url": "https://www.koreaherald.com",
+        "language": "",
+        "seendate": "20261110T111548Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "OFAC expands Prince Group sanctions to global corporate network",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1F5WnZ0YXFFd01fVlhyM1VqVnlYQ1RCR3pBa0xxN1FPM0EzTE9Ta0c3M1NHOXR2R2NmVmxKd3BRQzFCQ0V4aVhLbUtXUENEV0NKWDc5V2g3a1pQaEJwSGxkRHdDVExtNXN6RmdSQm1MTkNGNEQydHpWaWI4N0Zzb19aZ292aUFnQndmUVlLZzNyWnpxR1JSMWVYQ0VrblhSaXJOelFaaE1tU3BZME80OXhja0RYc2M?oc=5",
+        "domain": "www.hsfkramer.com",
+        "publisher": "Herbert Smith Freehills Kramer",
+        "publisher_url": "https://www.hsfkramer.com",
+        "language": "",
+        "seendate": "20261110T060007Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Canada reimposes sanctions on 11 entities over Iranian non-compliance with nuclear obligations",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFlkTjdkdUdzNHdpQm9uZ1FSalo4ZU4zNDJLdkEyMkVhTDJNaFNDSGQxVWNhOXY4NS0yaTJSNmlvczhvalBHdWxKTmZjSlpfVWVGeThCRThGLUFBbm84NUxYbzlVRkpqRVV3UXlpdEVkb1pXV3ZaRUFnYXZQMkl4Zk9VTDduS3BQS0lWYlhzUC0ybUlNRWJDT3RFNA?oc=5",
+        "domain": "www.yahoo.com",
+        "publisher": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
+        "language": "",
+        "seendate": "20261110T123639Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Canada reimposes sanctions on Iran for violating nuclear non-proliferation commitments",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MbktDaFpPOU9CQ1U1aGpNZUR3dGJRaDFfTVVxRjlXZE1Nbkt0R3BVVGVxUmkyVmNBQ1FrMGl1Y2ZnVkZ4RHhiaDEzRjJIdXhCUUxLS2RDUzQzcndqek1rN1JwQmFwdnJFWFRsUmR4OUhlY2Q4WGdQczJQQUJla2M?oc=5",
+        "domain": "www.cbc.ca",
+        "publisher": "CBC",
+        "publisher_url": "https://www.cbc.ca",
+        "language": "",
+        "seendate": "20261110T130906Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "As heavy rains swamp Gaza's tents, Israel must face sanctions",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLTI0dzhLU2Y0VlFpVGYwb3ZhNHVoUkRybzJoaDdrZmtHMEd0YkZSSFRiNEFmNjh4aFNuYnVvdzVUbXg3WW13cy1xc1l3MzM5V3E0M00tVFppQXBfdUdnTUdtRmVCNFFXdTNPb2pHRlU5cGU2dGlaazhGTlNqQlMtT2ZGSldFb2d1QVQxbzJoMzhSLXlqZ2Y4eERB?oc=5",
+        "domain": "www.middleeasteye.net",
+        "publisher": "Middle East Eye",
+        "publisher_url": "https://www.middleeasteye.net",
+        "language": "",
+        "seendate": "20261110T093000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Canada reimposes sanctions on 11 Iranian entities it delisted under nuclear deal",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUcDltMS1ESl91Z3FnNHkxazdvRV9XRU42cXJzb2xHUTNpN09RNkxlOUdPVG05NHZ5M0ZtZklVNUNOWklWZ3FEY3BhMDFxeUZwQlE?oc=5",
+        "domain": "www.iranintl.com",
+        "publisher": "Iran International",
+        "publisher_url": "https://www.iranintl.com",
+        "language": "",
+        "seendate": "20261110T094918Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Opinion | The U.K. Aims Sanctions at Israel, Hits the Cayman Islands",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjJBc1lHV0NRN1FURjg3eWRsalpKalB6QldheHRZLUg0SmM3SGpMRFFXWDc2Vm9qbGFQdGluQ1c0dkY4WE5DdmswdzdDazQwTkdDaENiQmhDYlZJd2FjcDFoVmhyQzVPa3hLZ2dQZUFRb2RuZGpTTkVJYUpEOElma055REV1ZlBPTEkwY2owTjh0SVNwNncySA?oc=5",
+        "domain": "www.wsj.com",
+        "publisher": "WSJ",
+        "publisher_url": "https://www.wsj.com",
+        "language": "",
+        "seendate": "20261109T192800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ukraine war: US energy deal with Russia undermines Western alliance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3ctZFlzcHNZRC1PTmRTalYtRVdwWHJlTlZOZUVTQnBGMmc2NnhNc293SG5CYURocGxSTUszeFgtMVJlTGh3czRYQU8yUTRTQXpPNEJYbTBQTEV2aWJiYmRaZ3pMZjRtUHBaQjd0UGxmUHpLVmJyM1ZRNXlET0JLSW1TWXR4TXlCeG40VVJ5eXJYNjA?oc=5",
+        "domain": "www.ibanet.org",
+        "publisher": "International Bar Association | IBA",
+        "publisher_url": "https://www.ibanet.org",
+        "language": "",
+        "seendate": "20261110T141657Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "France blames Iran for supermarket cyberattacks, vows sanctions",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYXphSjZhSFBLQUlfQnE3cHVFemNWUVVnTVRqSG1MVERsUGpteW5JeGVDU2JTMmd2N0FCVUYwYXJwaUkxZkFWLTZYZHliMmNULTdqX1BHUWVNbzM5anhUTVRKbmZoUE1TekwyeDgyV0hVelpEcFBDUE45azljb0pzb3VmR1VXM3hyLVV4Vg?oc=5",
+        "domain": "thearabweekly.com",
+        "publisher": "The Arab Weekly",
+        "publisher_url": "https://thearabweekly.com",
+        "language": "",
+        "seendate": "20261110T093920Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "China Extends Hanwha Ocean Sanctions Suspension by Two Months",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56eWp2ajcydm5YdHRYalNjTi1uczN5NVBBcGgyYXhqeldVQk1EVk1oaFJTdVlpRUJqdlJCenBZWmcyUFAtQ1dOUEVlVVVwRl92OTJHYmNzNkdKMmY5Mmtvd244TnozaUE?oc=5",
+        "domain": "www.thelec.net",
+        "publisher": "THE ELEC, Korea Electronics Industry Media",
+        "publisher_url": "https://www.thelec.net",
+        "language": "",
+        "seendate": "20261110T084625Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Araghchi: US Cannot End War Through Military Attacks and Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtSjBRNS1zMEdjNWpBVXoyYmFWaG5IbkNMaTFMeFZNejg5THM3MXVUUnR1ZmMtcWg3T0NNdDdqbk1UQUs1bEhNQlc4MVROQ2FXbzFjSTFsbl9JcjBpMWVqOE1EemxqSnhfMlZZUjVjTVJ0cWM?oc=5",
+        "domain": "8am.media",
+        "publisher": "8AM Media",
+        "publisher_url": "https://8am.media",
+        "language": "",
+        "seendate": "20261110T103424Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXppMWZCamVGLXhoZU5BV09DSTA5X0dZLTV0VEtsTlhWSWd4UlZqWmJNUkFFc2VLcWZvcGlVYUFKX1FRU2gtN2FSMnJXeXF2Z0ZrWThkdW9XZGdyWEZrbFlwYkxsdzBGMlQ4bWlCVGtUTGZtX0hpX1poSjJLZS1pZGEzUF9mdGM2ZVo4SXFPUVFUbVRBRjVfbWVjTlVNQ3lYUWx3M295eXJwY3VBMWZrRDhR0gG3AUFVX3lxTE0temI2WWtMVGgwN3VTUUd3OXEzSXNaNUdSNmZ2VFRVdkJlbkhJVVpaZWJ4SF93MnZtdnI1M01UMmxQd3ZwVTI5M0pZSUFSSklySVFab0FXamh6RFFxNTJibzVmc1VNcEJhSVF4UzlwZWpUczFINXFiN2s3YmU1bzg2YmdnOGpadXh1bkNmNFhUb2NRMGpIUDRBOGxqbjdyOGVQcWc2em41TndSeVVteFFoVVJreC1zOA?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261110T054824Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLU5oQ2RNeThVU3BGSE5wZHROeWRQYTZxMDN1NDlJNzJlTUFod21QS1laakZndzFhTWRRQnZGaEh1MWNzbUFWOVcwQVJ0NzFrM2puVGlPN3hQS21Ub2E4T2VCWTJBajNOS1YwZ1hpcVRzeVRtY24zY0lSSV9zTEZOaTQxa1kxelRoU2pkQ0EzT2lGV05mUFMzcGtCc1NRUTQ4YnVxWFowWGx5YmdJTjVmQ3lSMVZzY1Fjand0Xy1IT0ZnRDZDNmIzWQ?oc=5",
+        "domain": "www.tradingview.com",
+        "publisher": "TradingView",
+        "publisher_url": "https://www.tradingview.com",
+        "language": "",
+        "seendate": "20261110T134039Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Canada announces fresh Russia-related sanctions",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdTU3SXVhdzhXRTl5T3ZvTVlYWGlDZ0NwQk44N1MxbkdaSHN3bTZhbTZCX3Y5Q3NsaTNBX09SRDhLZkU4S1lzaDNkVjFuWElNajVLbkpucUk2ckNnbDdPbDdFNFVzY2VzY2JoUE1IV0VUVkhLS283WDBtT2pPMzBUNzBXZldVN0NkR1otcGYwbVZ3RkhRUzlmRHRmNFIxSGs?oc=5",
         "domain": "www.reuters.com",
@@ -59,43 +219,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Opinion | The U.K. Aims Sanctions at Israel, Hits the Cayman Islands",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjJBc1lHV0NRN1FURjg3eWRsalpKalB6QldheHRZLUg0SmM3SGpMRFFXWDc2Vm9qbGFQdGluQ1c0dkY4WE5DdmswdzdDazQwTkdDaENiQmhDYlZJd2FjcDFoVmhyQzVPa3hLZ2dQZUFRb2RuZGpTTkVJYUpEOElma055REV1ZlBPTEkwY2owTjh0SVNwNncySA?oc=5",
-        "domain": "www.wsj.com",
-        "publisher": "WSJ",
-        "publisher_url": "https://www.wsj.com",
+        "title": "As heavy rains swamp Gaza's tents, Israel must face sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRzVXUTJERjNpR3hIcnB3MjBOdS1GMDktaUlZOU5vT0hCQzNQeUpkVkZwRFFiWDItX0p5LXFwUEd0M1FkcTlBNnhQVWItLXlsVVBKdzRlSkRiZlMxamQ3eHRCQ1pXek1BZ3hoOWZfSThDYmlZSXAyYkNoTjlzWFFLVXMzclMzSXpUTExfaFBwRFdTSzctWnFJQ1RIbkxaZThyaXJqVUJGclFPWEp6Q2tKcnEzOA?oc=5",
+        "domain": "www.middleeasteye.net",
+        "publisher": "Middle East Eye",
+        "publisher_url": "https://www.middleeasteye.net",
         "language": "",
-        "seendate": "20261109T192925Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "A natural field experiment on the effectiveness of economic sanctions before and after the Russian invasion of Ukraine",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zR3lWMVRoU1B4ZFJicFY3Q1hOdWgtU01qMHk0S3BTcWpmQmNUSi1OaXpkQnQ4UldqRFY3MGIxVVNodG1wbkZkYVV6UGwxYmtGWDZGa2s0cjZ4S0luZE1V?oc=5",
-        "domain": "www.nature.com",
-        "publisher": "Nature",
-        "publisher_url": "https://www.nature.com",
-        "language": "",
-        "seendate": "20261109T105858Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Sanctions Due Diligence Failures Lead to OFAC Settlement and DOJ’s First “Near-Miss” Agreement",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2lkUU9nVUNCNmotTmtYMXpKTXI4Ui1fRm9xSklHcDFuU1RKV2VXSmV5bVpGNE9CcUlTQXBiVnUtU3Z4b0VVRnQ1V2ZJRUZJY18weFZpRnpnOXJRX19FNV9MRHZsLXF0NkYwdUcxSVltVXZ1TXFTUG9oU29rMEhUMzhpSXBaMTRRZ3VFZmtTS2t0SlBTX2V2bFdXUU93dE9OTlJsMmk3aEktX0ZQd3hvZNIBtgFBVV95cUxOTHlTcUxLY1dyaVlTZG1YcER0TnNPZEhGWlUxTjczcVFEc2RGQjBzclV6Yk5PMTVsRUVKeXEwcENMeHdmaWdwZzVxY0Y0NDdFbHoxck54QUlsU3Y5Smp2N1pnOU1YZnVPOUlfckpLMVZzUHRwM1NHTmttajgtWHNpQjZySmxGV0xKQmVUV2dnTjFaaThka2lxcmcyU1FCVkYxOUlxbTlISHRnTUQyWHo3QndEcDU1dw?oc=5",
-        "domain": "natlawreview.com",
-        "publisher": "The National Law Review",
-        "publisher_url": "https://natlawreview.com",
-        "language": "",
-        "seendate": "20261109T193606Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France blames Iran for supermarket fridge hack, seeks EU sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTZKSUJqSGJyUjktUFBOZHhmdE5UXzIzWFp5WFRBRGJ5THVlRW1yQjAwTXZjUV9aMzY4TlRBV0EwUXY4a1Z6ejlIeFJaRUZJN1R3TlZiZFRVZWZ0U3h2c2tUMU51alJxcDdkT21rb0x6RXNJMzliM3VQa291ZzlnX2xkSzRfN1ExbnRMcjZFaUduQ2EzamNoZTdrQkhKVHl5Umt4ZFdMU0hOUQ?oc=5",
-        "domain": "www.al-monitor.com",
-        "publisher": "Al-Monitor",
-        "publisher_url": "https://www.al-monitor.com",
-        "language": "",
-        "seendate": "20261109T190625Z",
+        "seendate": "20261110T101100Z",
         "source": "GoogleNews"
       },
       {
@@ -109,33 +239,73 @@
         "source": "GoogleNews"
       },
       {
-        "title": "France Blames Refrigerator Hacks on Iran, Proposes Sanctions to Hit Back",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWRScUxQXzJXQ0hBc2ZfUTZCNVBxS1JlSHVGWVRCWXBUUkhmZldHSUtLSV9YM1JqSzQ0X3Nod3hEV3lOdkdWUDRYbjZrTjVkQzhtRVNmdTgwZlVIdWszS29jUW14M1Q1TlczR05YZFhlRkpVaGZNT2o4NGV5MEd6eTc0eGFHWnlJazhTREdwd2RfbldxLUk2N0Y0MF9td0k?oc=5",
-        "domain": "www.pcmag.com",
-        "publisher": "PCMag",
-        "publisher_url": "https://www.pcmag.com",
+        "title": "'Iran must never be allowed': Canada hits Tehran’s oil giant, top banks with sanctions",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS0luay16UWNheHZPMTBhd2t3dElEdmRTMFBKYU9ZZVpkOWRKX2M2SXFJWkJ1NjQ5aDNwRjFtMFJ5MWV0S1UwY085Zkk0S1NhN2FoUjJiQzN4ZzVHRU1zQ3R0RmFYYzZrMW05ZGZvT1BmTnlzLXF2TE1qenV3OEp0WEFITTF4UF9FcGFLSDZUSDRVdjRTdlBRWjVQclBPUGNhOGdLeDNPUmtpUlF3bWFkUVVSU3B6bGJXR3pJcGVoN1hKdldodUHSAcsBQVVfeXFMTXA1UG5RS0JHNmtRUTZiamk5WkRJYnRqVV9GM3NTbVJkWGVBNi1aeTdkaUl0SjFadkV1OEc4OWN0dmxUc1V4TFMzM252aVotSHBZcWhmaUtrUkkwUmw3czcydzZjbldTMEdZSU9RTG9EZFJRbzl5cmJpeXJnX1liU0xnZV9tNUU2aDZ5LW9HTU40NkFvb0F4LW9SYWVjVUVZTW5yaVhuWWJ1Rkw0YjNYcmxzTHE0bzFPaVVyZ1lHVjJ2VjloSzZyYklKN3c?oc=5",
+        "domain": "www.firstpost.com",
+        "publisher": "Firstpost",
+        "publisher_url": "https://www.firstpost.com",
         "language": "",
-        "seendate": "20261109T215433Z",
+        "seendate": "20261110T122416Z",
         "source": "GoogleNews"
       },
       {
-        "title": "France blames Iran-linked hackers for supermarket fridge attack, vows sanctions",
-        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQSGQ3Z1VLY1pPNndlV2hNbVFjRTJmM29MQ1FMMUkwOGNBNzZuWEx4YVdQeUNJYV9mU2VHZFU4RVhHank1RXQ3TjBVRTQ4ekNiaFZDUEdwX0w2aVpWSlF3R0J0M0d6QUZtV2t3WXdTSnJrOUVXTThOS0JQMDJoUDE4c2VTRXN1dldRTW1RLXAzRWs0Um5wUzZJYkN1Njk3SUR4c3hSVVBtQVZBdUdmM1dFSXotZ01oWVRMUXVVM1d0OWpHdm1rbmluenR1X2FyRTVWNXh6VTJXTWlvcExrY3hzdHpBdkdzVG5LYVp6QUJka3Q5bkZXUlFLV3NnMTdJSkFwdjZfM3JiN2J5YThFRU1acmpxN1ZLaUtmbWg1RU9LeFE4WG9TWWdhU0xSSkdlTlhBZXBLVDlFMXRJeXhLMXQ2eVNEY2JXUQ?oc=5",
-        "domain": "wpde.com",
-        "publisher": "WPDE",
-        "publisher_url": "https://wpde.com",
+        "title": "Canada reimposes sanctions on 11 Iranian entities",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWE95R1pzbWdVemR1U1JIVnJsY3p1OTY0RVRpTmFvMl94d0NKZGRpNHNma1dudVBqcVpiODMwRjA0SGFQMzVSMGpKYlQtRWYxa0VYRTlIbWxncXlHdC1EeC1mT3prMlNnX0cyQW9uLUdZXzF0aF9Ra0VsLTd3Si00RWlKQzllYWM?oc=5",
+        "domain": "www.jns.org",
+        "publisher": "JNS.org",
+        "publisher_url": "https://www.jns.org",
         "language": "",
-        "seendate": "20261109T171042Z",
+        "seendate": "20261110T132549Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Despite US and UK sanctions, Israel allows Russian military aircraft to land amid backlash from China and Saudi Arabia over recognition of breakaway African territory",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTFZaOTlXQkZTMmVwQ2Rrd2V5YUc4WHpobmgyZGJvVWJob05WdVgwUXp1LVJjckNxQ3RoYjNfYVYyTndNUmZHVmk2d1FjOEdxc0w4Vkt2Z1lRb2k5X1dFRF9rZWRkZVRpVU5LNUVxZ05neE40UnR3VlRkUnRfZGxmd0VKYTZyWWtmR0ZMUHNlWWV6QjhZQzRDZDNycm5sNTYzcmFYWlhLUGZZSk5mNGdxX0tuVHduTmlPeDMxVUdxaFJ6TDBLYkYtVGV0SS1IdXo3TW9V?oc=5",
-        "domain": "africa.businessinsider.com",
-        "publisher": "Business Insider Africa",
-        "publisher_url": "https://africa.businessinsider.com",
+        "title": "Iran, Italy Seek Easier Business Visas, Stronger Trade Despite Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fYkVudUQxd09pczh3bHhtSTZMbXdFQWlNTk01bUdUSExzMFkweFVSLVdWYXJEZTN5Tml0MFlqcDlIUl9wMlBvbHVNT2pMVzVKV2c?oc=5",
+        "domain": "financialtribune.com",
+        "publisher": "Financial Tribune",
+        "publisher_url": "https://financialtribune.com",
         "language": "",
-        "seendate": "20261109T121627Z",
+        "seendate": "20261110T103634Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Canada reinstates sanctions against 11 Iranian entities — Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnIwUnRBSWhJNnZfMGFHWkVPaGJ3bE1qTEtxNUJKakIyZDVyZUtOY2ttS1BDZjlNU0dFWDY2Ylo4ZUNUdThITzA0UWs1ZTFjWkFEYzl4aUVCbWN2ZWNGdnZ1YUMyWlZLZ2dYcVo0c3I0R0NwYWFSQU55N3BPUklRVUhzZkNUdGkxX3NsclJzQ2dzYnpxY1VyY05LX2JOOTdzOEF1RA?oc=5",
+        "domain": "ua.news",
+        "publisher": "UA.NEWS",
+        "publisher_url": "https://ua.news",
+        "language": "",
+        "seendate": "20261110T114011Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Best Oasis wins OFAC licence to negotiate deals for sanctioned ships",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS2FfRUF0bzFaT21iLUhMUGxZRHhsRkhiYWkwNTJwV0tDSmNCcnFaaGI3M3d0a0lBZ2E0T1U5V0R1ZFBxYUt1TnFoOGRaUWdLY2FELTRSVmlaOTBHOGpuT280SnFwT0xPVWhnVmVPekhVTWFTVXEycWlUdmktZjVEekZfWjROMVBoUXRPaXY5ZlY5RlJlRTJZZi04QmJVWHdIU0NnR1Q2R2tjQlZyMkNQZjRfaUlrMVppVExJ?oc=5",
+        "domain": "www.tradewindsnews.com",
+        "publisher": "TradeWinds News",
+        "publisher_url": "https://www.tradewindsnews.com",
+        "language": "",
+        "seendate": "20261110T031124Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "‘Stop the Genocide’: Massive Amsterdam protest demands sanctions and arms embargo on Israel",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZGM0b3R6UXZzckFWQTd4di1tS2JoMEZDa3ZnYVRqcjBOMjNrOTJMUTl0SXVGdDJxQ0ZsZ0QxX0toR1U4Yzc4dUxIUzlrbVpSNUNwZHlicVc2anlLSF8zVXVVRW50N0hoNWFocW5fbWhWX2F3SkVEdTZmanpDeTBCNWRiMi1ZNXdMUnZyUlNQRGtyLUhJTzIwMmpKLUFVRW4wVXA1VklneG5QV2NLSlo0UGVTclZmOGFWcXROVWJB?oc=5",
+        "domain": "mronline.org",
+        "publisher": "mronline.org",
+        "publisher_url": "https://mronline.org",
+        "language": "",
+        "seendate": "20261110T100320Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Canada restores sanctions on 11 Iranian entities",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSzVhMUc2cVp2bmJOejlxbUVvLXR6QU5LSnhIaU5rQWNZc0ZyY0otRFA4blVEVVFEeGtwLVpSWWg0Q1lwbWxpaXpjd0U4V1YzYlk1VDQ0ZFd5VzhYWUtFZ2dqMGFNa1k0WWc5NWR5QkdlRkU2UzdsUDM0Z3RBZHNWT3pwTEJtbURJZkNiRWtDeXVOSEEzNGVPYw?oc=5",
+        "domain": "breakingthenews.net",
+        "publisher": "Breakingthenews.net",
+        "publisher_url": "https://breakingthenews.net",
+        "language": "",
+        "seendate": "20261110T093700Z",
         "source": "GoogleNews"
       },
       {
@@ -149,13 +319,143 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US Sanctions Eight Canadian Money-Service Firms Over Iran Crypto Allegations",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNamR6OUZLT2w5WWROMXlOZlloV0Zkd2ZpS2ZtVUNKT0ZtMGl1b1VYbFVQLWxhTU5VcWFWM01ZSjQ3VFNWY28zNGwzbkxHZElnZmRlQ3RCNXdTQTItWkYtTDl0WlpzbkNubmhTNENaVWJXTjJZTHBfeFhtWkNFR1JnbHBjOEV3TUliWTg1U1BCOWtzNnh3WnRQMDZLVzFrMUhwbjJjYzVGYU1EYWhMNXpCNHR0SldKM19RWDJwekdIcGYyUW1IY2hJ?oc=5",
-        "domain": "bitcoinfoundation.org",
-        "publisher": "Bitcoin Foundation",
-        "publisher_url": "https://bitcoinfoundation.org",
+        "title": "France Blames Refrigerator Hacks on Iran, Proposes Sanctions to Hit Back",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWRScUxQXzJXQ0hBc2ZfUTZCNVBxS1JlSHVGWVRCWXBUUkhmZldHSUtLSV9YM1JqSzQ0X3Nod3hEV3lOdkdWUDRYbjZrTjVkQzhtRVNmdTgwZlVIdWszS29jUW14M1Q1TlczR05YZFhlRkpVaGZNT2o4NGV5MEd6eTc0eGFHWnlJazhTREdwd2RfbldxLUk2N0Y0MF9td0k?oc=5",
+        "domain": "www.pcmag.com",
+        "publisher": "PCMag",
+        "publisher_url": "https://www.pcmag.com",
         "language": "",
-        "seendate": "20261109T180929Z",
+        "seendate": "20261109T215433Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "OFAC sanctions eight Canadian money services businesses over Iran crypto",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOemxYMmE5S0hRR05COHp6QmFNSTctWjJVTkpzODl5MmpUaDZIWjFUWkR6TnFQZUdYLVp5M0pxWUgzNTFUYkliaW5VQnFyS04xMWJkOWlWQ1RraXlTVkhtLS1DTGVfVXhCRy1hQTFmRnZuZWRnakI4WXZuWTJvM2lxZjFtOEVzSDk3TDJDVWJkMDZEQjBTQTAtOUptaGtWWmhfWkJNcjE2V21CazdPbmc?oc=5",
+        "domain": "www.leaprate.com",
+        "publisher": "LeapRate",
+        "publisher_url": "https://www.leaprate.com",
+        "language": "",
+        "seendate": "20261110T111836Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iraq banned a plane carrying Iran's national team from landing in Basra due to U.S. sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObDl3XzBsc0JWSzlaVVQtTlcxMGVlWExjal81ZEM4MGJidnVzQUdybjZwRnpEQmdDSWRRUU9ZS0tWTDdGLTdMTFExYnlPeGpRVWdpU1l5cnA0TnFQcDV4S1kyVTBzYVdTOHc0ME5PQ0xyNm1CU25Ec0k2SmVkZkpKa1BnMVM1THk5VHZoVTVhTWxzcy1JaVlOUjNjT29iRFF1QkQtX19ybU1hZ0hTYUVfZ1RMb9IBsgFBVV95cUxNUDdYdFNvZmdxVFB5Q0FIbnBOamxTM1p1QmtXRnJKRHpaVXI1Q2tUcmtkYXA4Q2NZZDNkV2xsbUFwaDJoSk1NNkZlekRkeDU1N1BDR19hdl8yVngyREhnR0pSd09qRnJjaXg4TVRTUWd1ZUhlaWZudnNtajRXYXliM1dVc2lSUERCanpqYms5SWxTRFZSWmJlVHJjTjB5c0Q5V3h6SXppVGRWRjFyN282OWFR?oc=5",
+        "domain": "unn.ua",
+        "publisher": "Українські Національні Новини (УНН)",
+        "publisher_url": "https://unn.ua",
+        "language": "",
+        "seendate": "20261110T140445Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Wash. Panel Nixes $10K Sanctions On Monsanto PCB Attys",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZTZrckw0V3VxYTdEQU91ZWVNX2lsc0d3a1FoWTlzcVZCNW80bHE3Rmk3Mkg0cURCMXNGRWR0bHhtRUo4S0M0QWdEMFRESG5tVmNsUG42N0NOX3VPQkVaazB5Y1ZpaGRPeGQwdVdoMWdwSEJPUlptOUo1c25CQVJVUFVSUUZRRGMwcEt1SjhPUV95cDlVdVhv0gFWQVVfeXFMUDdRQ2pma2wxeFFWeVgyeDFWRVh4WEUzc09XMUFnZHA1ckRITGE2RjBGdWlGR1dSZVhfRE9MbEpESFk1VktMc28xYTMydUd2UGZvdFNPbEE?oc=5",
+        "domain": "www.law360.com",
+        "publisher": "Law360",
+        "publisher_url": "https://www.law360.com",
+        "language": "",
+        "seendate": "20261110T021655Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Sanctions Due Diligence Failures Lead to OFAC Settlement and DOJ’s First “Near-Miss” Agreement",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2lkUU9nVUNCNmotTmtYMXpKTXI4Ui1fRm9xSklHcDFuU1RKV2VXSmV5bVpGNE9CcUlTQXBiVnUtU3Z4b0VVRnQ1V2ZJRUZJY18weFZpRnpnOXJRX19FNV9MRHZsLXF0NkYwdUcxSVltVXZ1TXFTUG9oU29rMEhUMzhpSXBaMTRRZ3VFZmtTS2t0SlBTX2V2bFdXUU93dE9OTlJsMmk3aEktX0ZQd3hvZNIBtgFBVV95cUxOTHlTcUxLY1dyaVlTZG1YcER0TnNPZEhGWlUxTjczcVFEc2RGQjBzclV6Yk5PMTVsRUVKeXEwcENMeHdmaWdwZzVxY0Y0NDdFbHoxck54QUlsU3Y5Smp2N1pnOU1YZnVPOUlfckpLMVZzUHRwM1NHTmttajgtWHNpQjZySmxGV0xKQmVUV2dnTjFaaThka2lxcmcyU1FCVkYxOUlxbTlISHRnTUQyWHo3QndEcDU1dw?oc=5",
+        "domain": "natlawreview.com",
+        "publisher": "The National Law Review",
+        "publisher_url": "https://natlawreview.com",
+        "language": "",
+        "seendate": "20261109T193606Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVE5IOFM1bUg0SjRhTjZDUDVCUFBHbDNjdXl2NU5SX0tyMzA5Ql9KSEZ5MDBORDFOWDlDc3IzajI1X3duSkhaWlZaLU1PaU5maDB3Sm5UOWlkeFhiWTB6NTJ6dWN2Y2lxQjV3RllyZDU4NWU2VWNqeVY2SEQ5dnBxaWFUVHRIYld5THc3V3dISTFraFNHTEFoREdkdUdaSXF2THV4VXh5cklBSTBLSVRPdNIBtgFBVV95cUxQQWF2aTY3RGlVT1FISGVkRGRtZ0t2ZWhfek1uR3g1aDhkWjZYRFh4LTV0OGJmTHRaYS0td2dDR05zcXNlWi14dmp2aC1RaDJGOHljR3hhWjNjSW9Dc3F6ek44ZlhWWGtWM3ByWFNnN2IwRnF0NDU5alFCYy1MZUNOZ2dHYjhDcEx0cXpMWG1JS2VjZ3d0Q3prTk9rOVdrTlJncjl4dVpCckpTTmtBcGJQNEpYckp1QQ?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261110T140648Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "NEWS: EU sets up crypto task force to tackle Russian sanctions evasion",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVW9Lb0E1NlBkNjRHaWQ1cnh0UWI0Sk1zR2pCUXVJVlBnMVFVTlUta2dqNEpnS28yWExJbWlkVFdOVC13eWdaelJSYlhURVJqZmNrVzAwN1VSWlZ5WHMyemZLSnM4QUxlMnJLazlyWGpjOThrNVhLOHR1X2l3OUxJaEZRQkxvTWhwRHcxb2sxeWJuSHBCVkZ5NHE2emVHcWNNWUhxQ01rSndhUEdyNnNR?oc=5",
+        "domain": "www.amlintelligence.com",
+        "publisher": "AML Intelligence",
+        "publisher_url": "https://www.amlintelligence.com",
+        "language": "",
+        "seendate": "20261110T100540Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "A natural field experiment on the effectiveness of economic sanctions before and after the Russian invasion of Ukraine",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zR3lWMVRoU1B4ZFJicFY3Q1hOdWgtU01qMHk0S3BTcWpmQmNUSi1OaXpkQnQ4UldqRFY3MGIxVVNodG1wbkZkYVV6UGwxYmtGWDZGa2s0cjZ4S0luZE1V?oc=5",
+        "domain": "www.nature.com",
+        "publisher": "Nature",
+        "publisher_url": "https://www.nature.com",
+        "language": "",
+        "seendate": "20261109T105858Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "France blames Iran for supermarket fridge hack, seeks EU sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTZKSUJqSGJyUjktUFBOZHhmdE5UXzIzWFp5WFRBRGJ5THVlRW1yQjAwTXZjUV9aMzY4TlRBV0EwUXY4a1Z6ejlIeFJaRUZJN1R3TlZiZFRVZWZ0U3h2c2tUMU51alJxcDdkT21rb0x6RXNJMzliM3VQa291ZzlnX2xkSzRfN1ExbnRMcjZFaUduQ2EzamNoZTdrQkhKVHl5Umt4ZFdMU0hOUQ?oc=5",
+        "domain": "www.al-monitor.com",
+        "publisher": "Al-Monitor",
+        "publisher_url": "https://www.al-monitor.com",
+        "language": "",
+        "seendate": "20261109T190625Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "France says Iran’s Guards behind cyberattacks on fridges, vows sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2ZLaEJ6anNJMFNuV2U4aWZocmU4YlYtdk9ZVG96bk9lQ2tyR0ZqS2FJbXA5ZVhrMUlWeXU1eGtGeDNIOVVnRzFkOHk4MnZGUm5RZkE0XzI2OWE0MDVDZTdLU3NCSHVnMFM0TlVxWmRwUGl6RXdzN1YxNU92ODg3UFFuQWdPbG9LejhkYWdFTEttSWNJZ1MyRWVzeVUxWDBvazBJOXpfMlNGbVlsMnF1VWNYQUtOczNC?oc=5",
+        "domain": "www.arabnews.jp",
+        "publisher": "アラブニュース",
+        "publisher_url": "https://www.arabnews.jp",
+        "language": "",
+        "seendate": "20261109T195102Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New video of SAE incident released, marks at least seven Ohio State-issued sanctions for the chapter since 2001",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTzdMTFQyMWJWVUxobFVjTkh2QTJVaE5uOU1QcWhBZVJkaDFpd0FPOWc1WFItcWNqMkNtZW85U3FsSWlPZnhtbDFKVHBZQUk5N3NYaS1TU2VZVUQ4WHJfUHExQjlTMnJ1alkxSWdnT1pSTVJVMVhYVGlVbkJlSU5XOERmbG5rY25uU2kyTUlGaFdEQzNDMUhMSUhyLTZfY2Q4NFdLMFVleWRpZldFZXhTOGI1ckp4Z0t0V1JGVmc5dnhRaXB4UjRoRTZaZjhiODE4ajNOOWpvcVBtN0Y3T05R?oc=5",
+        "domain": "www.thelantern.com",
+        "publisher": "The Lantern",
+        "publisher_url": "https://www.thelantern.com",
+        "language": "",
+        "seendate": "20261110T050219Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Canada reimposes sanctions against 11 Iranian companies: statement",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1NLbDZxVHdLNy1wSFJqczVGZkM3cTNIM2doa3VhVjhKYXByRjRiLWlCVHFVdFRQLVFCc1RaSExsY0w4UUU1aERKUVVycUdLRm5vbllkN0gtZzJZcGU5VVIwR0RGR3dUYW5TV2U0ZmwtNDRKdlc1cHVIV2tZZGgzZ041OUhRS2xWTzB0Rl95SlhIblBvZkV6anZDc3dpU3lsRWtwSnNBQQ?oc=5",
+        "domain": "www.arabnews.com",
+        "publisher": "Arab News",
+        "publisher_url": "https://www.arabnews.com",
+        "language": "",
+        "seendate": "20261110T104553Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Best Oasis becomes second cash buyer to secure US sanctions clearance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3BGbS12ZVhCekJhZWpxMjM3bEZ3dW5kMlpqQUdRTmxTaXBzQlBBLUhBNmFRaTMzZHA2U1l6X0c3dFdrQ2JISWpiQ1lKY3NrbFNNRk0zVi1GNWxwckhkendqU3NlaFRiNF9PamZTMUQ1NzFCUjZpSGRJRWxfdGc4YnQxM1FzYXlmaUJZTmthZnBFdEZUcjhJ?oc=5",
+        "domain": "splash247.com",
+        "publisher": "Splash247",
+        "publisher_url": "https://splash247.com",
+        "language": "",
+        "seendate": "20261110T061840Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Canada Reimposes Sanctions on 11 Iranian Entities",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiclVfRURkeGR2d0ZqQ3VFRlphTlZYeXROcHM5U3dmT25mZlBwYVZJY1Z5TGFkQnQzbElmN2Z3YjE0WHRmZUVJYkdmOVdtOGlFS0dQWXhiSk1LMWV4NDZUSmN3cEJWOUpoWDhZbDcxQlFiT1RRMndsYw?oc=5",
+        "domain": "wanaen.com",
+        "publisher": "WANA News Agency",
+        "publisher_url": "https://wanaen.com",
+        "language": "",
+        "seendate": "20261110T110922Z",
         "source": "GoogleNews"
       },
       {
@@ -169,46 +469,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "BREAKING NEWS: Top Japan, U.S. diplomats exchange views on U.S. sanctions on ICC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53OTUxaHg5R1NjVjVRcGI0eGRsNGVqcmxvR3VzOU1mRUNTclBjM0k1ZGF4TzFOWE5BVmdjeEhzWWRsVVU4b2VyRnhDUGhBOGl1UHMwbnNiWXZJUQ?oc=5",
-        "domain": "english.kyodonews.net",
-        "publisher": "Japan Wire by Kyodo News",
-        "publisher_url": "https://english.kyodonews.net",
-        "language": "",
-        "seendate": "20261109T163027Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Canada announces new sanctions against Russia",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelE3NU9pYTJhX29kbmpudlpTckFrTXpZTWJRMllXNDdhTXhFZXBQYkxvSVlIUm1UQ2F5MnEyU0U5OWI2ZWNPV18zZVNOU05kT0JhQWNfU0hhUHlKblMycXJ3VWpFSGZMaDNMU0hQUU14eTNRSmNYcUtOb0Z4aXRoaG9TMTlzSDB3dm90Rkx5Y2w1dzVoZnlubFpIWdIBoAFBVV95cUxQUUkyZC1NLWpOZlduV0dPdDZCc3ZHRkxNVkthdHNTYkF3SmlZRUo1aEdiUmx6ZDVhSlFEN3hBT0xpZWxndnVVSm5weVBBREF4RHhGc2dDNUxHOHptcE51alBKQ29LN1VoZDJKbm5pYzladHV5bk5KYVU2WndWeFlpTVVwX25zTGZnQ3FEYl9PT19PRnBoZkZzNkxWS2R3UW4x?oc=5",
-        "domain": "www.ukrinform.net",
-        "publisher": "Ukrinform",
-        "publisher_url": "https://www.ukrinform.net",
-        "language": "",
-        "seendate": "20261109T160000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Canada Adds 38 Entities, 24 Individuals to Russia Sanctions List",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EeThHcXRUb1QzMjF0MUVCSHZXcS1XYU96amJ6ZXBrY1F4UlhhMXUzekticGxIQU5nOENFTUNKX090NmNCSUdwbFBndw?oc=5",
-        "domain": "www.kyivpost.com",
-        "publisher": "Kyiv Post",
-        "publisher_url": "https://www.kyivpost.com",
-        "language": "",
-        "seendate": "20261109T160626Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Treasury bans MEXC Global crypto exchange over sanctions evasion",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZnAyU2hBeTdIQmNwY3pXLXFUX1Z5cDU4NkJDbktza0ZYR04wUkM0SUNCOW40bGVOaG9FeVJFeUZKQ1BzVVJtZ1RMck5fWEJwRlpvVlBLX2dITWNfeWIzaGNZa0otRTVkR1dKal9aOUhnWU1EVWZkMGdVVVpHSlpkSTBNSTdNMkN2eEdzZkdEWHB3anVYUzNKSzRkYUsyZw?oc=5",
-        "domain": "www.scworld.com",
-        "publisher": "SC Media",
-        "publisher_url": "https://www.scworld.com",
-        "language": "",
-        "seendate": "20261110T004537Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "China extends sanctions suspension on US-linked units of S.Korea's Hanwha Ocean by 2 months",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTFVYbkFaNVZvaS1sSWd5YXQxYnhlWW05bEZkUjhxQ1NpeXQtQl96UVV5c0JLYUhqWHlzZU52MDFDcVBNZTk4LU5qSUdxMld5YnIwb2ZpamxmSU9sc3FuTkN6UER3ZWhsc0Z1dld1NEoxLXcwVUVpaWh5QTZvcEFpS2txMXdZSmFuclFaS19paE41ekJPYzdXWEdaazBpTFZmaG1pWFVjeGJiODU5eXRIcGVsSVc3X3JyOG0zZFUtSHpfcXBDV2tXT3VCSQ?oc=5",
         "domain": "www.reuters.com",
@@ -216,26 +476,6 @@
         "publisher_url": "https://www.reuters.com",
         "language": "",
         "seendate": "20261109T082144Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Zigram: A7’s $6.9bn trail exposes global sanctions screening gaps",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdTZwMjZxOGc3cTZsUTM2RGlaZVVJSlpkbUwzOThsM3REM0Fkb3EtRGJ1SjdTMW9uX0xsdXN2OWt2UGxVZ1VVN1k3cFlaRy1BOHBhc0p5SWVadDJCVzNtMS1nUUpsTm55VTRHeTVUR2FwVDhaaUV6RllHZU9TR0pvUy1iaHlYNkJVVlNLRDJERThhRVhO?oc=5",
-        "domain": "fintech.global",
-        "publisher": "FinTech Global",
-        "publisher_url": "https://fintech.global",
-        "language": "",
-        "seendate": "20261109T145318Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Smuggling of foreign cash continues despite sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnlCNENVRWJobzlfOUFSSG5fcEZtMVhvcWZSRmczMTludG1HdkM3VjRzd0hodVd5OU5mZnNGYjBwSnNCcFJIUS1NQV9CaTNKcEZzOVp3VlJSV3dqVU1PY19pY2gwQjVmYmF3NnRfd2hvZmZadmg4ODEyVmpJVXAtV1VfZXFoZnI4UTdnX0V6dVZwUXBCSXlYZU14cWlnYy1CTEE?oc=5",
-        "domain": "www.thebarentsobserver.com",
-        "publisher": "The Barents Observer",
-        "publisher_url": "https://www.thebarentsobserver.com",
-        "language": "",
-        "seendate": "20261109T141136Z",
         "source": "GoogleNews"
       },
       {
@@ -249,288 +489,68 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Top court sanctions self-represented litigants for submitting AI-generated false citations",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUo4dW50eEpleHlDNWw3SVV4eGE0ZThlamRPU2pCTVlCclNvV1lkczFTeVduMnlTRzZlblVrUXNGa0JQVm5ibFJtUnRxQWhPcHNWczQwS1F3VDRoRmZfMUVqNUJxT0lITDRqTy1ERXVJNHVKV2pOaTRTcFhRWV95cEVWVmgxVEJmZV8yTTc2cUdpaHpZNHdBRDRGMU02cEpXZkdhNHB2MHRseE9FTm9EYWphN3VPRXp2VU1oYkFKVUU3SzNtakRj?oc=5",
-        "domain": "www.sanjuandailystar.com",
-        "publisher": "San Juan Daily Star",
-        "publisher_url": "https://www.sanjuandailystar.com",
+        "title": "France to summon Iranian envoy, seek EU sanctions over cyberattack",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS053aWlVS1kwNnhHakNCYzhmWXZDXzNWeW5jWUZUWGlWdlF6d1RiNUVDWUtQVkNsanJFM21fQUk2ZzBkcWN4Mkx2Y0Y1RXZpZEJkeWlWdTh2TFF1YW5lQ0c1UEwwN3g1N2plTHh1NHZHOXIxNklrWkdLOEUtSXlibFFCaDVrVTdLeFplMHJWTzBsRWpvaVNxdTE5eEM?oc=5",
+        "domain": "www.jns.org",
+        "publisher": "JNS.org",
+        "publisher_url": "https://www.jns.org",
         "language": "",
-        "seendate": "20261109T220432Z",
+        "seendate": "20261110T131619Z",
         "source": "GoogleNews"
       },
       {
-        "title": "France Says Iran’s Guards Behind Cyberattacks on Fridges, Vows Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHozQnpkc3F0M2tDZC1ZMlBTZGFBYnM2dkE2RzNpaDVEMC1MRTZpUy1tNlU1Znk0aHc4TERsX01LSTIxVkVSbDhpZVJDM1g4LXU4UE5XUUR1eE90VTRmLVNpZjQzVG9oeHN1eEt5WU9ibVF1TWUxamljRG1ldXRPbDgxTm81b3E0NEwzbDRHc1VtWmlZX2xxUXN0UU9rdmwxeUl3WHNJN1VSWUFydDg4WnJqMGRFOTha?oc=5",
-        "domain": "english.aawsat.com",
-        "publisher": "ASHARQ AL-AWSAT English",
-        "publisher_url": "https://english.aawsat.com",
+        "title": "UK Awards $15m to Firms Linked to Illegal Israeli Settlements despite Sanctions Pledges",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUGd0YngtNTNpclFocjNCblBmbFlGSHo3ZTZlRzlLVktKVE1IaTlnbmlUN3M0SURZTTdWaXFGeFZPMVMtNnhLQkNDWGpmUXQ1UEo0eE9HLWJxN2JRdjVKUjJGc1BhTlZHS2VMbElLbWRuZWFRWC1qbENsVE5CdGNVNllGMmxoejlyZmw3b053QWFYWFF3bmJoYVZ3YURSMVMyQ3o3ZTRTaUprME52MExHZnJlRGNiXzR2ek5Yd3B4bVdQZlIwaVhVR1kzRXEzQkxkSzdVdWRR0gHbAUFVX3lxTFBUblI1SHNOakkxakhoQUJ2UG41T21uLWxJZHdBYUtIc2c0TzZBTjlYTWJDU09SanhpaEVoVHNUdTQzaWZCemtQc2hYemlOcm5mODNkUHE2YXB4YXhaaGVRQk1XUll2VUZYdTVoUjhQalNRVjduREVkclhDQzFZR2xQLXhQbXc5eTd0bmpITF96SHVheTFUZnlsRy1PYzNCdmhoYjEtQ09aczhYWjFQQVcxOWEtbTlwMm5LYS1QMnNvTExka0lQSzFSeVp4QU1OVW5wUXFpRDJwNzhKTQ?oc=5",
+        "domain": "www.tasnimnews.ir",
+        "publisher": "تسنیم",
+        "publisher_url": "https://www.tasnimnews.ir",
         "language": "",
-        "seendate": "20261109T211527Z",
+        "seendate": "20261110T134842Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Poland’s Lower House Backs Crypto Freezes Under Broader Sanctions Bill",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcHF1LTl1TjNNNjEwMnRoX0dwU1RKUlBDNTJNeTNxcER4Nlc1U2g2ekZXLUEtM284TEZGc0ZBSWF4dWZTMnNpajNkTXB0ZEo0eWtfN19iMkFVWWRBSkllSzFJTS0yWWxrejhDaHZZbW5XWTVUem5GMzdfMVhwTFd2Q3E4Q08yN3M2TFRDbzVvenJ3QU9xSXNYSXJJVk14dW56VEQ0T3RVU0NSNlVR?oc=5",
-        "domain": "thedefiant.io",
-        "publisher": "The Defiant",
-        "publisher_url": "https://thedefiant.io",
+        "title": "Canada reimposes sanctions on 11 Iranian entities over nuclear links",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaW1kOWlkM0xBR29CTHVyZjVmSENkRjU1NVdfZUZVY0VSWUdSSFZQWDFtSEpBSk1lNTh0Nlg0UWM4Y0ZkSnVNbzluNFBMMWNGMk91WFdib0JNd0dMV19uZzR1d2ZXQzkxVVhfenRCMHQ2bFJ3c3E0RThueXZpMVhWcXBMc2huRU9LZ3p4R3F3MVk5YTd2ZXV5VjU0czdydnpBbEtTTGlNbUdiN1lYWldacnNPZk80dzdCbVhzLWo5T1JpMjZTeEHSAcsBQVVfeXFMTllzd0VjQ0E1YzRhNlZwMEdyQXpyR1pfWTJUM1lSUEVwVUtDRl91NUljZ0F6dUp0bGdGV2pXUkdNVEt5SUVmNEhvM1dMWl93MDNrOWt5dGFTY2NzblEyT2lIcUtTcmZoeENHMlM1d0pvakVJbEFvNDlHV1JzdFhqdGc3MUFfMW1nUS1zN3BaR1IxUG5odG9uT3lETHJUc09FU1k3cnVnMlRyZFNfSWpldzhkazV5Vkl0SWdvYkd3NmRadDNxSG5CTTBWQmM?oc=5",
+        "domain": "www.devdiscourse.com",
+        "publisher": "Devdiscourse",
+        "publisher_url": "https://www.devdiscourse.com",
         "language": "",
-        "seendate": "20261109T130614Z",
+        "seendate": "20261110T092208Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Canada sanctions Russian ballistic missile manufacturers and cyber-sabotage organisers",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VdUdIbG1LQUtMek40MkVFcjlkcmkyWmpOckV2OGtsOC1jYUNrd2xvNkdXRkpmNWhWWDN5bXliQ2NXdDU2bXp3SkZ6SUs2NmdlaGdic2Nld1Y4ZlNRX2k4ai04TULSAXBBVV95cUxPeVg2WEYtaWJKN1ZmcURzeTR1MXptaGRLRDdKalRXNFRDdW9PMlZqazNpMUpaSFFtSlRzTzdvMXBFa0M2YkRxT013ZUlMZEdEVzl4ZEpwZXkyWUwwRUctTGdDNkk1SzZETDlsZ1ptV0Ns?oc=5",
-        "domain": "www.pravda.com.ua",
-        "publisher": "Українська правда",
-        "publisher_url": "https://www.pravda.com.ua",
-        "language": "",
-        "seendate": "20261109T131800Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3pENWVsWnhpOS1OVkpKZU95ZS1EZ2hMRFBXcmlPSGpIeXpJN3ZOWC1SY1pqSzJEYkdoY2Ixa0N4ak1POEhSUUxEODlMQllRaHpYVXJ0ZjRYRUs3R21lTmtuZk0wTk52LWNoQzBFS3VCUzR1TkdiU1prOHB5T3pqaWtheEtFWFU2UDVlcGVTQXZUOW0yVHJkWExpekFmMUhGSXY1MU40eUNXSFFJMjZxSHppOTBQcjDSAbwBQVVfeXFMTkM3cnV2T1J5QkJ1S3VWLXlSU1pQZDZnblFQQ0ZlSnhZMDFLcVVzTmNEbkhBT2NvSVZVNm5IcU5GazdqRUdXU0NveDlRdzg3X2drdElscE1nOGdOMGExNVhfNmVDN0pRTGNsbzdVZm01NE1yOUNLZnVoZWlYRmlYUEM5MEdmWklSQUJKVXR3ZEhReDhhc25KTndlalYtMENnSW9qRGdsXzhsMG1pRXJQaWRQYzhOOV9vdndnaks?oc=5",
-        "domain": "www.bleepingcomputer.com",
-        "publisher": "BleepingComputer",
-        "publisher_url": "https://www.bleepingcomputer.com",
-        "language": "",
-        "seendate": "20261109T132856Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France says Iran’s Guards behind cyberattacks on fridges, vows sanctions",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbl9pN3gzYkpOWGF0ckprcTJoN3dkbGVoUzNDd0F4aEI3SzFoNXg4RWxFZXFjVmJMTFRnMHc1NjZCT1NSZnRyekJMaEU2clRxZmwtN0M1UkNaYlVJY3pLTFdvUHZfbFBLUENxUV9VbHVWMjFXU2F3bEt2SnVXZnFXRG1IN0NlYmRWQ3Z6bFNfakN1VlFzWHo3ekdmYi1MY3NyamJuRkpkeDVlbXdSZ0RuNWNYMFhFQQ?oc=5",
-        "domain": "www.arabnews.com",
-        "publisher": "Arab News",
-        "publisher_url": "https://www.arabnews.com",
-        "language": "",
-        "seendate": "20261109T161348Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "EXCLUSIVE: Republican AGs Tell UK and Netherlands To Drop Sanctions on Israeli Companies or Risk US Divestment",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMVZSaEpoRGNKdkhNdUgxRVg0VFdSV0QxQzRnNVprT1lFTTJwbHY2QjJnWFFJcUNaMjc4RFhwd2hOZkk0b0dSZWg0V2g3dEVIU011Q21OMVEzV0tOeXp2U2owd3RZT29yNGIzSVMwRmhDR3ExdWlYX241cHM2WjgwckV6UXFPUldNRkFZVllEUEJETjhKVzNLbm12QlpYbkx0R09TMmFDMWJ3bE5LWlFoSnJtcll6NUJpS3c5OTI1RDhpdkFyaHliMDM1WkM1Q19acGFBbUl6bw?oc=5",
-        "domain": "freebeacon.com",
-        "publisher": "freebeacon.com",
-        "publisher_url": "https://freebeacon.com",
-        "language": "",
-        "seendate": "20261109T152148Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Canada Hits Russia With New Sanctions Targeting 62 Individuals and Entities Linked to Missiles and War Industry",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObkk5YXRQdUU1ZTZub3VfRWNqajJjYnVfMi1KSTNBbHBqY2pZM0g3aHRXellSSV9LZkt6Q2NGTmVWMG9ZcXZrOTFWTzZwSnRYUVlna3ZjaUVSc3M3Tlo5dkY1bjVoVGdmRmtLbUgwNDZhYjB4WHBoZDlpMUw1MFFreXZDNWhVSGhXSHRqS2FFdVhsd2RlUGVvNm5pRWUya2JZdGk2a25Hem9fd0VkR2pFdGtSajltX0kwU3ctZnNKdjZxYWZlckp6SG94azRDb1Zpd1h1cjMzQ19QX000ZUs2cmNnQQ?oc=5",
-        "domain": "united24media.com",
-        "publisher": "UNITED24 Media",
-        "publisher_url": "https://united24media.com",
-        "language": "",
-        "seendate": "20261109T141920Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Sanctions More Prince Group-Linked Companies as Crypto Scam Network Crackdown Widens",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVXEwMmlPcmE5MFVRd2h6Q0JHNzZyMWdBVHRwWG5NbWx4RzhBRHRFcTR4X3o2MHo4dVNIaFRmNjRQYkY3Nm1nazFicWZ4bXIzQVNyVHFtWG9KNnluUHRxUzc0NXR2MVhreG1lRXJlblV2QmVieXBXWDBYUXZEVHVfTkVqWnFhT2F0d19IRDlrWlhuYl8tbWdSeFQxMTE4UmZuVnVzdFdEYXRWQXp0UDFSZ2VCdjhYMWU4VTBQME5CWk5xTkxZYVNTLUFVLVdWaFB4MWswTWpsNHAyaU16dGc?oc=5",
-        "domain": "www.tradingview.com",
-        "publisher": "TradingView",
-        "publisher_url": "https://www.tradingview.com",
-        "language": "",
-        "seendate": "20261109T190000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran Reportedly Buying Oil Facilities in China to Bypass U.S. Sanctions as Economic Pressure Mounts",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObUFmQURqUmtuVGdBWFFMYlVrT09tdDU0NVRsVzlKVGxCcUhjUXQ0ckRJVm52MTkxaUpFM3ZpaDY4TEN3UjU1Sm01LTNLaDduVXprRGR6M3VYUXYySnFzWEZ4RTZPZ3hLaUNVOHZIMXJHbThWVFlCTkgwZ2tNRlJEeFU4YVVpTmREQ1VvbkI5Q2YwSHllRG95aVNn?oc=5",
-        "domain": "www.yahoo.com",
-        "publisher": "Yahoo",
-        "publisher_url": "https://www.yahoo.com",
-        "language": "",
-        "seendate": "20261109T150256Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Sanctions Eight Canadian Money Services Firms Over Iranian Crypto Transfer Allegations",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR3oydWJIODZLMk92a1lXVWN0RVVfdVdCbnZfRFVDUnRyVzU0SDhjT0Jad0habWk1dVAzTXhIMGV1V0ROZ3UtM2htaExGQ2VFakNOdG9kY2FFWnBOQ183dEk2dWNfTTFRcUJVRUZZdW81akFvVXJJVXVWdU1HdWpfMVpXWmNhNjNxajJub0lNNmF3Z1pQVG1uOWpMNGNLeEZVV1BsUnA1YmhvbG14eS1RSldOU29pX2hkd1BqbVgzZnlVczhxNzFxcnV0OERkUTF0YTJTc1gwbklDOUtlU1NvQw?oc=5",
-        "domain": "www.tradingview.com",
-        "publisher": "TradingView",
-        "publisher_url": "https://www.tradingview.com",
-        "language": "",
-        "seendate": "20261109T170000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Canada has imposed new sanctions on Russia to reduce its missile capabilities",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEdKc2JwNzRXOU13SWZkZUhDS2lOYmhBQ1VkMktuNFo0OGdjb0QzNWY4ZzNBMmdHWmpNdU1aTUE0UlVWSFI2cWZOVnJmazZrYXh0V283RDVQSHVUbWVEV05USEhhOE1GdUdYWUNsOG1VLVBjNVVlU0ZUZXUwd05RV2REcHRsNG9mdkMwTURzeVpNVE1zaXFsUzMtS29QYUJxcE5SaDhMTVE5U1p4MTRLMjQ3cw?oc=5",
-        "domain": "ua.news",
-        "publisher": "UA.NEWS",
-        "publisher_url": "https://ua.news",
-        "language": "",
-        "seendate": "20261109T155840Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France blames Iran-linked hackers for supermarket fridge attack, vows sanctions",
-        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNdExhSGxrRllVWlgwUnR5eEd3UWtSQldxNnhEdUNfOGxSNDJmUzhJaXVXaUMtWEFWQW4yWWQwOUVTTGh3TXgwM2p5VGpBWkk3LVl2OC1yenJCZV9qdlZTYXZVcHNfRGN2cUZrVHZnTURIcTVRZEtLbnRWX3REbTM3d1ZZQldsYzlKZVhMcGdqMHBlWUpGVDVHQ2R0cnpNaHRoVldLMHJMb2FhUVZtQjU4QVBFUkFzVjhfeFZLTVhvWk5kODQ5X3hXaWdHaXV6SXZGTjBVZnJxQlhHMkFPV1hWakRPLXBnMVNIMkpLRFVLTFNsQWxuSUN4SHZNNmk5M3JMN3dzUk0yZzl4eWNvcmdDaFpWTzgwb244M0oxVkNiVmQwYVFWaWhnNkh0S0pCMVlOV2Y5ZU9RRUJ1eXBsVWpJSUNGdTFOeG9oVkVHeV96Slo?oc=5",
-        "domain": "wpde.com",
-        "publisher": "WPDE",
-        "publisher_url": "https://wpde.com",
-        "language": "",
-        "seendate": "20261109T184120Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Analysis • Despite Haredi hopes, the anti-Netanyahu bloc won't help them dodge the draft",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMndjbi1fUzBzVnNrelpWR1UxU0tuajdtRm5yclprRWJxTUxfdW9uQkNlZk1QbFY1c3V3TkRSREVXRlJVRDJreE1Kdzc4X3BnN09fWkRUYTBISW93eWpKcnJVbGsyc1ZQeDlVSThDU3JnOE1PaHJZckJGSC1BOGJSdEZpUkFsQVNIMUowVmdmSzlqOVVyekp0VmxSRU5UQ2hGbm9weGhaY25zeVBiazlnYWxfbmFqSVNqLW83NkpUU0RaMUFWaGRlNkkwNWZ4OWt2VkNoMnRnOUdLTEJTdmhDZ0dSWnRxRnhOYzVQX2RhU1VSMElXSkdGQkJJMVAwNUhXSFljQnpYbnJJUEZDcXk2R2hFZ25xd1R1?oc=5",
-        "domain": "www.haaretz.com",
-        "publisher": "Haaretz",
-        "publisher_url": "https://www.haaretz.com",
-        "language": "",
-        "seendate": "20261109T180200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US sanctions Canadian money services firms over Iran ties",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMy11cmswbmdQTXBMQUtDamVKWTBLaVVSQ0FSeTRqR2Y4NGdCSlpBbXNGeWtBemNOMjJpVlVGQmVBbTNtc1dWRTN3YXd5MTFaMF93MmtLQlJXSjVjbVd2U0E3OV9SLVB4NTF1MlN4VENrbzhJRlBsSlo1OHVkeFNuUHQ0NW5ZMC1RX3ZkMnpkOVp6ZmNiT0J2ZA?oc=5",
-        "domain": "www.engine.online",
-        "publisher": "https://www.engine.online/",
-        "publisher_url": "https://www.engine.online",
-        "language": "",
-        "seendate": "20261109T123403Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "EU Launches New Sanctions Office and Crypto Task Force",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFI1UTlMSnE2UDZRWEl2NXNMYWZFcXRnTWhuTEtNTDJ1YlU0aVE5VFhIdlB5ODROeHZBbUZRM253MFFVREQ1LXp2VThoX3BzRWtDS3gyLXRQSFdrV2dfNUlseUx5ZE9wQVduV2ptNlVIRVZxejJOLUN5RDNLQ3hiSzhMZVlmQ2hQaUhWUjVOYlowUHhSTWc?oc=5",
-        "domain": "www.wsj.com",
-        "publisher": "WSJ",
-        "publisher_url": "https://www.wsj.com",
-        "language": "",
-        "seendate": "20261109T130300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Sanctions Companies Providing False Flags to Iranian Shadow Vessels",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1dtd25PT2phd0JabmlCRl9sWG5oUVdzZUNYelZvVmN0TzVXYWF3VGpWSkl4bzd4SUR6MmxCbWNPb2dDa1hBNnI4WllhVDBablNBWVhwRTBjbjdCd3k4QTBNd2JGbnp4SkdKNVBxajdUNnNpR3hQaVU4dFRYNXB1ZGhtZlN2RWQ1anNQeEw2WnBuTDdPMlo1MFBBSy1LOVE4UGlnQjNneEZ0VHpkaHhhTWRkWjc?oc=5",
-        "domain": "shipandbunker.com",
-        "publisher": "Ship & Bunker",
-        "publisher_url": "https://shipandbunker.com",
-        "language": "",
-        "seendate": "20261109T064056Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkZpaVVfVFZ3Y2VIY3pzZkJSckJyNnZBMjRGT1lTUXV0bUZ1elBKd3JQVWlFYjZ1NTFMU0xabll1dk1ZRTJzQnVyQ29JaEhmeXZXLWU4TWpJQm9uVUl3SkV5bmgwVFVNaDZRNTJQLVZ3SnJsSTJtNDBpSm05cmVFTW9lb2VuWGZya2FkVnNfWGlxczI2TGxGTGN1VUlHZktzbjBuUUN1U081QkhTN0xUdUkweV9vNUnSAbwBQVVfeXFMUDhaaEt0Y1Jnb1BVQ2VSMEZhd25XZ1FyM05KVTExa2I3eFZOV1F0Q3VMOVBIaTl4V1NOTHloLW9DclN5b2VjY0dveDhXc0s2NUxHMmxNR2o1V2R6SEt2UGlTTlFocFFMeXJpeC1wTzA1d0wzOGhCb1d6X29qZXotVlkwOVMxbjA3X0owMFE3SlByUmQ1X0F0Wm9VOXZvbFNjMWhBTmxtMkN6Q0phYVhRa3pRMHJjOGFiV1ZUeVg?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261107T050218Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Policy rift emerges within Seoul over N. Korea sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WcENGaTA4VUJpVWUyemRkU0UtdkZyVG1vVWJKeXVzbE42cXlYQ0NBNEVGTXJVR3h6eGg0Y1luQlhMdE9wNk1tT0hEY19qOWlyTEhkMWx0aw?oc=5",
-        "domain": "www.koreaherald.com",
-        "publisher": "The Korea Herald",
-        "publisher_url": "https://www.koreaherald.com",
-        "language": "",
-        "seendate": "20261109T061138Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Kallas Urges US to Join EU Sanctions Pressure on Russia to End War - Oj",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHYyS3V4dV94QnJyY0hqTExXX3lBMFFMOXMyUTNOOU9vQ204NjNwTW93VVA1Z2dyWUpzeXVPTDItck9OQkJpTVBzWFdxaHFSQjd0b0RTcVlZQkRRS1JqbklDYTU3cDVESkZGMzluRmdwTDRscWFTeXk5VzBLUUFabnFXZ3FKLVRpUFVRcE5oaUkyOW5JdERIbUlZQnVrcV9l?oc=5",
-        "domain": "odessa-journal.com",
-        "publisher": "Odessa Journal",
-        "publisher_url": "https://odessa-journal.com",
-        "language": "",
-        "seendate": "20261109T202948Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France blames Iran-linked hackers for supermarket fridge attack, vows sanctions",
-        "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNZVc1Uk5QcmdxQTd3TlQ1TVB3c3FPRDE2VDB3eWxYNE9HTUo2V2NSOGR1aGxhclZFUlFhek1DaUZtdU43LWRsVUxVOFpTdUhQMTZnQzJud2FhVkcxWGpXR2FnSHBlaWNqamJMNUppcmZVM1JkbjVIWHY0Y0h0VHVxUndPRURiZ0d3TGNYVFFFdXM2TU1reUNWT1gyeWZIZXlUWVRkRjBYRWZPeXh3VHdqSkFzVy1uaWZoTUMwUDFMZHJkeklBLVFnRldZcDNPVVhiM24yYm1qVUU3QmU1ZlIxc2tnMmFEcWZHX0o3SS1sa1NSNHQwaHhHR2c5cnZuc1RRbTNJU3pndkQwWTU5dzF5RHE4cGJOS3NOU01qdG82eTU5QnJkbDZXQ2JkdVlLMGhQTUFGR1Y4MGxaTW5VeDBPMnhCbExrNUl2OW9MNjN4TG9ENHpQUW9LUUVKRFY5Tnp0YW1GV0hB?oc=5",
-        "domain": "thenationaldesk.com",
-        "publisher": "National News Desk",
-        "publisher_url": "https://thenationaldesk.com",
-        "language": "",
-        "seendate": "20261109T170733Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Canada adds new sanctions against Russia",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQWh0cTF1bEtHNkZOQ0E5bzVpb0gwekd1X05BX2x4VFNCcVBITEZGU0twdVgtNGRMT1lENHE2NjZ0Yk9HQUVxS0pNZmtaZmd3WXB4MEdwanhkTHF4QlFTOHFuVEV4MFZ2NWlEUVlUYVY0RUluT09KMk5ZU1NUcHltbE43VllWY0JGMXIzZHV3?oc=5",
-        "domain": "breakingthenews.net",
-        "publisher": "Breakingthenews.net",
-        "publisher_url": "https://breakingthenews.net",
-        "language": "",
-        "seendate": "20261109T133500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France blames Iran for ‘unprecedented’ cyberattack on fridges, launches probe and vows sanctions | World News",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdEhSbXhVSmFlSElVOU9CYm5lZVJyYzhxaWI5WjhjWGliMGRfekowanFXaHZJYm1DSGkwbFVpN3Nac1RVWXVpNXBTTTFDVUNPRjZrWDJKemN1N3I1YXladHhQX2diQ2JBMk5oV1pITFo3eDdKcFlsa1RYVHhtWF9tSElmbGJtdWVsTlNyRXA5bUQyYmJjU21JTjdwTXZMMGJNU0N1QmoySHJDZ0x4Q01GVjZPd25hNGhFUzFZaWZQRU9jeHVqM0tHWmF4QjJTaXA5S2JIcmlrMWxLRHZrY3k5OVp1VlRSNERkOG13UtIB8gFBVV95cUxOZGVLTy14Q2tfYVdFYVJwLU5BZmNlUnVvVENxVDFqUFBReHdWVWQtMEZxR2htX012UkltYTB2SHo2cUFZclExQzBvVUF2UjJBSGc4eUpJcFNxMkhCTk5rRWlpS2R2WWZUenhFNmI5VzI3VWJNb1J3dFE0bE5iakhuemxqXzBXT3ctOEpEbHNKaXFnb3FhTTcxLXN4dExYZXFBVXhuVWd0U0hBcVdjZVNreUV4NzlmZG0wUjVnMXdIbUpHM1VUVUgyaldnYXRMVHRHQ3RiZVlfM2ZCZ00taWwtSUhfME45ekw1dHh0b0dvMGl0Zw?oc=5",
-        "domain": "www.hindustantimes.com",
-        "publisher": "Hindustan Times",
-        "publisher_url": "https://www.hindustantimes.com",
-        "language": "",
-        "seendate": "20261109T172224Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Canada expands sanctions against Russia by targeting its defense and ballistic missile sectors",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZWswYTNUczlJQ0IyTW5xMFpfVC1vQThtZ0FvRnprcWhFcUNTVVc3bldLcFc5LTVSTGJZY0VQbTRzdGg1ZUp5bVRhRkF6dXlmZUxLOGNRUFZJRjBPVXlRYk9ueEgtb3NVOXhvNkFDSk5feUpIcThqRlJtYmNadnBXNmNvcTNoMlR4ZXF2ZkNxU0xNdk5iM1pqTXlPT1o2UGJScmFoZWdBSGpGd3NDSTJBRG1lUms2dmRQR1hKc3paajB2NzJmSDFIOTBWZzNFUkY2V2JPRGNIeG5mQXhuOEFN?oc=5",
-        "domain": "www.voiceofemirates.com",
-        "publisher": "صوت الإمارات",
-        "publisher_url": "https://www.voiceofemirates.com",
-        "language": "",
-        "seendate": "20261109T212239Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "European Union Introduces Task Force to Counter Cryptocurrency based Sanctions Evasion by Russia",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPemN2Rk5obEcxS0NWWnM5THlmTFBqWk1CSTVBclRPNnJ2bjNobEg0WkRjZjF2QVFEcW85cmFXU3NuWVpIV2FMeW5abEh5OUdkQVk0YXF0WllaNnhFcDlvSzRqSzZzVHNMSXFDeGgwa1NvakVYMVBKVl85SDRqbk5HRTJiT0tXSjVuNkJCTWdUZE1Pemh6Y25pRVl1TWZtd1FBUm9EVHVRSnNwWGcwUVd5cXdVWGxmZVN1Q1dPQlY2eWI4T1FDcWdrR0ZWWFhCQlJkM1FOa1djLWRoaFVxQkE?oc=5",
-        "domain": "www.crowdfundinsider.com",
-        "publisher": "Crowdfund Insider",
-        "publisher_url": "https://www.crowdfundinsider.com",
-        "language": "",
-        "seendate": "20261109T062925Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France Blames Refrigerator Hacks on Iran, Proposes Sanctions To Hit Back",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRmxfZmlvSU1OUFZZVnF6VDd3ZHpGYzY2V1pEY0JUQjZ6Rk5YQTdfOXpYaUdwbk5oTm9xckxPbXpILTR4ZHR5M3NFWDBMTzJPcWFOU1REdWgzd2hudExoRVpOYnZPM09zZTliSEs0NG9BS1VkWjd1NjZqVnk2NFo1RjkteEY3V195b1lWNWJxZ1A2Q2VNYWhiYXZ5R2k4aC1nVWpIbEZ2OEhGWXNf?oc=5",
-        "domain": "au.pcmag.com",
-        "publisher": "PCMag Australia",
-        "publisher_url": "https://au.pcmag.com",
-        "language": "",
-        "seendate": "20261109T215047Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Canada hits Russia with fresh sanctions targeting missile tech, cyber networks",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaDBkeHo4Qlk4WHp3SXRMeGpqSFoycGJCZ0c0ZzB5SEZRZUUtZ01nZ3pmT0VQdHdNMGFtUnk1ODZiUHVVdi1jbFJKeFo3aHFYWklVck1QX0N5OVl5VlBHY0hYV0h0dVlsMnc1cWtQWDdRZkVoY2xjSkFGd2Vfb2NaN29wLVgtcDV2MjFpaV9QUHVPekN1Qkp4eGc1U2xuTVZ1NlRHMjlkdnNFX0RaNkRTc2JYM1BUbDk2NERPNnc5ZVhvYzJzbUpwVkdrZVdKTmdOb1NfTVYwSTQ4RmUwdmFZdi1odGVzUEtRektPMDdJS2fSAfYBQVVfeXFMUGR0M3huN1pGeHJkLUdSZkJaZWI4d3pwNmtxV2s2N3MzalpycVdKeWxobVR5eEE4clM5R0NjZzNFanVjSmt4bjY1bHV5RU9ZalZyU2ZrRk9BTjJENjBldTBWdmNqVFg2X2dfWWFKMi1sZlY4emFRMUVFc2Vpdmc0WDlHRWxvTlhzUUpaMXY2djZoWm8ybGhFQkFxcE9PSkdQb3VkVEpuYTFBVzl5RXBsVlo5X1VzekJ1bTFyai10S09JdW1xdG9scmpBeTJ3ZlVzb3VzeVcxd0lteldoS2xjS1NHV3VBOWx5SF9qQms1QzNxSVZVNHVB?oc=5",
+        "title": "China Drops $300 Billion Iran Partnership Bombshell On Trump In Xi's Big Defiance Of U.S. Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORFQwMzhaUEs0MC1Hd0ptejYzMHV2RnNsZW0tYWVLYmU5azRXdFY3UHhHd2tsWlUzRUpnb0I0R2xuRUZsbGE4aHlvZUYxa1dsd2YxYmROVmhiaHhrTWpja2p6enJudmQyUUN0c24yOTFhdWZGM3RXdnAzMTNQaTNLNEo5QXZYVlNpQ1B5YndqcEFkX3pDd3FiLTlZclZhZnh3amRrT2hEOVRYNU9OWGNRbkVyRTFDNHcwZ0wwenljVF9DMTYtbmFjMTRPeXZQRjFib0RpRktPWGZXdVh4Zll0eTVqdm1Uc3ZlZlFRSUxid3lCMlhPbDlOOUVhTlFHcHB6MUFaYVdTWXHSAY4CQVVfeXFMUDBPNUJ2N1h3bGZ5NGhqd0VUY1BoNzF1ZFg5RFVibE1SYUVxeXVtWGVyTlNjZnc1UXlBOUN1OXVyUkVTeU5YSlZpOG1KaGk3NXliZFBXWU9BdE9DVnhEN00xNEZLSmpWNFNHSHJjVGI2T013a2F5NkpSZ1JGckZTRURvdy15Z3BybEREejZhUkJNc3BGTkQ2ek91VC1mQjk3OGdyQXZZM3ZTS3BsVHMyaXpGLU81VnZnQ1YxaWQyRl93dlB0YmxaRHcyVTRCV2drNGJ0X0MzTjY3YlFwZTJVUGtBNGRncjdydmJWOFNLMWY3RHV1Rk5DSTB1WW1uRjB2VHpNeHVfeTBURGVqV2pR?oc=5",
         "domain": "timesofindia.indiatimes.com",
         "publisher": "The Times of India",
         "publisher_url": "https://timesofindia.indiatimes.com",
         "language": "",
-        "seendate": "20261109T125300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "No Sanctions Relief, No Negotiations: Iran’s Stance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96Y3N2RjlXRnRHTm1heFpmN19BRU1tOEVqVVNTVEpuc29XVU0tbDJpUGxicThTV21OOV9UOFFKNU5uVWl3SndKLXF0aEdqQUVRTUp2bzBNZmhkN0c2dTJXMjFiMXE5Ti1PeGFaWURGT0Y4eDZpUXA0?oc=5",
-        "domain": "wanaen.com",
-        "publisher": "WANA News Agency",
-        "publisher_url": "https://wanaen.com",
-        "language": "",
-        "seendate": "20261109T120904Z",
+        "seendate": "20261110T110000Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
+    {
+      "title": "Canada reimposes sanctions on 11 Iranian entities for contributing to nuclear activities",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUZmREVMbUtQd1F6bVdxUUNDSWx1bThmbXBERGNOSk9JVG9JMVlYNkRvRW5BdVkydEVZQmROcXBVMUptMGUwYmZYQXhtTUpkTmJYQkFUWG41bVBESldpd2ZyWlpJMFNHLTQ5bjIwZEpIWUVVcmhxRVl5Z3QxNEl5SDd2XzJGaGVPRTFIb3ZiN19Kb2hCUEtuenBNbTJMdmhSTXc2a2w2V1FFcktPX1kxR1hreWxKaGFZaUdQZQ?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20261110T104657Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jWHRvNTRYTnpDandQOUdCbC1EOHVmOUVER1JJWnNhRGFld2FlUkxXd2lRMklQb3ZWeTY0V2UxVUVCRWlFZC1XNHpVWm03TU5keXRndGl2aXV2VkRyWF9IYUxWVFFuSUFrZEpPRmJLbEVaMmlXNzln?oc=5",
+      "domain": "www.cnbc.com",
+      "publisher": "CNBC",
+      "publisher_url": "https://www.cnbc.com",
+      "language": "",
+      "seendate": "20261110T093424Z",
+      "source": "GoogleNews"
+    },
     {
       "title": "U.S. Sanctions Cripple Financial Networks Sustaining the Iranian Regime",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNckhvTWNpWldaWm9pTEF5TloteElYN25uTGNmaEtPSlFZMWpKdlVWRFpHMWVhSFNKeWJybFFLQnJSMzMwemd6LTJEdkxSdnVncEtRT0ZBODZqcjNFT0VrQS1NX2JsVXJyWUVTSzdzcG5RbVZQRFpkNUNBV0RjNHYtS0FWVDBCV0pmclk0NTNlODBzeTBWeGFyZkdheVA?oc=5",
@@ -538,7 +558,17 @@
       "publisher": "U.S. Virtual Embassy Iran (.gov)",
       "publisher_url": "https://ir.usembassy.gov",
       "language": "",
-      "seendate": "20261109T214858Z",
+      "seendate": "20261109T214807Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Canada reimposes sanctions on Iran nuclear entities",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0ZWMzZnI5cmtNalBwU2pibVRNUTBXNTZ2T3lBd3pFT3hXRlZITGVVdEVPMWlnN25fTU11ZXlHMzN2OXhMZXczeEdxNHhtVWdnWHdHcHdLcjJWSGpMYjdEY1dlaXctOUFkRWc?oc=5",
+      "domain": "www.jpost.com",
+      "publisher": "The Jerusalem Post",
+      "publisher_url": "https://www.jpost.com",
+      "language": "",
+      "seendate": "20261110T113336Z",
       "source": "GoogleNews"
     },
     {
@@ -552,13 +582,63 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Canada announces fresh Russia-related sanctions",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdTU3SXVhdzhXRTl5T3ZvTVlYWGlDZ0NwQk44N1MxbkdaSHN3bTZhbTZCX3Y5Q3NsaTNBX09SRDhLZkU4S1lzaDNkVjFuWElNajVLbkpucUk2ckNnbDdPbDdFNFVzY2VzY2JoUE1IV0VUVkhLS283WDBtT2pPMzBUNzBXZldVN0NkR1otcGYwbVZ3RkhRUzlmRHRmNFIxSGs?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
+      "title": "Canada reimposes sanctions against 11 Iranian companies: statement",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TcHZhTEJxMHdiQ29zdFRiWlpWVWxQMWFkLTBKRHZ4U0xkUjJhWUk1Z0s3ZmQ4RHZWOGJOMk9uX2VRaTR5bzRpZk9Vb0VIYU5Fa2hsanZMUQ?oc=5",
+      "domain": "www.koreaherald.com",
+      "publisher": "The Korea Herald",
+      "publisher_url": "https://www.koreaherald.com",
       "language": "",
-      "seendate": "20261109T122251Z",
+      "seendate": "20261110T111548Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "OFAC expands Prince Group sanctions to global corporate network",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1F5WnZ0YXFFd01fVlhyM1VqVnlYQ1RCR3pBa0xxN1FPM0EzTE9Ta0c3M1NHOXR2R2NmVmxKd3BRQzFCQ0V4aVhLbUtXUENEV0NKWDc5V2g3a1pQaEJwSGxkRHdDVExtNXN6RmdSQm1MTkNGNEQydHpWaWI4N0Zzb19aZ292aUFnQndmUVlLZzNyWnpxR1JSMWVYQ0VrblhSaXJOelFaaE1tU3BZME80OXhja0RYc2M?oc=5",
+      "domain": "www.hsfkramer.com",
+      "publisher": "Herbert Smith Freehills Kramer",
+      "publisher_url": "https://www.hsfkramer.com",
+      "language": "",
+      "seendate": "20261110T060007Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Canada reimposes sanctions on 11 entities over Iranian non-compliance with nuclear obligations",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFlkTjdkdUdzNHdpQm9uZ1FSalo4ZU4zNDJLdkEyMkVhTDJNaFNDSGQxVWNhOXY4NS0yaTJSNmlvczhvalBHdWxKTmZjSlpfVWVGeThCRThGLUFBbm84NUxYbzlVRkpqRVV3UXlpdEVkb1pXV3ZaRUFnYXZQMkl4Zk9VTDduS3BQS0lWYlhzUC0ybUlNRWJDT3RFNA?oc=5",
+      "domain": "www.yahoo.com",
+      "publisher": "Yahoo",
+      "publisher_url": "https://www.yahoo.com",
+      "language": "",
+      "seendate": "20261110T123639Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Canada reimposes sanctions on Iran for violating nuclear non-proliferation commitments",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MbktDaFpPOU9CQ1U1aGpNZUR3dGJRaDFfTVVxRjlXZE1Nbkt0R3BVVGVxUmkyVmNBQ1FrMGl1Y2ZnVkZ4RHhiaDEzRjJIdXhCUUxLS2RDUzQzcndqek1rN1JwQmFwdnJFWFRsUmR4OUhlY2Q4WGdQczJQQUJla2M?oc=5",
+      "domain": "www.cbc.ca",
+      "publisher": "CBC",
+      "publisher_url": "https://www.cbc.ca",
+      "language": "",
+      "seendate": "20261110T130906Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "As heavy rains swamp Gaza's tents, Israel must face sanctions",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLTI0dzhLU2Y0VlFpVGYwb3ZhNHVoUkRybzJoaDdrZmtHMEd0YkZSSFRiNEFmNjh4aFNuYnVvdzVUbXg3WW13cy1xc1l3MzM5V3E0M00tVFppQXBfdUdnTUdtRmVCNFFXdTNPb2pHRlU5cGU2dGlaazhGTlNqQlMtT2ZGSldFb2d1QVQxbzJoMzhSLXlqZ2Y4eERB?oc=5",
+      "domain": "www.middleeasteye.net",
+      "publisher": "Middle East Eye",
+      "publisher_url": "https://www.middleeasteye.net",
+      "language": "",
+      "seendate": "20261110T093000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Canada reimposes sanctions on 11 Iranian entities it delisted under nuclear deal",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUcDltMS1ESl91Z3FnNHkxazdvRV9XRU42cXJzb2xHUTNpN09RNkxlOUdPVG05NHZ5M0ZtZklVNUNOWklWZ3FEY3BhMDFxeUZwQlE?oc=5",
+      "domain": "www.iranintl.com",
+      "publisher": "Iran International",
+      "publisher_url": "https://www.iranintl.com",
+      "language": "",
+      "seendate": "20261110T094918Z",
       "source": "GoogleNews"
     },
     {
@@ -568,117 +648,37 @@
       "publisher": "WSJ",
       "publisher_url": "https://www.wsj.com",
       "language": "",
-      "seendate": "20261109T192925Z",
+      "seendate": "20261109T192800Z",
       "source": "GoogleNews"
     },
     {
-      "title": "A natural field experiment on the effectiveness of economic sanctions before and after the Russian invasion of Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zR3lWMVRoU1B4ZFJicFY3Q1hOdWgtU01qMHk0S3BTcWpmQmNUSi1OaXpkQnQ4UldqRFY3MGIxVVNodG1wbkZkYVV6UGwxYmtGWDZGa2s0cjZ4S0luZE1V?oc=5",
-      "domain": "www.nature.com",
-      "publisher": "Nature",
-      "publisher_url": "https://www.nature.com",
+      "title": "Ukraine war: US energy deal with Russia undermines Western alliance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3ctZFlzcHNZRC1PTmRTalYtRVdwWHJlTlZOZUVTQnBGMmc2NnhNc293SG5CYURocGxSTUszeFgtMVJlTGh3czRYQU8yUTRTQXpPNEJYbTBQTEV2aWJiYmRaZ3pMZjRtUHBaQjd0UGxmUHpLVmJyM1ZRNXlET0JLSW1TWXR4TXlCeG40VVJ5eXJYNjA?oc=5",
+      "domain": "www.ibanet.org",
+      "publisher": "International Bar Association | IBA",
+      "publisher_url": "https://www.ibanet.org",
       "language": "",
-      "seendate": "20261109T105858Z",
+      "seendate": "20261110T141657Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Sanctions Due Diligence Failures Lead to OFAC Settlement and DOJ’s First “Near-Miss” Agreement",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2lkUU9nVUNCNmotTmtYMXpKTXI4Ui1fRm9xSklHcDFuU1RKV2VXSmV5bVpGNE9CcUlTQXBiVnUtU3Z4b0VVRnQ1V2ZJRUZJY18weFZpRnpnOXJRX19FNV9MRHZsLXF0NkYwdUcxSVltVXZ1TXFTUG9oU29rMEhUMzhpSXBaMTRRZ3VFZmtTS2t0SlBTX2V2bFdXUU93dE9OTlJsMmk3aEktX0ZQd3hvZNIBtgFBVV95cUxOTHlTcUxLY1dyaVlTZG1YcER0TnNPZEhGWlUxTjczcVFEc2RGQjBzclV6Yk5PMTVsRUVKeXEwcENMeHdmaWdwZzVxY0Y0NDdFbHoxck54QUlsU3Y5Smp2N1pnOU1YZnVPOUlfckpLMVZzUHRwM1NHTmttajgtWHNpQjZySmxGV0xKQmVUV2dnTjFaaThka2lxcmcyU1FCVkYxOUlxbTlISHRnTUQyWHo3QndEcDU1dw?oc=5",
-      "domain": "natlawreview.com",
-      "publisher": "The National Law Review",
-      "publisher_url": "https://natlawreview.com",
+      "title": "France blames Iran for supermarket cyberattacks, vows sanctions",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYXphSjZhSFBLQUlfQnE3cHVFemNWUVVnTVRqSG1MVERsUGpteW5JeGVDU2JTMmd2N0FCVUYwYXJwaUkxZkFWLTZYZHliMmNULTdqX1BHUWVNbzM5anhUTVRKbmZoUE1TekwyeDgyV0hVelpEcFBDUE45azljb0pzb3VmR1VXM3hyLVV4Vg?oc=5",
+      "domain": "thearabweekly.com",
+      "publisher": "The Arab Weekly",
+      "publisher_url": "https://thearabweekly.com",
       "language": "",
-      "seendate": "20261109T193606Z",
+      "seendate": "20261110T093920Z",
       "source": "GoogleNews"
     },
     {
-      "title": "France blames Iran for supermarket fridge hack, seeks EU sanctions",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTZKSUJqSGJyUjktUFBOZHhmdE5UXzIzWFp5WFRBRGJ5THVlRW1yQjAwTXZjUV9aMzY4TlRBV0EwUXY4a1Z6ejlIeFJaRUZJN1R3TlZiZFRVZWZ0U3h2c2tUMU51alJxcDdkT21rb0x6RXNJMzliM3VQa291ZzlnX2xkSzRfN1ExbnRMcjZFaUduQ2EzamNoZTdrQkhKVHl5Umt4ZFdMU0hOUQ?oc=5",
-      "domain": "www.al-monitor.com",
-      "publisher": "Al-Monitor",
-      "publisher_url": "https://www.al-monitor.com",
+      "title": "China Extends Hanwha Ocean Sanctions Suspension by Two Months",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56eWp2ajcydm5YdHRYalNjTi1uczN5NVBBcGgyYXhqeldVQk1EVk1oaFJTdVlpRUJqdlJCenBZWmcyUFAtQ1dOUEVlVVVwRl92OTJHYmNzNkdKMmY5Mmtvd244TnozaUE?oc=5",
+      "domain": "www.thelec.net",
+      "publisher": "THE ELEC, Korea Electronics Industry Media",
+      "publisher_url": "https://www.thelec.net",
       "language": "",
-      "seendate": "20261109T190625Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "When sanctions meet corruption: Iran and the risk of conflict — Part 1",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOGNicEh4bk5xcnBfOXhfLWJrSlpWMEZXOEFjd0lDZHM4NnZWbkF0RXBFakpncndIVW1uN1kzYVZQTlZ6SWRrVzVnR3hBTWpVVnJ4M2V5ZGN5QlhZUFhwV09pSGV3X1VKRXJ5OG50N1Z1RWNxYVdvN3I1LU50dS1DVzJ0ZWkwa1g5YWtFQTl6aVhlU3Vk?oc=5",
-      "domain": "devpolicy.org",
-      "publisher": "Devpolicy Blog from the Development Policy Centre",
-      "publisher_url": "https://devpolicy.org",
-      "language": "",
-      "seendate": "20261109T190334Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "France Blames Refrigerator Hacks on Iran, Proposes Sanctions to Hit Back",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWRScUxQXzJXQ0hBc2ZfUTZCNVBxS1JlSHVGWVRCWXBUUkhmZldHSUtLSV9YM1JqSzQ0X3Nod3hEV3lOdkdWUDRYbjZrTjVkQzhtRVNmdTgwZlVIdWszS29jUW14M1Q1TlczR05YZFhlRkpVaGZNT2o4NGV5MEd6eTc0eGFHWnlJazhTREdwd2RfbldxLUk2N0Y0MF9td0k?oc=5",
-      "domain": "www.pcmag.com",
-      "publisher": "PCMag",
-      "publisher_url": "https://www.pcmag.com",
-      "language": "",
-      "seendate": "20261109T215433Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "France blames Iran-linked hackers for supermarket fridge attack, vows sanctions",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQSGQ3Z1VLY1pPNndlV2hNbVFjRTJmM29MQ1FMMUkwOGNBNzZuWEx4YVdQeUNJYV9mU2VHZFU4RVhHank1RXQ3TjBVRTQ4ekNiaFZDUEdwX0w2aVpWSlF3R0J0M0d6QUZtV2t3WXdTSnJrOUVXTThOS0JQMDJoUDE4c2VTRXN1dldRTW1RLXAzRWs0Um5wUzZJYkN1Njk3SUR4c3hSVVBtQVZBdUdmM1dFSXotZ01oWVRMUXVVM1d0OWpHdm1rbmluenR1X2FyRTVWNXh6VTJXTWlvcExrY3hzdHpBdkdzVG5LYVp6QUJka3Q5bkZXUlFLV3NnMTdJSkFwdjZfM3JiN2J5YThFRU1acmpxN1ZLaUtmbWg1RU9LeFE4WG9TWWdhU0xSSkdlTlhBZXBLVDlFMXRJeXhLMXQ2eVNEY2JXUQ?oc=5",
-      "domain": "wpde.com",
-      "publisher": "WPDE",
-      "publisher_url": "https://wpde.com",
-      "language": "",
-      "seendate": "20261109T171042Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Despite US and UK sanctions, Israel allows Russian military aircraft to land amid backlash from China and Saudi Arabia over recognition of breakaway African territory",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTFZaOTlXQkZTMmVwQ2Rrd2V5YUc4WHpobmgyZGJvVWJob05WdVgwUXp1LVJjckNxQ3RoYjNfYVYyTndNUmZHVmk2d1FjOEdxc0w4Vkt2Z1lRb2k5X1dFRF9rZWRkZVRpVU5LNUVxZ05neE40UnR3VlRkUnRfZGxmd0VKYTZyWWtmR0ZMUHNlWWV6QjhZQzRDZDNycm5sNTYzcmFYWlhLUGZZSk5mNGdxX0tuVHduTmlPeDMxVUdxaFJ6TDBLYkYtVGV0SS1IdXo3TW9V?oc=5",
-      "domain": "africa.businessinsider.com",
-      "publisher": "Business Insider Africa",
-      "publisher_url": "https://africa.businessinsider.com",
-      "language": "",
-      "seendate": "20261109T121627Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Iran acquires oil facilities in China to bypass US sanctions, leaked document shows",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iNUNLTndBYmZEdUlUUmExbmtaRE82N25LbnhMUDk2LXJ4X0JXOXdzb3N3ZHpFTUtRQWwwVEFzSEdjWTdOYnJONFd1V0h1OG9UM0E?oc=5",
-      "domain": "www.iranintl.com",
-      "publisher": "Iran International",
-      "publisher_url": "https://www.iranintl.com",
-      "language": "",
-      "seendate": "20261109T024803Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US Sanctions Eight Canadian Money-Service Firms Over Iran Crypto Allegations",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNamR6OUZLT2w5WWROMXlOZlloV0Zkd2ZpS2ZtVUNKT0ZtMGl1b1VYbFVQLWxhTU5VcWFWM01ZSjQ3VFNWY28zNGwzbkxHZElnZmRlQ3RCNXdTQTItWkYtTDl0WlpzbkNubmhTNENaVWJXTjJZTHBfeFhtWkNFR1JnbHBjOEV3TUliWTg1U1BCOWtzNnh3WnRQMDZLVzFrMUhwbjJjYzVGYU1EYWhMNXpCNHR0SldKM19RWDJwekdIcGYyUW1IY2hJ?oc=5",
-      "domain": "bitcoinfoundation.org",
-      "publisher": "Bitcoin Foundation",
-      "publisher_url": "https://bitcoinfoundation.org",
-      "language": "",
-      "seendate": "20261109T180929Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "FinCEN Order Severs MEXC Global from U.S. Financial System Over Sanctions-Linked Activity",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNk5ESWZHS2JUX0ozWTVlcXlQQUhYOE9lQi14bHNmTEh5dEJ4Qmhlb3FFc0JoZGwzRE1HZFZSOHZYcGcteUxtZ041MkF0dy1CdE8xTVpKU2gwQlQzaXpUazlMY0NoMkJ2azQyeTdYbXVxcGYwckc4TFVmdlJ3RTVOMHkxb1BILU1MaFJHcG5NcUJ3VndRTkxCN01VdzlhT0p6QklXcUc5LUVXeWJoVVc5MzBVV1hraGdlX2ZtQlNIZHl3czdTaU45UlBKYzBqWFRNaHFJ?oc=5",
-      "domain": "www.crowdfundinsider.com",
-      "publisher": "Crowdfund Insider",
-      "publisher_url": "https://www.crowdfundinsider.com",
-      "language": "",
-      "seendate": "20261109T223149Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "BREAKING NEWS: Top Japan, U.S. diplomats exchange views on U.S. sanctions on ICC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53OTUxaHg5R1NjVjVRcGI0eGRsNGVqcmxvR3VzOU1mRUNTclBjM0k1ZGF4TzFOWE5BVmdjeEhzWWRsVVU4b2VyRnhDUGhBOGl1UHMwbnNiWXZJUQ?oc=5",
-      "domain": "english.kyodonews.net",
-      "publisher": "Japan Wire by Kyodo News",
-      "publisher_url": "https://english.kyodonews.net",
-      "language": "",
-      "seendate": "20261109T163027Z",
+      "seendate": "20261110T084625Z",
       "source": "GoogleNews"
     }
   ],
