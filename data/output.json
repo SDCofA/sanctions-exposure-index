@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-11-17T20:46:09.614286+00:00",
+    "generated": "2026-11-18T07:09:38.276311+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,7 +23,7 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "38"
+      "value": "35"
     }
   ],
   "live_data": {
@@ -39,13 +39,73 @@
         "source": "GoogleNews"
       },
       {
+        "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ01PYUtvQVNTSXN4TlA0UHQ2dXpseHotOWpBTG5zN0IzMF9iS1dRSEloQkJvRU5NdFNqd0NHYVRJbDlXRVU5RWpfOVRyZDNYakYyOG1FbU8zQjFxUjcxbjcxOUU1ZW5ZMHFIb2c0QjRaUTczd0J5dXdiODJNSnh3NE8xMEFRQVdDUkl6QlR4bGN0NWxxLUF4TTJTVFpDOGpHc3g5UnFUcVhoeTBONl9TOWMwT1hUQdIBuwFBVV95cUxQbEhfbUFIQW84dGhMaDFVVG03d1VqZkx0RGpDRnFEc05sMnhDc1ZNWk56bXBlRlFnUTNDc2FyVnJEalhCY2MteWdoVVpGMVdtOWY0NzNvbTZ3REdCaWVNOUZiMUZrRGUtUnVJV2hMTUtTeTloSG1fUlphTDFqMDN3cFRmQXNMNUJaTG5nMVR6cjEtcFF3RzVVczhTWG5nZVYzWUQ4SU9DelBuakZ0ZC1UemhqRnZObG9SV1hJ?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261118T000102Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Sanctions Urgently Needed as Myanmar Junta Rebrands to Evade Accountability",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEZ3NE9QV3ItMWZlR2llWjlILURrM3VKdWg0bndCNEVJVnpZWjZDNzE3cFlrYTdBR3VKQi1aT0E1ZjdJTTl6MjVNN1VkSUZzNWpqVENyeU1idEhqT0JTenk2TmE4SVpwMjE1VTFNdHVvS2R0YmpQRmZhR2ZodldhR3FOSE9jb0h5S2d2Wkk5MUVBX1BXWWt4bkRqNjNzUTNVVWhEV3lB?oc=5",
+        "domain": "thesentry.org",
+        "publisher": "https://thesentry.org/",
+        "publisher_url": "https://thesentry.org",
+        "language": "",
+        "seendate": "20261118T063727Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Sanctions in a Snap: Developments in Sanctions October 2026",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkk2dHI3MkV1c2NSYWMtQllKUUVvRlZPRHFKTl9oMXV0XzNYRFpNYTVubGZPNGd2ekNrZTAzWmxYQ05ZZFloWGp0Y25mU1AzOVZ0UWJLRjc1U0lwSU9idm8tdzJUYlNjVm44VmdNR1NRV2VyZ0w1TGJyMU84eVU3LWZQbGQ?oc=5",
         "domain": "www.jdsupra.com",
         "publisher": "JD Supra",
         "publisher_url": "https://www.jdsupra.com",
         "language": "",
-        "seendate": "20261117T201026Z",
+        "seendate": "20261117T203440Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "‘Godmother’ of illegal Israeli West Bank settler project Daniella Weiss among group sanctioned by Australia",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2haN1ZfRHhlNnJROXc1ZXlUWnc0Si00Ui1RdFB2N1NfX0x0NEJ1b2NSSVdGTUlDaVJLWjZFM2NtaTJYVEc3dmZnbzQ1MHBJcm5OSV9FaHZmbkZqMlk0ckRpaHJxalp2WXNvQy1YYkZ0Nnl3aWc0VndzN04tcWh6TmY0NmdWZS1OT0h4TWROQWtFczl6Y3VYN0Utbmhhcko3aHlCMjRMXzh6NGlTMHZTU3ltNV9CdldwQy11enVDZkFHUQ?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
+        "language": "",
+        "seendate": "20261118T031800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Britain sanctions Israeli aid-blocking group and settlement construction companies",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGxZOW1MUTRoYjFhUklDWkRCcjFfRFJoUnNpLXdicE5DSzNQRVkxalZPM19acDBqZGlSR3FoRE12MVVUSTUzZzlJRDRVVE5IakZCVzRkZGRyZGtUZWd0Z0llR2Z3bkp2b0FKOTlaQmdPd0VFT3RBUUVrdFpYWTBhRVJlaXdvc0YzcDNRVUFfd0ZxRzB6TnE5bnNuczBtWHlwWXFZRDB2dXRVUllaazR0VGltSVlNT255RFBReQ?oc=5",
+        "domain": "www.jta.org",
+        "publisher": "Jewish Telegraphic Agency",
+        "publisher_url": "https://www.jta.org",
+        "language": "",
+        "seendate": "20261117T232103Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Australia sanctions Israeli settlers, organisations over West Bank expansion",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXQxYXF5dGJIZ09mRjJIYU15YllQbHE0RjFQaTRLQmxDb2JrTWpBaF93RUR5aHlvRExjbmZCNzZwVnFOZTA1Y21xdTU0Wl8xdDZ3OV9rSjg4bDhiR2Z6NktIUzdyZ29RRUlmeUtnUXgzY0Y4T2lhcTFKaDM1UTBFbHI2X0Q5bnlER3JFeVJDcEFPU0w2T2J5Y3NvVERzZDB5NWFEUTRlZVZlcTljaldGUVpqa3c4VHloTm0zbw?oc=5",
+        "domain": "www.al-monitor.com",
+        "publisher": "Al-Monitor",
+        "publisher_url": "https://www.al-monitor.com",
+        "language": "",
+        "seendate": "20261118T002402Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Britain's West Bank settlement sanctions won't work, expose double standards",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84VlBKWldJeXZjcUxtdFhYc1k4bm8tSFVOOXhVUTUyVWc3Y2xldTAzYjdueHJBbXF3cFNqMERxdlQ2LXNOMHZXdkpuWXV3anNOS2dhQTFIQQ?oc=5",
+        "domain": "www.jpost.com",
+        "publisher": "The Jerusalem Post",
+        "publisher_url": "https://www.jpost.com",
+        "language": "",
+        "seendate": "20261118T035957Z",
         "source": "GoogleNews"
       },
       {
@@ -59,23 +119,163 @@
         "source": "GoogleNews"
       },
       {
-        "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ01PYUtvQVNTSXN4TlA0UHQ2dXpseHotOWpBTG5zN0IzMF9iS1dRSEloQkJvRU5NdFNqd0NHYVRJbDlXRVU5RWpfOVRyZDNYakYyOG1FbU8zQjFxUjcxbjcxOUU1ZW5ZMHFIb2c0QjRaUTczd0J5dXdiODJNSnh3NE8xMEFRQVdDUkl6QlR4bGN0NWxxLUF4TTJTVFpDOGpHc3g5UnFUcVhoeTBONl9TOWMwT1hUQdIBuwFBVV95cUxQbEhfbUFIQW84dGhMaDFVVG03d1VqZkx0RGpDRnFEc05sMnhDc1ZNWk56bXBlRlFnUTNDc2FyVnJEalhCY2MteWdoVVpGMVdtOWY0NzNvbTZ3REdCaWVNOUZiMUZrRGUtUnVJV2hMTUtTeTloSG1fUlphTDFqMDN3cFRmQXNMNUJaTG5nMVR6cjEtcFF3RzVVczhTWG5nZVYzWUQ4SU9DelBuakZ0ZC1UemhqRnZObG9SV1hJ?oc=5",
+        "title": "Australia Imposes New Sanctions Targeting West Bank Settlement Expansion",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQS3RNMDlzWFhkalZxVWViU25aRjNmNk84WG5jSTRkMmJWQXNMb2xfekgyVFVyZTdHUU9sQTRHTUh2cHJiMmNTcXFWbmszS2w5MVhTUnRCeUktakZkTENGZDM3a1ZRNkNTUGNNdFI1V19VbUo3c096SGZ1VUxSbWpxSVVrM1ktQks4V2ZXdjE1MC1yUjNLMGlUNE0tVm5LdDJTZk5GV3ZPMlZPczItY3lMMlNtUTZzYnM2QWJONTFIQTc2RnJzbUdBS0Y5bGIzU2dRRXFxc04xY0NhVzdIOUtEeXNUZmw4NzhsS3lrRGlrUHBrTlRPUUJHTG1kUW1UN1NVLWZlcl9GZHlfU0J6Wnhkd2NzNHlPM184Q2s1OA?oc=5",
+        "domain": "www.haaretz.com",
+        "publisher": "Haaretz",
+        "publisher_url": "https://www.haaretz.com",
+        "language": "",
+        "seendate": "20261117T211700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Putin Pitches Russia as the Place to Invest During Xi’s APEC",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSFNsb2RKOWhzYnZETEdaUEJYRk9KdF95OEVQZzdTbXRjZDhtTjVyRWNSWThwTnpiYlNDYmVSYWFaa1hYQ1puMzRlbWN5UVNubmhhS3gzRUhyeTVIWDE1NFpZWE5HY3k2NEl0UFpMSkJ5RHBIbkNIZWlKZzlpMXpmNFhaZjFPeDV1dG1QaW1WUm1TR1VRTlp3YkROVnROdHNkVjl3OEpvYTFqRTBudm14YQ?oc=5",
+        "domain": "www.bloomberg.com",
+        "publisher": "Bloomberg",
+        "publisher_url": "https://www.bloomberg.com",
+        "language": "",
+        "seendate": "20261118T043300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Australia sanctions three Israelis and four organizations over West Bank settlements, following UK sanctions",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUXdGSlNYVExyZm9NLW9BS2d0N3VFbExZcENRZXVSYUpuUmt6SWtsbUZ5QVBiRmRzWUtPOGJCbFJtQXF4anNMcElIbVBabGJPUXl4a3oxd0lCOUU5X2FGYUFBdkhzOGcxV0hMeXpmN203UmowQzRFTzgzekdKVjY3OWVodHZBUERoVHdnS1NUSmVVdW1wNnVtWWJ0ZVFmUVNXY1pzbkVwTHRpcEtYclVkMHd4elotVW1KMHpZcmhmdUgxZHhnelMzeFdtOGhFN21hQzR6NkxFS0xfY1RfLTVKTFJ0VUk?oc=5",
+        "domain": "www.i24news.tv",
+        "publisher": "i24NEWS",
+        "publisher_url": "https://www.i24news.tv",
+        "language": "",
+        "seendate": "20261118T050300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Hamas and the Palestinian Islamic Jihad: EU adds one entity and its founder to the sanctions list",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbk5xTHpBTjdiVmJobE1GcUxweVNjNlAwWnhINXYwME1rMUROZXRCYkJhYVZGVER6NTZaNVFEV0c5UlZiUFVTWGtHT3AxRnVxREUxaUpkRVhCTG53dHFPenNjeGw0Sk1HeFFFRnk3YzkzY0FDWGlzeGZkdW5EOTF0NE9ROFNrX2N5ZWhUamx1QkEyWV9IYVhUaVRLTGVIYWpUQTVGVFM2cl9vVnl3ZVljekhLaG1ubTJGcFNReTJQa2lkUlV0SnVzQ19RdkI1aTlic1M4R0ZGOV90TkJvSElmRE5SUUZzLWdPMnh2djNNU2hwTFg3TVp3?oc=5",
+        "domain": "www.consilium.europa.eu",
+        "publisher": "Council, European Union",
+        "publisher_url": "https://www.consilium.europa.eu",
+        "language": "",
+        "seendate": "20261116T102832Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Meta Faces Possible Sanctions for 'Actively Manipulating the Evidentiary Record' in Addiction Lawsuits",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnktVGNqaHkybkYteEltbVc3RUlfSHE1OTRDUGtwTWRjSTY3UXhVczZaVzN0clhRelVEQ19QX1hVNXRLX3VPWXkwUDF5dW55SkJ4cGk4NVkyUVRSbjR4WXJ6UHpKTlM2ZTF1NFNHdXZJclUyWDRmaWwzR3BtdzFSNFlyc0pYSENiVTJ1NC1FS3Q0UDNRLXVBQldYOU5yMjVyVUsxN3RtUzFBNEJYTVFTMlJIOGttUENVQXZsaXp0LWhwbVhmS3ZmQWV6ZlI?oc=5",
+        "domain": "www.law.com",
+        "publisher": "Law.com",
+        "publisher_url": "https://www.law.com",
+        "language": "",
+        "seendate": "20261118T025008Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Xi and Putin blast sanctions before meeting Trump in China",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261118T032100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Australia issues sanctions targeting Israeli settlers",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbnN3cEVvY1A5UjVuOUVCTFhxNWFUdVJ1eHJfeS0xRUw4THYtei14aHdZclgzWlFUYklLZnUycEdqNGhTZVduLVZFdERTRUh1d05iZVFqMW8xVUlTcmRtRXNWSzVRWmR0WkZpREZrWjROSUtldUtna2FWSWhMR0haNlp0M3ByX1pSRHhlYmVmNW9nbms3ZUVQVUFMNEo5ZE5YMDItbUJUTmTSAa4BQVVfeXFMTnl2LUU4ZVFQUU1RN2FNQzgyTjJqUUN6VWs0bUtfVDdkd1lmc05BSGNMZU5LN21BUzZNcmR1UklmUnpqZTVLN1U4N1M2WUlEQXA0RDRxVDA0TmVIZHlPSlpFdjRsSENYM2l2WERpcDNVS1hQT281TGxjZzJVOFZXLXFGb1BkdnhzRVc3U2lSWmFHYjFEbnVidUFXeC1uN1owdll0dks0M0ktQldrUWdB?oc=5",
         "domain": "www.aljazeera.com",
         "publisher": "Al Jazeera",
         "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261117T142142Z",
+        "seendate": "20261118T041535Z",
         "source": "GoogleNews"
       },
       {
-        "title": "EU sanctions Wildberries CEO Tatyana Kim as well as enablers of Moscow's shadow fleet",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdzZBcEdvRi1rcGExb0xsLXFROG5GbU5KNk5udUE0ekxFWEpBR0hGbWVaWTk4OW9JcE1CN1FJeGFMZ0FXbWpDZGxPT3Yyb01mMGFGQXZIUGZBdGhUWTYwdzVyWmF4TFowODZDU0JibWNVcDhVS2wtb01NNnZQQXZta21VUDVnVkNYS0RxOUFXR3dTeDlFU2h1OVc5VdIBmwFBVV95cUxOMTRrOGlrSmlITERaV2V0TXVqUmpEMnVxY21rRXZ4U0djSENwejBveEdfbTJtclJxVEdYXzlEYlNYTEVsbDEzWmU5cUt5NV9ua0FFc3JRSnVVSWIzWFRqVkZKZjhMd2FJd0ZZUks4cEdzaHh3WVkyVXFmOC1TTFpETDlRVFVvQ0tSSkYtdWN5VzFkdUwwRG5MNUZNSQ?oc=5",
-        "domain": "www.dw.com",
-        "publisher": "DW.com",
-        "publisher_url": "https://www.dw.com",
+        "title": "EU Global Human Rights Sanctions Regime: Council lists four Haitian entities over serious human rights violations",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPX2tzOFhFMThocmNJdDFWajUwMFd3QVp0TUtmTElkYWt6VXB5QjNVc3paZ0V6ZmRnM0V3SjkxVkktWk16THNfbGp3MklKZGhOYkVLYTlLUThxX0hFUjhyOFdRT0htU3lua1ZIZUxwNnpxc090WUstbDJ0cGRKcWNsQ0JKT3BIY2l3OFRyVUdSOG1FbXBDX0dmZU12VmljN1p1ekN1ZE9WbUQ5YlNOMFYtTDFFdnVtUHRyX0RUa29DLUVycXRzUTg1WjhZMVU3Vy1iUFN4UGh1Tlg0ckpMdDY2TnZ3aGxxZ3BFa2ZUWlNnWUZiMTVnOWFrZ2RlMHZSbjRvdjJXaUYwRG5yQklu?oc=5",
+        "domain": "www.consilium.europa.eu",
+        "publisher": "Council, European Union",
+        "publisher_url": "https://www.consilium.europa.eu",
         "language": "",
-        "seendate": "20261117T130643Z",
+        "seendate": "20261116T113105Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Meta faces sanctions bid over withheld evidence in teen mental health cases",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0pncG9WWUpfX0cyRms1cXZETmNjV2tMOGZlTUlmd2MwSkRUeDV4T2gxR2d4MlozZUduNXB5MmJmNk1IVHFOenduakhPWWMzcmR4M2ZReW5MS3Z6OVM3aFNvSjc2Mmd3eUd5RkpCblR3bmw0S0RSWHJ2anJIUG1rQ0xDQjV1dmlDXzVqRk1ORW9jdlpLaXE3MC1fNzU2OHR3NW9JdFRObm9wZUxkNXhmRWpJS0VuM19NSVhrRVVwN0hndEE?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261116T232100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The EU extends sanctions to nearly all major Russian banks",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1labk00a0pIdERxWWFXemZhdXhFM3YzRzNESGVjbUxKV25LWVhrMExFZm00LUc4LXhZZV84ZTEwODhpS3Y0WU9obEJRX2FSRTVUX2FLUm5TMy1NM1hOWTVab3E3aURuSkNYeUxxeDZybXJXRi16Y0FpTFZJSW9jaXM5MVVUd0sxb1phdzRWSQ?oc=5",
+        "domain": "www.eeas.europa.eu",
+        "publisher": "EEAS",
+        "publisher_url": "https://www.eeas.europa.eu",
+        "language": "",
+        "seendate": "20261116T160946Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU expands Russia sanctions list by 145 names and entities",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmRZSV9NYXE5MktUdUdiVThuR3oyZHBFR1cySnVGTkxCc0ZhSXJ3d1BxR0VHd2o1RGxkSHpTZllybmxUR29TT3FPMjBjOFNuOXJfTENZeHFfeHVuT2xRZ0RYLTdVVXVObDFKWU1tWjR5V1djUXFrMC0xc25Ib1g1MFhRMy1RUkphbURmR1VqSnkzV2hrM2tMNkszRWUtQVlCZ3dnN3ZNZlFQVEE?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261116T143023Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Australia imposes new sanctions over illegal settlement expansion in occupied West Bank",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV0NSM2JsMDg1VG1vM0J4alhKdjFmcERia3VkazJXMXRqWllaM2EtYWtoMDN4NndVR1NSRnBIdHBPSXBtWi1xci1jNVpGMXdwUE1yLXVFVTduamVSbU9iNzNlTUFsY1pIQ19fT2NIeTVLbEJDSTFuWUhiWnZXRVFTNGRfVUdYRDMySHR6dERNQU12SXRFQjJpN19IQm1FSHNuNWxzMnI1T1hETnpvWmQ3QW92WXo1M204RWFFdmtpU0h0Zy1GaTltRUJDYXNLUQ?oc=5",
+        "domain": "www.aa.com.tr",
+        "publisher": "Anadolu Ajansı",
+        "publisher_url": "https://www.aa.com.tr",
+        "language": "",
+        "seendate": "20261118T065539Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnBBRms4TXpNMFdJMDdnR0c2OG5EaVpfYnVETkxGUFVISUx4QXY4WkMxRkhOSFdHSVJhd3B0LU9YNEJOSFkwQ2dFbFAzUTlFckFsSWtPQS1seGJEbzIwNl8xZEdEaGRjMVQyNlZ2UWJoLTlfMDZVZktpbFlRdFc0TUpIaUxhNUgydVdid2VaOWJSYi1XZzBWLUNSRTdnZkl5c2pYM0xoUEpSUXBzUHFIUmx0MNIBuAFBVV95cUxPcUVSUmEwcWREbGRnMnhobXEydjQ3dUJpVi1LaUZybGdJazNOVEFGd1dWbV9YcFExd3JsbDZqRFduTGd3TERpNkVVVnlyYk9reGo1bll3Zkp1eFV2RmhUYXVnOTRtXzJnbDdPRHZSWFJhRm9DUFVCOFNoNXZsRFZ6VlhrZUo4ZkotSjdXNUR2MWVpY3NBN1kxdG11LTk0WjhOTm0zLTdZTV90Q2dsRG9SOHhTYXFDOFV6?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261117T213841Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Sentry calls for coordinated sanctions and enforcement following a Justice For Myanmar investigation and Reuters reporting on the junta’s aviation fuel network and its ties to Iran",
+        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNa1JYb3V5SlktT21lNGkzbHdaUzl1SzBpOTZzTmQ1blhhaHRGdW1ObWVQamlCVk5GeGNnREhNSnNROENaVDg4eG5TYlhZRDBhYWNyMGMtZnJqQlNKMExJS3FNT3JOcTlTajV6YUgwZ19lZUtISEtfeVhOYnQxcTZfSXFPaUxxdS1WSjByR3dwR016c2VFT2RidWs4R0t5MWYxeGs4dDEtN1YybkNqV1RsdzRyOFdvWVpQZkR5eW5XZ2F4elpNSDd6SWNIb1FDN0s5Y3ZUaGp5WmVGbnk3N0VMOEtETWRiT0FmbGtvQkJueWExNWxFRmE3bTdBZ1pMWmx2VER6UnZndVREVGFqOTZfQlZ3RnZDZVJVYkRGWTJ3SkNIMEhaOENjXzl5VHloQk4xODVONVJR?oc=5",
+        "domain": "thesentry.org",
+        "publisher": "https://thesentry.org/",
+        "publisher_url": "https://thesentry.org",
+        "language": "",
+        "seendate": "20261117T193053Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Australia declares sanctions over settlement expansion, violence against Palestinians",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONkhVVmRIQk9DY19HZk5Cbmc5cHVqZEw2UXNVNU5LcnV6VnpJb2ZPZzFWNmNQUXkyZzRsdndPeldNcVhRdlcwaVNaVmtqblI1cElGdk1kTUNoTEt6RkV2SFhXX0RTYjZNNkVBMVlObW1qOUxZWWNtb2hFMzhOQUN6N1ZRbUlrVEZpVzc3X3VOUk8zTFF3YnpaeVJsZ1pJRnNkajlUa2R0bldjOVJ6ZnF5dzA3dm1hUdIBuwFBVV95cUxPOXBqRXBVaHVQa1VMWDlaWkgtOWdSTWdHVkFmcDNEdUxPNUdGZllldXFIbnFOYkl2TzdqOW1kSndoX0RDRWh0dmI1UDlHQjJwcHYteTNnTWxuVXNtMEU3d00zcGVhTE16RW00WFFNeDk2Uzloa2pRUWZUNXhnX1N6N3RERWNNOUk4aUR4bkJYV0hHYldhOTBHMGxzM2VfeC1mci1UZkFyaWdkaTJESHREOXp2anhKSklYTUxz?oc=5",
+        "domain": "www.timesofisrael.com",
+        "publisher": "The Times of Israel",
+        "publisher_url": "https://www.timesofisrael.com",
+        "language": "",
+        "seendate": "20261118T063803Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Israel vows retaliation over UK sanctions on settlement firms",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORUhTbTZjMlhUQTZQcmg4M3k4a2U0YTBSS0RJNzA1ZTNFZnpLOW9vR1djQWtzX3ZGZUMwMGl6Q2Z2U2psb25obkZhVHp2aEdBVklpSUVDTk9FNTdHckZzNEstU0NWYTJqOHY1WGhNejBKSXJLTjE1TGZ3MHZuRWY2b0w5MkxrYUV0U0YxMm5UeHgxMlkxc2c?oc=5",
+        "domain": "www.muslimnetwork.tv",
+        "publisher": "Muslim Network TV",
+        "publisher_url": "https://www.muslimnetwork.tv",
+        "language": "",
+        "seendate": "20261118T064033Z",
         "source": "GoogleNews"
       },
       {
@@ -99,56 +299,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "The Sentry calls for coordinated sanctions and enforcement following a Justice For Myanmar investigation and Reuters reporting on the junta’s aviation fuel network and its ties to Iran",
-        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNa1JYb3V5SlktT21lNGkzbHdaUzl1SzBpOTZzTmQ1blhhaHRGdW1ObWVQamlCVk5GeGNnREhNSnNROENaVDg4eG5TYlhZRDBhYWNyMGMtZnJqQlNKMExJS3FNT3JOcTlTajV6YUgwZ19lZUtISEtfeVhOYnQxcTZfSXFPaUxxdS1WSjByR3dwR016c2VFT2RidWs4R0t5MWYxeGs4dDEtN1YybkNqV1RsdzRyOFdvWVpQZkR5eW5XZ2F4elpNSDd6SWNIb1FDN0s5Y3ZUaGp5WmVGbnk3N0VMOEtETWRiT0FmbGtvQkJueWExNWxFRmE3bTdBZ1pMWmx2VER6UnZndVREVGFqOTZfQlZ3RnZDZVJVYkRGWTJ3SkNIMEhaOENjXzl5VHloQk4xODVONVJR?oc=5",
-        "domain": "thesentry.org",
-        "publisher": "thesentry.org",
-        "publisher_url": "https://thesentry.org",
-        "language": "",
-        "seendate": "20261117T193053Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Israel Vows Retaliation After UK Sanctions Firms For West Bank Settlements",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmw3Qmp4S1ZHYVJjbmRjcmpoVEtFcmN3ZU9QcDdXcXkwRk1uUjJmZ08xdmppQTBHTGx4NVBrMXNLWFB4LXZlVkJ2clVnQnpLTlZHVmUxbkhjVmkzQ2s1SVdCbkxSN21LdmljbG1DYWNUU3F1bHQ2c2RnM0w1U0NEWGpfMVdCazRDWUVqUFdWVHN3TDJoY1RTeGljam5ZRVVUNkE?oc=5",
-        "domain": "www.barrons.com",
-        "publisher": "Barron's",
-        "publisher_url": "https://www.barrons.com",
-        "language": "",
-        "seendate": "20261117T172000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hamas and the Palestinian Islamic Jihad: EU adds one entity and its founder to the sanctions list",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbk5xTHpBTjdiVmJobE1GcUxweVNjNlAwWnhINXYwME1rMUROZXRCYkJhYVZGVER6NTZaNVFEV0c5UlZiUFVTWGtHT3AxRnVxREUxaUpkRVhCTG53dHFPenNjeGw0Sk1HeFFFRnk3YzkzY0FDWGlzeGZkdW5EOTF0NE9ROFNrX2N5ZWhUamx1QkEyWV9IYVhUaVRLTGVIYWpUQTVGVFM2cl9vVnl3ZVljekhLaG1ubTJGcFNReTJQa2lkUlV0SnVzQ19RdkI1aTlic1M4R0ZGOV90TkJvSElmRE5SUUZzLWdPMnh2djNNU2hwTFg3TVp3?oc=5",
-        "domain": "www.consilium.europa.eu",
-        "publisher": "Council, European Union",
-        "publisher_url": "https://www.consilium.europa.eu",
-        "language": "",
-        "seendate": "20261116T102832Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Britain sanctions Israeli settlement firms in push to protect two-state solution",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDhsRlZsMFhXV3hCNXpHb3pPdzNYUXFKbnRZemNjMm9TWFIxc1dnZk0wQ2FieGNJZGcyWWphbFQzb2F1SGRGclBuSExJOUFidDhqYVNzYmg4LVRMTDFGODBxUXNlLU5temNSRV9wRTN0R1dSUDFBUDR2YmZjRGFCaEwwcHNueS1wbFpxM1NzaWN1SkJXZ2RodmRqVkJUa1BINDJvX0dPcnMzajdpSFRuQ0hnZ1JBUkdGWWlZ?oc=5",
-        "domain": "www.al-monitor.com",
-        "publisher": "Al-Monitor",
-        "publisher_url": "https://www.al-monitor.com",
-        "language": "",
-        "seendate": "20261117T132646Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "UK sanctions Israeli companies building West Bank settlements",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVBDem1wX1FfTjZ5QmJacXdkVHh2aUxxSldVTi04LXI0UmRDY3hIakdWVmpkdWxoV1h3YWI0aVNjcFpzSkRON2twcEN0bncybVpRT0RzcVY5dTFFMHd3TmdkcEFmTXRqeE5nZ21OOUdtOWk5RHBfTjAzY2tWenUwcHpYZXJLYW1jTzV0V2JQNk5qRkxMUld0UG52TjVlQ3pDWVE?oc=5",
-        "domain": "www.seattletimes.com",
-        "publisher": "The Seattle Times",
-        "publisher_url": "https://www.seattletimes.com",
-        "language": "",
-        "seendate": "20261117T140103Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "OU sanctions Alpha Tau Omega fraternity following hazing investigation",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWZyaXo3UjFHUndzcW40THc4RDd3TDM1WXdRc3NxODhxLVZVN3M5X09QRDdzRWRTVFlRMFc5Nk0wY2dLSEdkUnpkNWZkZVpPSFlNanBOOTRMRS1FLU41cXdxX1NsSzBzdGg1WGc2WmxBenhQSWNWa0NaVFFzTnJiMXY1NmJ5VmV3dWRHN0tuX2czR0p4cTFfTzJhUWloRDZ1V2c?oc=5",
         "domain": "okcfox.com",
@@ -156,6 +306,66 @@
         "publisher_url": "https://okcfox.com",
         "language": "",
         "seendate": "20261117T172609Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Israel vows retaliation after UK sanctions firms for West Bank settlements",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0pSRjBIZjV0Y2RncGMyd1BWOGVwcmFZV09xcVA0WU40ZXRjZVFIb2tMRXdZZWh5VkJkSmNmckcwTnFKZHpGbERxNERGWmdXRmtSODljOWp2NU5scjJKUWJHVl83LTI3bHBIcHdQWkwxSk5iWEpoeTFVaEsxU3UtVC05VmUzYlY0VGdWVnZKbl9ub1Y1dC1GN3Y5anVFM1dEdmVDc0xVVkcwUzhQNEMxT0Z3dHhwQQ?oc=5",
+        "domain": "www.al-monitor.com",
+        "publisher": "Al-Monitor",
+        "publisher_url": "https://www.al-monitor.com",
+        "language": "",
+        "seendate": "20261117T172013Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Australia unveils new sanctions against Israeli activists and entities over 'illegal settlement expansion'",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcU84WnZ3QUpTQVpMZllqOXJsdkZGb3dCOEJLV3l3ZkwyODFNTzBpZGpzVmlYSmN3MDVla0p5RnNzaDFwejlvdmh2cEtYSXNiWEtIUnZVazl0ajFXTEJWbTZiRnM5c19zcUh6cThtZGV2MHI5OVVJSXpRbzhsTHFkUE53a0tOalU2blhvUGNhMnRlZjhYMnlOWmwtWDBIbjNmX2UxMHExeGJacEl0S2NiSWplZE80b0UyWUFPT21IQUZSNzZBS0IzbHJ2Wll0YnJqb0tNMndiclhSRWpIdHhWalJDa1Y?oc=5",
+        "domain": "www.timesofisrael.com",
+        "publisher": "The Times of Israel",
+        "publisher_url": "https://www.timesofisrael.com",
+        "language": "",
+        "seendate": "20261118T050302Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UK sanctions Israeli companies building West Bank settlements",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHd4bWNHejg1Tm9VOWgxRXJCSUx3OC1SOUxVc1A2QTY0S2RyQ3c3SjZJWFgxZWt3emRtalljSjNOV19IcjA1VVAyalgxTE1fWUhjRVBFTlU0OHBUbUJfYW5iWEc2YjZyMEdqbXJHU0J6S0k3OTZ5d0owdmZVb3dxSy1YVkM0ajduckFZRGltRzJWVEdlUmktRVpuQ0R4SV8zMUZCNVZMU19SMGc?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
+        "language": "",
+        "seendate": "20261117T140000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "‘Do not build’: UK sanctions 8 Israeli construction companies for building West Bank settlements",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObEVDWHBSU1REbnl0MmstS0F0ejN5em05UkgxbjctNmVoWjZZZU1WbHhGbE02OXRWS3RVandocHQwTnpYQkxhRE1jNzFmUXpndF9uam5iYmRJLWVHZU4tajh6cmZnTV96OFJMWEhVbGVrZERJenJUaGhhMHhBVjZVYVJLTVRhVFJZbTc4NGcyb3k0NGladGxwX0FVd2xTdW41dTVhVU5tZ0lsX2RWdGxYMdIBtgFBVV95cUxOeHYya19iX3BIbGYyMUhUVzFwaXljdmxQNi1mQkxSeGk0bjFGZWlSQkV0NkZpR2ozXzJFZmtDZS02V3RaR1k4SVZYYkR2UUkwWmhTcFZ3VjcyMm5hR3dNb0lLZEFuVDI0ODBnOERQeGY0dE0yU0YwLTBmaTV6UXQ3eTFZbDc3NXN0UVlRVzZLR1pqdVl2czJfbnhoMzRGa2hiaVZrcUNld000NjhBdWQ1R1AyaFBtUQ?oc=5",
+        "domain": "www.timesofisrael.com",
+        "publisher": "The Times of Israel",
+        "publisher_url": "https://www.timesofisrael.com",
+        "language": "",
+        "seendate": "20261117T142800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Xi, Putin, Trump to Meet in Shenzhen, Blasting Western Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82SDdFQkJ2aUNPQ0pOSE1sNzhRVml2ZXRoY0k4VXJUS21abnVCVG9KSTM3UDlIV3pzaGI5YXJaZTMwZ3hITUkwS1luWjNIZHVIb1FHU18yMnlmVWR2TEZ5TTl3?oc=5",
+        "domain": "www.forth.news",
+        "publisher": "Forth.News",
+        "publisher_url": "https://www.forth.news",
+        "language": "",
+        "seendate": "20261118T054417Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Australia sanctions Israeli settlement figures in West Bank",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmhVV05rNzdoQlduZzlCM084VzNZbjMxdDdXeS1INHlYdGVReXQwQW1QY1JBQU5jXzFsdFByYTM5c0plNVV2aGdqbHhTSHNmVGdTZWZraWdaVWZfZnFhbEt3UEx4dkxoeG5BMWk4VXdycEZnenZuUzY1V3JsaFFMcDBldjJiNmNNWWtDdFZzcw?oc=5",
+        "domain": "www.israelhayom.com",
+        "publisher": "Israel Hayom",
+        "publisher_url": "https://www.israelhayom.com",
+        "language": "",
+        "seendate": "20261118T050142Z",
         "source": "GoogleNews"
       },
       {
@@ -169,6 +379,16 @@
         "source": "GoogleNews"
       },
       {
+        "title": "UK sanctions eight companies over West Bank settlements expansion",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fNHdEc2hhTTFoc0kza0NTNEdMYVJVTURfWkVLYmM0eDFfSVpya21lRWZTUW1TZEF3bWNMNlBxSUZ4M05tY0pZdVlvbXFsT3p4RGlpdk9LX18?oc=5",
+        "domain": "www.chinadailyasia.com",
+        "publisher": "chinadailyhk",
+        "publisher_url": "https://www.chinadailyasia.com",
+        "language": "",
+        "seendate": "20261118T023846Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Those sanctions we’ve been hearing about? They’re a much bigger deal than you think.",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90aU81QmQzWFpoaC04bTVpZ2lIYlJ0Y3JkeGJCcnJXLUYyTy01UE9iNkdMRDVUNnRwZVB4N3JHNlIzVnU0UktNUklxNkVES05vYlZxTmJrRW0xMnd1aDJ1TjYtNjByYUVZZjZfMHVYQXFaZlhubGJ3eA?oc=5",
         "domain": "danielgordis.substack.com",
@@ -179,263 +399,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "EU sanctions Gaza Now social media outlet, group's founder for financially supporting Hamas",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmSG9lWHBRdnNoQ1pfWjFMX2lNRURBWlc5R0tiOWdSOFU0bm9EUTdpdE41R3FwSC1zMDVXVjhpWmVlRmxQcm40Mk0wLUUxLXIxSEg4dWJrN0pYU2ozQXNB?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "language": "",
-        "seendate": "20261117T170731Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US Sanctions High-Ranking Leader of Sudan’s Rapid Support Forces",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1h6VG1JT2dHMTZGbG5peXVHNUxySVVYR1dvNVBWaFA2WDNUemUxbUtRS0pXYUVZcHV2ZXdkcXcwc2o2T3V1TktJSTJDX2Izb2pPbXYwVkR3ZlBoVkYwSHNhTnA0NTlYNjVHa2xndF9JSkFQaHAzNUpSSFNBOEgxc1hWYVNUelNqczNtVTVmWnBZcUh1eUE?oc=5",
-        "domain": "thesentry.org",
-        "publisher": "https://thesentry.org/",
-        "publisher_url": "https://thesentry.org",
-        "language": "",
-        "seendate": "20261117T195945Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "EU expands Russia sanctions list by 145 names and entities",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmRZSV9NYXE5MktUdUdiVThuR3oyZHBFR1cySnVGTkxCc0ZhSXJ3d1BxR0VHd2o1RGxkSHpTZllybmxUR29TT3FPMjBjOFNuOXJfTENZeHFfeHVuT2xRZ0RYLTdVVXVObDFKWU1tWjR5V1djUXFrMC0xc25Ib1g1MFhRMy1RUkphbURmR1VqSnkzV2hrM2tMNkszRWUtQVlCZ3dnN3ZNZlFQVEE?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261116T143023Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The EU extends sanctions to nearly all major Russian banks",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1labk00a0pIdERxWWFXemZhdXhFM3YzRzNESGVjbUxKV25LWVhrMExFZm00LUc4LXhZZV84ZTEwODhpS3Y0WU9obEJRX2FSRTVUX2FLUm5TMy1NM1hOWTVab3E3aURuSkNYeUxxeDZybXJXRi16Y0FpTFZJSW9jaXM5MVVUd0sxb1phdzRWSQ?oc=5",
-        "domain": "www.eeas.europa.eu",
-        "publisher": "EEAS",
-        "publisher_url": "https://www.eeas.europa.eu",
-        "language": "",
-        "seendate": "20261116T160946Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Meta faces sanctions bid over withheld evidence in teen mental health cases",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0pncG9WWUpfX0cyRms1cXZETmNjV2tMOGZlTUlmd2MwSkRUeDV4T2gxR2d4MlozZUduNXB5MmJmNk1IVHFOenduakhPWWMzcmR4M2ZReW5MS3Z6OVM3aFNvSjc2Mmd3eUd5RkpCblR3bmw0S0RSWHJ2anJIUG1rQ0xDQjV1dmlDXzVqRk1ORW9jdlpLaXE3MC1fNzU2OHR3NW9JdFRObm9wZUxkNXhmRWpJS0VuM19NSVhrRVVwN0hndEE?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261116T232100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.K. sanctions eight Israeli firms involved in West Bank settlement construction",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNaUhjTXRZdVc3TDdpODV3VXJfcGZXdmEtX2ktaFJyV2FPWGpGZlFIaTBLUnZ5cUxiUmp2THFTWVJZNmJ0dlkzQlBBM0M4ZThaODNXMjJmenVoaUY1Vk5FMnFNYmxWenQyZ2FrSGdDSGtpc255UXNqMUJ0SDd5WnJDZkVldElpMW0wRHNtQldYeUNrUFBUVGI2d2tST2hYUUE2a19FT1lBTjBLenVOOXp3cER0bTZjeXJlajcydUltNzFqMUxaUUxpOC1WMy1oN3BFVHAzWnVWYmNPM1NfOWRvTlgwYWltZWNnazM2U0hNZS04NEhsYXhONU95QllDdjFfT3BFY0FUZTY5QUVUODk0Uzl6SXlyNTgyS01R?oc=5",
-        "domain": "www.haaretz.com",
-        "publisher": "Haaretz",
-        "publisher_url": "https://www.haaretz.com",
-        "language": "",
-        "seendate": "20261117T102300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2FkNFlGMDFCbjkyaFNnSlc4OC03TVdLTWY4NzFMN08tRWZpcFRHcS1oZWRRSlhnR3lhRXlKcGxCYWNpQTJvcUJmN2xvczBpRWg1eVQxRGpRYlB6UGpfaUM3UlBzejdQN1FLZWR1anFEZ2Z6YVdPNE1tS0NQRUNkVW90TTBnOWN1RDVmbHpaU2hSeERsbkh4RDUxSGs?oc=5",
-        "domain": "www.theguardian.com",
-        "publisher": "The Guardian",
-        "publisher_url": "https://www.theguardian.com",
-        "language": "",
-        "seendate": "20261117T104700Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "OU sanctions Alpha Tau Omega fraternity following hazing investigation",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjFRaTl2RkNGTEczNHNPaUk2cElnYXFabndCSnVNemJMU01idWg3MHZfUlpSbVNOb0Vna3E1b254Vlo1NEU2V1lsbEVscDB5MGNHYnUxZ2FHcklRRVBCQnZ2RzlxRHhka1BSd3ZSQkNZTEJFOVJXVGN4Vjd2ejVKV2UzSHNPSmhmTVpuN1lmRjRMdWpnN2RQRXp2Sm9RbUtmMXVQalVfdkRTZFo2?oc=5",
-        "domain": "okcfox.com",
-        "publisher": "KOKH",
-        "publisher_url": "https://okcfox.com",
-        "language": "",
-        "seendate": "20261117T173703Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "UK sanctions eight Israeli settlement companies, Tzav 9 over West Bank violence, Gaza aid blockade",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92LWdBX2hoOFVxTVp4WHJFOWFDb1V3UFpiNzktZmVMM2xXZ25DcmlTdEhwRkVSZjh6aHdhaWVkcm5LRjE1RmtEU1k4UnJqTUJ6SXc0RENRcHBtYTJZelhF?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
-        "language": "",
-        "seendate": "20261117T174938Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Sa’ar vows Israeli countermeasures after UK sanctions firms, activist group",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRlRrRVhaZk5PMWVYajA0bi1LaGU0NENoUzNtckxiX0VlVVVYalRXZXRNODZMbFRHSE80blNGLThXem4tS1FJMGRoQlBCeThSODQ0MG5NWnFfRklYSWtlR19oOGFBcFdsYXlHNFVlUkwxUlNPRjUyQ2pvOHIwQ1VhQWx2TFdjSmJLejV6Qm4tOEhKRGc0b2R3YVpEY3RwUnF3ZjdUdEhCWDB1RFoyYi00?oc=5",
-        "domain": "www.jns.org",
-        "publisher": "JNS.org",
-        "publisher_url": "https://www.jns.org",
-        "language": "",
-        "seendate": "20261117T190613Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "‘Do not build’: UK sanctions 8 Israeli construction companies for building West Bank settlements",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObEVDWHBSU1REbnl0MmstS0F0ejN5em05UkgxbjctNmVoWjZZZU1WbHhGbE02OXRWS3RVandocHQwTnpYQkxhRE1jNzFmUXpndF9uam5iYmRJLWVHZU4tajh6cmZnTV96OFJMWEhVbGVrZERJenJUaGhhMHhBVjZVYVJLTVRhVFJZbTc4NGcyb3k0NGladGxwX0FVd2xTdW41dTVhVU5tZ0lsX2RWdGxYMdIBtgFBVV95cUxOeHYya19iX3BIbGYyMUhUVzFwaXljdmxQNi1mQkxSeGk0bjFGZWlSQkV0NkZpR2ozXzJFZmtDZS02V3RaR1k4SVZYYkR2UUkwWmhTcFZ3VjcyMm5hR3dNb0lLZEFuVDI0ODBnOERQeGY0dE0yU0YwLTBmaTV6UXQ3eTFZbDc3NXN0UVlRVzZLR1pqdVl2czJfbnhoMzRGa2hiaVZrcUNld000NjhBdWQ1R1AyaFBtUQ?oc=5",
-        "domain": "www.timesofisrael.com",
-        "publisher": "The Times of Israel",
-        "publisher_url": "https://www.timesofisrael.com",
-        "language": "",
-        "seendate": "20261117T183345Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Australia sanctions individuals and company involved in illegal West Bank settlements",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2haN1ZfRHhlNnJROXc1ZXlUWnc0Si00Ui1RdFB2N1NfX0x0NEJ1b2NSSVdGTUlDaVJLWjZFM2NtaTJYVEc3dmZnbzQ1MHBJcm5OSV9FaHZmbkZqMlk0ckRpaHJxalp2WXNvQy1YYkZ0Nnl3aWc0VndzN04tcWh6TmY0NmdWZS1OT0h4TWROQWtFczl6Y3VYN0Utbmhhcko3aHlCMjRMXzh6NGlTMHZTU3ltNV9CdldwQy11enVDZkFHUQ?oc=5",
-        "domain": "www.theguardian.com",
-        "publisher": "The Guardian",
-        "publisher_url": "https://www.theguardian.com",
-        "language": "",
-        "seendate": "20261117T202400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "FINRA sanctions brokers’ best interest failings",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPME9CYjJPcU1SZDRaVXBGWXhWa2IyMTIySDc2Ujk2T1N0TXJxN0lVb3c3N0hVT3pNOUU4VVFHTkwweGM2UGF5S0dkRTdHclJ3LW1DcU01Q005UkRRLTRhX0VTcnVDcklfdUZEYmlhTEYxVXA2blFZNHI5UnR4OHV6aXdfdXlTXzZqRUpTWE15MUZ0WmZDREhTTkRtdk9PSDBv?oc=5",
-        "domain": "www.investmentexecutive.com",
-        "publisher": "Investment Executive",
-        "publisher_url": "https://www.investmentexecutive.com",
-        "language": "",
-        "seendate": "20261117T192852Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Israel vows retaliation after UK sanctions firms for West Bank settlements",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT1VldDE3RWpDYUl5NGdidzlKV0ZMR29BdUU4NF84RWE4ckxmbndwTTBEUzVTWER4dGZiNjA2TzhqeTFNN1Q5UnZieENWSHkzTUM2UzB1WjJyN2xyTVhReTk5Nzg3cnkyWWhzY3hCQ2E3QzJQbXJpUExfb1pXekVsOXFFVHhoR3ZMUUtUcU5Ub2k0WnpFUmppdkxfaVdidlVmWW9JTzRzV3YyNkJvMGF0andtUW1iRWZBNl9yNk1yZHh1ekxuRkE?oc=5",
-        "domain": "www.middleeasteye.net",
-        "publisher": "Middle East Eye",
-        "publisher_url": "https://www.middleeasteye.net",
-        "language": "",
-        "seendate": "20261117T201100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Russia's Arctic oil shipments hit record amid sanctions, melting ice",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGlPakY5VzJWeGFpOGM3YWRvQm5PN0NubVgzUEExYW01ZzVhc3JCVFhtTVpQbTJYdmExbmJpdUttVF9ESEJGZTF4TURoR1BuWWtzOHItNlZ2NG1WTGJZSWIzZVZOd3p4bkRnZ3p5RC1wWDJBc09wUFR6UlNoM3RCOXNrcEdmMkdnM3VFdnZkempJU0pEWWV0aVJ1U0R2YXRNOXJmS0VLWGk?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
-        "language": "",
-        "seendate": "20261117T135200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "BAT Hit With 4th Claim Over North Korea Sanctions Breach",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbE45bHFtcHh6bzBFc0J1TWN1UDhjUzlNU3ZyNFF0bTQ4SkEyRjluV0dMdlB3cUp4cUhja0lNS3J1b3FWNGFkVDJ0ZVFpbUhza2ZPMFVwbHo4Nl9KWkRnQnRqYWJHUjJXQlY3NXVKMEwzazc4ZnZZcWxZaG5fVWYwSjlBODNZQmtLZXlQdGp0a2cwQ05ZYUgwa2JZMDLSAVZBVV95cUxNUzlaNTRQWnY1b1REa1JSVGxCQkVNVGdnbzJDNEJ3Q3J3TjkxdEY1SHQ5VzAxOW1tUXJlQ3JWbjdzMVlDanozTjJzS3JlMGdqcUZFOUhZQQ?oc=5",
-        "domain": "www.law360.com",
-        "publisher": "Law360",
-        "publisher_url": "https://www.law360.com",
-        "language": "",
-        "seendate": "20261117T170806Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "UK sanctions on Israel leave EU unmoved, despite ‘man-made catastrophe’ in Gaza",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnloUDJPRHptXy03V2ZUSW5Nd3RTWHlram9MTm16SEdJd2dvbzBlRk1MY1NsSDVjSWY1Y3J4WXIwQjFleVphdU8xelF2YlEzcWZES1gwd21TREotWm14ck5kZjhfenVmTE5jOU5QNWNYeTUzbGZKWGVqcVZhVGI5cm1VTlRqbWp4aHQtclc0T0R4N1l0S3J0dXdqNG43MWV2MVNnTzRhdmxGV28?oc=5",
-        "domain": "euobserver.com",
-        "publisher": "EUobserver",
-        "publisher_url": "https://euobserver.com",
-        "language": "",
-        "seendate": "20261117T175831Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Germany’s largest bank was warned about Russian oligarchs for years—leaked files show it kept firms they part-owned past the 2022 sanctions",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMjk3UWxxanliWUNVMng4RFBhMl9zc0pQNWx6cUVhRmJEci1BNnpBLS1JaGpFOHBrX29teEREeXNZOG5DcHZON1U3ekpzeFZXMVBFN2V2aFFuYzRjRGNpbzV0MlV0Y3BUQ0liRkxabm8tV1EyYWE1bUFBOTJiSENfdHFhVHpFQUNBWXlFNV91UkNsYlNwVVpuOUFVbmZhRWxWN2FmeGdTS0FUWmlSSDR3QTlPUkZXOVp4ZTlfWDNMc0YyeHp1cGhRdXVXSGp3Z3JPZF9NVGdPajhvbjhOT3YyTnJBcmM5a3RJU3U5a2R5eVEyMmJ3SXBUZmplcnR3THBDQU55MFhrLTBudw?oc=5",
-        "domain": "euromaidanpress.com",
-        "publisher": "Euromaidan Press",
-        "publisher_url": "https://euromaidanpress.com",
-        "language": "",
-        "seendate": "20261117T165515Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "UK imposes sanctions on companies building settlements in West Bank",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjR5N0RNVUhvb01hVm54OUVKS3N2V0E2YTZsZmxNQ3llNy1LVDdpRDJ6UVZ3YXFOaDYxVnZUU2p4MzhTR28xN2xPanBYQ2p6ZmNiVjY5UWtYZjZYOTZoeE9ZNkZXR1czYTBXclF4aEY4dXN5RGVMRDRWUjZHc0xxb1dkTDljbmtlV3NWS0pZY3h6bGZEclRVRTVoQ1VleV9Cd055eUo1ZlBBc0ZIRTRPWi1ER1FOSEhKUzR3?oc=5",
-        "domain": "www.thenationalnews.com",
-        "publisher": "The National",
-        "publisher_url": "https://www.thenationalnews.com",
-        "language": "",
-        "seendate": "20261117T173730Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "What we know about the Megaspeed investigations",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMXNaWVRjMy1EUmU5RGdkZEZoTGhzNThyTUhxWmo0cHRXa0VYQmNRZnpPMjhrX3VwOVJlU0VPVlExdjAwaF91RkZDM0x2SWxNYnNKcVp3enZ6UXpubEJISEJLM2VhT0Z5d2NqSG5RSDVBeExMWno1dTkxU09zYU1fUFdUakszTWJEb2dFUms1d0xELW1xc0NzWkJTWWpSMzB0T0ZPTmVNTjNDb3My?oc=5",
-        "domain": "globalinvestigationsreview.com",
-        "publisher": "Global Investigations Review",
-        "publisher_url": "http://globalinvestigationsreview.com",
-        "language": "",
-        "seendate": "20261117T180718Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Settler leaders denounce UK sanctions, call measures ‘antisemitic’",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSlhrcmR0OUFES29ERElQZUdiemRYMVEzeTFWb3dJT2hra3FXU1g0RUlMcmhiNlQ4U1dyNmJCSFpMMlVPSG40WUM5Vmd1M3d5MnpTelYwSW1LUE9jLVFZN290Q081ZFNwMXE5b1NOeloyczZxOU5UM1A3QUI0T0tIVUluV21iSkZrXzVEcndsRkdON2NZeUxXczRvaW43ekIxVTljY3FFaU8wZ25TSGc?oc=5",
         "domain": "www.timesofisrael.com",
         "publisher": "The Times of Israel",
         "publisher_url": "https://www.timesofisrael.com",
         "language": "",
-        "seendate": "20261117T140302Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Britain sanctions Israeli settlement firms in push to protect two-state solution",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQl83d3RpRDdIQVh6R2Y2Y1NqcHN0TkRDWmEzSTFMdXJKbUFzNkEwV0lVRG8xT1lXYXhpdHRPUktIaDRsNDRLeEVBWnJUaDFsZDl4ZU43TzJsV3Z2cUg3V2J2UGFUN1JuNUJpUF96dk1VVWlWdDhZRkt1SWFxekhjaFJmblk1Qlk2SUJIekMtR0xlanhIZGxkSmlLVGxRRjNQR01JNmNTZw?oc=5",
-        "domain": "wtvbam.com",
-        "publisher": "WTVB",
-        "publisher_url": "https://wtvbam.com",
-        "language": "",
-        "seendate": "20261117T120715Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Israel Building Center head slams UK sanctions on Israeli construction companies",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2ZBT0U3TVc1dHdJRFVabktmTnJPUXVuN2tpaU1wbFYyaTRRZ0QyOFktQUxaak43akhlZWthMTVja2hjb0daaVZTTy1FLXNJZ252LWFaZ19FWDR3ZlV5M01qTGFHTlNpZ2RmX1l3el9SUmdfend0UERzWU9lZmlwUEZMMGE1cWJZOHB3UnhBS2xhbi00SHJnUGhHeFVLbjNQLTQ1ZG5fcHdSSzNnRjFhUWhESGdnQ0VadUhDUzRLaGhrNmJP?oc=5",
-        "domain": "www.timesofisrael.com",
-        "publisher": "The Times of Israel",
-        "publisher_url": "https://www.timesofisrael.com",
-        "language": "",
-        "seendate": "20261117T163802Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Who has Cape Cod’s best mac and cheese? One restaurant won 2 years in a row",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQV91ODV1R0tPdjNpd0lhdGRjX3JRaXpUczJqZnBfVzd3cUNwN255N1pTR1dYYTNmYU9DaGkzZnRDZmlVSFFEWGZhUmZYY29weDg4SHgzV2VfWkRjbHM1YXYxOWh0VlBqNmRWNU9xbDduNFU4MWNTVTVZLUpTTDBTeGs2NThad2FQZkNyNW4td3g4akprZzJja0tKbW96R3NBTEpPbUdBZUE3ZFctYkQ5bzhIQVVjMHpNYWk3aUpWTEdaWUg2bEwtbHE3T05lZk5SNFA4NFRB?oc=5",
-        "domain": "www.capecodtimes.com",
-        "publisher": "Cape Cod Times",
-        "publisher_url": "https://www.capecodtimes.com",
-        "language": "",
-        "seendate": "20261117T110200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "EU Global Human Rights Sanctions Regime: Council lists four Haitian entities over serious human rights violations",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPX2tzOFhFMThocmNJdDFWajUwMFd3QVp0TUtmTElkYWt6VXB5QjNVc3paZ0V6ZmRnM0V3SjkxVkktWk16THNfbGp3MklKZGhOYkVLYTlLUThxX0hFUjhyOFdRT0htU3lua1ZIZUxwNnpxc090WUstbDJ0cGRKcWNsQ0JKT3BIY2l3OFRyVUdSOG1FbXBDX0dmZU12VmljN1p1ekN1ZE9WbUQ5YlNOMFYtTDFFdnVtUHRyX0RUa29DLUVycXRzUTg1WjhZMVU3Vy1iUFN4UGh1Tlg0ckpMdDY2TnZ3aGxxZ3BFa2ZUWlNnWUZiMTVnOWFrZ2RlMHZSbjRvdjJXaUYwRG5yQklu?oc=5",
-        "domain": "www.consilium.europa.eu",
-        "publisher": "Council, European Union",
-        "publisher_url": "https://www.consilium.europa.eu",
-        "language": "",
-        "seendate": "20261116T113105Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORnNyU2FWSTVxZEFydWh0bmk5MEc2aVJpRWJ6ckNNYXZEaXQ3U0pTM2RuWFRIQmJMZllRQ2FWOVJjdVJCZ2tGWkZfU1hFMGN4NW5qUE1KR1dkb3V5TjZFVnNla2cyc0FWOGJlcnJkREpIYThNcEdQZ3kzMHBiUzdKSzFPTjE1LVFYM1FaMHhqWVFReFNpeE5PTU5rSWZrUXhibWc?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261117T060012Z",
+        "seendate": "20261118T003621Z",
         "source": "GoogleNews"
       },
       {
@@ -449,83 +419,113 @@
         "source": "GoogleNews"
       },
       {
-        "title": "UK imposes sanctions on eight Israeli firms and a group blocking Gaza aid",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaHA0Mm5SX25LZXhhc0ZiaWZhWVJTSFVBS0h6WjFOY2xNZ19QSkVLWkxZZHpRM29Zb1hsRXBYUXV3c0k1MXBYQV9RV3N6cDAtejFVN0h4ZHNiMVlxSVBPMS1JR1pxRXBDMEVoSkU5ek1aZmltQjhmWWg4NWpuVWxoR2psb3ZkNFVMZVkyQjlFRWV1bmwyLWNRbEtRZVcyWC1odFBLYUJR?oc=5",
-        "domain": "www.middleeasteye.net",
-        "publisher": "Middle East Eye",
-        "publisher_url": "https://www.middleeasteye.net",
+        "title": "Australia Sanctions Three Israelis and Four Organizations Over West Bank Settlement Expansion: 18 outlets compared",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLUtHS0wtS2dTQmVOZXg1RlVhNXk3NHJxb1hQMHNySlNrR25aemRYT2wxTEFzUXRXSnVqT1BRQmpZU2JIakd0Q0diSVk4dXZlSjNOamFvYkxKNFFMVERMR0g1S2NmQlQtQUNqc0NpeTJQbWM0ZXpXNGtlX2RBTFdrRHdOQkJNN3VHZDltZHNwa2IyMkVYTTVuNFhEV3Z6RXRxZm9QbDlJdV8xR3JWdC1MNGYySHN6eTEyN1pKYTVkYXh4d1RjM24ybFdhSHo2cnM0WHRLR0ctV05Ib0ZBcUNoaXplNEtZaGRZOVE?oc=5",
+        "domain": "newscord.org",
+        "publisher": "NewsCord",
+        "publisher_url": "https://newscord.org",
         "language": "",
-        "seendate": "20261117T122400Z",
+        "seendate": "20261117T233139Z",
         "source": "GoogleNews"
       },
       {
-        "title": "China, Russia’s reality check for Trump: Why US sanctions may not matter any more",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPU1EyUTA1aFdjejFJTm83OTRBQVJsbmZrWU0zRnM0R3lGWDhfNnR6X1lFc1Zpak1iRjNsTHBrY2ctdkFKRjZEdFdDc1d6R0tkR1FFbGhCd2xsSGpXY2xaZ2ctQk90UHpucWlKbGNxZHpFUHJMZlpiNHBVY2VrTWo1SlloejZ3NDlRdVpiZV9oRGg0MUlGXzVPUWRwOGtJQnlhMnZxVktIb21LbUlJZEY4N2txZUstLTBHcnZoZDRyYWJLa2YtU0Y0OTBiMHY5XzVEa1FzR2djdTNLNmtRTzUyR1pTWXl4Q2h1S2ktOUkwdmloUmpDLWRhSWpBQ3Q0UVNoVVE?oc=5",
-        "domain": "timesofindia.indiatimes.com",
-        "publisher": "The Times of India",
-        "publisher_url": "https://timesofindia.indiatimes.com",
+        "title": "Ramey Wants High Court To Undo VW Patent Case Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcVJDQVVDOTEyUGd1NXZUaHlVTHdqeUQ0SzhONmxwbFFMTC1ZUHNMMlVycWZfOHZHT0cyenVZY0JlYTBDdEhFNzNlcUZuRDMzcGh6Z0QtZVZhbUtmbklJLUwyQldUTE44eWhCZVd2ZzBJWVFmakNSWnc3SE9UY3hOc3JrdVB3NE1TSzIyY3dOaGVyY2lCT01uMlZOQdIBVkFVX3lxTE5xSHJLdmtQRzRzbXk5YjAyc1JMV2s4bVljV05LSG5zb1Fvb2F4QnlkVndlWUltMEZzb0R3SUJMa3hmR1hvQms0dFRoN19neFpOOVFVa3pB?oc=5",
+        "domain": "www.law360.com",
+        "publisher": "Law360",
+        "publisher_url": "https://www.law360.com",
         "language": "",
-        "seendate": "20261117T142000Z",
+        "seendate": "20261117T214909Z",
         "source": "GoogleNews"
       },
       {
-        "title": "EU readies fresh sanctions on Russia to counter 'absurd' demands",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbm9HeGNMTjM4M0l2UjNKbXJ3SXJTQ0ZNV2w0aDhiM1BvWGdiYnotb3V2cFJzRGI1LWlUQm15UE5nT2RDU1g1NGhyaDBlQjlIRXZ5WXdldTBQN1hZejBDLThkZEpTMzIyaXctaEstQS1uX0JGMTVCU3U3em9USGNVbjNva2hRN3NocmI2SXJJTmc3eVNMWEsxcjR0cnVHN09yQ19Id0tzdFFNekltazVqbg?oc=5",
-        "domain": "www.euronews.com",
-        "publisher": "Euronews.com",
-        "publisher_url": "https://www.euronews.com",
+        "title": "Huckabee says foreign diplomats privately oppose sanctions on Israel",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY3ltR25mVWZhWnNjVjA0cElELWlzdTEzeXkwT3B3cVZmQWVLbTItekY0ZDBWdTN4cGkyY2YzZmRMcDJhd0RHS2tKaDZsRkEwdU9GaFZIa1J3UUhteDZJZ194YzdZQzZHQWVYVDllb2VqaVRXRkhtM2gtNDFoaHMzLUtyN3BiRUtQTXk5S05CelM3M0trZUJvbW9EQll2VVA3aFlBcjdR?oc=5",
+        "domain": "jewishinsider.com",
+        "publisher": "Jewish Insider",
+        "publisher_url": "https://jewishinsider.com",
         "language": "",
-        "seendate": "20261117T114359Z",
+        "seendate": "20261117T212616Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Britain sanctions settlement construction companies, activists blocking aid to Gaza",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hejZ2MEpKN2lJSTJSdzJjNkhYNmtOZ2VkNTZXd1ljdFlaOVRtMU9FbXVCMUdKRmJuakpBWW1vX3UyRVVrMld4R2pqcHRRaHpGLUt2SXl3?oc=5",
-        "domain": "www.ynetnews.com",
-        "publisher": "Ynetnews",
-        "publisher_url": "https://www.ynetnews.com",
+        "title": "Britain Sanctions Israeli Construction Firms Involved in Building Settlements",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3lpN2xZLTk1cURJbnNaN2lKY2FNOXZuTnZKVWh0a0xreDRfeVFkQ2ZnX09YUXRzcVk0a1V1MEVJRVkya1lvbi1kR011eDZCR0dKRzBDWDYtYjEwOUkydnBWOUtYOTVMVXhfOUNtYjRyOXNJVWN0YVkwRDRZeVVVbVJiWWFpU1VlNmpscTV2dFItdmxBb19DcUwzanlBMGRSNlFxdXl1NHNYdlg1M3VVOWtTYw?oc=5",
+        "domain": "www.algemeiner.com",
+        "publisher": "Algemeiner.com",
+        "publisher_url": "https://www.algemeiner.com",
         "language": "",
-        "seendate": "20261117T110248Z",
+        "seendate": "20261117T185700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "UK imposes sanctions on Israeli companies operating in Judea and Samaria",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTRmTFFwaHM2bVRsX3N1SFE3bC1nSGhNSFpHY25OaEJqUzhGcnQxcjVGMXI0dVRYN2lVSVdZSWhJeXY0MlRaM3pnaWUxS0hXQmQ3V19VT1A4WE5Fbm90UTM3ajNZU3NOTzBQVVNGb2dJdHA0U1V6Ym8zQU42MWR1aEVwR1dudVo5THNLdkU4bzRZSmNLS2JpYV9OMzYzMXJ5OEY4OGhqQXAxXy1GUER2aXVn?oc=5",
-        "domain": "www.israelhayom.com",
-        "publisher": "Israel Hayom",
-        "publisher_url": "https://www.israelhayom.com",
+        "title": "OU sanctions Alpha Tau Omega fraternity following hazing investigation",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjFRaTl2RkNGTEczNHNPaUk2cElnYXFabndCSnVNemJMU01idWg3MHZfUlpSbVNOb0Vna3E1b254Vlo1NEU2V1lsbEVscDB5MGNHYnUxZ2FHcklRRVBCQnZ2RzlxRHhka1BSd3ZSQkNZTEJFOVJXVGN4Vjd2ejVKV2UzSHNPSmhmTVpuN1lmRjRMdWpnN2RQRXp2Sm9RbUtmMXVQalVfdkRTZFo2?oc=5",
+        "domain": "okcfox.com",
+        "publisher": "KOKH",
+        "publisher_url": "https://okcfox.com",
         "language": "",
-        "seendate": "20261117T105447Z",
+        "seendate": "20261117T173703Z",
         "source": "GoogleNews"
       },
       {
-        "title": "UK imposes sanctions on companies building West Bank settlements",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVpQUkRMUFliMzBHVm1NRnYxUnU5YjFsYlhnYWpVSy1BbnIxcTJmWEFIY1BlbmliRWZhUzkxb3FYTlIwSFVZdlZ4elVCWldnamNVa1N5TTNRaEViSVlfeGNDbV9VUWZPMjVzSk1pOEQydEk1bjk1cFlIYVhzQ2pmaFkwc3o?oc=5",
-        "domain": "www.ft.com",
-        "publisher": "Financial Times",
-        "publisher_url": "https://www.ft.com",
+        "title": "Russia’s FIMI and malicious cyber activities: EU imposes sanctions on 30 individuals and two entities",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSFVkMDFPZG5xZmw5OVdMaUdtQ2pWRkloZThBMTh1WFNnWDZQOXlfU0lmWGoyaXZtVVBudEl0WlhPZW15Z2tDMm5Ya252eUtreGgzbUFOWjZDQVdzLWRoMjJxVjU4UWhvRkZjemhPVjRlVFZjQ0kzNjJQUmpiOEstZktweGpBMGFDdFBKX3pwOXQ4aXJ2SGRoUWZIWG5zaUVib0ltRExfbmFnOUhFMUJ5aTNZcnh6YVRsWUljMFBBeTMwb2N1c2FOYUhkbUFNcW1vQks4NGo0TUUzajd1Z0E?oc=5",
+        "domain": "euneighbourseast.eu",
+        "publisher": "EU NEIGHBOURS east",
+        "publisher_url": "https://euneighbourseast.eu",
         "language": "",
-        "seendate": "20261117T112837Z",
+        "seendate": "20261118T000000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Five EU countries call for tougher sanctions on Russian crypto networks",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOejRabmpDeW9YLThOekoxdEYyLUdZbmVCT2t0Mnh4UjZGOUppeUViTnBZTzBOX0JEZjk4WkJ0dDBxU3pPVW1ySUtTTUFkWERjdjJBUXV1c1lnZVdrRFRaVFZFSFgtV1RuU0gwdHkzbXRJMTQxVnM5ak5jYS1WMW1FUnc4dGRVbHBpTTBiUnd2ZGhhck9fejhvUExqZ252MW83aFlTWkJmS3lxLVd5QzlZU3RvOW9vd3lNQVZFUVdxdWlmWnRGOTFtM3NfUmpkZWdNb1ZNag?oc=5",
-        "domain": "ieu-monitoring.com",
-        "publisher": "INSIGHT EU MONITORING",
-        "publisher_url": "https://ieu-monitoring.com",
+        "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2FkNFlGMDFCbjkyaFNnSlc4OC03TVdLTWY4NzFMN08tRWZpcFRHcS1oZWRRSlhnR3lhRXlKcGxCYWNpQTJvcUJmN2xvczBpRWg1eVQxRGpRYlB6UGpfaUM3UlBzejdQN1FLZWR1anFEZ2Z6YVdPNE1tS0NQRUNkVW90TTBnOWN1RDVmbHpaU2hSeERsbkh4RDUxSGs?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
         "language": "",
-        "seendate": "20261117T161304Z",
+        "seendate": "20261117T104700Z",
         "source": "GoogleNews"
       },
       {
-        "title": "UK sanctions West Bank settlement construction companies, activist group that blocks Gaza aid",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTkFuSE5McWcyOVZ1b0lvNi1jNlJXakgyaFI5YnhyUWE1MlVnS0hzYmNNUDllWldpSWhkUWFnUFN6bzVsbVlQSG9qMC1FdHhDWUFfRF9sYjBrY1I5U3dEMHRuMWVtWDBPTW5xNnYzSlVTX05VZWpkRWFFYWNHbnJqaFBydkEyZXJKb0t1bXVUUThIZjlhY1doWl9oZ3Fwd3A4ZVRjVXk3T29PczVKQ3I3aFl1Mjc2WVhjeWhkTTRvbUFjdm14SGxPblRueS1kQWIxd2FNTg?oc=5",
+        "title": "Sa’ar: Israel will respond to new UK sanctions, will find new ways to strengthen settlements",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMS1tMW1xWFJwcmYzZWJWTG9EOFd0QmVLVWRYbzQyTzUzQXN3UzI3WWZycDhyamFDRjNsdEhnOHVVaTVkSDZBYWhUOHRWcDNqY1A0RXIwaGVITGlzb0J3QzhDRlBOUlZmd0ZtVGotSWFlbDdMX2UxcmZ2R2tsVmcyVDBOeHNFLWtWN1cwRGJod01QelJOYXc1cmZQNi1GZkVlbXY3WklMNUVRLTAyXzd0S05qWl93REN4c0pBR3VKUE13bk1Td3RHUWwtZFc4ZlRNUXBmUk5jSEswS2F1WE5iTDJn?oc=5",
         "domain": "www.timesofisrael.com",
         "publisher": "The Times of Israel",
         "publisher_url": "https://www.timesofisrael.com",
         "language": "",
-        "seendate": "20261117T102301Z",
+        "seendate": "20261117T185302Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Israel's Foreign Minister Sa'ar Slams Britain Over New Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVENHaFFvSFc3V1hnRmU2UWlSNmpXeml0bjMydUFWdkVMME53SFRvcTQxQjNKM3ROcVB1WVVxdEd6RGtOcGVReGd6dHZyUWJjSEVhNlpIeVlMVVlWVExQQ2ZIYTdFNk51bmlhUXJjQzA4enlqRThnSXZrQWhWdWxxYmxrN3Y5dGVQUEtFb3dPcl92UGpGTlhidUxUbw?oc=5",
+        "domain": "www.yahoo.com",
+        "publisher": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
+        "language": "",
+        "seendate": "20261117T235916Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.K. sanctions eight Israeli firms involved in West Bank settlement construction",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNaUhjTXRZdVc3TDdpODV3VXJfcGZXdmEtX2ktaFJyV2FPWGpGZlFIaTBLUnZ5cUxiUmp2THFTWVJZNmJ0dlkzQlBBM0M4ZThaODNXMjJmenVoaUY1Vk5FMnFNYmxWenQyZ2FrSGdDSGtpc255UXNqMUJ0SDd5WnJDZkVldElpMW0wRHNtQldYeUNrUFBUVGI2d2tST2hYUUE2a19FT1lBTjBLenVOOXp3cER0bTZjeXJlajcydUltNzFqMUxaUUxpOC1WMy1oN3BFVHAzWnVWYmNPM1NfOWRvTlgwYWltZWNnazM2U0hNZS04NEhsYXhONU95QllDdjFfT3BFY0FUZTY5QUVUODk0Uzl6SXlyNTgyS01R?oc=5",
+        "domain": "www.haaretz.com",
+        "publisher": "Haaretz",
+        "publisher_url": "https://www.haaretz.com",
+        "language": "",
+        "seendate": "20261117T102300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "West Bank settler sanctions",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUTMxM2pFa3JIeGp1WHZOTFNOMGd0U2Z3UHMzY0RUUlZjV2s1YVp5Wm9IQTFhc2hscHJhaFBfbDI2SzA2SlNNRE5OOGhMMDFWRmZvT3hJd0pRSlBmRkRRVjhua0RZaUIyNG55YU1CWHBrc2hfajRtQXZFUjFWVm5HSEJHMmZkV3BQR1lzOFhJU29xbFhzSkItV2pBa2k?oc=5",
+        "domain": "www.foreignminister.gov.au",
+        "publisher": "Australian Minister for Foreign Affairs",
+        "publisher_url": "https://www.foreignminister.gov.au",
+        "language": "",
+        "seendate": "20261117T184129Z",
         "source": "GoogleNews"
       }
     ]
@@ -542,13 +542,73 @@
       "source": "GoogleNews"
     },
     {
+      "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ01PYUtvQVNTSXN4TlA0UHQ2dXpseHotOWpBTG5zN0IzMF9iS1dRSEloQkJvRU5NdFNqd0NHYVRJbDlXRVU5RWpfOVRyZDNYakYyOG1FbU8zQjFxUjcxbjcxOUU1ZW5ZMHFIb2c0QjRaUTczd0J5dXdiODJNSnh3NE8xMEFRQVdDUkl6QlR4bGN0NWxxLUF4TTJTVFpDOGpHc3g5UnFUcVhoeTBONl9TOWMwT1hUQdIBuwFBVV95cUxQbEhfbUFIQW84dGhMaDFVVG03d1VqZkx0RGpDRnFEc05sMnhDc1ZNWk56bXBlRlFnUTNDc2FyVnJEalhCY2MteWdoVVpGMVdtOWY0NzNvbTZ3REdCaWVNOUZiMUZrRGUtUnVJV2hMTUtTeTloSG1fUlphTDFqMDN3cFRmQXNMNUJaTG5nMVR6cjEtcFF3RzVVczhTWG5nZVYzWUQ4SU9DelBuakZ0ZC1UemhqRnZObG9SV1hJ?oc=5",
+      "domain": "www.aljazeera.com",
+      "publisher": "Al Jazeera",
+      "publisher_url": "https://www.aljazeera.com",
+      "language": "",
+      "seendate": "20261118T000102Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Sanctions Urgently Needed as Myanmar Junta Rebrands to Evade Accountability",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEZ3NE9QV3ItMWZlR2llWjlILURrM3VKdWg0bndCNEVJVnpZWjZDNzE3cFlrYTdBR3VKQi1aT0E1ZjdJTTl6MjVNN1VkSUZzNWpqVENyeU1idEhqT0JTenk2TmE4SVpwMjE1VTFNdHVvS2R0YmpQRmZhR2ZodldhR3FOSE9jb0h5S2d2Wkk5MUVBX1BXWWt4bkRqNjNzUTNVVWhEV3lB?oc=5",
+      "domain": "thesentry.org",
+      "publisher": "https://thesentry.org/",
+      "publisher_url": "https://thesentry.org",
+      "language": "",
+      "seendate": "20261118T063727Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Sanctions in a Snap: Developments in Sanctions October 2026",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkk2dHI3MkV1c2NSYWMtQllKUUVvRlZPRHFKTl9oMXV0XzNYRFpNYTVubGZPNGd2ekNrZTAzWmxYQ05ZZFloWGp0Y25mU1AzOVZ0UWJLRjc1U0lwSU9idm8tdzJUYlNjVm44VmdNR1NRV2VyZ0w1TGJyMU84eVU3LWZQbGQ?oc=5",
       "domain": "www.jdsupra.com",
       "publisher": "JD Supra",
       "publisher_url": "https://www.jdsupra.com",
       "language": "",
-      "seendate": "20261117T201026Z",
+      "seendate": "20261117T203440Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "‘Godmother’ of illegal Israeli West Bank settler project Daniella Weiss among group sanctioned by Australia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2haN1ZfRHhlNnJROXc1ZXlUWnc0Si00Ui1RdFB2N1NfX0x0NEJ1b2NSSVdGTUlDaVJLWjZFM2NtaTJYVEc3dmZnbzQ1MHBJcm5OSV9FaHZmbkZqMlk0ckRpaHJxalp2WXNvQy1YYkZ0Nnl3aWc0VndzN04tcWh6TmY0NmdWZS1OT0h4TWROQWtFczl6Y3VYN0Utbmhhcko3aHlCMjRMXzh6NGlTMHZTU3ltNV9CdldwQy11enVDZkFHUQ?oc=5",
+      "domain": "www.theguardian.com",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
+      "language": "",
+      "seendate": "20261118T031800Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Britain sanctions Israeli aid-blocking group and settlement construction companies",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGxZOW1MUTRoYjFhUklDWkRCcjFfRFJoUnNpLXdicE5DSzNQRVkxalZPM19acDBqZGlSR3FoRE12MVVUSTUzZzlJRDRVVE5IakZCVzRkZGRyZGtUZWd0Z0llR2Z3bkp2b0FKOTlaQmdPd0VFT3RBUUVrdFpYWTBhRVJlaXdvc0YzcDNRVUFfd0ZxRzB6TnE5bnNuczBtWHlwWXFZRDB2dXRVUllaazR0VGltSVlNT255RFBReQ?oc=5",
+      "domain": "www.jta.org",
+      "publisher": "Jewish Telegraphic Agency",
+      "publisher_url": "https://www.jta.org",
+      "language": "",
+      "seendate": "20261117T232103Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Australia sanctions Israeli settlers, organisations over West Bank expansion",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXQxYXF5dGJIZ09mRjJIYU15YllQbHE0RjFQaTRLQmxDb2JrTWpBaF93RUR5aHlvRExjbmZCNzZwVnFOZTA1Y21xdTU0Wl8xdDZ3OV9rSjg4bDhiR2Z6NktIUzdyZ29RRUlmeUtnUXgzY0Y4T2lhcTFKaDM1UTBFbHI2X0Q5bnlER3JFeVJDcEFPU0w2T2J5Y3NvVERzZDB5NWFEUTRlZVZlcTljaldGUVpqa3c4VHloTm0zbw?oc=5",
+      "domain": "www.al-monitor.com",
+      "publisher": "Al-Monitor",
+      "publisher_url": "https://www.al-monitor.com",
+      "language": "",
+      "seendate": "20261118T002402Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Britain's West Bank settlement sanctions won't work, expose double standards",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84VlBKWldJeXZjcUxtdFhYc1k4bm8tSFVOOXhVUTUyVWc3Y2xldTAzYjdueHJBbXF3cFNqMERxdlQ2LXNOMHZXdkpuWXV3anNOS2dhQTFIQQ?oc=5",
+      "domain": "www.jpost.com",
+      "publisher": "The Jerusalem Post",
+      "publisher_url": "https://www.jpost.com",
+      "language": "",
+      "seendate": "20261118T035957Z",
       "source": "GoogleNews"
     },
     {
@@ -562,63 +622,33 @@
       "source": "GoogleNews"
     },
     {
-      "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ01PYUtvQVNTSXN4TlA0UHQ2dXpseHotOWpBTG5zN0IzMF9iS1dRSEloQkJvRU5NdFNqd0NHYVRJbDlXRVU5RWpfOVRyZDNYakYyOG1FbU8zQjFxUjcxbjcxOUU1ZW5ZMHFIb2c0QjRaUTczd0J5dXdiODJNSnh3NE8xMEFRQVdDUkl6QlR4bGN0NWxxLUF4TTJTVFpDOGpHc3g5UnFUcVhoeTBONl9TOWMwT1hUQdIBuwFBVV95cUxQbEhfbUFIQW84dGhMaDFVVG03d1VqZkx0RGpDRnFEc05sMnhDc1ZNWk56bXBlRlFnUTNDc2FyVnJEalhCY2MteWdoVVpGMVdtOWY0NzNvbTZ3REdCaWVNOUZiMUZrRGUtUnVJV2hMTUtTeTloSG1fUlphTDFqMDN3cFRmQXNMNUJaTG5nMVR6cjEtcFF3RzVVczhTWG5nZVYzWUQ4SU9DelBuakZ0ZC1UemhqRnZObG9SV1hJ?oc=5",
-      "domain": "www.aljazeera.com",
-      "publisher": "Al Jazeera",
-      "publisher_url": "https://www.aljazeera.com",
+      "title": "Australia Imposes New Sanctions Targeting West Bank Settlement Expansion",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQS3RNMDlzWFhkalZxVWViU25aRjNmNk84WG5jSTRkMmJWQXNMb2xfekgyVFVyZTdHUU9sQTRHTUh2cHJiMmNTcXFWbmszS2w5MVhTUnRCeUktakZkTENGZDM3a1ZRNkNTUGNNdFI1V19VbUo3c096SGZ1VUxSbWpxSVVrM1ktQks4V2ZXdjE1MC1yUjNLMGlUNE0tVm5LdDJTZk5GV3ZPMlZPczItY3lMMlNtUTZzYnM2QWJONTFIQTc2RnJzbUdBS0Y5bGIzU2dRRXFxc04xY0NhVzdIOUtEeXNUZmw4NzhsS3lrRGlrUHBrTlRPUUJHTG1kUW1UN1NVLWZlcl9GZHlfU0J6Wnhkd2NzNHlPM184Q2s1OA?oc=5",
+      "domain": "www.haaretz.com",
+      "publisher": "Haaretz",
+      "publisher_url": "https://www.haaretz.com",
       "language": "",
-      "seendate": "20261117T142142Z",
+      "seendate": "20261117T211700Z",
       "source": "GoogleNews"
     },
     {
-      "title": "EU sanctions Wildberries CEO Tatyana Kim as well as enablers of Moscow's shadow fleet",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdzZBcEdvRi1rcGExb0xsLXFROG5GbU5KNk5udUE0ekxFWEpBR0hGbWVaWTk4OW9JcE1CN1FJeGFMZ0FXbWpDZGxPT3Yyb01mMGFGQXZIUGZBdGhUWTYwdzVyWmF4TFowODZDU0JibWNVcDhVS2wtb01NNnZQQXZta21VUDVnVkNYS0RxOUFXR3dTeDlFU2h1OVc5VdIBmwFBVV95cUxOMTRrOGlrSmlITERaV2V0TXVqUmpEMnVxY21rRXZ4U0djSENwejBveEdfbTJtclJxVEdYXzlEYlNYTEVsbDEzWmU5cUt5NV9ua0FFc3JRSnVVSWIzWFRqVkZKZjhMd2FJd0ZZUks4cEdzaHh3WVkyVXFmOC1TTFpETDlRVFVvQ0tSSkYtdWN5VzFkdUwwRG5MNUZNSQ?oc=5",
-      "domain": "www.dw.com",
-      "publisher": "DW.com",
-      "publisher_url": "https://www.dw.com",
+      "title": "Putin Pitches Russia as the Place to Invest During Xi’s APEC",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSFNsb2RKOWhzYnZETEdaUEJYRk9KdF95OEVQZzdTbXRjZDhtTjVyRWNSWThwTnpiYlNDYmVSYWFaa1hYQ1puMzRlbWN5UVNubmhhS3gzRUhyeTVIWDE1NFpZWE5HY3k2NEl0UFpMSkJ5RHBIbkNIZWlKZzlpMXpmNFhaZjFPeDV1dG1QaW1WUm1TR1VRTlp3YkROVnROdHNkVjl3OEpvYTFqRTBudm14YQ?oc=5",
+      "domain": "www.bloomberg.com",
+      "publisher": "Bloomberg",
+      "publisher_url": "https://www.bloomberg.com",
       "language": "",
-      "seendate": "20261117T130643Z",
+      "seendate": "20261118T043300Z",
       "source": "GoogleNews"
     },
     {
-      "title": "New Export Restrictions Imposed on AI Chips",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSENWV1MwQ3lSVDNrY3Y5TWgyNHZDUWs3NXpKLWRlVE04a3VzNG5lTE9OS25IbEdNMF9XMTBna2hFdnFteEtDMFYyb3QwYjVpUHU2SUtBXzYycGxIQXlHSzhvNmNpSXFVTjNycE5lS1NlRndwQ191SkE0R3l0aERMTU45TEw4VWJxZjhGTHZrNlR1QjVIZFRmWHN6TW1fNzRueWJMektoR19wY3I2aVpOSEZhUDRFZw?oc=5",
-      "domain": "www.strtrade.com",
-      "publisher": "Sandler, Travis & Rosenberg, P.A.",
-      "publisher_url": "https://www.strtrade.com",
+      "title": "Australia sanctions three Israelis and four organizations over West Bank settlements, following UK sanctions",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUXdGSlNYVExyZm9NLW9BS2d0N3VFbExZcENRZXVSYUpuUmt6SWtsbUZ5QVBiRmRzWUtPOGJCbFJtQXF4anNMcElIbVBabGJPUXl4a3oxd0lCOUU5X2FGYUFBdkhzOGcxV0hMeXpmN203UmowQzRFTzgzekdKVjY3OWVodHZBUERoVHdnS1NUSmVVdW1wNnVtWWJ0ZVFmUVNXY1pzbkVwTHRpcEtYclVkMHd4elotVW1KMHpZcmhmdUgxZHhnelMzeFdtOGhFN21hQzR6NkxFS0xfY1RfLTVKTFJ0VUk?oc=5",
+      "domain": "www.i24news.tv",
+      "publisher": "i24NEWS",
+      "publisher_url": "https://www.i24news.tv",
       "language": "",
-      "seendate": "20261117T162858Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "British government sanctions West Bank developers",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHlCa1k5WFlHNENmWVNhTFZ6NVNBTWJrbnJpWWtoSWU0dVlkUWJGTEF5TktWRWdiMHcxLVpBWjQ4MEJ4WUVkTy1kX2pGSDhOSmlZaS0wRW52d1FfNHZfMF9Ed2trYkJSaXdvZm9BYy12dVZOU1BQM2g3LURCVV9zMHlOSnZHVUdNSGhsSHoyZEk4c2l2Nzdjb0hWSTZMUVl6SmcxVzY0MXQ0WWFXeklCTkdWS2phZ9IBuwFBVV95cUxNT3ZfNDFQX1JyYzdMamFRTEpTNEJlNENhejhDMXNIOGYxclBmUzN1ODgxYlpYenZvTTl4ZWJEZWxwUUJjRHhqaEZoaUVwTFRLbG5lSGdJVEwwNDhyVDhSTFhwWVp2dURBVnJmTkpZQWlmUVc4UlpnaWVyNHE3Q0dyZFJaMTRRZ3oyeWFCbjh1Z040ZDBZeVFfY1FFT0liZkxQRFBaS1lJTExEZGxfSWxZbTY2WkJXUUIwcXFn?oc=5",
-      "domain": "www.upi.com",
-      "publisher": "upi",
-      "publisher_url": "https://www.upi.com",
-      "language": "",
-      "seendate": "20261117T152217Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "The Sentry calls for coordinated sanctions and enforcement following a Justice For Myanmar investigation and Reuters reporting on the junta’s aviation fuel network and its ties to Iran",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNa1JYb3V5SlktT21lNGkzbHdaUzl1SzBpOTZzTmQ1blhhaHRGdW1ObWVQamlCVk5GeGNnREhNSnNROENaVDg4eG5TYlhZRDBhYWNyMGMtZnJqQlNKMExJS3FNT3JOcTlTajV6YUgwZ19lZUtISEtfeVhOYnQxcTZfSXFPaUxxdS1WSjByR3dwR016c2VFT2RidWs4R0t5MWYxeGs4dDEtN1YybkNqV1RsdzRyOFdvWVpQZkR5eW5XZ2F4elpNSDd6SWNIb1FDN0s5Y3ZUaGp5WmVGbnk3N0VMOEtETWRiT0FmbGtvQkJueWExNWxFRmE3bTdBZ1pMWmx2VER6UnZndVREVGFqOTZfQlZ3RnZDZVJVYkRGWTJ3SkNIMEhaOENjXzl5VHloQk4xODVONVJR?oc=5",
-      "domain": "thesentry.org",
-      "publisher": "thesentry.org",
-      "publisher_url": "https://thesentry.org",
-      "language": "",
-      "seendate": "20261117T193053Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Israel Vows Retaliation After UK Sanctions Firms For West Bank Settlements",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmw3Qmp4S1ZHYVJjbmRjcmpoVEtFcmN3ZU9QcDdXcXkwRk1uUjJmZ08xdmppQTBHTGx4NVBrMXNLWFB4LXZlVkJ2clVnQnpLTlZHVmUxbkhjVmkzQ2s1SVdCbkxSN21LdmljbG1DYWNUU3F1bHQ2c2RnM0w1U0NEWGpfMVdCazRDWUVqUFdWVHN3TDJoY1RTeGljam5ZRVVUNkE?oc=5",
-      "domain": "www.barrons.com",
-      "publisher": "Barron's",
-      "publisher_url": "https://www.barrons.com",
-      "language": "",
-      "seendate": "20261117T172000Z",
+      "seendate": "20261118T050300Z",
       "source": "GoogleNews"
     },
     {
@@ -632,53 +662,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Britain sanctions Israeli settlement firms in push to protect two-state solution",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDhsRlZsMFhXV3hCNXpHb3pPdzNYUXFKbnRZemNjMm9TWFIxc1dnZk0wQ2FieGNJZGcyWWphbFQzb2F1SGRGclBuSExJOUFidDhqYVNzYmg4LVRMTDFGODBxUXNlLU5temNSRV9wRTN0R1dSUDFBUDR2YmZjRGFCaEwwcHNueS1wbFpxM1NzaWN1SkJXZ2RodmRqVkJUa1BINDJvX0dPcnMzajdpSFRuQ0hnZ1JBUkdGWWlZ?oc=5",
-      "domain": "www.al-monitor.com",
-      "publisher": "Al-Monitor",
-      "publisher_url": "https://www.al-monitor.com",
+      "title": "Meta Faces Possible Sanctions for 'Actively Manipulating the Evidentiary Record' in Addiction Lawsuits",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnktVGNqaHkybkYteEltbVc3RUlfSHE1OTRDUGtwTWRjSTY3UXhVczZaVzN0clhRelVEQ19QX1hVNXRLX3VPWXkwUDF5dW55SkJ4cGk4NVkyUVRSbjR4WXJ6UHpKTlM2ZTF1NFNHdXZJclUyWDRmaWwzR3BtdzFSNFlyc0pYSENiVTJ1NC1FS3Q0UDNRLXVBQldYOU5yMjVyVUsxN3RtUzFBNEJYTVFTMlJIOGttUENVQXZsaXp0LWhwbVhmS3ZmQWV6ZlI?oc=5",
+      "domain": "www.law.com",
+      "publisher": "Law.com",
+      "publisher_url": "https://www.law.com",
       "language": "",
-      "seendate": "20261117T132646Z",
+      "seendate": "20261118T025008Z",
       "source": "GoogleNews"
     },
     {
-      "title": "UK sanctions Israeli companies building West Bank settlements",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVBDem1wX1FfTjZ5QmJacXdkVHh2aUxxSldVTi04LXI0UmRDY3hIakdWVmpkdWxoV1h3YWI0aVNjcFpzSkRON2twcEN0bncybVpRT0RzcVY5dTFFMHd3TmdkcEFmTXRqeE5nZ21OOUdtOWk5RHBfTjAzY2tWenUwcHpYZXJLYW1jTzV0V2JQNk5qRkxMUld0UG52TjVlQ3pDWVE?oc=5",
-      "domain": "www.seattletimes.com",
-      "publisher": "The Seattle Times",
-      "publisher_url": "https://www.seattletimes.com",
+      "title": "Xi and Putin blast sanctions before meeting Trump in China",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
       "language": "",
-      "seendate": "20261117T140103Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "OU sanctions Alpha Tau Omega fraternity following hazing investigation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWZyaXo3UjFHUndzcW40THc4RDd3TDM1WXdRc3NxODhxLVZVN3M5X09QRDdzRWRTVFlRMFc5Nk0wY2dLSEdkUnpkNWZkZVpPSFlNanBOOTRMRS1FLU41cXdxX1NsSzBzdGg1WGc2WmxBenhQSWNWa0NaVFFzTnJiMXY1NmJ5VmV3dWRHN0tuX2czR0p4cTFfTzJhUWloRDZ1V2c?oc=5",
-      "domain": "okcfox.com",
-      "publisher": "KOKH",
-      "publisher_url": "https://okcfox.com",
-      "language": "",
-      "seendate": "20261117T172609Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "GTA 6 Review Embargo Date Explained – When Do Reviews Come Out?",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tb2V2ZFkxSmota3pGNkhpSU9pQVFrU3dzS2ZyMGR0cnFqZHZpOE1YamNvR3ZsMEpRS1dUTHhLYXVkTExJVUsxczMwcjNaVHpHNDR1R1ZQQkFUS2lNOUdJdDJKVjJYYURJYkE?oc=5",
-      "domain": "www.vice.com",
-      "publisher": "VICE",
-      "publisher_url": "https://www.vice.com",
-      "language": "",
-      "seendate": "20261117T121806Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Those sanctions we’ve been hearing about? They’re a much bigger deal than you think.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90aU81QmQzWFpoaC04bTVpZ2lIYlJ0Y3JkeGJCcnJXLUYyTy01UE9iNkdMRDVUNnRwZVB4N3JHNlIzVnU0UktNUklxNkVES05vYlZxTmJrRW0xMnd1aDJ1TjYtNjByYUVZZjZfMHVYQXFaZlhubGJ3eA?oc=5",
-      "domain": "danielgordis.substack.com",
-      "publisher": "Israel from the Inside with Daniel Gordis",
-      "publisher_url": "https://danielgordis.substack.com",
-      "language": "",
-      "seendate": "20261117T130102Z",
+      "seendate": "20261118T032100Z",
       "source": "GoogleNews"
     }
   ],
