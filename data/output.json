@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "sanctions-exposure-index",
-    "generated": "2026-11-25T21:34:38.269390+00:00",
+    "generated": "2026-11-26T08:01:47.367240+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,109 +23,29 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "41"
+      "value": "37"
     }
   ],
   "live_data": {
     "news_articles": [
       {
-        "title": "North Korea expels Swiss diplomat over sanctions weeks after office reopening",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUNWNUd3TUtJYTY3OEc0TGI5U1NhNDdFREhNdzVxU3pnV2ZoaDgybzlaS0lvbVRXNWVxeG5uZFRRVEswT2s3V25GLWppMEJtLUZvSTJ3UVVVTE8tMUtGVFVSempYNmhyMmdjTXJGb0RGTFdMcVc0ZTJaUkVENC1tWk1Mbl9LYlBGZUYyRUJqejhCRXdyWGdhVVdxNnJjRTA1dlVmdUxHd0JOalNrWXBLQ2hGQktJalJjQmhqMkVBT1ZNWlFqa2xWeHFiMWdaRmZtRV9EYkNibTczZw?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261125T031900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Exports Restricted to Seven Entities",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOENBVUJpZmtDZ09uVTk4dTFQV2Nzc0VRbmtHTHJrTDVIWkxqWkdlTmNoNjBYb1dyQlEydWtISnZPaXUwMEt4UWN6UVpvd2tEbmxNMVFaTmROeVk1Yk1jY3hVeU9Qdi1HcndxdmowYjBsWktsWEN4d3JEX2pGd1lSOUVrSS1vUkZHd1NDTkszMEZYNFlkM3Y5VzlGRUY1OFB6eDNnbWpNcUZyR2Rz?oc=5",
-        "domain": "www.strtrade.com",
-        "publisher": "Sandler, Travis & Rosenberg, P.A.",
-        "publisher_url": "https://www.strtrade.com",
-        "language": "",
-        "seendate": "20261125T194517Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "New EU Sanctions Plan Targets Umar Kremlev, Who Paid For Trump Jr.'s Post-Wedding Party",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWJoVWN3MFpIdHJZSDdoTGFsSkt0OFdPT2pYMUUtRy1ySzlEN1pNblZKOHl6VVRydi05S2ttQnpHQ09faXFRZUtJQWpvN0pjMkhhRk9CSGZhNHZYMTdQbkw4bnNTSE5VU3p4X0Z3T0NCa21zNUpob0V6OHBEUUFRTmc1MkJhdjjSAYoBQVVfeXFMT2d2NlAtcThfTUpOam5sR25XUWtuelV1LWdaVG9nWmx4Z1h4Njl0SnM2RF9YbE9ub2hJd1lDYlhaTnlvSnN5aHJpRzRrLVh6ME5mRm5SZ2tTbjU2cUNuaHI0Q2Z0TF92LW12X3hQdmE1cDJFQnZjU1VYYUNERW11ako4ZTBsV1hiTUdB?oc=5",
-        "domain": "www.rferl.org",
-        "publisher": "Radio Free Europe/Radio Liberty",
-        "publisher_url": "https://www.rferl.org",
-        "language": "",
-        "seendate": "20261125T174425Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The U.S. Government’s Deal to Buy Lukoil’s Assets, Explained",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYU9nYU02ZU5kYzJHeDR3RkI3ejdRdkxlUHNMdUN3cjg2RXphUnVsclhRd0NxZW1uNGFVOG0wRTZIVmxnMXhzNVo2aUthWUpydVRZVHhsSDFJRk5tNWRCbUI4QXAtWjkwOHI5LVEwZkF3aHBnSmwyYVo0UVdDN3Brb2Z4U2g?oc=5",
-        "domain": "www.csis.org",
-        "publisher": "CSIS | Center for Strategic and International Studies",
-        "publisher_url": "https://www.csis.org",
-        "language": "",
-        "seendate": "20261125T170054Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZ0SENvb0cxQVppX2ZNRFQyVDNzb0dKNzl3NHlBQS1TaFpQNlVpd0ZUZUtGSTBaa2pDTk95VVdaWXFxS3UzUTRmYXRXZUtCbndXZnV6VjZSZU92d0ZKU0RzbmptZUM2LXV2M3ZpWkNuMnBpdExGa3gxQjlOc1NyTnFkcnhKODlwbXpnMkhzQ2h1UjhKNUZYMFlWUXJsbm1HUm9Gdm5nZENCenQ2RHVkUUE1WWLSAboBQVVfeXFMTktvbUdsUC1kNmVoLVl3eGY1Yk1vZEpoUFFtQXFOY0NQcXltdzVZSi1HaG91OGxMRmMyWk4zMXFzWThnYjNpYXJzNUVTLVJuUTM5OF9aa2J2RDZIZzNSSW1IdUN1a1QzX2lGYlF0RTVtZFRuREI5Ym9uRFlidUhXT0wxN3cwMXc4YWx2M1lOV2l0eUhhVi1wcEF0emp0bXdwTkpLc2l1WDlkU1JYTElEd1N4eENHUTdnVGpR?oc=5",
+        "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWdYMTZKOS1KOXVpdXRLUkVDeGNhaVJOZGhZbVIyRDh2dnA1WUZNM1ZMNVFXMTU3UllPNE5SanBGZW1TX3NyMnM0OHVlalJhZmt1U184Y0wzNUhPa2N4b1FHeldLRTBhb09XVlZwemF6VTVwY0w0eEstMG5yNzdCSzI1WWFKOUNSVHNZcHdDRG9OQ2JUYzFDcHNJWW5NVHIyUHV5RkRHa0NEUEk4ay1FQmd1VdIBuAFBVV95cUxOa0I5N0VOM1ZmRWVnekJDbnA4WENieml4SEFGR3lOLTRBWWZTWjJkeC04SWJLWDRBRldjMi0tUmVyTHBCWjhzb2dqZWo2eVN3OVFac293ckVOYmVKS3loTmw5ZldMdVVscmg2cUpwNDVqamtCaWFKOEFsVnhvU3BUR0VRdnhqY0NKV05JSXF0Um5GZ0UzbGFYVV8wZUoyTldNODdSemwzWTJkVlpqdElfOU9ZRzR3VWl1?oc=5",
         "domain": "www.aljazeera.com",
         "publisher": "Al Jazeera",
         "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261125T100547Z",
+        "seendate": "20261126T061013Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Federal jury convicts Huawei of stealing US trade secrets, violating Iran sanctions",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2RJaFVZZmo1Y2xXb0hud0trZHRQcDdNV2pHU1hoOWEyMlVkdE1mMTVSdGIyLUZnSzR6NkpuUndvWGpUc01heGlYUDlnTXV0bzZTZ0lPdnc5M0FIeWRkY3BHd0NaREVqZXY1TkdVdjdHZXlONTdiWlZkMVdYSFBzNTFLRHd5aUpTcWpmMjJodjhDTDNBLW5NY0F4Rm9IT0NTa1dKMEM5bElpeUJ4V0tOUWdsaE5qWm0zcmVsVXJ30gHDAUFVX3lxTFB2MUN5bnVLY0E5dG9RQkVYNUl3YWhOLUF4RmZVdWJOY3FzRS1Cd0JNWmdJMm9YTThqVkR1WmUzcWRxTWpwbEVUZzQxYXd2TUZSV1ZUODR1MUlQMzJVclVDbWljTE5SRFRMQnYzdFlPNDRDdHBTeXlHeXZ6dV9OaHU5N0x1NExWSjNRd3JMRHMzWXJhNHhYMmVXN2RGSXVYS0JhODlsTE01UXB5R2pwbUd5eTh6V0NITXJoVjBzSnQ2M1ZwYw?oc=5",
-        "domain": "www.foxbusiness.com",
-        "publisher": "Fox Business",
-        "publisher_url": "https://www.foxbusiness.com",
+        "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261125T121900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZV9tZUx0bDdvbVFBWEo5LWk2RWdPUGU2aGhDWGhQLV9kNUh2U2pqNzluQjRkM0ZRRVpyWkhJWmFkZlluc3lYd2xvMTg5WUNSdGYxRmhfakVkTzhFZmFxVHF2V3ZxNFlVOFNVc2ZTSnRUTG42SjZjSGhwdWViX3Y3dktXLW7SAYoBQVVfeXFMTTJiX3hFaGZpdklHSVhEc1pROUJlTmdLcDhVelQ3SzdPVDY3VHIxMV9tQzNYSE5yQ3lubXBXckVIeW1qSE9FSk1iTXNJSDFsWS1ZMlAySFIxQmEwc2dlQ1RNRUZuSWpTNm5EQnpld01valZQLU4zbHgzUEVRTEJUYzNrTS1XT0FrNzRB?oc=5",
-        "domain": "www.upi.com",
-        "publisher": "upi",
-        "publisher_url": "https://www.upi.com",
-        "language": "",
-        "seendate": "20261125T070725Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Illinois Trainer Castro Receives Additional Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmdId1BxM0FlV3NwWGZVTHJ6b3NSd3VrT3ZDdXhFRWlORVN6T3J0aS1IRDc0RWFrV0lBOXlOR2dUTC1saXZZVURxUWEzaHNCYzB5VzFPYWtaMk9veVlVeC1MYllXLW9kTU16cThPU21ZR1JsQ192QTBTcXlKMlRzd3phRW85RkVfa1Q5cmxEa0lzRFhXWnV3X25tY2pxVzBOVWxqQUt1ZmczOUF3akE?oc=5",
-        "domain": "www.bloodhorse.com",
-        "publisher": "BloodHorse",
-        "publisher_url": "https://www.bloodhorse.com",
-        "language": "",
-        "seendate": "20261125T184300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Huawei convicted of Iran sanctions violations, bank fraud and trade secret theft",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnIwV2RseDNscDJ6NktUcnRtbDhHLUdYS2h3OFhiM2p1ZlNmSTlnbGFPaExEZEhZbWJQaW1rZjdKUzVidS1KOFNqalFMYkpzR25JZS1aVTF6QmNBZ3NKZEZiM0pScTY3cDJCaUltS0RDczRQUGZfaGpsQjBZLXVSZERscmdWSlRIWWwtV1prcktnZk0?oc=5",
-        "domain": "beinsure.com",
-        "publisher": "Beinsure",
-        "publisher_url": "https://beinsure.com",
-        "language": "",
-        "seendate": "20261125T153333Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Huawei Convicted in US Trial Over Trade Secret Theft and Sanctions Violations",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjBaU0F5cnRWd3NXejFpNW5BaHlYMnVaYV9TV1V6WEQ0SFZRaE1DcUpZa09obl9SZ1V4SE5tdGlXbTB5WlE0dE1VRXhkcXVsRVdWOHpyam14dllRbnR3akRJVURXbFAtWFNNWlJpODFIa0NsbWt5MUlRWDg2aDNSdEltVEVjaExEdmNfckJwd04ySFBrMlN4V2NUcmJDVC1iaTIyYWNIa3cwSDVjLWFEOHA1YlhyMkE?oc=5",
-        "domain": "securityboulevard.com",
-        "publisher": "Security Boulevard",
-        "publisher_url": "https://securityboulevard.com",
-        "language": "",
-        "seendate": "20261125T185615Z",
+        "seendate": "20261123T193800Z",
         "source": "GoogleNews"
       },
       {
@@ -149,133 +69,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Treasury Department Targets Iranian Exchange Houses with New Sanctions",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVpYOGFDd0ttM3R4V0ZFbnB5ekd3Z203dWM2aUhoaERzRHdUbmtEMkI3ZW9WTmxWOWpXcGt6UzFfdjJLTEVad1VTSzZRMkFmTVBDUlJDS3V6elU2NktuRlMxc1B0cTlwbGJwQ0xTRm8tWTlIZFlZUjhsNDVJRTRLVGZRVC00LVROdVBKLXBhWG4zc1RMd09raFhyWWFGY2VXZzhhVWdJdS0zM3NCdmpNaFo2WTVydzVNWXZ1aDRn?oc=5",
-        "domain": "www.presidentialprayerteam.org",
-        "publisher": "The Presidential Prayer Team",
-        "publisher_url": "https://www.presidentialprayerteam.org",
+        "title": "USTR Proposes Section 301 Tariffs on 14 Economies in Structural Excess Capacity Investigations",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUjhaNGpwTFRXdmxqdTR6SnZ2WGp4VG5LUW9fQkhXU2h5MnJGQTcyMnBnN2FkWG1XcnFNR1NMbU4xNXZZeERnVk5qb054RXU4VDkzMV83RWxqUTNZMC1oX0I5TndydXBLX1RLdUktOUdyZTg5TVNZTVhLbVZtbFRvSm9NbjFDNkxGcXRtRDV5Zk1RNUJFM3RjR292anFRdUR5ZW9MdWpPSF9xZ1ljaHZIamR0LWQwNXNJeFk3ejVWcHdRNHhiTS1HRzlqbi1RLXlCSkg1Nw?oc=5",
+        "domain": "www.globaltradeandsanctionslaw.com",
+        "publisher": "Global Trade & Sanctions Law",
+        "publisher_url": "https://www.globaltradeandsanctionslaw.com",
         "language": "",
-        "seendate": "20261125T100000Z",
+        "seendate": "20261125T235401Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Huawei found guilty of sanctions violations and stealing US trade secrets",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnZndkRQX2lhQ3RHWVc2ZWFMbUNGTXdabVFoRVhPQjlzbUZMYXZqM1hPNTJXTGhkeXg2c2tzWXlEdGVnaUh1NFY2ZFh5QlV6M1RtcjRVbFp1dmdaMVlkMkI4Wko3cGRHbU5DcWwwVF9NcW9sdEJpTkh3QWlqT2g1ZE4xaFlfM05qN1pTY3hKaEw3eFZpSThzUnRCU0hsaHU0SG5QSWhqa0ZIajE3dlV2T2xxVVdZT0VW?oc=5",
-        "domain": "www.datacenterdynamics.com",
-        "publisher": "Data Center Dynamics",
-        "publisher_url": "https://www.datacenterdynamics.com",
+        "title": "The Times: Dan Gertler sanctions dropped by Donald Trump",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMFZTMWVNZm90TkFwOHY1UW81djl1WTBqdHJHM0E1cjU2WEJKNUtUdFE1ZXhicFBIcFJxOVhCMEd6T1BuWjBwbTctaGlEZ0Vjc3VYSDkxVTlteUFVTmZnWGgtR1FmWkFfMV9Tb0Fuckpwbmc5dzdpU3JzVkZTaUVfWDBB?oc=5",
+        "domain": "thesentry.org",
+        "publisher": "https://thesentry.org/",
+        "publisher_url": "https://thesentry.org",
         "language": "",
-        "seendate": "20261125T134808Z",
+        "seendate": "20261126T004521Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Huawei convicted of sanctions breaches, fraud and conspiracy to steal trade secrets",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVlmVmZmelhvSEdRWExVdEFuVHNDdnJ5amhLU2thdzZxQmx6X2ZMN2VjVUdXUGMza1lhbTA2RENUT294X2hzN3FkYnRDLUJUMTBMRERNUi1uajNJLVRTXzlYSDVQbnVRb3BHR1NmVEhTd01EdlVsejFmQzB6WDJ5d0VOVDdtdVdYRTlqUGJlanRycGw4UmVCVnJwSmpGYVVtSWFnaG93RTk?oc=5",
-        "domain": "iclg.com",
-        "publisher": "ICLG",
-        "publisher_url": "https://iclg.com",
+        "title": "Citigroup (C) Explores Venezuela Banking Return As It Seeks Sanctions Waivers",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWdtajZCUG5NMk9Da245YkxYUWFrM0xPcnR4cll2Vm14X2VDbnhxb3lsYVV6VUZORnhtdDRWcTRwekpJZ0xaSm5UMHlTV1dNeFpYOExyU3R2Vnh1YjFlcWJKRWkwVktLUjd3bjluc1FpbjV6clEyTWdSdURqRWc1ZEoyeVhlYWV2TnhjQk1qcmk5cl8ta1VrWWxIaldMdG5CaGJQOWxn?oc=5",
+        "domain": "finance.yahoo.com",
+        "publisher": "Yahoo Finance",
+        "publisher_url": "https://finance.yahoo.com",
         "language": "",
-        "seendate": "20261125T094611Z",
+        "seendate": "20261125T211524Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "US tries to restrict Chinese offshore computing capacity",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbDItUGs1MHYxMjl6MUNVVEdqRWNEUlBZbW5GdDRaU2tUWHlITUhVeVdDTTF6RXYwYnJFU2JvcmNuOVZJc0swZ1NLcXJicjJaRUFfbkdYVC1aT0Y4Z0Y2RkpfcUhPSmQ2LVkxME0za2hqWmxyUmVVRjhVUHZVSHpzajhhMXRwcWc5UWFKNWxCYnUzVnRCdU54QTBfaGZNM0Fh0gGgAUFVX3lxTFBOZEczY1BEcktVRHU3bHVtYXFQeGlhTGVsSV94TERod3FFamRrU0V5WmRRQ0lXNjZjSUlEWGFNaXVSeUdxLUk0a3o1TXJ0NW94bmlmZUNDQ2dsU0p6Nzd2QjZQUUlJYnVKVHVmNXA5T1MxYXNROEEyU0RzVnlIT3RmeEdENGtEWVBkeHQ5X3lJS21JTlhkZHlBQURNUjJCMFU?oc=5",
+        "domain": "www.dw.com",
+        "publisher": "DW.com",
+        "publisher_url": "https://www.dw.com",
         "language": "",
-        "seendate": "20261123T193800Z",
+        "seendate": "20261126T063916Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Switzerland forced to close office in North Korea over sanctions feud",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajZzbjkwbXpkbjMxSVJLUGptcGdtejRUNS1MZnYzNS01Mk1haHhGcmI1NlN0a19vcEpiUk5FWTVDVXo3VlFiSEpDUU1yNmcwbXV1cmhqR1R3bEJBQVhETjhnbTd5SUlHRTJtZ0Rid21TUGJiei1VYkZ5N09udmRpd3REekZqT0N0OWJURTdpSnNucC1sdFRDeTBROC1qbnkxTld2cUtBNklmYk53bEhiWdIBtgFBVV95cUxONkw0LWxXYjNGRkJNcDltbWtneDNGYjdhemhfUXBTOTNITmRDVmc4TjMzT3ljZFI2WlR4djh0UzVwTnZtLUl6RDFaQ0xqTFdla0F2enNmUlRodWltUjE4NEpYUlRFSHNoWkRPb0NndG9zc3RPcHl2Njlzc3E0bE9tWHJPWkJoRVcxZ3Z1dFU4OExqN29lbDdOQ3daN1N2QVdXZ1p5QzRYM0hEMm9NMm9IQk41dF9Cdw?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "Exports Restricted to Seven Entities",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOENBVUJpZmtDZ09uVTk4dTFQV2Nzc0VRbmtHTHJrTDVIWkxqWkdlTmNoNjBYb1dyQlEydWtISnZPaXUwMEt4UWN6UVpvd2tEbmxNMVFaTmROeVk1Yk1jY3hVeU9Qdi1HcndxdmowYjBsWktsWEN4d3JEX2pGd1lSOUVrSS1vUkZHd1NDTkszMEZYNFlkM3Y5VzlGRUY1OFB6eDNnbWpNcUZyR2Rz?oc=5",
+        "domain": "www.strtrade.com",
+        "publisher": "Sandler, Travis & Rosenberg, P.A.",
+        "publisher_url": "https://www.strtrade.com",
         "language": "",
-        "seendate": "20261125T170311Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "EU targets Russian tanker insurance and energy infrastructure in new sanctions",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyNEprMzA3WDYyZnNsSU1faU1kMVBRRTVJZmFKdkhvZk5OczVmbjk2Yk5GUzk2ckg4Sm9PNmVqRF83SXRYbGpHRVhPQ3VxcGxkOTl4cl8yWTZESzF5ZXZwLVp2X0VZZ0hhazRuMmo1VXdvcEJJaFJxY2wzc3c?oc=5",
-        "domain": "beinsure.com",
-        "publisher": "Beinsure",
-        "publisher_url": "https://beinsure.com",
-        "language": "",
-        "seendate": "20261125T150333Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3lGVWNUci1oN2FycENOck0ycGdzSERqSkJxdFYxRXFTVWxVRzkwNDlrc0ZOX28zODlIbjNmZnRkazFIR3JPNUlZNkFjR093UXZSX0VRdVlWZDZXWVBkbjN3TDFoemxGalQzV0NWazFnRGc2SjI4dTltMThaZG5GT213Vm93RlFvRnBqVGpMSGJRRWhuUHkta1pYeXp1RFJTOXRQX2hoY9IBrAFBVV95cUxPMklWbllGblFTbkk4b2FLY1lRRTl5U2p6cmFNVnFob2c4MWpBd1hvdHRndlFDVkRFZVkyTGVHOFR2QnRpaHk5REFsX2hLZVV5MXgtRFBjNWNUWEZGXzR5c3EyajlmaHNEQkliM2k2Sk5qR21WYWExMlFZWlhlSkZqM2hXSW9lekV6Wm9zQjRsOXZWa05McXRINEtLMzluVTRYRENlMUNYWGdWLUJs?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261123T213729Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "EU Commission proposes ban on Russian athletes, ex-fighters in new Russia sanctions package",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1A2RHl1RS1IaFcyWmlES0xYNW1lbnM5VlhwWVU5ajZhRVVBa0Mydi1OZG4tS0tCYVJKX1JiOUtmWlNTZVJmTGRTRlFtZTRXRTRxcXB1aGMya2JhWm41UXE5Y2pxTlFDNzVSQ2MyV0RPZzNoYlZtazdMX3RYRnB6VFFsaEFnTGI5RFk4TnczUE9aTXFqcGNxZ0psd1JUczRBNi1LSkpnVk8?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261123T162612Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Sanctions with a way out. Brussels rewards firms that drop Moscow",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPazZkN1pmMC1fOHkxV1JpVUJWdzAwaWh4aGxZbFRuaUFEUHo4RXFQYlU1NVpRUU95VnpWSUxzVktYOC1JSzR1eGpfTVVwY0hnTXRoY21tZG9nMklzVEVRcDcxb01LRHl4cWJXNVBnLVhGajBlTnBaOXh0VFd6TXEwci1BdnhRdGpLcExNamVFNE4zVHFJYXhnbUlPZ0g3YnIx?oc=5",
-        "domain": "euperspectives.eu",
-        "publisher": "EU Perspectives",
-        "publisher_url": "https://euperspectives.eu",
-        "language": "",
-        "seendate": "20261125T143556Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRFBWaUtNV2pMbGVsbFJlZkF3RU9mczNYSUF2Q1Q0N2JqV2ljOGtxaEVPcDVHeXZUVklUTHAwNXVTQjJjQTZKVlF3eXBaTWZnaVR2M0ZmdWdmRDVmMndYc2lQQjQyNWdIWjBkekR6d3ZSaE9ld0dINmhUX2JGaUJjejNCN2FxanBJbzdDeUlZV1piLWlVd2VzaDVSdHZnOEUtQW0xUFN30gGrAUFVX3lxTE10OG84bk5ZSWoyLUMwemdRWDRCVjUxOXIzeW9YaVdpbGpFWkNxLW9LYnJ4ZjhFRTlNZEtEWHVPVnRDbUw2TTVUVUpET19udXJBX0hrYmtGZEJUbG9UeEZZdmZZVXNLVnM2QjlsSUNWYTVvT1ZWcnlFZFdGTjM2RmxWZWl4cVhzZVkycWx2dzJYMHRPTzNTSTVpcDM5ZGlZWS1lYVhLUDEySXUwMA?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261123T233134Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Foreign Executives Explore Venezuela's Investment Potential But U.S. Sanctions Pose Major Legal Risks - Report",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2hJS0NWem9FMG5tQWdadERIczlvZXQzcnAyckpRVUduRGVvNFY0bDd3M0hoQ2hDWUVpbTM2T21zTTNoQk5JWU9ReUJ0ZTFBTmJyZWw1RXFuTlhJbHlmQ3BIR3lONlFXdHQxb2VIUjBnZkJpMG1LRmRuY1V0akxjRDJDa2ZMSGxOVmkwNm9fWU1XUQ?oc=5",
-        "domain": "www.latintimes.com",
-        "publisher": "Latin Times",
-        "publisher_url": "https://www.latintimes.com",
-        "language": "",
-        "seendate": "20261125T163056Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump is sabotaging his own Iran sanctions strategy",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcmVSZThveUk3NjlQX2N0XzZhM1BaQ2tpQWtsTmdXUzNUSXNGaUd3cWpSUHNabi1DdEhkVy1PZUZWR1Y5ZHJBeVNTSlo1X2JvZWhHVWh6RE5mLURpaTRUc1YwTUhZQUpQTmxfRVNxeTZhbkgzSHJxTVFZaHdGcWhKQ0Z5ajBpZkNTdFZvUG9JdE8tVVg4UndZeHowLVRrV0Njb1VqOWVWazViUTJiNFHSAbMBQVVfeXFMUGZpbHpVMXl1NkRWTnF3ZHVsVUcxeVJTaGxsWm90a1lWSC0yS2ZaRmZqa1RzX2ZndUFPZWp3SFRhSU1FM3VqMENabjA0aGthWG4ta2ZySGFXb1ZYMjJVZUJ6NzVLOXFfLVRHdTJsanhDQ3NIZ2ZoSmJZQmdKUGFTcmNmTlN1NnNPeS0wblVzdWtUWnNxMDhEWVBpUXNqZERqZ0t5RUFDVmpac2NBNkU0a19wZkk?oc=5",
-        "domain": "thehill.com",
-        "publisher": "The Hill",
-        "publisher_url": "https://thehill.com",
-        "language": "",
-        "seendate": "20261125T153000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Gyokeres: Arsenal focused on game, not potential Man City sanctions",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZWdyMjg3SE1NLVN2QjVlVFhQazdqZXFyRkNvSVRMM2Q4MTVDZk1uMmZCaldtaDVmNWxkQUlydGFOazRHMDFLdV9mTUtIYlpsV1VDUmRvTU1iSjROY1lNeExzOVRXaUVTdk5CRWFRRXpZV21SdnpBUWNFU01kZVVKLXpNcVBJZVEzQUJEZ09rMGgtNnM?oc=5",
-        "domain": "sports.yahoo.com",
-        "publisher": "Yahoo Sports",
-        "publisher_url": "https://sports.yahoo.com",
-        "language": "",
-        "seendate": "20261125T133335Z",
+        "seendate": "20261125T194517Z",
         "source": "GoogleNews"
       },
       {
@@ -289,43 +129,93 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Chinese tech giant Huawei convicted in US over Iran sanctions, espionage, fraud",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EN2FnRlFEZ0lKSUNMS20tcTh4SmU1VjdtRVVuVGJpNWRHU1AwT096cVE2b1lod05DUlNtQW5UeUxSU1pSa180TWpfOHg0SVJsWlFhODlibmJWdk40Nzdv?oc=5",
-        "domain": "www.jpost.com",
-        "publisher": "The Jerusalem Post",
-        "publisher_url": "https://www.jpost.com",
+        "title": "Federal jury convicts Huawei of stealing US trade secrets, violating Iran sanctions",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2RJaFVZZmo1Y2xXb0hud0trZHRQcDdNV2pHU1hoOWEyMlVkdE1mMTVSdGIyLUZnSzR6NkpuUndvWGpUc01heGlYUDlnTXV0bzZTZ0lPdnc5M0FIeWRkY3BHd0NaREVqZXY1TkdVdjdHZXlONTdiWlZkMVdYSFBzNTFLRHd5aUpTcWpmMjJodjhDTDNBLW5NY0F4Rm9IT0NTa1dKMEM5bElpeUJ4V0tOUWdsaE5qWm0zcmVsVXJ30gHDAUFVX3lxTFB2MUN5bnVLY0E5dG9RQkVYNUl3YWhOLUF4RmZVdWJOY3FzRS1Cd0JNWmdJMm9YTThqVkR1WmUzcWRxTWpwbEVUZzQxYXd2TUZSV1ZUODR1MUlQMzJVclVDbWljTE5SRFRMQnYzdFlPNDRDdHBTeXlHeXZ6dV9OaHU5N0x1NExWSjNRd3JMRHMzWXJhNHhYMmVXN2RGSXVYS0JhODlsTE01UXB5R2pwbUd5eTh6V0NITXJoVjBzSnQ2M1ZwYw?oc=5",
+        "domain": "www.foxbusiness.com",
+        "publisher": "Fox Business",
+        "publisher_url": "https://www.foxbusiness.com",
         "language": "",
-        "seendate": "20261125T142216Z",
+        "seendate": "20261125T121900Z",
         "source": "GoogleNews"
       },
       {
-        "title": "U.S. jury convicts Huawei of sanctions violations, trade secret theft and fraud",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM1Nhc3k1RVUyYWdFUVA0Q0lYRXNObF9hRm8tYjhBdTlDWTF1OXRJM0VNVWZpbGljWExwY3VIbUFWa0dYcjJkOW9wR25RZF9xUE5ZUjBpS0VZQ21sMjFwbE8xeGJYMUlHWEdtX013aFBQQ0FUQ3RlR0k4S3lmQy0xVTRuLUU3aVN0cVdoejZacXhucndPMUhfSE5qZ1JxZGNwdFZxakUzOXJGZmNzN3NGaWtmU0lBSEJWWVgxa1VUR3Y3UnhZSTBNUmNPSXBSbFZnWUxGdHkzeUR4NDdm?oc=5",
-        "domain": "ieu-monitoring.com",
-        "publisher": "INSIGHT EU MONITORING",
-        "publisher_url": "https://ieu-monitoring.com",
+        "title": "New EU Sanctions Plan Targets Umar Kremlev, Who Paid For Trump Jr.'s Post-Wedding Party",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWJoVWN3MFpIdHJZSDdoTGFsSkt0OFdPT2pYMUUtRy1ySzlEN1pNblZKOHl6VVRydi05S2ttQnpHQ09faXFRZUtJQWpvN0pjMkhhRk9CSGZhNHZYMTdQbkw4bnNTSE5VU3p4X0Z3T0NCa21zNUpob0V6OHBEUUFRTmc1MkJhdjjSAYoBQVVfeXFMT2d2NlAtcThfTUpOam5sR25XUWtuelV1LWdaVG9nWmx4Z1h4Njl0SnM2RF9YbE9ub2hJd1lDYlhaTnlvSnN5aHJpRzRrLVh6ME5mRm5SZ2tTbjU2cUNuaHI0Q2Z0TF92LW12X3hQdmE1cDJFQnZjU1VYYUNERW11ako4ZTBsV1hiTUdB?oc=5",
+        "domain": "www.rferl.org",
+        "publisher": "Radio Free Europe/Radio Liberty",
+        "publisher_url": "https://www.rferl.org",
         "language": "",
-        "seendate": "20261125T153835Z",
+        "seendate": "20261125T174425Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Huawei Guilty of Theft, Fraud, and Sanctions Violations",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObXl4eXJJcVlYZ01tUnVlTDNiRWpNdUtSRjg5aXBEaGtfQjI3cHVIWFlRRkNVUUFtZnpRZWxmV0VPOGRNODczRGhDcVlMNUw3cG1WLXd1aWtoYTh5Tlk1V2ZoRjN5Z0duRWllbHd4S1BjOE5vZkNkTmRxTFVyUlNXN0E4dEJQbFJwOXNBX0pWSDhKeWhJTkxiRWF3?oc=5",
-        "domain": "www.theamericanconservative.com",
-        "publisher": "The American Conservative",
-        "publisher_url": "https://www.theamericanconservative.com",
+        "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUhsQW44MDBZYV9uLUN1ZkJRNHdXQ2xZcjg2ZjhIYXpZWXk5bkNFbG5LM0lJTmRmUHBhRDdoY3lLQXBXZTJ4X2kzcWlMd2pUdlVhQll1MTNUVlNaQ2Zhdmp0WVJPb2tWaEIxTlB0ZVNXbjdURDFoekNRZ2hPVjllOGxUQm5yelduY3JhYVg5YUNGaUJNb1BFWjgyaXZEaDkyb3VZMGtMTmpJWUNUM0VLM0tVVU4xMDBY?oc=5",
+        "domain": "arstechnica.com",
+        "publisher": "Ars Technica",
+        "publisher_url": "https://arstechnica.com",
         "language": "",
-        "seendate": "20261125T143000Z",
+        "seendate": "20261125T163345Z",
         "source": "GoogleNews"
       },
       {
-        "title": "North Korea expels Swiss diplomat over sanctions on children’s camp",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkd2N2pOWEZoUktJbktYdzk4M0xzRWxiY0xNWHp3cmFwaGQ5dktaV2ZnR0I4T0VBalBBY082SHNVaWE3WUFqOHpRc3dVWUFZeFlCN0lCc3NzNXRuSVluVzhWbUxxV1ZvZEdjcFc4bjh5bFp1cll0dFo2QlhwLURadzkydTk2RTk1REVyaG9ic3daZnFVcFN3alhGamFzQ0E?oc=5",
-        "domain": "www.nknews.org",
-        "publisher": "NK News",
-        "publisher_url": "https://www.nknews.org",
+        "title": "Exclusive: EU report confirms Trump threw Russian energy sector an economic lifeline even as sanctions, Ukrainian drones, bite hard",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbnpiaXVERGNxYVJURUF0Vjhqd2NNMDdqQ2pseUVNVXk3VXBlMGFPdEVIa0hxaHVKcUhsazFCNmdYb2JDNy1tS04xS2RSUGVJYXJxcUJiVkxGRjhkYUI2aEpoV3NJbjFpN2Q0VERUbE1LVnY4alY5NlBNV2tJQUhLdUdZTy1qWjc1REVVV1lTMWdCZFlyWmdtcVEyVDJPd3FSRHdIVU53bEJadzdYR1p2T2hCczdvLXJqUG1sd3ZfUGVlYjhkZzJiX0ItbDRnYnFJSUREYzZ3QXVfY0o3RDlXc29kdHdVb1RyT05nM0dR?oc=5",
+        "domain": "kyivindependent.com",
+        "publisher": "The Kyiv Independent",
+        "publisher_url": "https://kyivindependent.com",
         "language": "",
-        "seendate": "20261125T045405Z",
+        "seendate": "20261126T050016Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU Commission proposes ban on Russian athletes, ex-fighters in new Russia sanctions package",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1A2RHl1RS1IaFcyWmlES0xYNW1lbnM5VlhwWVU5ajZhRVVBa0Mydi1OZG4tS0tCYVJKX1JiOUtmWlNTZVJmTGRTRlFtZTRXRTRxcXB1aGMya2JhWm41UXE5Y2pxTlFDNzVSQ2MyV0RPZzNoYlZtazdMX3RYRnB6VFFsaEFnTGI5RFk4TnczUE9aTXFqcGNxZ0psd1JUczRBNi1LSkpnVk8?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261123T162612Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3lGVWNUci1oN2FycENOck0ycGdzSERqSkJxdFYxRXFTVWxVRzkwNDlrc0ZOX28zODlIbjNmZnRkazFIR3JPNUlZNkFjR093UXZSX0VRdVlWZDZXWVBkbjN3TDFoemxGalQzV0NWazFnRGc2SjI4dTltMThaZG5GT213Vm93RlFvRnBqVGpMSGJRRWhuUHkta1pYeXp1RFJTOXRQX2hoY9IBrAFBVV95cUxPMklWbllGblFTbkk4b2FLY1lRRTl5U2p6cmFNVnFob2c4MWpBd1hvdHRndlFDVkRFZVkyTGVHOFR2QnRpaHk5REFsX2hLZVV5MXgtRFBjNWNUWEZGXzR5c3EyajlmaHNEQkliM2k2Sk5qR21WYWExMlFZWlhlSkZqM2hXSW9lekV6Wm9zQjRsOXZWa05McXRINEtLMzluVTRYRENlMUNYWGdWLUJs?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261123T213729Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZ0SENvb0cxQVppX2ZNRFQyVDNzb0dKNzl3NHlBQS1TaFpQNlVpd0ZUZUtGSTBaa2pDTk95VVdaWXFxS3UzUTRmYXRXZUtCbndXZnV6VjZSZU92d0ZKU0RzbmptZUM2LXV2M3ZpWkNuMnBpdExGa3gxQjlOc1NyTnFkcnhKODlwbXpnMkhzQ2h1UjhKNUZYMFlWUXJsbm1HUm9Gdm5nZENCenQ2RHVkUUE1WWLSAboBQVVfeXFMTktvbUdsUC1kNmVoLVl3eGY1Yk1vZEpoUFFtQXFOY0NQcXltdzVZSi1HaG91OGxMRmMyWk4zMXFzWThnYjNpYXJzNUVTLVJuUTM5OF9aa2J2RDZIZzNSSW1IdUN1a1QzX2lGYlF0RTVtZFRuREI5Ym9uRFlidUhXT0wxN3cwMXc4YWx2M1lOV2l0eUhhVi1wcEF0emp0bXdwTkpLc2l1WDlkU1JYTElEd1N4eENHUTdnVGpR?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261125T100547Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "North Korea expels Swiss diplomat over sanctions weeks after office reopening",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUNWNUd3TUtJYTY3OEc0TGI5U1NhNDdFREhNdzVxU3pnV2ZoaDgybzlaS0lvbVRXNWVxeG5uZFRRVEswT2s3V25GLWppMEJtLUZvSTJ3UVVVTE8tMUtGVFVSempYNmhyMmdjTXJGb0RGTFdMcVc0ZTJaUkVENC1tWk1Mbl9LYlBGZUYyRUJqejhCRXdyWGdhVVdxNnJjRTA1dlVmdUxHd0JOalNrWXBLQ2hGQktJalJjQmhqMkVBT1ZNWlFqa2xWeHFiMWdaRmZtRV9EYkNibTczZw?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261125T031900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRFBWaUtNV2pMbGVsbFJlZkF3RU9mczNYSUF2Q1Q0N2JqV2ljOGtxaEVPcDVHeXZUVklUTHAwNXVTQjJjQTZKVlF3eXBaTWZnaVR2M0ZmdWdmRDVmMndYc2lQQjQyNWdIWjBkekR6d3ZSaE9ld0dINmhUX2JGaUJjejNCN2FxanBJbzdDeUlZV1piLWlVd2VzaDVSdHZnOEUtQW0xUFN30gGrAUFVX3lxTE10OG84bk5ZSWoyLUMwemdRWDRCVjUxOXIzeW9YaVdpbGpFWkNxLW9LYnJ4ZjhFRTlNZEtEWHVPVnRDbUw2TTVUVUpET19udXJBX0hrYmtGZEJUbG9UeEZZdmZZVXNLVnM2QjlsSUNWYTVvT1ZWcnlFZFdGTjM2RmxWZWl4cVhzZVkycWx2dzJYMHRPTzNTSTVpcDM5ZGlZWS1lYVhLUDEySXUwMA?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261123T233134Z",
         "source": "GoogleNews"
       },
       {
@@ -339,36 +229,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Why Did a US Jury Convict China’s Huawei? Iran Sanctions Case Deals Blow to Beijing",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb3ROdFBZMEI5cWlYS0o1T191S1h1d0o3dldObnFnVk5Ta0x3WmJ2SzRSNkZJUWRfVFdMNlZ4TW9QbUt3WXQ2ZUVkVEpjV1l1WU1qV0hxMTRWMFdScVU4Yjc4d0pNWk5id3o1Njc0UGwyM0d3YXFKam1fNTJUUjgtUk5LVEUwYkpJNG5lbTNHcnZoaks0VXhlaTJHN19CQmpnS2JJMzVzbmJ2b3JpNy1Ba3RDQ3d2MEs0MjNtMg?oc=5",
-        "domain": "moderndiplomacy.eu",
-        "publisher": "Modern Diplomacy",
-        "publisher_url": "https://moderndiplomacy.eu",
-        "language": "",
-        "seendate": "20261125T082154Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Dynagas Partners warns of charter default risk as sanctions deadline looms :: Insurance Day",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZlR0QmdXVlFVVVoxYnZQU0V3NFVIN0FhM3d2TEJaMEl5dm1LWDBwMTlFano4NDZMZjloaE9uR09MSDkzYllOZkRGVlVlUEFkTU9iVlBPU3NsbmVfUnJpZ3pGeFZKVTR4N0Vaa3Z2emJvV0dFcEF4TmFCNnpMdWVwRWI0NEt3eWNzUFlhR0VQMDNxY2ZaeTNETWdMRFQtSG02QzcwN0Zqal9HQ0haWUcxRQ?oc=5",
-        "domain": "www.lloydslist.com",
-        "publisher": "Lloyd's List",
-        "publisher_url": "https://www.lloydslist.com",
-        "language": "",
-        "seendate": "20261125T164055Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Jury finds Huawei stole US tech, laundered money, and broke sanctions",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2ViTG85WkQ5R2s0MmRIVnFGY2dWc2g2S2hkZlVXbEdjd1ZEd1pxZFJ6T3BScXdVeURvWldZdlZFSkVYU1lMenhGZWxzTGtSSkdCWU5iVFdOZGIwSXQ1U1hwZmM1cXhsZ29oRk1Ga2FhZDhPbU9xYnBaTnY4UlV5Uk5VZml2SDVKV0pYb1B5aWJocXBqTk5rUjVpZnRuMHJSdzdZalRRbkdXYUx3QTRxQVI5Q0Y4NGhPNHFKVQ?oc=5",
-        "domain": "www.theregister.com",
-        "publisher": "The Register",
-        "publisher_url": "https://www.theregister.com",
-        "language": "",
-        "seendate": "20261125T061602Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aSnVNOTQ5Ml81YUdQSkxzbkI0bVF5OUV4RndqcjVrWkM1SGw4V0tZOVJEbGRmTGgybGxfTUwzRVNISTRFUmxkX0cydWlPcVRCN2dIWFFfaklmbk40ZnptNVMxUURLdWFoRUtUNkNR0gFzQVVfeXFMTVY0aG5JUVJlODBXb0tvdmJTRjJoV2R2Uk9TMVpKcFdpLVpTUThDU3MzcGw3RnVmanBjQ1VNRFlkRi1JZUMxMDRNcWFXLVJoNlo4dVB6VU91V2tYRnpDU1oyekUxaWQwdlBXbGJoZ1ZlSGNKcw?oc=5",
         "domain": "www.cnbc.com",
@@ -379,13 +239,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWl3dDhwR3FZYjRkcm9rUzN5RG1Qek9NdHNjNW9FQTRyN25zQ21teXpJMGJoc3ExVEU0N3lGN0dFaHdhbXRpLVZQc1pBVnlQaWNueDRaOGdQNGZqSnY1QXdqbHl5Z3BlWjVUZHhFSW1wenJxTGcxUS1LU0VfU3hIZWJxQmM5Wm5fR01OZ200c1B4ZDlnLXhUVNIBmAFBVV95cUxOLVlhdUpLRW1wWGpDN2xXTnVSUktITEVJZHJ0ZDBkUXRuWGV3S0drQUkyTHpaVkJEaEtYWlZUMmxmbE5DcUtxMWpxaU9ZZ09ySEZnSEtFaFk0U1h6eGlRSF9FLUJMVzlfV0FoYXVlSVVFbGhHMGFzTmxIR0ozRUVxdi1LMktyLWszOVBhQU1VWUhZYm9DVlh6MA?oc=5",
-        "domain": "www.dw.com",
-        "publisher": "DW.com",
-        "publisher_url": "https://www.dw.com",
+        "title": "Romania Owes $6M More Sanctions, Court Hears",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1ZDbENua2pVdWNBbFQyeTdNdVl5dWE5S0dGYXh3MG5NcFdzY1VpYUwyYUp4emUzMkczMlJPazJuRy03LS1IRE55RU5PUHB4a1VGM3E3cEtRbmcyVFBCdzlTUm9ROWlKUk9vUW5WRTJwVjZoS0lWQXhhbk15a3dCc3lTdUdjM2hzZVHSAVZBVV95cUxQZDNrOTZJaGRWbkhVbHdCRVhZVEpPREpwZUdYQXZDeGM3ZTFWQjRHc0tmcnBUWEthRi16YmxXMjNpTV8wbkp4RGRScmNQVjZFb0g5LTd0UQ?oc=5",
+        "domain": "www.law360.com",
+        "publisher": "Law360",
+        "publisher_url": "https://www.law360.com",
         "language": "",
-        "seendate": "20261125T020251Z",
+        "seendate": "20261126T023250Z",
         "source": "GoogleNews"
       },
       {
@@ -399,23 +259,73 @@
         "source": "GoogleNews"
       },
       {
-        "title": "North Korea expels Swiss envoy over sanctions on children’s camp",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEstaWtKOXBvbjJiV1pXeHJEZWZ3alJUZlM2SGpRNnMteEdWMzdmUy1oQ0VmakFMWHBpX28tcnFiTzZaakVNRG1yenJlU2JlbE1xWFNpYkhPZkczYm9vbGo4cmxDMkRTY2VHSGoybzJ5SGlCeWJKRFA3bGd4UkU0ZzF3U2lIVWp2NnJzWGZXLWxrOW84RXBvQTBSRlctaUZrWll1MF94THAtV1BycS1F?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
+        "title": "Huawei convicted of Iran sanctions violations, bank fraud and trade secret theft",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnIwV2RseDNscDJ6NktUcnRtbDhHLUdYS2h3OFhiM2p1ZlNmSTlnbGFPaExEZEhZbWJQaW1rZjdKUzVidS1KOFNqalFMYkpzR25JZS1aVTF6QmNBZ3NKZEZiM0pScTY3cDJCaUltS0RDczRQUGZfaGpsQjBZLXVSZERscmdWSlRIWWwtV1prcktnZk0?oc=5",
+        "domain": "beinsure.com",
+        "publisher": "Beinsure",
+        "publisher_url": "https://beinsure.com",
         "language": "",
-        "seendate": "20261125T093219Z",
+        "seendate": "20261125T153333Z",
         "source": "GoogleNews"
       },
       {
-        "title": "North Korea expels Swiss diplomat over sanctions weeks after office reopening",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjRsMzM0TzRrdmpXMDh2a2FnVmFPaWF6NXBGYUNmUTJmV3FZbFdpY0xHZDBIUXg4NERISWs0SXlJR2o5ajUwQzNvaFlzSG5IZmRxZklmNWVwX3d0VVlkbzR5MnJmc0x4cFF5Rm5ocDY3bWstZ2E1MkpRckxTRS1DcjM2bkYwZHJiX3cxQ1FOeWhZUEJUN1FhdmlJenlvMTJHMl9CeFBpZW1zS1ZzYW52dzVQUQ?oc=5",
-        "domain": "wmbdradio.com",
-        "publisher": "1470 & 100.3 WMBD",
-        "publisher_url": "https://wmbdradio.com",
+        "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1J2X3AweENxV1VOaTQ2bEFTblFqaDBDWFFnUV8xWFFUbjN5d3N4ajk4LTh6VlVwMkNSSF9YMzlXU0VZYVZzYXlicjZQYnFuR2k1QW9WNVEwQjVIM1dPeEh5VDJCZHczaUJoQ2JYdDh4MlVacGFEMl9mSmJqNF95dmRNY0Y?oc=5",
+        "domain": "www.ft.com",
+        "publisher": "Financial Times",
+        "publisher_url": "https://www.ft.com",
         "language": "",
-        "seendate": "20261125T082516Z",
+        "seendate": "20261124T204306Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZV9tZUx0bDdvbVFBWEo5LWk2RWdPUGU2aGhDWGhQLV9kNUh2U2pqNzluQjRkM0ZRRVpyWkhJWmFkZlluc3lYd2xvMTg5WUNSdGYxRmhfakVkTzhFZmFxVHF2V3ZxNFlVOFNVc2ZTSnRUTG42SjZjSGhwdWViX3Y3dktXLW7SAYoBQVVfeXFMTTJiX3hFaGZpdklHSVhEc1pROUJlTmdLcDhVelQ3SzdPVDY3VHIxMV9tQzNYSE5yQ3lubXBXckVIeW1qSE9FSk1iTXNJSDFsWS1ZMlAySFIxQmEwc2dlQ1RNRUZuSWpTNm5EQnpld01valZQLU4zbHgzUEVRTEJUYzNrTS1XT0FrNzRB?oc=5",
+        "domain": "www.upi.com",
+        "publisher": "upi",
+        "publisher_url": "https://www.upi.com",
+        "language": "",
+        "seendate": "20261125T070725Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Huawei Convicted in US Trial Over Trade Secret Theft and Sanctions Violations",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjBaU0F5cnRWd3NXejFpNW5BaHlYMnVaYV9TV1V6WEQ0SFZRaE1DcUpZa09obl9SZ1V4SE5tdGlXbTB5WlE0dE1VRXhkcXVsRVdWOHpyam14dllRbnR3akRJVURXbFAtWFNNWlJpODFIa0NsbWt5MUlRWDg2aDNSdEltVEVjaExEdmNfckJwd04ySFBrMlN4V2NUcmJDVC1iaTIyYWNIa3cwSDVjLWFEOHA1YlhyMkE?oc=5",
+        "domain": "securityboulevard.com",
+        "publisher": "Security Boulevard",
+        "publisher_url": "https://securityboulevard.com",
+        "language": "",
+        "seendate": "20261125T185813Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU targets Russian ex-soldiers, banks and sports in new sanctions push",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0MzcWRmZGdxakxaM0VVWVZkRkducWNKZDhCRDhIVnpha1d3eUVDVUJoSnpFTklsTE15a1NYajhPa2RaQ1lXeWJOdndmb0NvRkF5dHN3ZTFLZ3c2ejhvWGtEelRGQ2szNWVSVEdHcnJTZ0NuaEx1ZjdhY09jMGpnRUhINnM5dU9LSHc2WTZWaFh6RUlSQ2p6ZmZENXdhc3Mwbk15ZkZpVQ?oc=5",
+        "domain": "www.politico.eu",
+        "publisher": "POLITICO.eu",
+        "publisher_url": "https://www.politico.eu",
+        "language": "",
+        "seendate": "20261123T161500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UK Imposes New Sanctions on Houthi Leadership Over Regional Instability",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNG9JWDNQaFd5aVZhREJoNGYyenQ2cVJnNUk1RmNfTE1GejE3dlBEcWdPMmprcml2OTZIMVgzVS1uY2d4ai1VdmRGNkYyZC1JMGVFZFVfbnc3c1NGbGs3MjFHYlF3cEhlM0U3MXpDcXBoTlhEVmZSbWx5am9McFVfOGFHUGF6X21uWHVlNGhqOS1sZW1TMGVzN05pRS1wdnRHTjN1YVhnQWhUckJXLXpXNkpMRXR2cjVHMzlWVGd3?oc=5",
+        "domain": "english.globalarabnetwork.com",
+        "publisher": "Global Arab Network",
+        "publisher_url": "https://english.globalarabnetwork.com",
+        "language": "",
+        "seendate": "20261126T075633Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Russian Diesel Sanctions License Has an Expiry Date for UK Importers",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDVsM0MxcDdXbnVMQVZPX2ozMU1XeXV0aWpWX2ZlcWMyRFRHbV9uV0doc1Q3aUxBam1XbWxiN0VvLU8zbVpnZFVxN1QwX2t4NWwwT0J5Q3djU0xOVnB3aFpjZXFjRGtZTlhITUE4TnVtY2NXLWtEQi0tcGdXazJ6eGxkN25QTFZGMlUzaUY5XzlpNGxpV0pxS2NlMHhwMjBtWmc2SjBjYw?oc=5",
+        "domain": "www.stonex.com",
+        "publisher": "StoneX",
+        "publisher_url": "https://www.stonex.com",
+        "language": "",
+        "seendate": "20261125T220307Z",
         "source": "GoogleNews"
       },
       {
@@ -429,43 +339,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "EU sanctions proposal would target Umar Kremlev, who reportedly helped fund Trump Jr.'s party",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT1FQRkhSLXdwd1NPTjVTMkxTMFhyTUQ2ZjNRT0U0YVY2eHRsdEhCNjViWHZESXhLeDJwX3BqQnJibkg5emo0RjRyVVR1SGhiQjg5UG85VVk1YTU2amtIdlJUemlKbnpPTTZkaWJuNEFlQXNxS21mS2JuMV9PUzBoUnhfTG9MS2M?oc=5",
-        "domain": "mezha.net",
-        "publisher": "Mezha.net",
-        "publisher_url": "https://mezha.net",
+        "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHFRd2lyTUVtY3UtZ0o0MUtLNF9BTEtPd0R5NFJiT3JMUDhTRm1QMWlLa2oyaHJ1ZTBuZmtLTnAzdmEzd1ExR2ZRNFliQ3AzUWczTktZME8xTTZ1Uy1LYjR3bnVGVXRnZ3N6XzZjb0QzSUhndVBuNmx3bTRFWVR2cWhTUVBwZVNrM0RTMXlGT3JiS3BtcnUwQ0YtU3VxMndTU2FuZDlEZHFVTGd6TXBoY0pzQ0xndHZnSFItTF92T0fSAcYBQVVfeXFMTlZQMjJNTmdZam10REtzMEVTQXF3dm8zX18wM2RCalFfTXpIY0tOUmNQRUhFTE5HbUw2NWJuSkdDNnV3STNjRVVLVzY1S0FLb3hvbHY4Y3EyUEh4VUpXRHlSZlhDbGJmLThGa2JidzN4VFdYRm5yajR5Z2pNMTZxNHZhdTZJNG1xMjNXUkduME9lN2NJTE1wZjFFRTdmRGJ4RUlpMjlxUlFSSXVQQ1M4bl9vazZVVkZtU3N1Z3VmZjd5Q0xhYmdB?oc=5",
+        "domain": "www.pbs.org",
+        "publisher": "PBS",
+        "publisher_url": "https://www.pbs.org",
         "language": "",
-        "seendate": "20261125T175452Z",
+        "seendate": "20261121T002854Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Huawei convicted of violating US sanctions in Iran operations",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14Z0ZOSHR6X1R2dTlIa1BXNDkzRTRuWE1QVmJyMDJRRktSV3pWZ0QwbXJJMmlySTVHdzh1TUFnTHptMFVMd2tfdjhvdnNVUmJnSW1RUG5ETC0wQU9ELWsxVXJrWk9JTmtFQ2U1Y19YTQ?oc=5",
-        "domain": "cryptobriefing.com",
-        "publisher": "Crypto Briefing",
-        "publisher_url": "https://cryptobriefing.com",
+        "title": "Huawei found guilty of sanctions violations and stealing US trade secrets",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnZndkRQX2lhQ3RHWVc2ZWFMbUNGTXdabVFoRVhPQjlzbUZMYXZqM1hPNTJXTGhkeXg2c2tzWXlEdGVnaUh1NFY2ZFh5QlV6M1RtcjRVbFp1dmdaMVlkMkI4Wko3cGRHbU5DcWwwVF9NcW9sdEJpTkh3QWlqT2g1ZE4xaFlfM05qN1pTY3hKaEw3eFZpSThzUnRCU0hsaHU0SG5QSWhqa0ZIajE3dlV2T2xxVVdZT0VW?oc=5",
+        "domain": "www.datacenterdynamics.com",
+        "publisher": "Data Center Dynamics",
+        "publisher_url": "https://www.datacenterdynamics.com",
         "language": "",
-        "seendate": "20261125T115729Z",
+        "seendate": "20261125T134808Z",
         "source": "GoogleNews"
       },
       {
-        "title": "US Appeals Court Tightens Filing Rules and Expands Sanctions Beyond AI-Related Errors",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlZfSTVXOWdXVm9BU3VVSFpocVlFV3U5TTdCTE1rQkgwSndYQnNady1EVklvcHUzN0V1SzdSMUNLZnBYTUh5VnhCSTZ6eW5FSURxSmFVZ2sxTUNsSWRXd2txN1FhR0dURGVFWllHVXVDNzFNM0p0bTZVb2c5REUtNQ?oc=5",
-        "domain": "lawyer-monthly.com",
-        "publisher": "Lawyer Monthly",
-        "publisher_url": "https://lawyer-monthly.com",
+        "title": "Europe tightens sanctions on Russia. America loosens them",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkxzUWdBcFpHVy01Y3hvOURnd0drNUZuWW9rWC1QQk5GQVV0blFhU0ZnZVFpY2JWaVZrUlVhZ0pOV2hkVmNtUUZ0ODIyVGtxUWx6RU9LNWhJcDJNTjhCYVlvODk2eWYwRHRnbnE0NFAwOGdaQ1BsTFdSWUVFSFBzaHJaVWxDc3NSRF9ZRFVqTk1TdzZTWmNCUDhqLUJsN19YUTl1YUNPMEY0MTNnenN2aHNUeklwdw?oc=5",
+        "domain": "www.economist.com",
+        "publisher": "The Economist",
+        "publisher_url": "https://www.economist.com",
         "language": "",
-        "seendate": "20261125T091250Z",
+        "seendate": "20261119T100323Z",
         "source": "GoogleNews"
       },
       {
-        "title": "U.K. Sanctions Yemen’s Houthis Over Attacks on Saudi Arabia and Shipping",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3A0LXhOVDZKQjZyZGIxUlpHN2ZKOVF2S2tmcmpsdkpQQ0VKcVhveHRQRFpIblg5Q3JlN3ptcV9hN3ljWjduTHZ4b05GUHMwVjRZczJuajVfNnVIZl9rMWhPcVVSYlZPLU1lOTVhRVc4V3VPZzZLMUh3YVE4Y3p5TUgyb0RtSTZiU3VGa0E2TVZYOXdlNVQ5QXZFdmF6Qkg0T3pVTkhEaHZ2SXM?oc=5",
-        "domain": "www.wsj.com",
-        "publisher": "WSJ",
-        "publisher_url": "https://www.wsj.com",
+        "title": "Foreign Executives Explore Venezuela's Investment Potential But U.S. Sanctions Pose Major Legal Risks - Report",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2hJS0NWem9FMG5tQWdadERIczlvZXQzcnAyckpRVUduRGVvNFY0bDd3M0hoQ2hDWUVpbTM2T21zTTNoQk5JWU9ReUJ0ZTFBTmJyZWw1RXFuTlhJbHlmQ3BIR3lONlFXdHQxb2VIUjBnZkJpMG1LRmRuY1V0akxjRDJDa2ZMSGxOVmkwNm9fWU1XUQ?oc=5",
+        "domain": "www.latintimes.com",
+        "publisher": "Latin Times",
+        "publisher_url": "https://www.latintimes.com",
         "language": "",
-        "seendate": "20261125T124600Z",
+        "seendate": "20261125T163056Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UK sanctions five Burma generals following Rohingya genocide ruling",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWEU2TTl4Uzd3bzhiN28tbnRBcHBEdHI4WEM0NGpQYUxjTjNFQkxvSjhLbzVLdlozWU1xa18zWTZkQ1JDSmI1VUpWU1JCcHBxQmJvel8yWFFvbHJ2OUplQ0txMXhNU2xjUkJRekQ5QmQ4YXpSZHpwWTlRMjRVcHVTd2ZSOWtERWN2TWR6c2JkWlJHZ1NrUVpIQ0FxZXpDdw?oc=5",
+        "domain": "www.muslimnetwork.tv",
+        "publisher": "Muslim Network TV",
+        "publisher_url": "https://www.muslimnetwork.tv",
+        "language": "",
+        "seendate": "20261126T074456Z",
         "source": "GoogleNews"
       },
       {
@@ -479,23 +399,113 @@
         "source": "GoogleNews"
       },
       {
-        "title": "These are the possible sanctions awaiting Héctor Herrera after his unexpected arrest in the U.S.",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPclZMRVgyeVNFOFljb3BXeDEzZU5wSjY5NUFzLW93YnlFMWM4bzV0eGZYWnRHa3gzd3ZaTzNvZ3U4d1V4b3o0VFpBWkVqUWtka2JKbU9RUFQ1WFV2TWhCMHo2YW9welRKejc1ek1xYzk4SUdhVHM4RmJ2cGhZc2d5djhEaFJGcGp0bUtSRFd6d0pHaXhNcVExSnhMTUc4VWZVVTNZdmJjNHJBMndrU1JpZVZKN19oV1dFZzJienRKcHR2Zm5uVi15SVZrajNpM2dNcUt6dW9zc2hUZkZvVkdNNXY2d9IB4wFBVV95cUxPbXQ4a2xxc2MyY0tXaHFtcHk3RUdrQkpzTlVYQVdKWExwTFBqM1B0MEpoLU05UTNzUTdiZkItMUNqMHotaDJoTksxdDVWQlRxWXc4bDRfb2lJQVNzejZVNWVyQXhmNlltSFljZnpJSFVNczN2UDJKZi01c0M3cnM1U1B2MXBEWDUxeENMcFVhU2dIRk05UzhTVThoS29Qek1QOUlRYlR4UGg4U2ZscjBEajFVYmRQMFdXdXZJdWJ4TXBHNzJ6cWtlbWlwcEd5c2h0VVQ3OHpNR1F6bGRMUzF1YVQxRQ?oc=5",
-        "domain": "www.marca.com",
-        "publisher": "MARCA",
-        "publisher_url": "https://www.marca.com",
+        "title": "US imposes sweeping sanctions on Iran",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJejVKSHAtQkRqc2JpNHVYOXNOeHJhVmpJU0ZhZWhJSU0zdzVCNUlxdWxOTlNhOUhONXVpNmx3MW1pOGZpSDd0S2pFZG5GMDFrbFN2NFN3?oc=5",
+        "domain": "www.foxnews.com",
+        "publisher": "Fox News",
+        "publisher_url": "https://www.foxnews.com",
         "language": "",
-        "seendate": "20261125T122545Z",
+        "seendate": "20261125T235336Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Rayman Legends Retold Review Embargo Date & Time Details",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHUVhaV1JWOHpGcWhROUtDVEpfM1RzQ0NXcm9GVGdYa2NfcU9MSGt2cjVTWTdoZWZNQWNTNGxSalNzdnBRdEpBLTFWSDU0c2VibDNjTndDbXlxVklCam14ZHNHRmw1VF9UVmZVYzk4dXh1dw?oc=5",
-        "domain": "insider-gaming.com",
-        "publisher": "Insider Gaming",
-        "publisher_url": "https://insider-gaming.com",
+        "title": "Sanctions with a way out. Brussels rewards firms that drop Moscow",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPazZkN1pmMC1fOHkxV1JpVUJWdzAwaWh4aGxZbFRuaUFEUHo4RXFQYlU1NVpRUU95VnpWSUxzVktYOC1JSzR1eGpfTVVwY0hnTXRoY21tZG9nMklzVEVRcDcxb01LRHl4cWJXNVBnLVhGajBlTnBaOXh0VFd6TXEwci1BdnhRdGpLcExNamVFNE4zVHFJYXhnbUlPZ0g3YnIx?oc=5",
+        "domain": "euperspectives.eu",
+        "publisher": "EU Perspectives",
+        "publisher_url": "https://euperspectives.eu",
         "language": "",
-        "seendate": "20261125T131638Z",
+        "seendate": "20261125T143556Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU targets Russian tanker insurance and energy infrastructure in new sanctions",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyNEprMzA3WDYyZnNsSU1faU1kMVBRRTVJZmFKdkhvZk5OczVmbjk2Yk5GUzk2ckg4Sm9PNmVqRF83SXRYbGpHRVhPQ3VxcGxkOTl4cl8yWTZESzF5ZXZwLVp2X0VZZ0hhazRuMmo1VXdvcEJJaFJxY2wzc3c?oc=5",
+        "domain": "beinsure.com",
+        "publisher": "Beinsure",
+        "publisher_url": "https://beinsure.com",
+        "language": "",
+        "seendate": "20261125T150333Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Treasury Department Targets Iranian Exchange Houses with New Sanctions",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVpYOGFDd0ttM3R4V0ZFbnB5ekd3Z203dWM2aUhoaERzRHdUbmtEMkI3ZW9WTmxWOWpXcGt6UzFfdjJLTEVad1VTSzZRMkFmTVBDUlJDS3V6elU2NktuRlMxc1B0cTlwbGJwQ0xTRm8tWTlIZFlZUjhsNDVJRTRLVGZRVC00LVROdVBKLXBhWG4zc1RMd09raFhyWWFGY2VXZzhhVWdJdS0zM3NCdmpNaFo2WTVydzVNWXZ1aDRn?oc=5",
+        "domain": "www.presidentialprayerteam.org",
+        "publisher": "The Presidential Prayer Team",
+        "publisher_url": "https://www.presidentialprayerteam.org",
+        "language": "",
+        "seendate": "20261125T100000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US puts sanctions on Iran-linked firms",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZlh5WmtfUXNFLV9NT0JzYVJOQTNLRjRmUFloVUU4Uzc4TGdVN003MXYxY3lJRVdicTNzZWh4cVNaSzRzQ1hFUVVwTVNSR1FSU1kySGhsWGRaRGVfUW4tN2p0MHFYcjJtbDRJNHhNaE12STZWWVV6WldqMm1qVV9RQWlPVWVtNXFtTlBjZWpNUEY?oc=5",
+        "domain": "www.arkansasonline.com",
+        "publisher": "The Arkansas Democrat-Gazette",
+        "publisher_url": "https://www.arkansasonline.com",
+        "language": "",
+        "seendate": "20261124T100000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU proposes sweeping new Russia sanctions targeting banks, crypto and sports events",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1FWT0FKN3NFS3JoRG0zYnZvTkpjNEZqR240QzdMQVJDM1lmUklKeHpLeUl4bmFNUnlSa29kaU13WmhBdkNmVkt1WVZDUkdycVl3elQ1c1BwelFsLWVJeDhNNVBORWZBLWlhd0VqQ1QzLXFaNEZjRHEydWY1MGJYcDlYeWc5RjE4UEVEekJDYURuTWJfbk1WMGo1dWR3Zl84TUs1NEFJemZPZHVOVEE?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
+        "language": "",
+        "seendate": "20261123T173100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "UK targets Houthis with new sanctions",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObG8tNFNwdUhidVlhTVFUWHV2TWFqTlV2aWFsMzlpQVpsVm42R1M4UHFzX1pEQ2NxeG1FcXNod0xrdjh2RzhmTGFRVFM1RTZQM3B4M3pzejNfbWc1c0R2MGNMRnNWbE10bC1HOGdsX1FpMzE3QnJQaV9mRmRTcUk2a0xMWmd2dw?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261124T120456Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "EU adds Rinaldo Nazzaro founder of \"The Base\" to its terrorist sanctions list",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdEVTanFPMmYxQ0FkZnRIejJnMWR1clU5azJuaUx2b09KN0k0WmYyVHNocUhUM1N1bzdaRVh6alg2b1BnMUxVdmp6VU9jMmRsZHE5UzFqOGpkbmZpWUVSWk05UG5MQjJ0SFRmaVRiLVcwdFNOaGlqcVRBTlhFdHltWmhQUTJ6bDBRYzlTbGVET1RwMi1pbHlWLW9IUzJadzM4MmxnQUpTVENkTjg?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261123T142146Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Bessent gave Iran weeks before it had ‘nothing left to trade.’ New sanctions expose what survived",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1RGNktxTDlib3k4VlgyVUpyVGo0Y3M5N0ZudUNHM0t3bkltZmVNV2RiZDlaaC1FT1ZBU3BaWFE0dm5maHcxUWRUNUxUdUhDZHM0R2dUSDRTSE1xNDZPTHhxdC1PcG8wYW1iVTFsT0RKMnZHamNIeUdyVTdvRTZUTVhRTDdPaWNrWThxa1M3RC1aLVRURGVMQnhYTlMyN3d2Z3FJM3hKTnJ3QjZ4Si1SMlJQRWpTZXBR0gG-AUFVX3lxTE5JVHR4Q0EzTlJFaGtGQlhmT3JFTVZzcU4zUzhCMUI0T3J4a0VpT1htZmVDei1Oa3VMLU52SXE4V0p4TW5jYnJjMENDLW9xc1JQN0dzSnBEakZNMjBRMmFLQ3Ruc2Y4SUhFZ2xZRF9hVlFvelZsZmJTVUQ1bjZ4MWpkMFBUdHlNZXhYaElQREd6V2JpU0lWV0ZKcVdrNVpDMlhBY3dBajNCVGhWTUxLbGJZRk5KVWMtbjRJaUE2OWc?oc=5",
+        "domain": "www.foxnews.com",
+        "publisher": "Fox News",
+        "publisher_url": "https://www.foxnews.com",
+        "language": "",
+        "seendate": "20261123T211257Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Huawei convicted of sanctions breaches, fraud and conspiracy to steal trade secrets",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVlmVmZmelhvSEdRWExVdEFuVHNDdnJ5amhLU2thdzZxQmx6X2ZMN2VjVUdXUGMza1lhbTA2RENUT294X2hzN3FkYnRDLUJUMTBMRERNUi1uajNJLVRTXzlYSDVQbnVRb3BHR1NmVEhTd01EdlVsejFmQzB6WDJ5d0VOVDdtdVdYRTlqUGJlanRycGw4UmVCVnJwSmpGYVVtSWFnaG93RTk?oc=5",
+        "domain": "iclg.com",
+        "publisher": "ICLG",
+        "publisher_url": "https://iclg.com",
+        "language": "",
+        "seendate": "20261125T094611Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "New U.S. sanctions target Iranian shadow banking system",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjNFcF9tV3VUN21KdDNPbzBfYXhpMkt5aGdpZmZmd0dYYjJzSHlITWxlenJvenVCVzdBS1pQaDgxcHMtZXZWUEZ4ZE40NzlLY2hxcmtGbTlsSUFXeGE1bnI3ZFdYZjYzMlVsR2pVX0l0U0RLcExvUUVXQXJLZHIzSC13enJ0MUZPU3lpNmFn?oc=5",
+        "domain": "wng.org",
+        "publisher": "WORLD News Group",
+        "publisher_url": "https://wng.org",
+        "language": "",
+        "seendate": "20261124T155600Z",
         "source": "GoogleNews"
       },
       {
@@ -509,126 +519,36 @@
         "source": "GoogleNews"
       },
       {
-        "title": "North Korea Expels Swiss Envoy Sylvain Astier Over Sanctions Dispute on Songdowon Camp: 22 outlets compared",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRU1INzM5dDl3U3hWdHdyamk2VWJjdmZ6bEU4YkItUmFoaTNsSDc5d2Z5d0xabHRMcGZOYktpcDF0WU4tRlBOQzFwMnUwcGlGUkNpUzlyRzBkejJSdndHZjU1dnZoM3VUYTlRcWVrRTRVcnBTdVBWcVg2ZEt1czBYMHZlWGRzdEozNC1UN3RQMDVxaFFNZ2VkOWhlMnR5NXV6a1JvN1hMTXUyZnJnTFhTUlpFT01jcHZNT2lOQ0xyd1VLTEd1eVF6eE0wRmVwd3pHSEtJN1Fxcl85bmJqSy1pYTlrTXBXUXJqZWc?oc=5",
-        "domain": "newscord.org",
-        "publisher": "NewsCord",
-        "publisher_url": "https://newscord.org",
+        "title": "Britain sanctions Israeli settlement firms in push to protect two-state solution",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXk4clBMd2ltVDE1T2tJSlJRLUs5dTIzUTVXVVRkVWNMUTRzMEVFR2ZvVHNUelRhZXB5WDZGU2lmV2p3VDIzSWNwdVVRbnl3Y0JCWXQ1VnAtRmQwZWxsdU9GSDJ1ajh3U1pCRDMwRDdTblBYMUs4RE1udnNzSkU1alhwQm1QNHo3aF91M0Zod1JsNVV4RllPcHdkdEoySUxsRkhIZ2x5STF2LWdEbWF4M1czUUNySWJDdGc?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261125T173348Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US warns Kim Ju-ae’s ski gear may breach UN sanctions on North Korea",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV0R1bHBicFFGQ2h3azVmbmk0Mlh2VzV6S0w1YkJLcjREMmtZWHhXaUVvdmRuVzlBdFFNRFhmT09yQWk2VGVGYVNVRE5CMXU1UlZrNTFobEZLcVFKQU55c1ZGandLRXp5ZmhkUUxOaXo5bmRlbkdtVkxsWHpJajIzUXdVQ2diUmZxLXNSTTdNamhaRk56OXBzM0g4NTBmamlzNzVrVWRnNlJGdDhOUU5hVmZ1Yk4wMENFamVPSDItNlZKM2_SAcMBQVVfeXFMTVdZdm5IRDIxWnB0SXR2aVpRV1VMalN1VVVvb0l0TUZxNlRMcW9LcnFUSEQxSEtvZ0Y1MDE5NkJoOHQ5eENhbElseWpZaldPMTM2ZzJkNGZ4TnM5TG40MWJWUWpJYlJiS041c2k1UjNJWnNtWHZ5bWE2RmxDLVZDQ1NRZzRiSW5wckQwTVU3dzhkRDBvSDNfNE5odDJOU19vc2ZCS19UNHRRaVllVTVWRHJHRWhzZ3hROHRVU1dhWXJ1emc4?oc=5",
-        "domain": "www.scmp.com",
-        "publisher": "South China Morning Post",
-        "publisher_url": "https://www.scmp.com",
-        "language": "",
-        "seendate": "20261125T092447Z",
+        "seendate": "20261117T080000Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
-      "title": "North Korea expels Swiss diplomat over sanctions weeks after office reopening",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUNWNUd3TUtJYTY3OEc0TGI5U1NhNDdFREhNdzVxU3pnV2ZoaDgybzlaS0lvbVRXNWVxeG5uZFRRVEswT2s3V25GLWppMEJtLUZvSTJ3UVVVTE8tMUtGVFVSempYNmhyMmdjTXJGb0RGTFdMcVc0ZTJaUkVENC1tWk1Mbl9LYlBGZUYyRUJqejhCRXdyWGdhVVdxNnJjRTA1dlVmdUxHd0JOalNrWXBLQ2hGQktJalJjQmhqMkVBT1ZNWlFqa2xWeHFiMWdaRmZtRV9EYkNibTczZw?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "language": "",
-      "seendate": "20261125T031900Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Exports Restricted to Seven Entities",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOENBVUJpZmtDZ09uVTk4dTFQV2Nzc0VRbmtHTHJrTDVIWkxqWkdlTmNoNjBYb1dyQlEydWtISnZPaXUwMEt4UWN6UVpvd2tEbmxNMVFaTmROeVk1Yk1jY3hVeU9Qdi1HcndxdmowYjBsWktsWEN4d3JEX2pGd1lSOUVrSS1vUkZHd1NDTkszMEZYNFlkM3Y5VzlGRUY1OFB6eDNnbWpNcUZyR2Rz?oc=5",
-      "domain": "www.strtrade.com",
-      "publisher": "Sandler, Travis & Rosenberg, P.A.",
-      "publisher_url": "https://www.strtrade.com",
-      "language": "",
-      "seendate": "20261125T194517Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "New EU Sanctions Plan Targets Umar Kremlev, Who Paid For Trump Jr.'s Post-Wedding Party",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWJoVWN3MFpIdHJZSDdoTGFsSkt0OFdPT2pYMUUtRy1ySzlEN1pNblZKOHl6VVRydi05S2ttQnpHQ09faXFRZUtJQWpvN0pjMkhhRk9CSGZhNHZYMTdQbkw4bnNTSE5VU3p4X0Z3T0NCa21zNUpob0V6OHBEUUFRTmc1MkJhdjjSAYoBQVVfeXFMT2d2NlAtcThfTUpOam5sR25XUWtuelV1LWdaVG9nWmx4Z1h4Njl0SnM2RF9YbE9ub2hJd1lDYlhaTnlvSnN5aHJpRzRrLVh6ME5mRm5SZ2tTbjU2cUNuaHI0Q2Z0TF92LW12X3hQdmE1cDJFQnZjU1VYYUNERW11ako4ZTBsV1hiTUdB?oc=5",
-      "domain": "www.rferl.org",
-      "publisher": "Radio Free Europe/Radio Liberty",
-      "publisher_url": "https://www.rferl.org",
-      "language": "",
-      "seendate": "20261125T174425Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "The U.S. Government’s Deal to Buy Lukoil’s Assets, Explained",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYU9nYU02ZU5kYzJHeDR3RkI3ejdRdkxlUHNMdUN3cjg2RXphUnVsclhRd0NxZW1uNGFVOG0wRTZIVmxnMXhzNVo2aUthWUpydVRZVHhsSDFJRk5tNWRCbUI4QXAtWjkwOHI5LVEwZkF3aHBnSmwyYVo0UVdDN3Brb2Z4U2g?oc=5",
-      "domain": "www.csis.org",
-      "publisher": "CSIS | Center for Strategic and International Studies",
-      "publisher_url": "https://www.csis.org",
-      "language": "",
-      "seendate": "20261125T170054Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkZ0SENvb0cxQVppX2ZNRFQyVDNzb0dKNzl3NHlBQS1TaFpQNlVpd0ZUZUtGSTBaa2pDTk95VVdaWXFxS3UzUTRmYXRXZUtCbndXZnV6VjZSZU92d0ZKU0RzbmptZUM2LXV2M3ZpWkNuMnBpdExGa3gxQjlOc1NyTnFkcnhKODlwbXpnMkhzQ2h1UjhKNUZYMFlWUXJsbm1HUm9Gdm5nZENCenQ2RHVkUUE1WWLSAboBQVVfeXFMTktvbUdsUC1kNmVoLVl3eGY1Yk1vZEpoUFFtQXFOY0NQcXltdzVZSi1HaG91OGxMRmMyWk4zMXFzWThnYjNpYXJzNUVTLVJuUTM5OF9aa2J2RDZIZzNSSW1IdUN1a1QzX2lGYlF0RTVtZFRuREI5Ym9uRFlidUhXT0wxN3cwMXc4YWx2M1lOV2l0eUhhVi1wcEF0emp0bXdwTkpLc2l1WDlkU1JYTElEd1N4eENHUTdnVGpR?oc=5",
+      "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWdYMTZKOS1KOXVpdXRLUkVDeGNhaVJOZGhZbVIyRDh2dnA1WUZNM1ZMNVFXMTU3UllPNE5SanBGZW1TX3NyMnM0OHVlalJhZmt1U184Y0wzNUhPa2N4b1FHeldLRTBhb09XVlZwemF6VTVwY0w0eEstMG5yNzdCSzI1WWFKOUNSVHNZcHdDRG9OQ2JUYzFDcHNJWW5NVHIyUHV5RkRHa0NEUEk4ay1FQmd1VdIBuAFBVV95cUxOa0I5N0VOM1ZmRWVnekJDbnA4WENieml4SEFGR3lOLTRBWWZTWjJkeC04SWJLWDRBRldjMi0tUmVyTHBCWjhzb2dqZWo2eVN3OVFac293ckVOYmVKS3loTmw5ZldMdVVscmg2cUpwNDVqamtCaWFKOEFsVnhvU3BUR0VRdnhqY0NKV05JSXF0Um5GZ0UzbGFYVV8wZUoyTldNODdSemwzWTJkVlpqdElfOU9ZRzR3VWl1?oc=5",
       "domain": "www.aljazeera.com",
       "publisher": "Al Jazeera",
       "publisher_url": "https://www.aljazeera.com",
       "language": "",
-      "seendate": "20261125T100547Z",
+      "seendate": "20261126T061013Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Federal jury convicts Huawei of stealing US trade secrets, violating Iran sanctions",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2RJaFVZZmo1Y2xXb0hud0trZHRQcDdNV2pHU1hoOWEyMlVkdE1mMTVSdGIyLUZnSzR6NkpuUndvWGpUc01heGlYUDlnTXV0bzZTZ0lPdnc5M0FIeWRkY3BHd0NaREVqZXY1TkdVdjdHZXlONTdiWlZkMVdYSFBzNTFLRHd5aUpTcWpmMjJodjhDTDNBLW5NY0F4Rm9IT0NTa1dKMEM5bElpeUJ4V0tOUWdsaE5qWm0zcmVsVXJ30gHDAUFVX3lxTFB2MUN5bnVLY0E5dG9RQkVYNUl3YWhOLUF4RmZVdWJOY3FzRS1Cd0JNWmdJMm9YTThqVkR1WmUzcWRxTWpwbEVUZzQxYXd2TUZSV1ZUODR1MUlQMzJVclVDbWljTE5SRFRMQnYzdFlPNDRDdHBTeXlHeXZ6dV9OaHU5N0x1NExWSjNRd3JMRHMzWXJhNHhYMmVXN2RGSXVYS0JhODlsTE01UXB5R2pwbUd5eTh6V0NITXJoVjBzSnQ2M1ZwYw?oc=5",
-      "domain": "www.foxbusiness.com",
-      "publisher": "Fox Business",
-      "publisher_url": "https://www.foxbusiness.com",
+      "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
       "language": "",
-      "seendate": "20261125T121900Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZV9tZUx0bDdvbVFBWEo5LWk2RWdPUGU2aGhDWGhQLV9kNUh2U2pqNzluQjRkM0ZRRVpyWkhJWmFkZlluc3lYd2xvMTg5WUNSdGYxRmhfakVkTzhFZmFxVHF2V3ZxNFlVOFNVc2ZTSnRUTG42SjZjSGhwdWViX3Y3dktXLW7SAYoBQVVfeXFMTTJiX3hFaGZpdklHSVhEc1pROUJlTmdLcDhVelQ3SzdPVDY3VHIxMV9tQzNYSE5yQ3lubXBXckVIeW1qSE9FSk1iTXNJSDFsWS1ZMlAySFIxQmEwc2dlQ1RNRUZuSWpTNm5EQnpld01valZQLU4zbHgzUEVRTEJUYzNrTS1XT0FrNzRB?oc=5",
-      "domain": "www.upi.com",
-      "publisher": "upi",
-      "publisher_url": "https://www.upi.com",
-      "language": "",
-      "seendate": "20261125T070725Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Illinois Trainer Castro Receives Additional Sanctions",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmdId1BxM0FlV3NwWGZVTHJ6b3NSd3VrT3ZDdXhFRWlORVN6T3J0aS1IRDc0RWFrV0lBOXlOR2dUTC1saXZZVURxUWEzaHNCYzB5VzFPYWtaMk9veVlVeC1MYllXLW9kTU16cThPU21ZR1JsQ192QTBTcXlKMlRzd3phRW85RkVfa1Q5cmxEa0lzRFhXWnV3X25tY2pxVzBOVWxqQUt1ZmczOUF3akE?oc=5",
-      "domain": "www.bloodhorse.com",
-      "publisher": "BloodHorse",
-      "publisher_url": "https://www.bloodhorse.com",
-      "language": "",
-      "seendate": "20261125T184300Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Huawei convicted of Iran sanctions violations, bank fraud and trade secret theft",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnIwV2RseDNscDJ6NktUcnRtbDhHLUdYS2h3OFhiM2p1ZlNmSTlnbGFPaExEZEhZbWJQaW1rZjdKUzVidS1KOFNqalFMYkpzR25JZS1aVTF6QmNBZ3NKZEZiM0pScTY3cDJCaUltS0RDczRQUGZfaGpsQjBZLXVSZERscmdWSlRIWWwtV1prcktnZk0?oc=5",
-      "domain": "beinsure.com",
-      "publisher": "Beinsure",
-      "publisher_url": "https://beinsure.com",
-      "language": "",
-      "seendate": "20261125T153333Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Huawei Convicted in US Trial Over Trade Secret Theft and Sanctions Violations",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjBaU0F5cnRWd3NXejFpNW5BaHlYMnVaYV9TV1V6WEQ0SFZRaE1DcUpZa09obl9SZ1V4SE5tdGlXbTB5WlE0dE1VRXhkcXVsRVdWOHpyam14dllRbnR3akRJVURXbFAtWFNNWlJpODFIa0NsbWt5MUlRWDg2aDNSdEltVEVjaExEdmNfckJwd04ySFBrMlN4V2NUcmJDVC1iaTIyYWNIa3cwSDVjLWFEOHA1YlhyMkE?oc=5",
-      "domain": "securityboulevard.com",
-      "publisher": "Security Boulevard",
-      "publisher_url": "https://securityboulevard.com",
-      "language": "",
-      "seendate": "20261125T185615Z",
+      "seendate": "20261123T193800Z",
       "source": "GoogleNews"
     },
     {
@@ -652,33 +572,113 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Treasury Department Targets Iranian Exchange Houses with New Sanctions",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVpYOGFDd0ttM3R4V0ZFbnB5ekd3Z203dWM2aUhoaERzRHdUbmtEMkI3ZW9WTmxWOWpXcGt6UzFfdjJLTEVad1VTSzZRMkFmTVBDUlJDS3V6elU2NktuRlMxc1B0cTlwbGJwQ0xTRm8tWTlIZFlZUjhsNDVJRTRLVGZRVC00LVROdVBKLXBhWG4zc1RMd09raFhyWWFGY2VXZzhhVWdJdS0zM3NCdmpNaFo2WTVydzVNWXZ1aDRn?oc=5",
-      "domain": "www.presidentialprayerteam.org",
-      "publisher": "The Presidential Prayer Team",
-      "publisher_url": "https://www.presidentialprayerteam.org",
+      "title": "USTR Proposes Section 301 Tariffs on 14 Economies in Structural Excess Capacity Investigations",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUjhaNGpwTFRXdmxqdTR6SnZ2WGp4VG5LUW9fQkhXU2h5MnJGQTcyMnBnN2FkWG1XcnFNR1NMbU4xNXZZeERnVk5qb054RXU4VDkzMV83RWxqUTNZMC1oX0I5TndydXBLX1RLdUktOUdyZTg5TVNZTVhLbVZtbFRvSm9NbjFDNkxGcXRtRDV5Zk1RNUJFM3RjR292anFRdUR5ZW9MdWpPSF9xZ1ljaHZIamR0LWQwNXNJeFk3ejVWcHdRNHhiTS1HRzlqbi1RLXlCSkg1Nw?oc=5",
+      "domain": "www.globaltradeandsanctionslaw.com",
+      "publisher": "Global Trade & Sanctions Law",
+      "publisher_url": "https://www.globaltradeandsanctionslaw.com",
       "language": "",
-      "seendate": "20261125T100000Z",
+      "seendate": "20261125T235401Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Huawei found guilty of sanctions violations and stealing US trade secrets",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnZndkRQX2lhQ3RHWVc2ZWFMbUNGTXdabVFoRVhPQjlzbUZMYXZqM1hPNTJXTGhkeXg2c2tzWXlEdGVnaUh1NFY2ZFh5QlV6M1RtcjRVbFp1dmdaMVlkMkI4Wko3cGRHbU5DcWwwVF9NcW9sdEJpTkh3QWlqT2g1ZE4xaFlfM05qN1pTY3hKaEw3eFZpSThzUnRCU0hsaHU0SG5QSWhqa0ZIajE3dlV2T2xxVVdZT0VW?oc=5",
-      "domain": "www.datacenterdynamics.com",
-      "publisher": "Data Center Dynamics",
-      "publisher_url": "https://www.datacenterdynamics.com",
+      "title": "The Times: Dan Gertler sanctions dropped by Donald Trump",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMFZTMWVNZm90TkFwOHY1UW81djl1WTBqdHJHM0E1cjU2WEJKNUtUdFE1ZXhicFBIcFJxOVhCMEd6T1BuWjBwbTctaGlEZ0Vjc3VYSDkxVTlteUFVTmZnWGgtR1FmWkFfMV9Tb0Fuckpwbmc5dzdpU3JzVkZTaUVfWDBB?oc=5",
+      "domain": "thesentry.org",
+      "publisher": "https://thesentry.org/",
+      "publisher_url": "https://thesentry.org",
       "language": "",
-      "seendate": "20261125T134808Z",
+      "seendate": "20261126T004521Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Huawei convicted of sanctions breaches, fraud and conspiracy to steal trade secrets",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVlmVmZmelhvSEdRWExVdEFuVHNDdnJ5amhLU2thdzZxQmx6X2ZMN2VjVUdXUGMza1lhbTA2RENUT294X2hzN3FkYnRDLUJUMTBMRERNUi1uajNJLVRTXzlYSDVQbnVRb3BHR1NmVEhTd01EdlVsejFmQzB6WDJ5d0VOVDdtdVdYRTlqUGJlanRycGw4UmVCVnJwSmpGYVVtSWFnaG93RTk?oc=5",
-      "domain": "iclg.com",
-      "publisher": "ICLG",
-      "publisher_url": "https://iclg.com",
+      "title": "Citigroup (C) Explores Venezuela Banking Return As It Seeks Sanctions Waivers",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWdtajZCUG5NMk9Da245YkxYUWFrM0xPcnR4cll2Vm14X2VDbnhxb3lsYVV6VUZORnhtdDRWcTRwekpJZ0xaSm5UMHlTV1dNeFpYOExyU3R2Vnh1YjFlcWJKRWkwVktLUjd3bjluc1FpbjV6clEyTWdSdURqRWc1ZEoyeVhlYWV2TnhjQk1qcmk5cl8ta1VrWWxIaldMdG5CaGJQOWxn?oc=5",
+      "domain": "finance.yahoo.com",
+      "publisher": "Yahoo Finance",
+      "publisher_url": "https://finance.yahoo.com",
       "language": "",
-      "seendate": "20261125T094611Z",
+      "seendate": "20261125T211524Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US tries to restrict Chinese offshore computing capacity",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbDItUGs1MHYxMjl6MUNVVEdqRWNEUlBZbW5GdDRaU2tUWHlITUhVeVdDTTF6RXYwYnJFU2JvcmNuOVZJc0swZ1NLcXJicjJaRUFfbkdYVC1aT0Y4Z0Y2RkpfcUhPSmQ2LVkxME0za2hqWmxyUmVVRjhVUHZVSHpzajhhMXRwcWc5UWFKNWxCYnUzVnRCdU54QTBfaGZNM0Fh0gGgAUFVX3lxTFBOZEczY1BEcktVRHU3bHVtYXFQeGlhTGVsSV94TERod3FFamRrU0V5WmRRQ0lXNjZjSUlEWGFNaXVSeUdxLUk0a3o1TXJ0NW94bmlmZUNDQ2dsU0p6Nzd2QjZQUUlJYnVKVHVmNXA5T1MxYXNROEEyU0RzVnlIT3RmeEdENGtEWVBkeHQ5X3lJS21JTlhkZHlBQURNUjJCMFU?oc=5",
+      "domain": "www.dw.com",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
+      "language": "",
+      "seendate": "20261126T063916Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Exports Restricted to Seven Entities",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOENBVUJpZmtDZ09uVTk4dTFQV2Nzc0VRbmtHTHJrTDVIWkxqWkdlTmNoNjBYb1dyQlEydWtISnZPaXUwMEt4UWN6UVpvd2tEbmxNMVFaTmROeVk1Yk1jY3hVeU9Qdi1HcndxdmowYjBsWktsWEN4d3JEX2pGd1lSOUVrSS1vUkZHd1NDTkszMEZYNFlkM3Y5VzlGRUY1OFB6eDNnbWpNcUZyR2Rz?oc=5",
+      "domain": "www.strtrade.com",
+      "publisher": "Sandler, Travis & Rosenberg, P.A.",
+      "publisher_url": "https://www.strtrade.com",
+      "language": "",
+      "seendate": "20261125T194517Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "NCAA sanctions Liberty over tampering with two players before entering portal",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVFXeTdGaHJQWU96dkE3cFdwMXlpNkJuelFxN1NqRV9LNWJtQmxteFlITVRYY3REeS1BY0lyUE1HeWhfSlE3c1hHWFljaFFkaG9TTi1leEJMT0ZYaVo4OTRONnFuTHkwVUYxS1ZBX1Q3TkZELUJYSUFnMWY1cXNNTEp5cTVqbGFwd0o3V3BuZlFWelRWeXh5cG1hdFFnaEc3MkcxcjNhRXY2Zw?oc=5",
+      "domain": "www.espn.com",
+      "publisher": "ESPN",
+      "publisher_url": "https://www.espn.com",
+      "language": "",
+      "seendate": "20261124T193400Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Federal jury convicts Huawei of stealing US trade secrets, violating Iran sanctions",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2RJaFVZZmo1Y2xXb0hud0trZHRQcDdNV2pHU1hoOWEyMlVkdE1mMTVSdGIyLUZnSzR6NkpuUndvWGpUc01heGlYUDlnTXV0bzZTZ0lPdnc5M0FIeWRkY3BHd0NaREVqZXY1TkdVdjdHZXlONTdiWlZkMVdYSFBzNTFLRHd5aUpTcWpmMjJodjhDTDNBLW5NY0F4Rm9IT0NTa1dKMEM5bElpeUJ4V0tOUWdsaE5qWm0zcmVsVXJ30gHDAUFVX3lxTFB2MUN5bnVLY0E5dG9RQkVYNUl3YWhOLUF4RmZVdWJOY3FzRS1Cd0JNWmdJMm9YTThqVkR1WmUzcWRxTWpwbEVUZzQxYXd2TUZSV1ZUODR1MUlQMzJVclVDbWljTE5SRFRMQnYzdFlPNDRDdHBTeXlHeXZ6dV9OaHU5N0x1NExWSjNRd3JMRHMzWXJhNHhYMmVXN2RGSXVYS0JhODlsTE01UXB5R2pwbUd5eTh6V0NITXJoVjBzSnQ2M1ZwYw?oc=5",
+      "domain": "www.foxbusiness.com",
+      "publisher": "Fox Business",
+      "publisher_url": "https://www.foxbusiness.com",
+      "language": "",
+      "seendate": "20261125T121900Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "New EU Sanctions Plan Targets Umar Kremlev, Who Paid For Trump Jr.'s Post-Wedding Party",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWJoVWN3MFpIdHJZSDdoTGFsSkt0OFdPT2pYMUUtRy1ySzlEN1pNblZKOHl6VVRydi05S2ttQnpHQ09faXFRZUtJQWpvN0pjMkhhRk9CSGZhNHZYMTdQbkw4bnNTSE5VU3p4X0Z3T0NCa21zNUpob0V6OHBEUUFRTmc1MkJhdjjSAYoBQVVfeXFMT2d2NlAtcThfTUpOam5sR25XUWtuelV1LWdaVG9nWmx4Z1h4Njl0SnM2RF9YbE9ub2hJd1lDYlhaTnlvSnN5aHJpRzRrLVh6ME5mRm5SZ2tTbjU2cUNuaHI0Q2Z0TF92LW12X3hQdmE1cDJFQnZjU1VYYUNERW11ako4ZTBsV1hiTUdB?oc=5",
+      "domain": "www.rferl.org",
+      "publisher": "Radio Free Europe/Radio Liberty",
+      "publisher_url": "https://www.rferl.org",
+      "language": "",
+      "seendate": "20261125T174425Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUhsQW44MDBZYV9uLUN1ZkJRNHdXQ2xZcjg2ZjhIYXpZWXk5bkNFbG5LM0lJTmRmUHBhRDdoY3lLQXBXZTJ4X2kzcWlMd2pUdlVhQll1MTNUVlNaQ2Zhdmp0WVJPb2tWaEIxTlB0ZVNXbjdURDFoekNRZ2hPVjllOGxUQm5yelduY3JhYVg5YUNGaUJNb1BFWjgyaXZEaDkyb3VZMGtMTmpJWUNUM0VLM0tVVU4xMDBY?oc=5",
+      "domain": "arstechnica.com",
+      "publisher": "Ars Technica",
+      "publisher_url": "https://arstechnica.com",
+      "language": "",
+      "seendate": "20261125T163345Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Exclusive: EU report confirms Trump threw Russian energy sector an economic lifeline even as sanctions, Ukrainian drones, bite hard",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbnpiaXVERGNxYVJURUF0Vjhqd2NNMDdqQ2pseUVNVXk3VXBlMGFPdEVIa0hxaHVKcUhsazFCNmdYb2JDNy1tS04xS2RSUGVJYXJxcUJiVkxGRjhkYUI2aEpoV3NJbjFpN2Q0VERUbE1LVnY4alY5NlBNV2tJQUhLdUdZTy1qWjc1REVVV1lTMWdCZFlyWmdtcVEyVDJPd3FSRHdIVU53bEJadzdYR1p2T2hCczdvLXJqUG1sd3ZfUGVlYjhkZzJiX0ItbDRnYnFJSUREYzZ3QXVfY0o3RDlXc29kdHdVb1RyT05nM0dR?oc=5",
+      "domain": "kyivindependent.com",
+      "publisher": "The Kyiv Independent",
+      "publisher_url": "https://kyivindependent.com",
+      "language": "",
+      "seendate": "20261126T050016Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "EU Commission proposes ban on Russian athletes, ex-fighters in new Russia sanctions package",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1A2RHl1RS1IaFcyWmlES0xYNW1lbnM5VlhwWVU5ajZhRVVBa0Mydi1OZG4tS0tCYVJKX1JiOUtmWlNTZVJmTGRTRlFtZTRXRTRxcXB1aGMya2JhWm41UXE5Y2pxTlFDNzVSQ2MyV0RPZzNoYlZtazdMX3RYRnB6VFFsaEFnTGI5RFk4TnczUE9aTXFqcGNxZ0psd1JUczRBNi1LSkpnVk8?oc=5",
+      "domain": "www.reuters.com",
+      "publisher": "Reuters",
+      "publisher_url": "https://www.reuters.com",
+      "language": "",
+      "seendate": "20261123T162612Z",
       "source": "GoogleNews"
     }
   ],
